@@ -44,6 +44,16 @@ python -m http.server 8000
 
 Open `http://localhost:8000`. Check desktop and mobile, search, category and source filters, preview backgrounds, keyboard navigation, the detail dialog and PNG downloads. The gallery uses browser JavaScript and CSS with no build step, analytics or third-party runtime requests.
 
+For the automated browser checks (Node.js 24):
+
+```sh
+npm ci --ignore-scripts
+npx playwright install --with-deps chromium
+npm run test:gallery
+```
+
+These development-only dependencies are not used by the served gallery. CI keeps desktop and mobile screenshots as temporary build artifacts.
+
 ## Pull requests
 
 Describe the problem, the change, and what you verified. Asset changes should identify their source and include updated hashes and byte sizes. Keep corrections focused. Never commit credentials, service-role keys, database dumps or unrelated production data.
