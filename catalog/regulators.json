@@ -1,0 +1,3502 @@
+[
+  {
+    "bytes": 17238,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_andorran_financial_authority",
+    "name": "Andorran Financial Authority",
+    "path": "regulators/reg_andorran_financial_authority.png",
+    "sha256": "f782ddd73e3327e8dbb9a33d33135709b657870f6ab452fcc90014b5d6065fbd",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Andorran_Financial_Authority_Logo.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 24515,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_australian_prudential_regulation_authority",
+    "name": "Australian Prudential Regulation Authority",
+    "path": "regulators/reg_australian_prudential_regulation_authority.png",
+    "sha256": "5d5f6b240044e0df335f4cc5e7ec8301999bb1e125011c8485653a6bd87b85e7",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.apra.gov.au/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 12607,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_austrian_financial_market_authority",
+    "name": "Austrian Financial Market Authority",
+    "path": "regulators/reg_austrian_financial_market_authority.png",
+    "sha256": "8cdf58b5dc3f41cbc05dea9b98e2b48c04921d73e30354ba96aa45907f2ff809",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://theorg.com/org/fma-finanzmarktaufsicht-osterreich"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 8583,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_autoridad_de_supervision_del_sistema_financiero",
+    "name": "Autoridad de Supervisión del Sistema Financiero",
+    "path": "regulators/reg_autoridad_de_supervision_del_sistema_financiero.png",
+    "sha256": "5cf2cdce457cfe3b9278e1490044676fd4c95b769a70fbe9fde0870b28d97050",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.asfi.gob.bo/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 29740,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_autorite_de_controle_prudentiel_et_de_resolution",
+    "name": "Autorité de Contrôle Prudentiel et de Résolution",
+    "path": "regulators/reg_autorite_de_controle_prudentiel_et_de_resolution.png",
+    "sha256": "dd5690c4c6c29e5f73da9dd3100eceb60c23dbc984dee4031b2456b168a9ebfe",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://www.kindpng.com/imgv/ixhhRTi_acpr-banque-de-france-logo-hd-png-download/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 46210,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_banco_central_de_timor_leste",
+    "name": "Banco Central de Timor-Leste",
+    "path": "regulators/reg_banco_central_de_timor_leste.png",
+    "sha256": "7c3df4a0857dfa73ecceb7239b4d5bbac232abb42a65a7c28d29c5625defd1f1",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bancocentral.tl/media/images/logo_header_bctl.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 36366,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_banco_de_portugal",
+    "name": "Banco de Portugal",
+    "path": "regulators/reg_banco_de_portugal.png",
+    "sha256": "a1d0a58c6b7f51f437d511059ac5596b5a5fcec9a05b36a08af1d47a03887ca4",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.bportugal.pt/themes/custom/bportugal/apple-touch-icon.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 75203,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bangko_sentral_ng_pilipinas",
+    "name": "Bangko Sentral ng Pilipinas",
+    "path": "regulators/reg_bangko_sentral_ng_pilipinas.png",
+    "sha256": "01e2db78a30d4f902e6949ce3594e1a3a345b3bb0d5a064961a4403951b4aaf9",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Bangko_Sentral_ng_Pilipinas_2020_logo.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 51759,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bangladesh_bank",
+    "name": "Bangladesh Bank",
+    "path": "regulators/reg_bangladesh_bank.png",
+    "sha256": "8927805aad9b1464f214b72d8935e8b9df2ec507c094d1c72ed52dffc36dd3cd",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 39696,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_al_maghrib_central_bank_of_morocco",
+    "name": "Bank Al-Maghrib (Central Bank of Morocco)",
+    "path": "regulators/reg_bank_al_maghrib_central_bank_of_morocco.png",
+    "sha256": "9378cbf3957b08313eae298ffdde52ceacdfec3d20ae273f2ece741a34532ca2",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bkam.ma/extension/bkam_socle/design/bkam/images/bank_al_maghrib_logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 20004,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_indonesia",
+    "name": "Bank Indonesia",
+    "path": "regulators/reg_bank_indonesia.png",
+    "sha256": "a5f8075ebf3da1b1b19ccbb06b7799847c1f6e4589cff12c035cb5ceb6ea991d",
+    "source": {
+      "kind": "generated",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Bank-indonesia.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 16590,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_negara_malaysia",
+    "name": "Bank Negara Malaysia",
+    "path": "regulators/reg_bank_negara_malaysia.png",
+    "sha256": "70758186cbce786347392609c9484ad3bc23a865bd90d429cd273e836c757783",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bnm.gov.my/o/bnm-2020-theme/images/bnm_logo_blue_L.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 34637,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_afghanistan",
+    "name": "Bank of Afghanistan",
+    "path": "regulators/reg_bank_of_afghanistan.png",
+    "sha256": "453fa2b005f447d86be20705684e3bf750c029fb14bdd1658a8740dd73777a6d",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.dab.gov.af/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 38938,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_albania",
+    "name": "Bank of Albania",
+    "path": "regulators/reg_bank_of_albania.png",
+    "sha256": "2d5b535b2d94b77fb49d0c23fb39156e32ee47f03b985c6ebb8204fec10a582a",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Banka_e_Shqip%C3%ABris%C3%AB_Logo.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22992,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_algeria",
+    "name": "Bank of Algeria",
+    "path": "regulators/reg_bank_of_algeria.png",
+    "sha256": "92624c69233aa686b495414ff0fc8b057488aeb44430cfd3a02c969b4d3b4ba4",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Logo_of_the_Bank_of_Algeria.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 42785,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_botswana",
+    "name": "Bank of Botswana",
+    "path": "regulators/reg_bank_of_botswana.png",
+    "sha256": "c6f8817c6f1b1fdc4bad85e44585d8be01a6f2cb7b890db0ce53cd60a81b2b53",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bankofbotswana.bw/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 9265,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_canada",
+    "name": "Bank of Canada",
+    "path": "regulators/reg_bank_of_canada.png",
+    "sha256": "e0aca05d6e3ab5cba8efda6e69af5acee173631d0c31d57d4bd8af78a9b96bb9",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bankofcanada.ca/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 16353,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_cape_verde",
+    "name": "Bank of Cape Verde",
+    "path": "regulators/reg_bank_of_cape_verde.png",
+    "sha256": "69df36fbbc0db7a13edb017f0ce0a0d7afeac9461888922b1a4de3efb9d6a702",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bcv.cv/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 31245,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_central_african_states",
+    "name": "Bank of Central African States",
+    "path": "regulators/reg_bank_of_central_african_states.png",
+    "sha256": "1f4323594b71482adb3c3a2a76396b462c8c81e875e98c1764b0379b33d26494",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.beac.int/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 43761,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_england",
+    "name": "Bank of England",
+    "path": "regulators/reg_bank_of_england.png",
+    "sha256": "eb80eaf992a2ca6752b5f89d0d262780f574fe55c0f59eca35dce6b9d5e8f1b2",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bankofengland.co.uk/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22617,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_eritrea",
+    "name": "Bank of Eritrea",
+    "path": "regulators/reg_bank_of_eritrea.png",
+    "sha256": "bbad0a3964825f289978365d3ab8a1b939afa9fa1bd2e91394346426ab9bc125",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.eritreaembassy-japan.org/data/Commercial%20Bank%20of%20Eritrea%20Profile.pdf"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 99914,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_estonia",
+    "name": "Bank of Estonia",
+    "path": "regulators/reg_bank_of_estonia.png",
+    "sha256": "8201d56d82236648c87d0ae958fa5e98bd6057de071c5776d5522321cc6f1883",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Seal_of_the_Bank_of_Estonia_(2).svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 16755,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_finland",
+    "name": "Bank of Finland",
+    "path": "regulators/reg_bank_of_finland.png",
+    "sha256": "41443dce4aba7c56c0e36ce7052d5fc8dbc69a231c97afbf12c2a057a2d00088",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Logo-bof.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14322,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_france",
+    "name": "Bank of France",
+    "path": "regulators/reg_bank_of_france.png",
+    "sha256": "59f7199cb369a5a052fee9707950bd157151797432beabb93720f0da9c37c8fe",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.banque-france.fr/en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 50400,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_ghana",
+    "name": "Bank of Ghana",
+    "path": "regulators/reg_bank_of_ghana.png",
+    "sha256": "20992fae44594b17ed49fdd708485bc1e874cdcf1bc984c8a91f61ec6a9b0f01",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.bog.gov.gh/wp-content/uploads/2020/08/logo-230x230.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 36818,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_greece",
+    "name": "Bank of Greece",
+    "path": "regulators/reg_bank_of_greece.png",
+    "sha256": "534bcf1e36d947ff1585ad471d3e328108e64c291bda0caf00c7ec5e00846498",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bankofgreece.gr/_catalogs/masterpage/assets/images/BoG_logo-en.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 38802,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_guatemala",
+    "name": "Bank of Guatemala",
+    "path": "regulators/reg_bank_of_guatemala.png",
+    "sha256": "92411bc8a9eaa79e620a32309c2ca0ce2907c8e83d58a25c25eadee15e357161",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.banguat.gob.gt/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 31549,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_guyana",
+    "name": "Bank of Guyana",
+    "path": "regulators/reg_bank_of_guyana.png",
+    "sha256": "9255c2e5153b06af47d9da0f12bcc02467875479b6f69b48ce5c65fa19869278",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bankofguyana.org.gy/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 28697,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_israel",
+    "name": "Bank of Israel",
+    "path": "regulators/reg_bank_of_israel.png",
+    "sha256": "dd35151545fbec904d4b5e9850a45b3168e2f51d4cdd1200b2cc7a7b29f03146",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.boi.org.il/en/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 48543,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_italy",
+    "name": "Bank of Italy",
+    "path": "regulators/reg_bank_of_italy.png",
+    "sha256": "6c5eb2aa65aa1b54693f06516f04a5f00f10780e348efc01066d8fe92a6828b4",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bancaditalia.it/homepage/index.html?com.dotmarketing.htmlpage.language=1"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 43454,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_jamaica",
+    "name": "Bank of Jamaica",
+    "path": "regulators/reg_bank_of_jamaica.png",
+    "sha256": "c37c3f313426168ca27489fd709d19b63df9d63101d4e7468e374b52dc5e4a91",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.boj.org.jm/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21981,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_japan",
+    "name": "Bank of Japan",
+    "path": "regulators/reg_bank_of_japan.png",
+    "sha256": "e2bb87fe704578f253b7ff5ab6ffbd96066f0551731416ebbffd7301719800d1",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%E3%83%AD%E3%82%B4.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 31956,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_korea",
+    "name": "Bank of Korea",
+    "path": "regulators/reg_bank_of_korea.png",
+    "sha256": "e16a4bc6dbc14e75afdf8130f41c99079d0e7e5e20121d859896da4626b48fb4",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://static-cdn.bok.or.kr/static/eng/img/main/touch-icon.jpg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 16288,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_latvia",
+    "name": "Bank of Latvia",
+    "path": "regulators/reg_bank_of_latvia.png",
+    "sha256": "2d62728bf8aac0864b2328c9bc1b82b6daa97457f17492a5774e47f88ed3871b",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Latvijas_Banka_logo.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 18311,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_lithuania",
+    "name": "Bank of Lithuania",
+    "path": "regulators/reg_bank_of_lithuania.png",
+    "sha256": "ca25244e60e7dc096af84afde3a63eb5ba3f4bcfe70e09f54476b31ba17a05f0",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Lietuvos_bankas.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 15839,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_mauritius",
+    "name": "Bank of Mauritius",
+    "path": "regulators/reg_bank_of_mauritius.png",
+    "sha256": "f49fb2a966aba7d30a4a05313f5747c3ebb13c0b0b2eff58d80264fb7f4bb033",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bom.mu/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21768,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_mexico",
+    "name": "Bank of Mexico",
+    "path": "regulators/reg_bank_of_mexico.png",
+    "sha256": "63982560ea1a61238d9b580cf62cb368cec6cc21cb79d061baf366d98b4832dc",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Logobm.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 19230,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_mongolia",
+    "name": "Bank of Mongolia",
+    "path": "regulators/reg_bank_of_mongolia.png",
+    "sha256": "aa4b0700f7e79174f45e77291cd64a85f2bcc232ff34a754bc9a310199c10779",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Mongolbank_logo_eng.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 43344,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_mozambique",
+    "name": "Bank of Mozambique",
+    "path": "regulators/reg_bank_of_mozambique.png",
+    "sha256": "115a20ebb55b3f980323e0b2c128b1c9cfc1b2a80193fad136142631199f85a7",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Logotipo-Banco-de-Mo%C3%A7ambique-01-995x1024.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 17567,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_namibia",
+    "name": "Bank of Namibia",
+    "path": "regulators/reg_bank_of_namibia.png",
+    "sha256": "a3720354dc8252580cdaabc8ce2c60a3c5c6f0478cd07919193ea34758effd79",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Logo_der_Bank_von_Namibia.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 28854,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_papua_new_guinea",
+    "name": "Bank of Papua New Guinea",
+    "path": "regulators/reg_bank_of_papua_new_guinea.png",
+    "sha256": "f928735bc9405ea0fb5ec73520e012e524e2cecf1a320022c5166253dd74e28c",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://www.fintechfutures.com/blockchain-crypto-digital-assets/papua-new-guinea-s-central-bank-successfully-completes-cbdc-trial-with-japan-s-soramitsu"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 81748,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_sierra_leone",
+    "name": "Bank of Sierra Leone",
+    "path": "regulators/reg_bank_of_sierra_leone.png",
+    "sha256": "c4f1936b9e503a0ead1c860635f5ade96cfa3bbacad089b575e7f897c0ade51c",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://www.slacb.org/wp-content/uploads/2022/08/BSL_Logo.jpeg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 46516,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_south_sudan",
+    "name": "Bank of South Sudan",
+    "path": "regulators/reg_bank_of_south_sudan.png",
+    "sha256": "01b662cc5cb98097e1d6984ffaa39693467c106842a985beacb8346b4d17294b",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://i0.wp.com/boss.gov.ss/wp-content/uploads/2024/04/CBK-Logo-v1.0-150x150.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 18038,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_spain",
+    "name": "Bank of Spain",
+    "path": "regulators/reg_bank_of_spain.png",
+    "sha256": "c320493c9b55b86d685e03ae9d0a1ad9407bee0e1d43baf5556d50d6f84dd2a8",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bde.es/wbe/en/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 32744,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_sudan",
+    "name": "Bank of Sudan",
+    "path": "regulators/reg_bank_of_sudan.png",
+    "sha256": "0ac80b72683e85faf99386a523807c9947c52c2c76404d88c7c112a217f1fd7f",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.cbos.gov.sd/en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 35148,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_tanzania",
+    "name": "Bank of Tanzania",
+    "path": "regulators/reg_bank_of_tanzania.png",
+    "sha256": "0d4018e6cdd7c3b6c8dfffa2f6eb3438d52085c8b0a0de809d65a04e32b867e0",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bot.go.tz/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 40367,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_the_lao_pdr",
+    "name": "Bank of the Lao PDR",
+    "path": "regulators/reg_bank_of_the_lao_pdr.png",
+    "sha256": "62f3ca04ad88dde9e692cb83bbddf97c2c0324760f8a62c593d3a55c9fc6e4c4",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://bol.gov.la/en/LAK_Index"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 56057,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_the_republic_of_burundi",
+    "name": "Bank of the Republic of Burundi",
+    "path": "regulators/reg_bank_of_the_republic_of_burundi.png",
+    "sha256": "cc37ee47e788aa0e1a5dd852c16678f882040130b649713ced971a984c1eb9ed",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.brb.bi/sites/default/files/Logo%20BRB_png_1.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 31575,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_the_republic_of_haiti",
+    "name": "Bank of the Republic of Haiti",
+    "path": "regulators/reg_bank_of_the_republic_of_haiti.png",
+    "sha256": "200ed517208e859ad270d676ebb29290ac8e08753f06a7dea5917fbcf9612d23",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.brh.ht/wp-content/themes/brh/img/logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 48545,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_uganda",
+    "name": "Bank of Uganda",
+    "path": "regulators/reg_bank_of_uganda.png",
+    "sha256": "0d329dfbc7fb0c259148179cad333a6da715e1bb9159c2012d5afc4c2e9cfe62",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.bou.or.ug/assets/logo.ico"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 19252,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bank_of_zambia",
+    "name": "Bank of Zambia",
+    "path": "regulators/reg_bank_of_zambia.png",
+    "sha256": "695306e15031a193780da89f7f754adf14aa1cfc00a948b7880b6f27a680131f",
+    "source": {
+      "kind": "verified_public_identity_visual",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Bank_of_Zambia.jpg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 16603,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_banka_slovenije",
+    "name": "Banka Slovenije",
+    "path": "regulators/reg_banka_slovenije.png",
+    "sha256": "7334e976d27a09e573deabcd8f41326db89521ded5969ff4a5080f48270372f0",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Logo_Banka_Slovenije_2020.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 53661,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_banking_agency_of_republika_srpska",
+    "name": "Banking Agency of Republika Srpska",
+    "path": "regulators/reg_banking_agency_of_republika_srpska.png",
+    "sha256": "1d9955f048b6f231ab9a569dbb656a05dc252b83f2020091c9967647cab70891",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://abrs.ba/wp-content/uploads/2023/08/favicon.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 60561,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_banking_agency_of_the_federation_of_bosnia_and_herzegovina",
+    "name": "Banking Agency of the Federation of Bosnia and Herzegovina",
+    "path": "regulators/reg_banking_agency_of_the_federation_of_bosnia_and_herzegovina.png",
+    "sha256": "470771fe5a08e314f4281b4355ce1d733c8053d7ea77cf57b38b4e4c2db234ee",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://www.klix.ba/biznis/privreda/agencija-za-bankarstvo-fbih-promijenila-zastitni-znak/180516020"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 36471,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_banking_regulation_and_supervision_agency",
+    "name": "Banking Regulation and Supervision Agency",
+    "path": "regulators/reg_banking_regulation_and_supervision_agency.png",
+    "sha256": "a5c208052bad8e9ffceef8b5432e7a121cc86be9afff0f282a7413980bd57817",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bddk.org.tr/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 33345,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_banky_foiben_i_madagasikara",
+    "name": "Banky Foiben'i Madagasikara",
+    "path": "regulators/reg_banky_foiben_i_madagasikara.png",
+    "sha256": "ea69c0430a0edb3c75bd8e21e3ccec80480ec27596207090af211a869e71696f",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://pieces-monnaies-or-50.bfm.mg/img/BFM50LOGOFINAL-01.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 17013,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bcb",
+    "name": "Banco Central do Brasil",
+    "path": "regulators/reg_bcb.png",
+    "sha256": "2a8c4e4a99ce1dd2a0171e113301752e781affb43ba7fe3671770fc6e9fe4d5c",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.bcb.gov.br/assets/img/bc_marca_bg.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 62360,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bermuda_monetary_authority",
+    "name": "Bermuda Monetary Authority",
+    "path": "regulators/reg_bermuda_monetary_authority.png",
+    "sha256": "4cf9d653d8a5203fb94f9b3d87621b3b4886ea2aeebe928410f9f00c442d8742",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://cdn.bma.bm/assets/images/2020-01-16-04-22-38-logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 38340,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bot",
+    "name": "Bank of Thailand",
+    "path": "regulators/reg_bot.png",
+    "sha256": "8e48135f3a934dc843266e703424dac91a89c416413431cc0ac08f501a512655",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.bot.or.th/content/dam/bot/image/about-us/bot-logo/new-bot-logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 40228,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_brunei_darussalam_central_bank",
+    "name": "Brunei Darussalam Central Bank",
+    "path": "regulators/reg_brunei_darussalam_central_bank.png",
+    "sha256": "27c92d00dd6d8be84d530f7e31d37e80691c6f8120feba05986cb349c3eb6945",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Ambd-logo.jpg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 26296,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_bulgarian_national_bank",
+    "name": "Bulgarian National Bank",
+    "path": "regulators/reg_bulgarian_national_bank.png",
+    "sha256": "97fd30cb51eb9505697f3b7fbd6d41e5aa7a4eea0e65e0c94766eb6f5da622db",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bnb.bg/?toLang=_EN"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 54770,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_cayman_islands_monetary_authority",
+    "name": "Cayman Islands Monetary Authority",
+    "path": "regulators/reg_cayman_islands_monetary_authority.png",
+    "sha256": "26918097674f2b44bfadbebdac5c617633264f5338ac5eb91fe8db836317499e",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.cima.ky/front-media/assets/images/logo-icon.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 47457,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_argentina",
+    "name": "Central Bank of Argentina",
+    "path": "regulators/reg_central_bank_of_argentina.png",
+    "sha256": "08b378f5e7894e89108010c13cc3349dda89b25a0fe10ded0bf70da8e66f93cd",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bcra.gob.ar/default.asp"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 20230,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_armenia",
+    "name": "Central Bank of Armenia",
+    "path": "regulators/reg_central_bank_of_armenia.png",
+    "sha256": "e4b5de4c016b82d168ae2978c04fe1d96bf5170bacf7d3c798b5cb0222c6e45a",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Central_Bank_of_Armenia_logo.jpg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 15640,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_aruba",
+    "name": "Central Bank of Aruba",
+    "path": "regulators/reg_central_bank_of_aruba.png",
+    "sha256": "349512961e32d0f07e474018b34e82b5fec070f5547c9e7f388ef4091d17bb2f",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.cbaruba.org/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 44877,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_bahrain",
+    "name": "Central Bank of Bahrain",
+    "path": "regulators/reg_central_bank_of_bahrain.png",
+    "sha256": "95ede473848c886dab7f782ae9aa3796ee2103017024003b721a1465b59514c2",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.cbb.gov.bh/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 54118,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_barbados",
+    "name": "Central Bank of Barbados",
+    "path": "regulators/reg_central_bank_of_barbados.png",
+    "sha256": "c121838e72f978ae0d934134e2175d34fa9aa0f335c6f9b62ae1bd5af19dacb2",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.centralbank.org.bb/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22246,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_belize",
+    "name": "Central Bank of Belize",
+    "path": "regulators/reg_central_bank_of_belize.png",
+    "sha256": "494b975f10a8e813cf52c49d7685ca6829c62f0ee92898f9b7352d76ada31f9e",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.centralbank.org.bz/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 68185,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_bolivia",
+    "name": "Central Bank of Bolivia",
+    "path": "regulators/reg_central_bank_of_bolivia.png",
+    "sha256": "06f1fd5da8942ea618a9cab2fa9c6682b68c1108f7c72311d02cf429165c949a",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Banco_Central_de_Bolivia.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 11912,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_bosnia_and_herzegovina",
+    "name": "Central Bank of Bosnia and Herzegovina",
+    "path": "regulators/reg_central_bank_of_bosnia_and_herzegovina.png",
+    "sha256": "a24ed510c4ae3aa9664fe644c9910111041a3b46c643f8b344f37ad37f6c968d",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.cbbh.ba/?lang=en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21376,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_chile",
+    "name": "Central Bank of Chile",
+    "path": "regulators/reg_central_bank_of_chile.png",
+    "sha256": "18165e8206c3909e9cfaa1dc2c5560570e69f99b14d5a2f7d2702e1502313332",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Banco_Central_de_Chile_2021.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 26080,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_colombia",
+    "name": "Central Bank of Colombia",
+    "path": "regulators/reg_central_bank_of_colombia.png",
+    "sha256": "b237c2cff56c957514ecc73a287d52af6d439909526d460f315392f4fc3879ec",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.banrep.gov.co/en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 28913,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_comoros",
+    "name": "Central Bank of Comoros",
+    "path": "regulators/reg_central_bank_of_comoros.png",
+    "sha256": "57ee3e496c5a09b7be9f9ebbf463a4e051a4a42fda853904f5166cb6bfd75580",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://banque-comores.km/theme/assets/logo-bcc.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 34400,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_congo",
+    "name": "Central Bank of Congo",
+    "path": "regulators/reg_central_bank_of_congo.png",
+    "sha256": "e19717b341ea8d7475f5a8d54868b2348833c96a555b3f8161447407c35f8498",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bcc.cd/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 27360,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_costa_rica",
+    "name": "Central Bank of Costa Rica",
+    "path": "regulators/reg_central_bank_of_costa_rica.png",
+    "sha256": "b202e1d70865cf390d1034862bde1dec31c6ce3171481b03e52dc0079ae3052f",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bccr.fi.cr/en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 23104,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_cuba",
+    "name": "Central Bank of Cuba",
+    "path": "regulators/reg_central_bank_of_cuba.png",
+    "sha256": "1aa4609c84ea133277b4ceb7801d2ab52f4e938c7f0b0a8fb273c03e626b237b",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bc.gob.cu/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 7665,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_curacao_and_sint_maarten",
+    "name": "Central Bank of Curaçao and Sint Maarten",
+    "path": "regulators/reg_central_bank_of_curacao_and_sint_maarten.png",
+    "sha256": "5a3d70caa58b38e6180ebf9cd18543aa414a43d2c00e5fc74d98a6a49ee810c2",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.centralbank.cw/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 35491,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_cyprus",
+    "name": "Central Bank of Cyprus",
+    "path": "regulators/reg_central_bank_of_cyprus.png",
+    "sha256": "1d32b5a24881947ac84a6c0ec3091c9e8751dcc74486be1505109ac4ce6a5d4c",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.centralbank.cy/en//home"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 40547,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_djibouti",
+    "name": "Central Bank of Djibouti",
+    "path": "regulators/reg_central_bank_of_djibouti.png",
+    "sha256": "a8805fb424dac3d6696abe11c473c23e4959a957f9c87b01a853310c09400356",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://banque-centrale.dj/wp-content/uploads/2024/03/logo-bcd-main.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 52020,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_ecuador",
+    "name": "Central Bank of Ecuador",
+    "path": "regulators/reg_central_bank_of_ecuador.png",
+    "sha256": "40ff48c1007aca31426ac7a89d6e0d83f8caadea17f81de085ef71e9cc80fd28",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bce.fin.ec/en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 29605,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_egypt",
+    "name": "Central Bank of Egypt",
+    "path": "regulators/reg_central_bank_of_egypt.png",
+    "sha256": "f8709065220eda1490d772320e2ae936245523c4a84bdaaf34726453e99e5bda",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.cbe.org.eg/en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 39704,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_honduras",
+    "name": "Central Bank of Honduras",
+    "path": "regulators/reg_central_bank_of_honduras.png",
+    "sha256": "57c430f1a118065c6a3cc7d7ab9357fa206a9887630f35d6e1304f92f0c8657a",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bch.hn/en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 82620,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_hungary",
+    "name": "Central Bank of Hungary",
+    "path": "regulators/reg_central_bank_of_hungary.png",
+    "sha256": "cde95ed0ccebc2f9dbb6038da11a334ebeac875cb29e021776eec8ff808f9130",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://english.mnb.hu/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 42942,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_iceland",
+    "name": "Central Bank of Iceland",
+    "path": "regulators/reg_central_bank_of_iceland.png",
+    "sha256": "18789d6097d1a3759b9942638df846aa556c31f0632a9de249e1b2e8acd199e0",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.cb.is/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 51121,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_iraq",
+    "name": "Central Bank of Iraq",
+    "path": "regulators/reg_central_bank_of_iraq.png",
+    "sha256": "e1067af03882845c8ddec07ddb3677769be485631c3a41782103608e4fff9d2a",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://vectorseek.com/wp-content/uploads/2025/05/Central-Bank-of-Iraq-Logo-PNG-Vector.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 23820,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_ireland",
+    "name": "Central Bank of Ireland",
+    "path": "regulators/reg_central_bank_of_ireland.png",
+    "sha256": "bf6e4369977207ae072713c2244d26b24d81d30b384e0cf84d2ae09257bbe3fc",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.centralbank.ie/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21613,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_jordan",
+    "name": "Central Bank of Jordan",
+    "path": "regulators/reg_central_bank_of_jordan.png",
+    "sha256": "082da22c0899e4cd34c7da29a7d04fedc27447190139c87cdcfb7e0c69197f8b",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.cbj.gov.jo/EN/Pages/Home.aspx"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 66085,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_kenya",
+    "name": "Central Bank of Kenya",
+    "path": "regulators/reg_central_bank_of_kenya.png",
+    "sha256": "9f9d8f0599aaf02b594aad982fbae7084d82b9f50133df1211b6bb6cf92b3086",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.centralbank.go.ke/wp-content/uploads/2016/09/NewLogoCBK.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 55672,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_kuwait",
+    "name": "Central Bank of Kuwait",
+    "path": "regulators/reg_central_bank_of_kuwait.png",
+    "sha256": "d86b49832170cbbc526c8a1587eaf5766bfe98f1d6ca80ca52c47a417aaa8878",
+    "source": {
+      "kind": "verified_public_identity_visual",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Central_bank_of_Kuwait.jpg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 31731,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_lebanon",
+    "name": "Central Bank of Lebanon",
+    "path": "regulators/reg_central_bank_of_lebanon.png",
+    "sha256": "db8d8fd7f4a900f7ce88449ce2e1888862b2140a7ddb5925d718c38b286fe4c5",
+    "source": {
+      "kind": "verified_public_identity_visual",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Had_to_take_this_one..jpg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 45896,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_lesotho",
+    "name": "Central Bank of Lesotho",
+    "path": "regulators/reg_central_bank_of_lesotho.png",
+    "sha256": "cc8f69390516e90449ac99979da06756bf696fc1a5dc5f0c1f8d4bda752d678f",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.centralbank.org.ls/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 31553,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_liberia",
+    "name": "Central Bank of Liberia",
+    "path": "regulators/reg_central_bank_of_liberia.png",
+    "sha256": "455b83bf9f3e92d059ec97d0c48b420967f40594d5958c95c13a46c6d608fe2d",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.cbl.org.lr/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 16841,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_libya",
+    "name": "Central Bank of Libya",
+    "path": "regulators/reg_central_bank_of_libya.png",
+    "sha256": "1b2c0791cbcce233f578474f158c787ea0894d8db125267ebd0a279b8f92651f",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://cbl.gov.ly/en/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 13389,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_luxembourg",
+    "name": "Central Bank of Luxembourg",
+    "path": "regulators/reg_central_bank_of_luxembourg.png",
+    "sha256": "95a245b91a7b6fa0a6359f67f89cc70f9ab71da32fe57393dab5b02572bfeb71",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bcl.lu/en/index.html"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 40679,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_malta",
+    "name": "Central Bank of Malta",
+    "path": "regulators/reg_central_bank_of_malta.png",
+    "sha256": "799c4c471aee3e2165c82df8da83ebbb6189836f86b4efef872fdfe4f47ada53",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.centralbankmalta.org/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14053,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_mauritania",
+    "name": "Central Bank of Mauritania",
+    "path": "regulators/reg_central_bank_of_mauritania.png",
+    "sha256": "2b3aa73e6ab9f22f0f80b02486ecd0617c85878fed3876123ea78ac242725a90",
+    "source": {
+      "kind": "verified_public_identity_visual",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Captura_de_pantalla_2025-06-23_152741.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 16117,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_montenegro",
+    "name": "Central Bank of Montenegro",
+    "path": "regulators/reg_central_bank_of_montenegro.png",
+    "sha256": "e68636a18b3b60833280aad616553a219cfd0e0cff717bcc849b676ec8e10fc8",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Central_Bank_of_Montenegro_logo.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 87122,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_myanmar",
+    "name": "Central Bank of Myanmar",
+    "path": "regulators/reg_central_bank_of_myanmar.png",
+    "sha256": "d9da2416392dcfe675b918275a473eea54f88fcf21e9a528b9be1fd445fd4fdc",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Central_Bank_of_Myanmar_seal.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 95845,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_nepal_nepal_rastra_bank",
+    "name": "Central Bank of Nepal (Nepal Rastra Bank)",
+    "path": "regulators/reg_central_bank_of_nepal_nepal_rastra_bank.png",
+    "sha256": "048975afc162bb582f7cc2c530e0a68d4d19f526169155e37cadb779a2c2a6eb",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.nrb.org.np/contents/uploads/2020/01/logo.jpg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 57550,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_nicaragua",
+    "name": "Central Bank of Nicaragua",
+    "path": "regulators/reg_central_bank_of_nicaragua.png",
+    "sha256": "3d4d497bf08b1e9aed75afa5aa756699d128a9145a99a0074af105cea8ed111f",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bcn.gob.ni/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 41177,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_nigeria",
+    "name": "Central Bank of Nigeria",
+    "path": "regulators/reg_central_bank_of_nigeria.png",
+    "sha256": "dd24f9ddaf466b895cf27f8099efd7db7b1cdc21e6a9726d31ea34b3b4f36a4d",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.cbn.gov.ng/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 6627,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_norway",
+    "name": "Central Bank of Norway",
+    "path": "regulators/reg_central_bank_of_norway.png",
+    "sha256": "060cf10f6a62ad48d8e2c168ce8f7e618265d2409c43aa55cbd3e25b014cebef",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.norges-bank.no/en/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 59062,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_oman",
+    "name": "Central Bank of Oman",
+    "path": "regulators/reg_central_bank_of_oman.png",
+    "sha256": "657a2f765c7da40f727b0d1d470c9524269ee2db35eaf848247ffcc12c1855ac",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Central_Bank_of_Oman_logo.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 20689,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_paraguay",
+    "name": "Central Bank of Paraguay",
+    "path": "regulators/reg_central_bank_of_paraguay.png",
+    "sha256": "835f656aeb29acdd704351c3c0c42db12c394c3b96b90fb58f3942b9208c756b",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bcp.gov.py/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22847,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_samoa",
+    "name": "Central Bank of Samoa",
+    "path": "regulators/reg_central_bank_of_samoa.png",
+    "sha256": "f973cfcd7f7b517fd4fc1bae5a2f8e336b1befc929624adfad3c158b6abcfe8b",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.cbs.gov.ws/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14038,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_sao_tome_and_principe",
+    "name": "Central Bank of São Tomé and Príncipe",
+    "path": "regulators/reg_central_bank_of_sao_tome_and_principe.png",
+    "sha256": "8b9b2326aca39555179c8e38e31d82e9f0193d6c0830930e910b8ba5d3f02ea8",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://bcstp.st/Bcstp/img/logo_teste.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 62108,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_seychelles",
+    "name": "Central Bank of Seychelles",
+    "path": "regulators/reg_central_bank_of_seychelles.png",
+    "sha256": "74b2fb572dfad028f19dadf87a655a3ba1a091215b6137efc35943c9b36eadfa",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Seychelles_logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21002,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_solomon_islands",
+    "name": "Central Bank of Solomon Islands",
+    "path": "regulators/reg_central_bank_of_solomon_islands.png",
+    "sha256": "96e2b3b9ef8834be694c693ba5f06ca0c51fa95c6c747d4b6d3a1a84c3f438bd",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.cbsi.com.sb/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 67474,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_somalia",
+    "name": "Central Bank of Somalia",
+    "path": "regulators/reg_central_bank_of_somalia.png",
+    "sha256": "a78a8ad9a66dd1791da256573e545ef9db10599915f71919e85d5eabf51a5433",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://centralbank.gov.so/favicon.ico"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 27508,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_sri_lanka",
+    "name": "Central Bank of Sri Lanka",
+    "path": "regulators/reg_central_bank_of_sri_lanka.png",
+    "sha256": "7c7e2d8b333558a0bda76be1e92c75897439b7d808f3540d36347657a9e5c732",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.cbsl.gov.lk/sites/default/files/cbsl_logo_0.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 38028,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_suriname",
+    "name": "Central Bank of Suriname",
+    "path": "regulators/reg_central_bank_of_suriname.png",
+    "sha256": "e5e109e261c3e5f5c83ecea9602996626bfd336c874b1778fde4322044555ca4",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Central_Bank_of_Suriname_logo.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 26383,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_syria",
+    "name": "Central Bank of Syria",
+    "path": "regulators/reg_central_bank_of_syria.png",
+    "sha256": "8226219d86886ddd6717fa1ed65b8b4ff43cf5a09dc6a5b0d207074297ea3d52",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://cb.gov.sy/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 34075,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_bahamas",
+    "name": "Central Bank of The Bahamas",
+    "path": "regulators/reg_central_bank_of_the_bahamas.png",
+    "sha256": "47b3c4f071a760e4f7920b2c1eadc8f84b94ac83ab1bc2cd2d3df1197a8db5d0",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://cdn.centralbankbahamas.com/assets/images/2020-07-16-05-35-51-headerlogo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 5357,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_democratic_people_s_republic_of_korea",
+    "name": "Central Bank of the Democratic People's Republic of Korea",
+    "path": "regulators/reg_central_bank_of_the_democratic_people_s_republic_of_korea.png",
+    "sha256": "1c9d51b14526359db5c2f9000a5dca62066b4cff71ca445d6f0de8545eda637b",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Central_Bank_of_DPRK.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22523,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_dominican_republic",
+    "name": "Central Bank of the Dominican Republic",
+    "path": "regulators/reg_central_bank_of_the_dominican_republic.png",
+    "sha256": "26d0c4a6f88b24a331443b0ef2f431fcf0fe40dc0ee5bab6cd33d4857bd7c61d",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bancentral.gov.do/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 40731,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_gambia",
+    "name": "Central Bank of The Gambia",
+    "path": "regulators/reg_central_bank_of_the_gambia.png",
+    "sha256": "c975891216fd4d27c8a9aefbc9f5f6fa960ccf072be8a89dabda6100694afa32",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.cbg.gm/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 18954,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_republic_of_austria",
+    "name": "Central Bank of the Republic of Austria",
+    "path": "regulators/reg_central_bank_of_the_republic_of_austria.png",
+    "sha256": "1a05ec3289d3039a96415a665d52e32edc4d6b3eb24b0b750218bee7cb508653",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.oenb.at/en/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 36379,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_republic_of_azerbaijan",
+    "name": "Central Bank of the Republic of Azerbaijan",
+    "path": "regulators/reg_central_bank_of_the_republic_of_azerbaijan.png",
+    "sha256": "ee30c412b05ed15c1788c80a54245a4189821ee18b6185653ac533965c93918d",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.cbar.az/home?language=en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 50686,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_republic_of_china_taiwan",
+    "name": "Central Bank of the Republic of China (Taiwan)",
+    "path": "regulators/reg_central_bank_of_the_republic_of_china_taiwan.png",
+    "sha256": "255b9c4e5a756309b78ecd21be18d4cef4c502b5b4c813ca17af14d9a3c7e1b3",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=ROC_Central_Bank_Seal.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 39330,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_republic_of_guinea",
+    "name": "Central Bank of the Republic of Guinea",
+    "path": "regulators/reg_central_bank_of_the_republic_of_guinea.png",
+    "sha256": "3d46c3fe42e1e159311727e02a73041f6769da1dda1f11ea962f72cae91b6da4",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bcrg-guinee.org/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22642,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_republic_of_kosovo",
+    "name": "Central Bank of the Republic of Kosovo",
+    "path": "regulators/reg_central_bank_of_the_republic_of_kosovo.png",
+    "sha256": "dea44e681a33061c1d6eccb61d2cc62533c4677cf37087d7f0efc833832d0207",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://bqk-kos.org/?lang=en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 16471,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_republic_of_san_marino",
+    "name": "Central Bank of the Republic of San Marino",
+    "path": "regulators/reg_central_bank_of_the_republic_of_san_marino.png",
+    "sha256": "f5c904e78292d26f5edab3ee1373fef7b6b2358bd707d78c6389c9428abcec81",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bcsm.sm/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 15566,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_republic_of_turkiye",
+    "name": "Central Bank of the Republic of Türkiye",
+    "path": "regulators/reg_central_bank_of_the_republic_of_turkiye.png",
+    "sha256": "094127f4735bf51da2e212efc8463cd4479d97b390c646afa6cc327ae3a75826",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.tcmb.gov.tr/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 38274,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_republic_of_uzbekistan",
+    "name": "Central Bank of the Republic of Uzbekistan",
+    "path": "regulators/reg_central_bank_of_the_republic_of_uzbekistan.png",
+    "sha256": "98931a46f1510f5d99da4d2abb4ed259c6cb9b4218569d1e16a9ed5e8609c9aa",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://cbu.uz/en/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 23686,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_russian_federation",
+    "name": "Central Bank of the Russian Federation",
+    "path": "regulators/reg_central_bank_of_the_russian_federation.png",
+    "sha256": "a77b617a6452988beb8bb2a026a9204b643a1cf9fd01474ff7d3c94bf880b8fb",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.cbr.ru/eng/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 36352,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_the_united_arab_emirates",
+    "name": "Central Bank of the United Arab Emirates",
+    "path": "regulators/reg_central_bank_of_the_united_arab_emirates.png",
+    "sha256": "6d2a99d9969d497c399e53d1c79312b56e7b333cc0048fdf3f8ef9fd4476e3be",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.centralbank.ae/en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 13420,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_trinidad_and_tobago",
+    "name": "Central Bank of Trinidad and Tobago",
+    "path": "regulators/reg_central_bank_of_trinidad_and_tobago.png",
+    "sha256": "cc1bef504e6c5d272ebc21c5d11994bd20a6432d2538013d4830b8b85e761cb8",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.central-bank.org.tt/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 19251,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_tunisia",
+    "name": "Central Bank of Tunisia",
+    "path": "regulators/reg_central_bank_of_tunisia.png",
+    "sha256": "ed8e277b019b89bc1b88a6d3b30cc49df6d584b9d1459f66472b39f2a22955f4",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://ween.tn/media/cache/my_thumb_fb/uploads/image/35149/35147/avatar/avatar.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22547,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_turkmenistan",
+    "name": "Central Bank of Turkmenistan",
+    "path": "regulators/reg_central_bank_of_turkmenistan.png",
+    "sha256": "ab5b9eb010fdeb07ee74a5aafa2cb5d01a964c738e9e41035bd2f494950b4c21",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.customs.gov.tm/img/Logo/merkez%20bank%20logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 31586,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_uruguay",
+    "name": "Central Bank of Uruguay",
+    "path": "regulators/reg_central_bank_of_uruguay.png",
+    "sha256": "5bdd809e40de491163963ea9c9fe325193f11c3cfae744367a8d2be8a3036f29",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bcu.gub.uy/ingles"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 17944,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_venezuela",
+    "name": "Central Bank of Venezuela",
+    "path": "regulators/reg_central_bank_of_venezuela.png",
+    "sha256": "6003952bc81b19ea12cae2a6752db6891d33ea53238ca29e3bbcd2b420253f11",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bcv.org.ve/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 19858,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_west_african_states_bceao",
+    "name": "Central Bank of West African States (BCEAO)",
+    "path": "regulators/reg_central_bank_of_west_african_states_bceao.png",
+    "sha256": "d1cba3319cca8d5f5375fce99bc18fae47ea1b9aae76335826660d83dcab0b09",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bceao.int/en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 15996,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_bank_of_yemen",
+    "name": "Central Bank of Yemen",
+    "path": "regulators/reg_central_bank_of_yemen.png",
+    "sha256": "5705d9630fd15ce54bb42c399fff609f167d09b0aabec12ffb6c93aeacce93c7",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://cby-ye.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 32817,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_reserve_bank_of_el_salvador",
+    "name": "Central Reserve Bank of El Salvador",
+    "path": "regulators/reg_central_reserve_bank_of_el_salvador.png",
+    "sha256": "92347b97c45894ac5c85986f971d691c970e197d1981f0ba7fb539b07722d429",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Logo_Central_Reserve_Bank_of_El_Salvador.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 27794,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_central_reserve_bank_of_peru",
+    "name": "Central Reserve Bank of Peru",
+    "path": "regulators/reg_central_reserve_bank_of_peru.png",
+    "sha256": "171701d09fd7d06e4b9025c5c6f5391e97e36ff01d803f4971e67f980ac27118",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bcrp.gob.pe/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 9125,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_comision_nacional_bancaria_y_de_valores",
+    "name": "Comisión Nacional Bancaria y de Valores",
+    "path": "regulators/reg_comision_nacional_bancaria_y_de_valores.png",
+    "sha256": "8fe922224885750aee700a1d900b5b39b81d559cbe81a804780d1805ffd7ae9d",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Logo_de_la_CNBV_(sin_texto).svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 43285,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_comision_nacional_de_bancos_y_seguros",
+    "name": "Comisión Nacional de Bancos y Seguros",
+    "path": "regulators/reg_comision_nacional_de_bancos_y_seguros.png",
+    "sha256": "b02041c6d2a47df9063cd8551064b40fee9ae075661712bd0ea58cb5af346e34",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.cnbs.gob.hn/wp-content/uploads/2026/02/LOGO-CNBS-OFICIAL-TRANSPARENTE.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 26465,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_commission_bancaire_de_l_afrique_centrale",
+    "name": "Commission Bancaire de l'Afrique Centrale",
+    "path": "regulators/reg_commission_bancaire_de_l_afrique_centrale.png",
+    "sha256": "5c7f89bebb0f3109247d8374f80d93c39a259b7cfec053c3d4739196e231fe5d",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.beac.int/wp-content/themes/WPBlank-master/img/Logo-BEAC-Or.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 24794,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_commission_bancaire_de_l_union_monetaire_ouest_africaine",
+    "name": "Commission Bancaire de l'Union Monétaire Ouest Africaine",
+    "path": "regulators/reg_commission_bancaire_de_l_union_monetaire_ouest_africaine.png",
+    "sha256": "6dee9dd3226610049269592e2164271b00ddf77ab70a4fe71c54658e643485e1",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bceao.int/themes/medianet/image/png/logo_fr.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 19054,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_commission_de_surveillance_du_secteur_financier",
+    "name": "Commission de Surveillance du Secteur Financier",
+    "path": "regulators/reg_commission_de_surveillance_du_secteur_financier.png",
+    "sha256": "a74249ceff1e1484b94e725f3ff462a8c65f95af0c06f7d889278268da9a3bfd",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.cssf.lu/wp-content/themes/cssf/dist/images/cssf-logo-blue_f6d9b0e1.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 11403,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_croatian_national_bank",
+    "name": "Croatian National Bank",
+    "path": "regulators/reg_croatian_national_bank.png",
+    "sha256": "c98401556aebcf3c31866b36e8c3007ce08fc7ac79e65cbd1f0fa95badddadfe",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Croatian_National_Bank_logo.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 13525,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_czech_national_bank",
+    "name": "Czech National Bank",
+    "path": "regulators/reg_czech_national_bank.png",
+    "sha256": "8bd726e965fdd77764576a0805c271dab6c11945ae02c1fafe582c81c474ed93",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.cnb.cz/en/index.html"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 25250,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_danish_financial_supervisory_authority",
+    "name": "Danish Financial Supervisory Authority",
+    "path": "regulators/reg_danish_financial_supervisory_authority.png",
+    "sha256": "20276214112b8940f9007bea595bfaaadc8b6f8a38976ce00faa6ff71d6b9057",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.finanstilsynet.dk/en.aspx"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 18799,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_danmarks_nationalbank",
+    "name": "Danmarks Nationalbank",
+    "path": "regulators/reg_danmarks_nationalbank.png",
+    "sha256": "aa03fa28229d9e44237083f6bb85096015292f2a37f4b646114dd165f735fd09",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.nationalbanken.dk/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14761,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_deutsche_bundesbank",
+    "name": "Deutsche Bundesbank",
+    "path": "regulators/reg_deutsche_bundesbank.png",
+    "sha256": "d99e1dc5080510ca9881b42500d90b357876c0334d1bc6a5bd7a1590245f611c",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bundesbank.de/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 8693,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_dnb",
+    "name": "De Nederlandsche Bank",
+    "path": "regulators/reg_dnb.png",
+    "sha256": "3157d68da886385d450f203566d1bef3178977304dcff67ac732bdb952ebeec9",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.dnb.nl/Assets/favicons/favicon.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 19821,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_dubai_financial_services_authority",
+    "name": "Dubai Financial Services Authority",
+    "path": "regulators/reg_dubai_financial_services_authority.png",
+    "sha256": "6f07f0adcad8b8de05781c1633f5af0126fb168f87f57ccf2d34e828a33042b9",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.dfsa.ae/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21657,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_dutch_authority_for_the_financial_markets",
+    "name": "Dutch Authority for the Financial Markets",
+    "path": "regulators/reg_dutch_authority_for_the_financial_markets.png",
+    "sha256": "4046a8598d3e9fc3efa409302179fa0c33de4162ffb4c3c3a2cca1da251cfd78",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.afm.nl/en/~/profmedia/project/common/afm-logo.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 52949,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_eastern_caribbean_central_bank",
+    "name": "Eastern Caribbean Central Bank",
+    "path": "regulators/reg_eastern_caribbean_central_bank.png",
+    "sha256": "fa2659fc1e5b03b9089fd822790729b54912f31a11042b403c63d420cddb4d86",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.eccb-centralbank.org/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 15388,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_ecb",
+    "name": "European Central Bank",
+    "path": "regulators/reg_ecb.png",
+    "sha256": "33a15935a862600aa27430b0fb031f296e934c72908c85be5ed4d04d4719ba6e",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.ecb.europa.eu/shared/img/logo/logo_only.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 44775,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_estonian_financial_supervision_authority",
+    "name": "Estonian Financial Supervision Authority",
+    "path": "regulators/reg_estonian_financial_supervision_authority.png",
+    "sha256": "b72380e821649d2113c09ffc7d164e8d5e89d6ec55646f6a266d010614efe62e",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.fi.ee/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 17670,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_falkland_islands_financial_services_regulation",
+    "name": "Falkland Islands Financial Services Regulation",
+    "path": "regulators/reg_falkland_islands_financial_services_regulation.png",
+    "sha256": "169d9a656df6c08cb82ab281f2102d548b244d830963cb97f9f544d28bbe0910",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.gov.fk/wp-content/themes/falklands/assets/img/falklands-logo.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 10502,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_federal_deposit_insurance_corporation",
+    "name": "Federal Deposit Insurance Corporation",
+    "path": "regulators/reg_federal_deposit_insurance_corporation.png",
+    "sha256": "132962838f0cb766799702e4ada79592295a6b174cc23bce735eeb7907bde910",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.fdic.gov/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 44338,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_federal_financial_supervisory_authority",
+    "name": "Federal Financial Supervisory Authority",
+    "path": "regulators/reg_federal_financial_supervisory_authority.png",
+    "sha256": "e0238f79ccd9daf06a5e4d5de6aab1718982abe32d022a10d7daeb954891c1db",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bafin.de/SiteGlobals/Frontend/Images/favicons/favicon.svg?__blob=normal&v=3"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 76444,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_federal_reserve_board",
+    "name": "Board of Governors of the Federal Reserve System",
+    "path": "regulators/reg_federal_reserve_board.png",
+    "sha256": "7e8ebc227be1b5f99f14475d704fc00d0fc25bfdfb4ef2c47eb5722ec6844a66",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Seal_of_the_United_States_Federal_Reserve_Board.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 16411,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_federated_states_of_micronesia_banking_board",
+    "name": "Federated States of Micronesia Banking Board",
+    "path": "regulators/reg_federated_states_of_micronesia_banking_board.png",
+    "sha256": "15f30c0f014a418157689aa39e8f6f37d1a736029666a6c5191900652922ab58",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://bankingboard.gov.fm/picts/logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 7065,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_market_authority",
+    "name": "Financial Market Authority",
+    "path": "regulators/reg_financial_market_authority.png",
+    "sha256": "582d8b9f8c90fb237afc0334e7cf0467a31b151ac9c7e192be8d724fe0b21f85",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.fma-li.li/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21054,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_market_commission_of_chile",
+    "name": "Financial Market Commission of Chile",
+    "path": "regulators/reg_financial_market_commission_of_chile.png",
+    "sha256": "1be42f814f408f83413d7e549ee0ae4c3448209c00fe86cb28a132be462597f9",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.cmfchile.cl/portal/principal/613/w3-channel.html"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 19367,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_services_agency",
+    "name": "Financial Services Agency",
+    "path": "regulators/reg_financial_services_agency.png",
+    "sha256": "06cec63b074e47b6c9c641a3e5f8fd99f9c74d78644d3874dec6ef1150bc00d0",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.fsa.go.jp/en/index.html"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 12964,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_services_commission_ai",
+    "name": "Financial Services Commission",
+    "path": "regulators/reg_financial_services_commission_ai.png",
+    "sha256": "66b16648a3d30127144f5f04874e28e079a43adb33d21feb5f51195dd6c91055",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://fsc.org.ai/images/logo2.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 18704,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_services_commission_gi",
+    "name": "Financial Services Commission",
+    "path": "regulators/reg_financial_services_commission_gi.png",
+    "sha256": "e5166705847c0007708853beeb457dae851fee4015da0674afe4ad391bb75c21",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://theindustryspread.com/wp-content/uploads/2019/04/1-8nQp3igZo3AUw2pkhD1rUw.jpeg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 45809,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_services_commission_ms",
+    "name": "Financial Services Commission",
+    "path": "regulators/reg_financial_services_commission_ms.png",
+    "sha256": "0f3d6d8f7c485817f1a0a49f5d967cb3a3dccce09cf71a21f57662aff3581aed",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.fscmontserrat.org/wp-content/themes/fsc11/apple-touch-icon.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 61769,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_services_commission_tc",
+    "name": "Financial Services Commission",
+    "path": "regulators/reg_financial_services_commission_tc.png",
+    "sha256": "19d5739271f12ce49fa6cc8e7050bba0230ef0e1c4f6741f2b8306bf608c0056",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.tcifsc.tc/assets/webp/stickyLogo120x120-20240601023131.webp"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 66068,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_services_commission_vg",
+    "name": "Financial Services Commission",
+    "path": "regulators/reg_financial_services_commission_vg.png",
+    "sha256": "cb6933b5f5fd6a9714338e03d0cf637cd94f033c834fd4e7b1b276033fe23043",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://topfx.com/resources/images/personal/licence/bvi-logo-hero.webp"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 26363,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_supervisory_authority",
+    "name": "Financial Supervisory Authority",
+    "path": "regulators/reg_financial_supervisory_authority.png",
+    "sha256": "03dfa047bb66b5f447049ee3189869a34744d863573bf83916d407a3936b8484",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://www.masterforex-v.org/system/user_files/Images/content/fin-fsa.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 15267,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_supervisory_commission_taiwan",
+    "name": "Financial Supervisory Commission Taiwan",
+    "path": "regulators/reg_financial_supervisory_commission_taiwan.png",
+    "sha256": "37f1f51130a69239c6d8dbede2ccaf5f3e940ddaf1ff473f6fe108c8ddf6fbf3",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.fsc.gov.tw/en/images/all/logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 79354,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_supervisory_commission",
+    "name": "Financial Supervisory Commission",
+    "path": "regulators/reg_financial_supervisory_commission.png",
+    "sha256": "84ba367174fdb9b85f9fe11966494eca21eb840c70d8f3afaefa117001554d64",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.fsc.gov.ck/Images/Site/FC/logo.jpg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 17298,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_financial_supervisory_service",
+    "name": "Financial Supervisory Service",
+    "path": "regulators/reg_financial_supervisory_service.png",
+    "sha256": "bb0e317eb2100626fc8f5ec3eeb5af56d130409dde763115237c40d314dbbda7",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Financial_Supervisory_Service_of_the_Republic_of_Korea_Logo_(horizontal).svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 28157,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_finansinspektionen",
+    "name": "Finansinspektionen",
+    "path": "regulators/reg_finansinspektionen.png",
+    "sha256": "f6db93cb5bb57ec03afe82020f7d65fa635828ef563655b980b95e3054c9e582",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.fi.se/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 28838,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_finanstilsynet_the_financial_supervisory_authority_of_norw",
+    "name": "Finanstilsynet (The Financial Supervisory Authority of Norway)",
+    "path": "regulators/reg_finanstilsynet_the_financial_supervisory_authority_of_norw.png",
+    "sha256": "5072fc209d099fd575bc1d5502c9e8a50c200b49c2cd2c6ff8c0195e0943ad34",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.finanstilsynet.no/Content/Favicons/apple-touch-icon-57x57.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21773,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_guernsey_financial_services_commission",
+    "name": "Guernsey Financial Services Commission",
+    "path": "regulators/reg_guernsey_financial_services_commission.png",
+    "sha256": "dc49037b7b824c36a94fa31e292640ada840b8069b5204be21d7fc7e901987dc",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.gfsc.gg/themes/custom/gfsc_theme/logo.svg?v1.1"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 50330,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_hong_kong_monetary_authority",
+    "name": "Hong Kong Monetary Authority",
+    "path": "regulators/reg_hong_kong_monetary_authority.png",
+    "sha256": "1900ece7b2b559fa883d4ec6c79baa39613af98d685fd6602a657828bb64cd98",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.hkma.gov.hk/eng"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 9813,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_institut_d_emission_d_outre_mer",
+    "name": "Institut d'Émission d'Outre-Mer",
+    "path": "regulators/reg_institut_d_emission_d_outre_mer.png",
+    "sha256": "b3a3fcf984618e45292e40cf7d5283a2de60f67aaa9a44101bcb4c449f6d6f6e",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.ieom.fr/squelettes/img/logo_IEOM_seul.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 25469,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_isle_of_man_financial_services_authority",
+    "name": "Isle of Man Financial Services Authority",
+    "path": "regulators/reg_isle_of_man_financial_services_authority.png",
+    "sha256": "dfdc9524ddfe8d1f75753f9535ceffa31fe7fc2927d7135b30a573e08e194737",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://cdn.theorg.com/1c969bc1-e1d8-4aa9-81d0-eda9cb47f828_medium.jpg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 30698,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_jersey_financial_services_commission",
+    "name": "Jersey Financial Services Commission",
+    "path": "regulators/reg_jersey_financial_services_commission.png",
+    "sha256": "55c8e14117e344a38378b6627064891a4dcf6bfc98a2b95473f59e1b7cf42900",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.jerseyfsc.org/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 28254,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_kiribati_financial_supervisory_authority",
+    "name": "Kiribati Financial Supervisory Authority",
+    "path": "regulators/reg_kiribati_financial_supervisory_authority.png",
+    "sha256": "21b34a1555c1028082e6df0b5c17c0cd67ba7e29e16cca282d612283a8de8f60",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.mfed.gov.ki/sites/default/files/inline-images/newmfedlogo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 43723,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_maldives_monetary_authority",
+    "name": "Maldives Monetary Authority",
+    "path": "regulators/reg_maldives_monetary_authority.png",
+    "sha256": "9ebb6d29f5591701b4f527f3668232c39707a8b575818f18a230ecde462ad819",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Maldives_Monetary_Authority_Logo.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21167,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_malta_financial_services_authority",
+    "name": "Malta Financial Services Authority",
+    "path": "regulators/reg_malta_financial_services_authority.png",
+    "sha256": "5091b69cd9f0fb4b8863808f430841f5808ed5260d04b941859d2f4ff4f61660",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/wiki/File:MFSA_Logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 94766,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_marshall_islands_banking_commission",
+    "name": "Marshall Islands Banking Commission",
+    "path": "regulators/reg_marshall_islands_banking_commission.png",
+    "sha256": "0daea5edd940c71d9327664487883831b4a6fec4de1c4d422eab7250e609552d",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://mof.gov.mh/wp-content/uploads/2024/10/cropped-Seal_of_the_Marshall_Islands.svg-192x192.webp"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 8212,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_monetary_authority_of_macao",
+    "name": "Monetary Authority of Macao",
+    "path": "regulators/reg_monetary_authority_of_macao.png",
+    "sha256": "7e71eb1f1111465af6667764d2b24d5df565b460b37498872c1273ce2e9cfc54",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=AMCM_logo.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22258,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_monetary_authority_of_singapore",
+    "name": "Monetary Authority of Singapore",
+    "path": "regulators/reg_monetary_authority_of_singapore.png",
+    "sha256": "2759fc4577787cae1c0080029f3b24324ec89b5f75da2a0f69804e249fa83531",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Monetary_Authority_of_Singapore.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 52808,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_narodowy_bank_polski",
+    "name": "Narodowy Bank Polski",
+    "path": "regulators/reg_narodowy_bank_polski.png",
+    "sha256": "0157fdded510621c54e87fba2947c476d3239ea2d4df764a50762e899178b8f0",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Narodowy_Bank_Polski_logo_(2021).svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 68991,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_angola",
+    "name": "National Bank of Angola",
+    "path": "regulators/reg_national_bank_of_angola.png",
+    "sha256": "67557f65862f296b2195841c954631c35b7eeb9802db26f642f333688a1b06a0",
+    "source": {
+      "kind": "verified_public_identity_visual",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Banco_Nacional_de_Angola_in_Luanda_-_Angola_2015.jpg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 17157,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_belgium",
+    "name": "National Bank of Belgium",
+    "path": "regulators/reg_national_bank_of_belgium.png",
+    "sha256": "10b3847b5eb44d50682a119e8e827bdbabc81d3fe011026d56ae4195534cc4ac",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=National_Bank_of_Belgium_EN_logo.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 8354,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_cambodia",
+    "name": "National Bank of Cambodia",
+    "path": "regulators/reg_national_bank_of_cambodia.png",
+    "sha256": "c263c87c6d7dc3c355ae405f797cf8fc3795f50c31d8eda7800043e6c498f832",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=National_bank_of_Cambodia_logo.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 18411,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_ethiopia",
+    "name": "National Bank of Ethiopia",
+    "path": "regulators/reg_national_bank_of_ethiopia.png",
+    "sha256": "ae620917b305dfa9cea0797515561a3bc268b46d5411ea2c05ad1996f5a40ffb",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.nbe.gov.et/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 44283,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_georgia",
+    "name": "National Bank of Georgia",
+    "path": "regulators/reg_national_bank_of_georgia.png",
+    "sha256": "83e112ea55bbadf16a1915bab71aba2f239b7d19ab26e819b0d1415ec8fb6420",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://nbg.gov.ge/images/favicon.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 31314,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_kazakhstan",
+    "name": "National Bank of Kazakhstan",
+    "path": "regulators/reg_national_bank_of_kazakhstan.png",
+    "sha256": "a74975ca3a51aacf3b5218428121d7de41c1e2ce546bc39b3042d3d579b24314",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://nationalbank.kz/en"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 45115,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_moldova",
+    "name": "National Bank of Moldova",
+    "path": "regulators/reg_national_bank_of_moldova.png",
+    "sha256": "a8d6e294d5c4882dfb9ba094c9b6de695ddf3d8ca4ca1f70e7f4a5fb1664c900",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bnm.md/sites/all/themes/bnm_simple/logo.en.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14075,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_panama_banco_nacional_de_panama",
+    "name": "National Bank of Panama (Banco Nacional de Panamá)",
+    "path": "regulators/reg_national_bank_of_panama_banco_nacional_de_panama.png",
+    "sha256": "a7617fa7b818b74d6ce114fa45df5e8906b30eb4e771bdf110aae5cf5ecc5b41",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.banconal.com.pa/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 31803,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_romania",
+    "name": "National Bank of Romania",
+    "path": "regulators/reg_national_bank_of_romania.png",
+    "sha256": "d6a16583085fff5ac3cf2cbca7e129bd980a017acb60eb05cb7d0b1a135636fb",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=National_Bank_of_Romania_Logo.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 50771,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_rwanda",
+    "name": "National Bank of Rwanda",
+    "path": "regulators/reg_national_bank_of_rwanda.png",
+    "sha256": "11853edb28a35484fa7236bb6867d78325e9bded60e361a6df4d6fadf9aacd70",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.bnr.rw/assets/images/favicons/apple-touch-icon.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 19035,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_serbia",
+    "name": "National Bank of Serbia",
+    "path": "regulators/reg_national_bank_of_serbia.png",
+    "sha256": "5b500cfbc0cf3a48edb9a49acd27ecea0c6e91872f28ce460c3a1d30d8d3b9ad",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://nbs.rs/en/indeks/index.html"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 29117,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_slovakia",
+    "name": "National Bank of Slovakia",
+    "path": "regulators/reg_national_bank_of_slovakia.png",
+    "sha256": "b620ebdbdbb8c5dd843e1cb6c4a8c0532b3685581dc8fa09124f8fd501b91028",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.nbs.sk/en/home"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 25276,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_the_kyrgyz_republic",
+    "name": "National Bank of the Kyrgyz Republic",
+    "path": "regulators/reg_national_bank_of_the_kyrgyz_republic.png",
+    "sha256": "dd4fe6bfa7fbe67b6816792ac34bbeaaf539c1d1bba63952847059f5a9103acd",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=National_Bank_of_the_Kyrgyz_Republic_logo.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 8813,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_the_republic_of_belarus",
+    "name": "National Bank of the Republic of Belarus",
+    "path": "regulators/reg_national_bank_of_the_republic_of_belarus.png",
+    "sha256": "78dc40682edf17afdca9f9193a6c037d50e1cb897892226f191a1d9854824b8d",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Logo_of_the_National_Bank_of_the_Republic_of_Belarus.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 30060,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_the_republic_of_north_macedonia",
+    "name": "National Bank of the Republic of North Macedonia",
+    "path": "regulators/reg_national_bank_of_the_republic_of_north_macedonia.png",
+    "sha256": "4a8b1aa1ff80e2365599d325c086584ca38f48a62aacbcc2040e40ede6025e82",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.nbrm.mk/pocetna-en.nspx"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 17860,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_the_republic_of_tajikistan",
+    "name": "National Bank of the Republic of Tajikistan",
+    "path": "regulators/reg_national_bank_of_the_republic_of_tajikistan.png",
+    "sha256": "4fa7498ec875cd06c96a5f5fec5ad33b6c63c594ad1847d5962029062e611098",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://nbt.tj/upload/medialibrary/0e1/znqaez6hqwr1yu8d8e03qhh1xopx572l/logo_en.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22877,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_bank_of_ukraine",
+    "name": "National Bank of Ukraine",
+    "path": "regulators/reg_national_bank_of_ukraine.png",
+    "sha256": "c1387f2e48d0fbf85f651954eb4c6af5636bd4801463a51dd171a50bf34d893e",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://bank.gov.ua/en/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 53748,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_financial_regulatory_administration",
+    "name": "National Financial Regulatory Administration",
+    "path": "regulators/reg_national_financial_regulatory_administration.png",
+    "sha256": "81b9c2561e942d0c16bcfd6ed68ba99f810c7c07921a2b39ceb880091f48a444",
+    "source": {
+      "kind": "verified_public_identity_visual",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%BE%BD.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 50044,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_national_reserve_bank_of_tonga",
+    "name": "National Reserve Bank of Tonga",
+    "path": "regulators/reg_national_reserve_bank_of_tonga.png",
+    "sha256": "8e90ae53e691208ce089e768158bbc8116505503761b368492d632b9f1dd48d6",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.reservebank.to/data/imgs/corps/logos/logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 69038,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_nauru_department_of_finance",
+    "name": "Nauru Department of Finance",
+    "path": "regulators/reg_nauru_department_of_finance.png",
+    "sha256": "eda5211b5e647aef9045e43c40266356d156e6d0bc6abe66417e777a73fd618c",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.nauru.gov.nr/buildassets/images/footer_logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 18046,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_new_york_state_department_of_financial_services",
+    "name": "New York State Department of Financial Services",
+    "path": "regulators/reg_new_york_state_department_of_financial_services.png",
+    "sha256": "8021e3a435759b37ef7262a43b763ddbbf6fa033c1992989adb023dfcc3f8668",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.dfs.ny.gov/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 15820,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_nigeria_deposit_insurance_corporation",
+    "name": "Nigeria Deposit Insurance Corporation",
+    "path": "regulators/reg_nigeria_deposit_insurance_corporation.png",
+    "sha256": "17ccc2d9f127f07ff19dc99f1454af14d4b30782329454a31e9cc7fbbd7d50d6",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://ndic.gov.ng/wp-content/uploads/2020/08/ndic_small_logo-1.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 4908,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_niue_ministry_of_finance",
+    "name": "Niue Ministry of Finance",
+    "path": "regulators/reg_niue_ministry_of_finance.png",
+    "sha256": "2f6fdd58c33e825c5c6401c7e7abaf157fc7c58b59014f15e0917621c97ed8aa",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Niue-coat-of-arms-web.png&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 10341,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_ofac",
+    "name": "U.S. Office of Foreign Assets Control",
+    "path": "regulators/reg_ofac.png",
+    "sha256": "09c27570a8bf9372beaa5ba9cab614875eaa75f0dba89310d29fcee2e84634c4",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://ofac.treasury.gov/themes/custom/gallatin/assets/img/mark_treasury.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 62786,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_office_of_the_commissioner_of_financial_institutions",
+    "name": "Office of the Commissioner of Financial Institutions",
+    "path": "regulators/reg_office_of_the_commissioner_of_financial_institutions.png",
+    "sha256": "af4727e6f001f9e72ce0930c941a73dfd47aebb32220965fb6ecc25801dec064",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://cdn.prod.website-files.com/6149f7717ce81a510d2bba16/67bdddd599905b21d6b781e0_Logo%20Color%20Grande.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 69869,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_office_of_the_comptroller_of_the_currency",
+    "name": "Office of the Comptroller of the Currency",
+    "path": "regulators/reg_office_of_the_comptroller_of_the_currency.png",
+    "sha256": "087d3a490cbdfeb29f8abae421e3fbbcc714c8318b662c14e019c69f444dd4db",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Seal_of_the_Office_of_the_Comptroller_of_the_Currency.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 12826,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_office_of_the_superintendent_of_financial_institutions",
+    "name": "Office of the Superintendent of Financial Institutions",
+    "path": "regulators/reg_office_of_the_superintendent_of_financial_institutions.png",
+    "sha256": "6980e13f94fc4337e4a0eb4f20b4659ed9fbf408664fe2a74a18ff25f0943280",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://fintechfrontiers.live/osfi-introduces-new-supervisory-framework-to-modernize-financial-supervision/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 56647,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_palau_financial_institutions_commission",
+    "name": "Palau Financial Institutions Commission",
+    "path": "regulators/reg_palau_financial_institutions_commission.png",
+    "sha256": "63fa9caca398ccd105ec84ce381199055907ae2de121ba07d10ebd81530df5c7",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://ropfic.org/wp-content/uploads/2023/03/ropfic-logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 68526,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_palestine_monetary_authority",
+    "name": "Palestine Monetary Authority",
+    "path": "regulators/reg_palestine_monetary_authority.png",
+    "sha256": "7ae8bccfa4e7da1696e83b30fc5b597cd25f4191ea6fc51ae3dccd552376dee4",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.pma.ps/apple-touch-icon.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 11378,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_polish_financial_supervision_authority",
+    "name": "Polish Financial Supervision Authority",
+    "path": "regulators/reg_polish_financial_supervision_authority.png",
+    "sha256": "d1d60c704c7635687a50b185afe9b05437ae425dcd5f80481a57ebaaaa069a10",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.knf.gov.pl/images/logo.webp"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 44617,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_prudential_regulation_authority",
+    "name": "Prudential Regulation Authority",
+    "path": "regulators/reg_prudential_regulation_authority.png",
+    "sha256": "09a423a678a7455607a8d882314bd02c4d790247441302b42bce9447c3433c69",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.bankofengland.co.uk/pra/index.htm"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 10303,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_psr",
+    "name": "Payment Systems Regulator",
+    "path": "regulators/reg_psr.png",
+    "sha256": "fdbad8480e74fd64deb8bab87736c1fa3b67d92b21b36ff85fee8d6cc12223a9",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.psr.org.uk/favicons/safari-pinned-tab.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 86297,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_qatar_central_bank",
+    "name": "Qatar Central Bank",
+    "path": "regulators/reg_qatar_central_bank.png",
+    "sha256": "3dac09850ab9e5e6bc9295c90adc5b257b2395790b2b782c2fd6835412e959f3",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://www.fintechfutures.com/digital-payments/qatar-central-bank-issues-first-digital-payment-licence"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22390,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_qatar_financial_centre_regulatory_authority",
+    "name": "Qatar Financial Centre Regulatory Authority",
+    "path": "regulators/reg_qatar_financial_centre_regulatory_authority.png",
+    "sha256": "3666eab59e654702191fe1757f2779b38c1d2b1eeced00b10f8b54d1e2f9f2bc",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.qfcra.com/wp-content/uploads/2026/04/7766_QFCRA-Website-Logo-Header-300x109.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 10675,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_rba",
+    "name": "Reserve Bank of Australia",
+    "path": "regulators/reg_rba.png",
+    "sha256": "7c3406856d5a47db826ca8d4f3c35d60c19faf197b44c6d7b34fad7eb5841d1e",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.rba.gov.au/assets/images/logos/logo-rba-black.svg?v=2024"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 85516,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_rbi",
+    "name": "Reserve Bank of India",
+    "path": "regulators/reg_rbi.png",
+    "sha256": "ffda00c3dab62c83175a88ca2048a1f0082a77b0a7698e23bc898a8b6b5d5de8",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Seal_of_the_Reserve_Bank_of_India.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 46151,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_reserve_bank_of_fiji",
+    "name": "Reserve Bank of Fiji",
+    "path": "regulators/reg_reserve_bank_of_fiji.png",
+    "sha256": "27362c4a450fc96678f700bea145ace823c752b3f1c62660cd3583cd10656f5d",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.rbf.gov.fj/wp-content/uploads/2020/03/Untitled-1-3.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 53554,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_reserve_bank_of_malawi",
+    "name": "Reserve Bank of Malawi",
+    "path": "regulators/reg_reserve_bank_of_malawi.png",
+    "sha256": "cc7dadf5e5e56b7ab4a5efcc19a02a9502cdc7c6602c3bc5d38311ed5d01a8f5",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.rbm.mw/Images/logo.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 29009,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_reserve_bank_of_new_zealand",
+    "name": "Reserve Bank of New Zealand",
+    "path": "regulators/reg_reserve_bank_of_new_zealand.png",
+    "sha256": "7a4dde37542a832c0cb462a12c80732e0790ae763962b33243a0c0bb03217d28",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.rbnz.govt.nz/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 53193,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_reserve_bank_of_vanuatu",
+    "name": "Reserve Bank of Vanuatu",
+    "path": "regulators/reg_reserve_bank_of_vanuatu.png",
+    "sha256": "aeb5b493a8469b6dbc93d5fc032e711a33f75386262638d2d975091cbb5bf0f6",
+    "source": {
+      "kind": "verified_public_identity_visual",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Reserve_Bank_of_Vanuatu.jpg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 62150,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_reserve_bank_of_zimbabwe",
+    "name": "Reserve Bank of Zimbabwe",
+    "path": "regulators/reg_reserve_bank_of_zimbabwe.png",
+    "sha256": "eaf16b20f9531eb202623a40e2a10bb2122d5d4d7341afa04f64bafc3574b04b",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.rbz.co.zw/images/rbz_mobile.gif"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 66659,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_royal_monetary_authority_of_bhutan",
+    "name": "Royal Monetary Authority of Bhutan",
+    "path": "regulators/reg_royal_monetary_authority_of_bhutan.png",
+    "sha256": "c061958e98bbee70042acbe0cbbc7454d84949c443f33566b1d2762ab1b48753",
+    "source": {
+      "kind": "verified_public_identity_visual",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Royal_Monetary_Authority_of_Bhutan.jpg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 46974,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_saint_helena_financial_services_regulatory_authority",
+    "name": "Saint Helena Financial Services Regulatory Authority",
+    "path": "regulators/reg_saint_helena_financial_services_regulatory_authority.png",
+    "sha256": "d1ae94f0ff8ab7313dbf3eb127538d5f98c09fcf61aec97cf1514ef202bd7510",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://fondationnapoleon.org/en/activities-and-services/telling-history/napoleon-year-2021/2021-annee-napoleon-st-helena-government/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 60576,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_saudi_central_bank",
+    "name": "Saudi Central Bank",
+    "path": "regulators/reg_saudi_central_bank.png",
+    "sha256": "a550157f7052b36dfc8a0342369e5b5f9118ddbf0e4a85d0e2c3b9e41a5a1a95",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Logo_Saudi_Arabian_Monetary_Authority.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 18109,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_south_african_reserve_bank",
+    "name": "South African Reserve Bank",
+    "path": "regulators/reg_south_african_reserve_bank.png",
+    "sha256": "8e0d2db4f37c256482c5cc7f9514dea2ee4530ebae533b6d072a716a31c1b1a1",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.resbank.co.za/content/dam/sarb/home/electronic-signature/sarb-logo-gold-01.jpg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 60238,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_state_bank_of_pakistan",
+    "name": "State Bank of Pakistan",
+    "path": "regulators/reg_state_bank_of_pakistan.png",
+    "sha256": "5b0fbd00b228f4ddf5343f760c9174174c2a3f13efcd833d4b1e7422c85ba778",
+    "source": {
+      "kind": "generated",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=StatebankBuilding.jpg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 61661,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_state_bank_of_vietnam",
+    "name": "State Bank of Vietnam",
+    "path": "regulators/reg_state_bank_of_vietnam.png",
+    "sha256": "d79f9e4dd47e4ebf85e0e2ebd57fa4de603f7e63d38e2d439ae577d264e98687",
+    "source": {
+      "kind": "verified_public_identity_visual",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=Ng%C3%A2n_h%C3%A0ng_Nh%C3%A0_n%C6%B0%E1%BB%9Bc_-_2022-09-02_05.jpg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 18478,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_superintendencia_de_banca_y_seguros",
+    "name": "Superintendencia de Banca y Seguros",
+    "path": "regulators/reg_superintendencia_de_banca_y_seguros.png",
+    "sha256": "58548659c12e2312ee123dbb3f9543a6a29a0c505012825457542760c85e6255",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.sbs.gob.pe/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 8123,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_superintendencia_de_bancos_do",
+    "name": "Superintendencia de Bancos",
+    "path": "regulators/reg_superintendencia_de_bancos_do.png",
+    "sha256": "1baef4cfcfef25319c34fb34192daf8ec65215aa3fd681221cbab141cef4fb9f",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.sb.gob.do/media/b25hddi1/logo-superintendencia-de-bancos.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 23489,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_superintendencia_de_bancos_ec",
+    "name": "Superintendencia de Bancos",
+    "path": "regulators/reg_superintendencia_de_bancos_ec.png",
+    "sha256": "e6e15df8074a95bf659bdaa61eaf083017b98b888b24c0af6de4bec565a1151f",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://www.edufinancierafcpc.com/index.php/informate/consejos-practicos/item/1-el-rol-de-la-superintendencia-de-bancos-del-ecuador"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21605,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_superintendencia_de_bancos_gt",
+    "name": "Superintendencia de Bancos",
+    "path": "regulators/reg_superintendencia_de_bancos_gt.png",
+    "sha256": "ff760507370bb056cf83ba586a476a99d692f53e094114a1ed233bf9c66a1d20",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://ebg.edu.gt/inscripcion/ffd12104-932e-4ad9-8e1d-ef449aef6b58"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 19225,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_superintendencia_de_bancos_y_otras_instituciones_financier_ni",
+    "name": "Superintendencia de Bancos y Otras Instituciones Financieras",
+    "path": "regulators/reg_superintendencia_de_bancos_y_otras_instituciones_financier_ni.png",
+    "sha256": "3efe9488b3590e035c0723d7a60d6c3b5c4d7dcf5b0db1420345e4e76f471b7f",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://www.bdfnet.com/servicioCliente/imagenes/bannerM_siboif.jpg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 25985,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_superintendencia_de_bancos_y_otras_instituciones_financier_ve",
+    "name": "Superintendencia de Bancos y Otras Instituciones Financieras",
+    "path": "regulators/reg_superintendencia_de_bancos_y_otras_instituciones_financier_ve.png",
+    "sha256": "e13835ed999b93846734bb48ee74ccf841293739acde6aa194eb1633ecb5bc70",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.sudeban.gob.ve/favicon.ico"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14110,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_superintendencia_del_sistema_financiero",
+    "name": "Superintendencia del Sistema Financiero",
+    "path": "regulators/reg_superintendencia_del_sistema_financiero.png",
+    "sha256": "23ef2f0dddebc37cbd73f8346353863de46dfa929acd07c809ef484634b5d9e1",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://ssf.gob.sv/wp-content/uploads/2021/12/LOGO-EN-BLANCO-09.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 35574,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_superintendencia_financiera_de_colombia",
+    "name": "Superintendencia Financiera de Colombia",
+    "path": "regulators/reg_superintendencia_financiera_de_colombia.png",
+    "sha256": "f359b16224e503143f7bdf5baaf0ba51ddfe8f293bd12787d5192a5d63e65035",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.superfinanciera.gov.co/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21597,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_superintendencia_general_de_entidades_financieras_sugef",
+    "name": "Superintendencia General de Entidades Financieras (SUGEF)",
+    "path": "regulators/reg_superintendencia_general_de_entidades_financieras_sugef.png",
+    "sha256": "5306e085c94b775347b89a03ec68ef4e4d713c9373bb3a0971296f81d44e12d8",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.sugef.fi.cr/sugef-ayudas/images/iconos/negocios/SUGEF.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22698,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_superintendency_of_banks_of_the_republic_of_panama",
+    "name": "Superintendency of Banks of the Republic of Panama",
+    "path": "regulators/reg_superintendency_of_banks_of_the_republic_of_panama.png",
+    "sha256": "9c8bc1b126f7fb552da1656422e80b1f87ab083ef557856238e80bc2c3c0df47",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.superbancos.gob.pa/sites/default/files/logo-oficial_0.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 7768,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_supervisory_and_financial_information_authority",
+    "name": "Supervisory and Financial Information Authority",
+    "path": "regulators/reg_supervisory_and_financial_information_authority.png",
+    "sha256": "4cb9d93c671b326dae600ad391873c0490601f7c2e4a0c920909cac47124d7ea",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.asif.va/App_Themes/imgs/ASIF_eng.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21162,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_sveriges_riksbank",
+    "name": "Sveriges Riksbank",
+    "path": "regulators/reg_sveriges_riksbank.png",
+    "sha256": "1d3a24cc9f4fe2a39938b427e42025a51a09b4bb3bc93d4c8e71c38c4e36e384",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.riksbank.se/Content/images/logo-riksbanken.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 17683,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_swiss_financial_market_supervisory_authority_finma",
+    "name": "Swiss Financial Market Supervisory Authority (FINMA)",
+    "path": "regulators/reg_swiss_financial_market_supervisory_authority_finma.png",
+    "sha256": "9ffe7055036045e688e43175711f762dd3262be6cff6a38a7b17224bc950a496",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.finma.ch/~/media/finma/images/logo/finma-logo.png?h=94&iar=0&w=412&hash=A19C8B9DCA22533F4FECCCAE2CBFFAA1"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 39167,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_swiss_national_bank",
+    "name": "Swiss National Bank",
+    "path": "regulators/reg_swiss_national_bank.png",
+    "sha256": "8b4b5ca3e22a0c3b4992b6103506e17bcbbc0bbae60c859406114c099de28a6b",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://commons.wikimedia.org/w/thumb.php?f=SNB-Logo-positiv-blau.svg&w=700"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 26586,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_the_agency_of_the_republic_of_kazakhstan_for_regulation_an",
+    "name": "The Agency of the Republic of Kazakhstan for Regulation and Development of Financial Market",
+    "path": "regulators/reg_the_agency_of_the_republic_of_kazakhstan_for_regulation_an.png",
+    "sha256": "b3dfb8f1e4e5efb9061b51a5f0b37f94395e5577b434e47d076147f101b4777b",
+    "source": {
+      "kind": "verified_public_mark",
+      "url": "https://www.globalkz.biz/usr/catalog/big-catalog-15898097511.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22494,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_the_central_bank_of_eswatini",
+    "name": "The Central Bank of Eswatini",
+    "path": "regulators/reg_the_central_bank_of_eswatini.png",
+    "sha256": "c266f4e3f1b4e2318a23b679a230880f3429576e504235022dadc5178d3956b7",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/04/NEW-CBE-Logo-V20.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 3686,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_the_central_bank_of_the_islamic_republic_of_iran",
+    "name": "The Central Bank of the Islamic Republic of Iran",
+    "path": "regulators/reg_the_central_bank_of_the_islamic_republic_of_iran.png",
+    "sha256": "1ffc14bf168db38039016304fd622ca6623cce545053c83418dbb07ad091cd0a",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://www.cbi.ir/apple-touch-icon.png"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 20824,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_the_financial_conduct_authority",
+    "name": "The Financial Conduct Authority",
+    "path": "regulators/reg_the_financial_conduct_authority.png",
+    "sha256": "0a68bb7678c504ab8d86f364e3687b1a5990e6146565361fbffc9f87e8bf2077",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.fca.org.uk/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 34529,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_the_people_s_bank_of_china",
+    "name": "The People's Bank of China",
+    "path": "regulators/reg_the_people_s_bank_of_china.png",
+    "sha256": "9403e5dd8404cceeddda3a4a3c54ef9ce8c00e7a2ee9a5f66efe92619cc8e935",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.pbc.gov.cn/en/3688006/index.html"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 45200,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_tuvalu_banking_commission",
+    "name": "Tuvalu Banking Commission",
+    "path": "regulators/reg_tuvalu_banking_commission.png",
+    "sha256": "e30ae75fc2765aa35b154bac9bf0304fbf3b32c00d36ba4a84e68bf654e70b44",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "https://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/2011/2011-0003/2011-0003_2.pdf"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 15299,
+    "category": "regulators",
+    "height": 256,
+    "id": "reg_vanuatu_financial_services_commission",
+    "name": "Vanuatu Financial Services Commission",
+    "path": "regulators/reg_vanuatu_financial_services_commission.png",
+    "sha256": "0977fa9f307d6eec487cb9eb159d84044abf6c3ee87b8b66642fd6b903572c87",
+    "source": {
+      "kind": "official_site_mark",
+      "url": "http://www.vfsc.vu/"
+    },
+    "width": 256
+  }
+]

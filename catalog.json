@@ -1,0 +1,102 @@
+{
+  "assetCount": 8284,
+  "cardCount": 6010,
+  "categories": [
+    {
+      "count": 136,
+      "id": "banks",
+      "name": "Banks",
+      "path": "catalog/banks.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 6010,
+      "id": "cards",
+      "name": "Cards",
+      "path": "catalog/cards.json",
+      "shape": "card"
+    },
+    {
+      "count": 128,
+      "id": "compliance",
+      "name": "Compliance",
+      "path": "catalog/compliance.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 153,
+      "id": "currencies",
+      "name": "Currencies",
+      "path": "catalog/currencies.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 4,
+      "id": "identifiers",
+      "name": "Identifiers",
+      "path": "catalog/identifiers.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 250,
+      "id": "markets",
+      "name": "Markets",
+      "path": "catalog/markets.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 88,
+      "id": "operators",
+      "name": "Operators",
+      "path": "catalog/operators.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 1005,
+      "id": "payment-methods",
+      "name": "Payment methods",
+      "path": "catalog/payment-methods.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 50,
+      "id": "psps",
+      "name": "PSPs",
+      "path": "catalog/psps.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 250,
+      "id": "regulators",
+      "name": "Regulators",
+      "path": "catalog/regulators.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 91,
+      "id": "schemes",
+      "name": "Schemes",
+      "path": "catalog/schemes.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 100,
+      "id": "standards",
+      "name": "Standards",
+      "path": "catalog/standards.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 19,
+      "id": "systems",
+      "name": "Systems",
+      "path": "catalog/systems.json",
+      "shape": "rounded-square"
+    }
+  ],
+  "primaryIconCount": 2274,
+  "schemaVersion": 1,
+  "sourceBaseUrl": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/",
+  "updatedAt": "2026-09-12",
+  "version": "2026.09.12"
+}

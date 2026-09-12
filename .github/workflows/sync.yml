@@ -1,0 +1,47 @@
+name: Sync approved snapshot
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'catalog.json'
+      - 'catalog/*.json'
+      - 'scripts/collection.py'
+      - 'requirements.txt'
+      - '.github/workflows/sync.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+      - name: Install pinned image validator
+        run: python -m pip install -r requirements.txt
+      - name: Test validation safeguards
+        run: python -m unittest discover -s scripts -p 'test_*.py'
+      - name: Download exact approved assets
+        run: python scripts/collection.py download --workers 16
+      - name: Export CSV and validate all assets
+        run: |
+          python scripts/collection.py export
+          python scripts/collection.py validate
+      - name: Commit verified assets
+        run: |
+          git add -- banks cards compliance currencies identifiers markets operators payment-methods psps regulators schemes standards systems catalog.csv
+          if ! git diff --cached --quiet; then
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Sync verified PNG assets from approved catalog'
+            git push origin HEAD:main
+          fi

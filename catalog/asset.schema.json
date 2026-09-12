@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Aurato payment asset",
+  "type": "object",
+  "required": ["id", "name", "category", "path", "width", "height", "bytes", "sha256", "source"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "name": {"type": "string", "minLength": 1},
+    "category": {"enum": ["banks", "cards", "compliance", "currencies", "identifiers", "markets", "operators", "payment-methods", "psps", "regulators", "schemes", "standards", "systems"]},
+    "path": {"type": "string", "pattern": "^[a-z-]+/[A-Za-z0-9_-]+\\.png$"},
+    "width": {"enum": [256, 406]},
+    "height": {"const": 256},
+    "bytes": {"type": "integer", "minimum": 1, "maximum": 5000000},
+    "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "source": {
+      "type": "object",
+      "required": ["kind", "url"],
+      "additionalProperties": false,
+      "properties": {
+        "kind": {"type": "string", "minLength": 1},
+        "url": {"type": ["string", "null"], "pattern": "^https?://[^\\s]+$"},
+        "reference": {"type": "string"}
+      }
+    }
+  },
+  "if": {"properties": {"category": {"const": "cards"}}},
+  "then": {"properties": {"width": {"const": 406}}},
+  "else": {"properties": {"width": {"const": 256}}}
+}

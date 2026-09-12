@@ -1,0 +1,702 @@
+[
+  {
+    "bytes": 13034,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_2c2p",
+    "name": "2C2P",
+    "path": "psps/psp_2c2p.png",
+    "sha256": "6c326ef36d08cd0f05193ec711e4945e3d4e21445bdafff8383e5a879782af6a",
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.2c2p.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 3972,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_adyen",
+    "name": "Adyen",
+    "path": "psps/psp_adyen.png",
+    "sha256": "0909ce6ce4e9873f66b86e6508a6b7303eed87baf670cf1fdba448d108bca84a",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 40126,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_airwallex",
+    "name": "Airwallex",
+    "path": "psps/psp_airwallex.png",
+    "sha256": "45018eb1fb7ea9c4bebc4f1cef4bb5b90d84f7a374a24535e59b116029e26699",
+    "source": {
+      "kind": "official_app_icon",
+      "url": "https://apps.apple.com/us/app/airwallex/id1506635495"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 18034,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_amazon_payment_services",
+    "name": "Amazon Payment Services",
+    "path": "psps/psp_amazon_payment_services.png",
+    "sha256": "1fdb5c80c434d7810ebaa9e8de7e6c81d53454910f60540af99f08ba8706e0e0",
+    "source": {
+      "kind": "official_website",
+      "url": "https://paymentservices.amazon.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 11475,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_antom",
+    "name": "Antom",
+    "path": "psps/psp_antom.png",
+    "sha256": "0f5ee1978ccc865846eab98b6045cc852cb533370f8c448f1a6a16dc0141476d",
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.antom.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 5819,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_braintree",
+    "name": "Braintree",
+    "path": "psps/psp_braintree.png",
+    "sha256": "6a0d5417dfda0b60782cc43b3391cce3fe20e03a070b96e3d704dd65d5bd8f05",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 9485,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_buckaroo",
+    "name": "Buckaroo",
+    "path": "psps/psp_buckaroo.png",
+    "sha256": "af0ff96cea5dea8a5dacab1a80425dedfdac5494e2e4d024e8fb2a69c6047232",
+    "source": {
+      "kind": "official",
+      "url": "https://play.google.com/store/apps/details?id=nl.buckaroo.app"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 10386,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_checkout",
+    "name": "Checkout.com",
+    "path": "psps/psp_checkout.png",
+    "sha256": "c9ed6f62fec62fb49bfdfdfa20c3fee697f1f71abf26bf1f8faaadd68ffd6673",
+    "source": {
+      "kind": "official_brand_asset",
+      "url": "https://www.checkout.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 6380,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_china_ums",
+    "name": "China UMS",
+    "path": "psps/psp_china_ums.png",
+    "sha256": "7d5c1b385022acb7e13c966f4f45118535f5eef47661615ccfcb299d1ffe8008",
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.chinaums.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 12261,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_cielo",
+    "name": "Cielo",
+    "path": "psps/psp_cielo.png",
+    "sha256": "2b5372c67e0a388d8d9c28ba145bcc5cfebdb92377967721fd5b23ff19be4376",
+    "source": {
+      "kind": "brand_logo",
+      "url": "https://www.cielo.com.br/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 11222,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_cybersource",
+    "name": "Cybersource",
+    "path": "psps/psp_cybersource.png",
+    "sha256": "aaeab44e8a2d3dc37e60f85fbc68e7402713bd1d0e3dcc4c57819a29f08510d3",
+    "source": {
+      "kind": "official_website",
+      "url": "https://developer.cybersource.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 5520,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_dlocal",
+    "name": "dLocal",
+    "path": "psps/psp_dlocal.png",
+    "sha256": "33e8de0e3339b1f7056b16e9ad0f3a074bf1de456dbab0361f50a4412c2e2495",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 6698,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_ebanx",
+    "name": "EBANX",
+    "path": "psps/psp_ebanx.png",
+    "sha256": "30c4aac298a73f702e6d5d77624553167d317eac15e5c72fab7cf3ec9544440b",
+    "source": {
+      "kind": "brand_logo",
+      "url": "https://www.ebanx.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 9362,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_elavon",
+    "name": "Elavon",
+    "path": "psps/psp_elavon.png",
+    "sha256": "cc2b1002acd10996791799ec8e2cf47f36a26a9735cdc2998cc991e59eb7a916",
+    "source": {
+      "kind": "official_app_icon",
+      "url": "https://apps.apple.com/us/app/elavon-mobile/id6474817629"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 10790,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_fiserv",
+    "name": "Fiserv",
+    "path": "psps/psp_fiserv.png",
+    "sha256": "4fae91f10b172513c00ccd5ded39f35f268a072136b4caae86115846caeaeca5",
+    "source": {
+      "kind": "official_website",
+      "url": "https://investors.fiserv.com/news-events/media-assets"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 20698,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_flutterwave",
+    "name": "Flutterwave",
+    "path": "psps/psp_flutterwave.png",
+    "sha256": "2d5c24f2b8f2560f0c760e13494ac3f595ecbceec383ae250a78aac4e60a514f",
+    "source": {
+      "kind": "official_website",
+      "url": "https://flutterwave.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 17428,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_getnet",
+    "name": "Getnet",
+    "path": "psps/psp_getnet.png",
+    "sha256": "d2d45443afd492d30a6b745230bf901f102763a2119e08c18d70e25121e52c5d",
+    "source": {
+      "kind": "official_app_icon",
+      "url": "https://apps.apple.com/br/app/getnet-brasil/id1154802872"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 12213,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_global_payments",
+    "name": "Global Payments",
+    "path": "psps/psp_global_payments.png",
+    "sha256": "78fef3f53f602e662510398d8559c0ffee8037885682f62f18c44636ac62f939",
+    "source": {
+      "kind": "official_website",
+      "url": "https://developer.globalpayments.com/ecommerce/resources/logos"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 12628,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_gmo_payment_gateway",
+    "name": "GMO Payment Gateway",
+    "path": "psps/psp_gmo_payment_gateway.png",
+    "sha256": "215f0b66403557b5dfc9b1a82dec937e2ec92a15a115b10dbca4d40f5b86b3dc",
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.gmo-pg.com/en/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 9039,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_gocardless",
+    "name": "GoCardless",
+    "path": "psps/psp_gocardless.png",
+    "sha256": "ded437436e2984d01921a936f2de1781674fb2b26371366fb29fe370771a768a",
+    "source": {
+      "kind": "brand_logo",
+      "url": "https://gocardless.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 10582,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_interswitch",
+    "name": "Interswitch",
+    "path": "psps/psp_interswitch.png",
+    "sha256": "0bb3ce96d9a2b52e7d16c69694b9dcc6a733314f8f897183c05b28f99926a6d1",
+    "source": {
+      "kind": "official_website",
+      "url": "https://interswitchgroup.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14052,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_jpmorgan_payments",
+    "name": "J.P. Morgan Payments",
+    "path": "psps/psp_jpmorgan_payments.png",
+    "sha256": "e87471278da764873a8c50856e00dff99d5ae688b6466291e92ed1e32af4865c",
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.jpmorgan.com/payments"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 19454,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_mercado_pago",
+    "name": "Mercado Pago",
+    "path": "psps/psp_mercado_pago.png",
+    "sha256": "ce0cafca76387b9e80cb927019ce892eff073ecd3b3d3e28b7c0fea64974ee43",
+    "source": {
+      "kind": "simple_icons",
+      "url": "https://www.mercadopago.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 9556,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_mollie",
+    "name": "Mollie",
+    "path": "psps/psp_mollie.png",
+    "sha256": "724116d68bf1d78fb95a3cef571cacc91fa4d3e2590d3757e802e53172ce3442",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 6779,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_multisafepay",
+    "name": "MultiSafepay",
+    "path": "psps/psp_multisafepay.png",
+    "sha256": "22e7d6ec7f99ed46d35e65d12a8a62b9118b0c2ec90fce269d7ad60a89917627",
+    "source": {
+      "kind": "official",
+      "url": "https://play-lh.googleusercontent.com/f1LUmc2B_9XrCzBoZbd91wiXIEwtzHiBjVUxg0egZSO5csUeU_9Tyh769DW3uF0pMMaE=w1024-h1024"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 9937,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_network_international",
+    "name": "Network International",
+    "path": "psps/psp_network_international.png",
+    "sha256": "fbd0efa657725932fc98a80a18dad14468c4c6e08965a9d92e9495f8247613e2",
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.network.ae/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 32108,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_nexi",
+    "name": "Nexi",
+    "path": "psps/psp_nexi.png",
+    "sha256": "7eced93dfef59e3e3743dca4f6a61ae7b8a2df50aa7c4bcbea7610cfba537d36",
+    "source": {
+      "kind": "official_app_icon",
+      "url": "https://apps.apple.com/it/app/nexi-business/id421319313"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 8921,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_nuvei",
+    "name": "Nuvei",
+    "path": "psps/psp_nuvei.png",
+    "sha256": "afe6f4d26f8cbfb124b4bca42134c3311817b0750147d7fe724a0b0a9004d8e6",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14194,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_pagbank",
+    "name": "PagBank",
+    "path": "psps/psp_pagbank.png",
+    "sha256": "300603593be231acb91ddb5f6cd0f24f32cff75055c4967883c2d3a0b41b7019",
+    "source": {
+      "kind": "brand_logo",
+      "url": "https://pagbank.com.br/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 18563,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_paymob",
+    "name": "Paymob",
+    "path": "psps/psp_paymob.png",
+    "sha256": "bec3c1e9c82ba526518affe6640be54801f7d27b31ab607dfa0a377501405eb8",
+    "source": {
+      "kind": "official_app_icon",
+      "url": "https://apps.apple.com/eg/app/paymob/id1434459799"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 5436,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_paynl",
+    "name": "PAY.nl",
+    "path": "psps/psp_paynl.png",
+    "sha256": "8bce365f029c010e51cd5e85e0bc2cf0f8de8230e6258e41a9409b573a68a6c9",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14116,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_paypal",
+    "name": "PayPal",
+    "path": "psps/psp_paypal.png",
+    "sha256": "acfa231830dd47e878d280543962682ba8a1c6ec0095deac24653c62a8c3116f",
+    "source": {
+      "kind": "official_app_icon",
+      "url": "https://apps.apple.com/us/app/paypal/id283646709"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 13353,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_paysafe",
+    "name": "Paysafe",
+    "path": "psps/psp_paysafe.png",
+    "sha256": "29a6dd4bce42bb42f8eca661852ad1614d69df7dc6ff5275cb34309582363e1f",
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.paysafe.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 25858,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_paystack",
+    "name": "Paystack",
+    "path": "psps/psp_paystack.png",
+    "sha256": "cd21374be03da39c12da4ba5bc592e36a882706872af9c2074d27820f93e9128",
+    "source": {
+      "kind": "official_app_icon",
+      "url": "https://apps.apple.com/ng/app/paystack-merchant/id1509047006"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 24170,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_payu",
+    "name": "PayU",
+    "path": "psps/psp_payu.png",
+    "sha256": "bc7b6e17d72b8345d19e3d38d3866a994dfe5be6163864333848720a5bcf202e",
+    "source": {
+      "kind": "official_website",
+      "url": "https://corporate.payu.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 12638,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_phonepe_pg",
+    "name": "PhonePe Payment Gateway",
+    "path": "psps/psp_phonepe_pg.png",
+    "sha256": "781623c865334cee2f95c743cf9d784e8970594f90f4ba465c27dd8743300fa4",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14370,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_ppro",
+    "name": "PPRO",
+    "path": "psps/psp_ppro.png",
+    "sha256": "86cf0bce92856ae17e3bd7512fb1c76065bdd4a02d2a6d8b4bffb552c965ac9f",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 9761,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_rapyd",
+    "name": "Rapyd",
+    "path": "psps/psp_rapyd.png",
+    "sha256": "f215a5f683588c3c362aaa5f813da0c8361f4258bc061ce0aee9f328f9f75035",
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.rapyd.net/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 6594,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_razorpay",
+    "name": "Razorpay",
+    "path": "psps/psp_razorpay.png",
+    "sha256": "3ba427f37f2dbb722a84ee47a28a77783ff3ab42066204f9284040354950af29",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 17940,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_shift4",
+    "name": "Shift4",
+    "path": "psps/psp_shift4.png",
+    "sha256": "15dc93efe98eb2b47d5d0c8301e90c03c7b1cd8cda0d2d91918109ed3427961f",
+    "source": {
+      "kind": "official_website",
+      "url": "https://investors.shift4.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14738,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_shopify_payments",
+    "name": "Shopify Payments",
+    "path": "psps/psp_shopify_payments.png",
+    "sha256": "383e172459243c460d3528aaa328d787456aeb9c18e10a504137910d6745847a",
+    "source": {
+      "kind": "simple_icons",
+      "url": "https://www.shopify.com/payments"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 5827,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_square",
+    "name": "Square",
+    "path": "psps/psp_square.png",
+    "sha256": "93f3fbacda2382d66abd53ea24aff47b1e9d85f89c8ef641781649952e5cc84f",
+    "source": {
+      "kind": "simple_icons",
+      "url": "https://squareup.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 24998,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_stone",
+    "name": "Stone",
+    "path": "psps/psp_stone.png",
+    "sha256": "3048b3260c59fde8bb7d3e31e42a37491dcbc4a07d5edebe1b9d73dff3c972e7",
+    "source": {
+      "kind": "official_app_icon",
+      "url": "https://apps.apple.com/br/app/stone-maquininha-e-conta-pj/id1173483398"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 6630,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_stripe",
+    "name": "Stripe",
+    "path": "psps/psp_stripe.png",
+    "sha256": "277a540bb4d842c45d11fd2d8e9b49d1111aedb238fc91239b7bdb043a4e8193",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 13091,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_sumup",
+    "name": "SumUp",
+    "path": "psps/psp_sumup.png",
+    "sha256": "592f5d886980e1a948fd7f34edae817078a6bff03e8977075ebe0726d6910d53",
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.sumup.com/"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 63084,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_toast",
+    "name": "Toast",
+    "path": "psps/psp_toast.png",
+    "sha256": "08bef4f14c67e87778baf719e083a23f4bdff1eceb10dda9a7451020b3462e7c",
+    "source": {
+      "kind": "official_app_icon",
+      "url": "https://apps.apple.com/us/app/toast-now/id1362180579"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21852,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_tyro_payments",
+    "name": "Tyro Payments",
+    "path": "psps/psp_tyro_payments.png",
+    "sha256": "a1e6b1dbf590b2e63a92638091b1b8139bc5f2b5e69fc96e00f373f21d37d44d",
+    "source": {
+      "kind": "official_app_icon",
+      "url": "https://apps.apple.com/au/app/tyro/id389064739"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14187,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_worldline",
+    "name": "Worldline",
+    "path": "psps/psp_worldline.png",
+    "sha256": "bcb6d299fdeef73538b5205c4e60ba92a9bc7fec1ecaec681e3b695825446ea3",
+    "source": {
+      "kind": "official",
+      "url": "https://worldline.com/en/home/top-navigation/media-relations/image-library"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 20354,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_worldpay",
+    "name": "Worldpay",
+    "path": "psps/psp_worldpay.png",
+    "sha256": "59d3be451890b28685ef9cb9952591721a115cea1d370d9bc4006954145cf6fe",
+    "source": {
+      "kind": "official_app_icon",
+      "url": "https://apps.apple.com/us/app/worldpay-dashboard/id6740616751"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 15956,
+    "category": "psps",
+    "height": 256,
+    "id": "psp_xendit",
+    "name": "Xendit",
+    "path": "psps/psp_xendit.png",
+    "sha256": "06e68b52b7876734825b42b8745eb7a4bdcf6181e3b029a14dc0f585a365be96",
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.xendit.co/"
+    },
+    "width": 256
+  }
+]

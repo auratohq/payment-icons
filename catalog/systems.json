@@ -1,0 +1,270 @@
+[
+  {
+    "bytes": 16659,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_american_express",
+    "name": "Amex Network",
+    "path": "systems/sys_american_express.png",
+    "sha256": "f641c61ee8a3b70a8d70cf20032aca97696928b03892ccdec49df48ed0af80fa",
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 8887,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_cardnet",
+    "name": "JCB Network",
+    "path": "systems/sys_cardnet.png",
+    "sha256": "3dc3d0f93f3a46d1a8e3654da587a89d7c3d0d077c8998505839a893400c5281",
+    "source": {
+      "kind": "generated",
+      "url": null,
+      "reference": "/payment-icons/pmt_jcb.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 7001,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_cts",
+    "name": "CTS",
+    "path": "systems/sys_cts.png",
+    "sha256": "4f257b70527e58a5746512d34114bc4b9ed40fc6e3e07a9ae6f725aad0b945f4",
+    "source": {
+      "kind": "generated",
+      "url": "https://www.rbi.org.in/commonman/english/Scripts/FAQs.aspx?Id=3878"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22327,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_cups",
+    "name": "CUPS",
+    "path": "systems/sys_cups.png",
+    "sha256": "4740c8461e3afde6c5ad856959fb97b8692a8b0061990af26133e360c351c761",
+    "source": {
+      "kind": "generated",
+      "url": null,
+      "reference": "/payment-icons/pmt_unionpay.svg"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 22344,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_dnps",
+    "name": "DNPS",
+    "path": "systems/sys_dnps.png",
+    "sha256": "ba2a3c6f2b083f3faa929b69a1a6f7f95098a410ba03d331200218a26e1c30d1",
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14187,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_equensworldline_csm",
+    "name": "Worldline",
+    "path": "systems/sys_equensworldline_csm.png",
+    "sha256": "bcb6d299fdeef73538b5205c4e60ba92a9bc7fec1ecaec681e3b695825446ea3",
+    "source": {
+      "kind": "official",
+      "url": "https://worldline.com/en/home/main-navigation/who-we-serve/financial-institutions/equensworldline-nv"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14187,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_equensworldline_instant_payments_csm",
+    "name": "Worldline Instant",
+    "path": "systems/sys_equensworldline_instant_payments_csm.png",
+    "sha256": "bcb6d299fdeef73538b5205c4e60ba92a9bc7fec1ecaec681e3b695825446ea3",
+    "source": {
+      "kind": "generated",
+      "url": "https://worldline.com/en/home/main-navigation/who-we-serve/financial-institutions/equensworldline-nv"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 71822,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_euro1",
+    "name": "EURO1",
+    "path": "systems/sys_euro1.png",
+    "sha256": "f6752250abdd87c127a45b2c9c7d13f6ede4e83063191c47bf86fba375aeb76d",
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 5952,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_mastercard",
+    "name": "Banknet",
+    "path": "systems/sys_mastercard.png",
+    "sha256": "95878ffc463db7ecd4b4201ca5c0fa784a805aa3fd46c20943c42397ef2a6a49",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 9177,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_neft_clearing_system",
+    "name": "NEFT Clearing System",
+    "path": "systems/sys_neft_clearing_system.png",
+    "sha256": "4c03dc675824be1c4a3eba4aac0d4874bc344861f7d3fd4682be530e6a3f460a",
+    "source": {
+      "kind": "generated",
+      "url": "https://www.rbi.org.in/scripts/paymentsystems_um.aspx"
+    },
+    "width": 256
+  },
+  {
+    "bytes": 15068,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_omannet",
+    "name": "OmanNet",
+    "path": "systems/sys_omannet.png",
+    "sha256": "17dfa980638657e40066da676b318872586a0df81eda6147493e015924c464ec",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 54899,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_rt1",
+    "name": "RT1",
+    "path": "systems/sys_rt1.png",
+    "sha256": "1e135fcc949d53d635a948322c324b036d445d472b324798a2bbb4583981540b",
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 29043,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_rtgs",
+    "name": "RTGS",
+    "path": "systems/sys_rtgs.png",
+    "sha256": "b2ab109d2f9ffc7ca36b7fbec8ed17feee8c2de99394e6f4a208138d249ee36d",
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 27970,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_spi",
+    "name": "Instant Payment System (SPI)",
+    "path": "systems/sys_spi.png",
+    "sha256": "a6bf690545791d702009e3759ac3d1b13805ea96778f618f035f082f0bd98710",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 59128,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_step2",
+    "name": "STEP2",
+    "path": "systems/sys_step2.png",
+    "sha256": "9fd030d57d8c55c8a18379728ab7131f5eac913994c99e32e6c97f2be44eff6c",
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 33181,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_t2",
+    "name": "T2",
+    "path": "systems/sys_t2.png",
+    "sha256": "e936094d03e4d4c6be0754776a68684989dee558e1a534191f0b2e6b514ac05f",
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 21822,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_tips",
+    "name": "TARGET Instant Payment Settlement",
+    "path": "systems/sys_tips.png",
+    "sha256": "23c9bc50924b70bfd352b1147e58f9141a81d7522320fe8c099655c79f77c152",
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 7052,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_visanet",
+    "name": "VisaNet",
+    "path": "systems/sys_visanet.png",
+    "sha256": "166a332d35f6dc3937372a65fbd148080b3b1b0e98583d105a89325909042345",
+    "source": {
+      "kind": "generated",
+      "url": null
+    },
+    "width": 256
+  },
+  {
+    "bytes": 14187,
+    "category": "systems",
+    "height": 256,
+    "id": "sys_worldline_switch",
+    "name": "Worldline Switch",
+    "path": "systems/sys_worldline_switch.png",
+    "sha256": "bcb6d299fdeef73538b5205c4e60ba92a9bc7fec1ecaec681e3b695825446ea3",
+    "source": {
+      "kind": "generated",
+      "url": "https://worldline.com/en/home/main-navigation/who-we-serve/financial-institutions/equensworldline-nv"
+    },
+    "width": 256
+  }
+]
