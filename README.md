@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/aurato-global-payment-icon-pack-banner.png" alt="Aurato Global Payment Icon Pack with payment method, card network, PSP, bank and market icons" width="100%">
+  <img src=".github/assets/aurato-global-payment-icon-pack-banner.png" alt="Aurato Global Payments Icon Pack with payment method, card network, PSP, bank and market icons" width="100%">
 </p>
 
 # Aurato Global Payments Icon Pack
@@ -7,7 +7,7 @@
 **The world of payments - one icon pack.**
 
 A searchable, versioned collection of **8,089 payment-related PNG assets** maintained by [Aurato](https://aurato.io):   
-**2,073 rounded-square icons** and **6,016 card images**, across **10 categories**. Find payment methods, wallets, cards, payment service providers (PSPs), banks, currencies, markets, regulators, schemes, and systems.
+**2,073 icons** and **6,016 card images**, across **10 categories**. Find cards, payment methods, wallets, markets, payment service providers (PSPs), currencies, banks, regulators, operators, schemes, and systems.
 
 [Download ZIP](https://github.com/auratohq/payment-icons/archive/refs/heads/main.zip) · [Contribute](CONTRIBUTING.md) · [Copyright](RIGHTS.md)
 
@@ -15,8 +15,8 @@ A searchable, versioned collection of **8,089 payment-related PNG assets** maint
 ## What's included
 
 - Actual PNG files checked into Git with lowercase, human-readable filenames.
-- Consistent **256 × 256** primary icons: opaque rounded-square base (**43 px corner radius**), transparent outside corners. The shape is in the image itself - no CSS clipping is needed.
-- **406 × 256** card artwork, preserving its card proportions.
+- Consistent **256 × 256** icons: opaque rounded-square base (**43 px corner radius**), transparent outside corners. The shape is in the image itself - no CSS clipping is needed.
+- **406 × 256** cards, preserving card proportions.
 - Searchable gallery with filters, light/dark/transparency previews, and individual downloads.
 - Machine-readable names, aliases, internal record IDs, repository paths, upstream paths, dimensions, byte sizes, SHA-256 hashes and recorded provenance.
 - Reproducible downloads and validation against the approved source snapshot.
@@ -130,4 +130,5 @@ See [RIGHTS.md](RIGHTS.md) for provenance, intended use, corrections and removal
 
 ---
 
-Built and maintained by [Aurato](https://aurato.io) — understand how money moves, anywhere.
+Built and maintained by [Aurato](https://aurato.io) -  
+understand how money moves, anywhere.
