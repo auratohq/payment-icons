@@ -16,7 +16,7 @@ Each catalog entry includes `source.kind` and, where recorded, `source.url`. The
 - `generated` and other labels containing `generated` identify generated artwork. In particular, most card images are illustrative generated artwork, not photographs or official reproductions of the named card.
 - Some categories intentionally use designed symbols instead of brand logos.
 - `source.url: null` means no absolute source link was recorded. An older relative source reference, when present, is preserved as `source.reference` and is not presented as a working link.
-- Shared image hashes mean multiple records use identical artwork. Distinct record IDs and paths are retained intentionally.
+- Shared image hashes mean multiple records use identical artwork. Distinct record IDs and descriptive paths are retained intentionally.
 
 ## Corrections and removal
 

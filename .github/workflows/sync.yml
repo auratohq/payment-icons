@@ -36,6 +36,7 @@ jobs:
         run: python scripts/collection.py download --workers 16
       - name: Export CSV and validate all assets
         run: |
+          python scripts/collection.py prune
           python scripts/collection.py export
           python scripts/collection.py validate
       - name: Commit verified assets

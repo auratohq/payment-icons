@@ -1,1165 +1,19 @@
 [
   {
-    "bytes": 11438,
-    "category": "standards",
-    "height": 256,
-    "id": "std_au_cdr_banking",
-    "name": "Australian Consumer Data Standards — Banking",
-    "path": "standards/std_au_cdr_banking.png",
-    "sha256": "26c3e808d4a7836e5f553c48b83a3ed2dfe66eb4881d4851ef64c66db9edb589",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 12146,
-    "category": "standards",
-    "height": 256,
-    "id": "std_berlin_group_nextgenpsd2",
-    "name": "Berlin Group NextGenPSD2 Framework",
-    "path": "standards/std_berlin_group_nextgenpsd2.png",
-    "sha256": "cf634f949d5d417d24da0d5bf9e4636d3fad3cd676aeb3a6ba93600a594810b1",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13049,
-    "category": "standards",
-    "height": 256,
-    "id": "std_berlin_group_open_finance",
-    "name": "Berlin Group openFinance API Framework",
-    "path": "standards/std_berlin_group_open_finance.png",
-    "sha256": "b352f2e678490fdd35941e894bee8cf6a98025ff8d3421a0b8b12f2005de492c",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 6612,
-    "category": "standards",
-    "height": 256,
-    "id": "std_cgi_mp",
-    "name": "Common Global Implementation Market Practice",
-    "path": "standards/std_cgi_mp.png",
-    "sha256": "785479bd0347a9de615326b3894aef3f7c8a374c4b6b09db1b3e3fc6c0407b95",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13121,
-    "category": "standards",
-    "height": 256,
-    "id": "std_chips_iso_20022_guidelines_2026",
-    "name": "CHIPS ISO 20022 Message Usage Guidelines 2026",
-    "path": "standards/std_chips_iso_20022_guidelines_2026.png",
-    "sha256": "d44507fc08ac7d9899cb0ebf4a320f458f2779c25beba7020c698abd91a9a826",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9983,
-    "category": "standards",
-    "height": 256,
-    "id": "std_chips_rules_2026",
-    "name": "CHIPS Rules and Administrative Procedures 2026",
-    "path": "standards/std_chips_rules_2026.png",
-    "sha256": "026c5dc5360b228d09e269df246b025ef982611643ea6c62cc401d5343239684",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13392,
-    "category": "standards",
-    "height": 256,
-    "id": "std_cpmi_iso_20022_harmonisation_2026",
-    "name": "CPMI Harmonised ISO 20022 Data Requirements for Cross-border Payments",
-    "path": "standards/std_cpmi_iso_20022_harmonisation_2026.png",
-    "sha256": "6007983fdf993f20f20df03ef6ecee45135dd32f0215f471d0a5844aea9790c7",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10712,
-    "category": "standards",
-    "height": 256,
-    "id": "std_emv_3ds",
-    "name": "EMV 3-D Secure",
-    "path": "standards/std_emv_3ds.png",
-    "sha256": "1a48bfb31e5d3872f231b038d516542ed89615f58937535b9d402e23ad5d1251",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9461,
-    "category": "standards",
-    "height": 256,
-    "id": "std_emv_contact_chip",
-    "name": "EMV Contact Chip Specifications",
-    "path": "standards/std_emv_contact_chip.png",
-    "sha256": "42b8b5de8d7fc693c5fda914a4af18834f304ae22021a5742a8bc35bd8bf0099",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9654,
-    "category": "standards",
-    "height": 256,
-    "id": "std_emv_contactless",
-    "name": "EMV Contactless Specifications",
-    "path": "standards/std_emv_contactless.png",
-    "sha256": "a41531d746d9d3d2631295855a2f75789b9d1c779762d0ffb242cae3fb2c5bca",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 8113,
-    "category": "standards",
-    "height": 256,
-    "id": "std_emv_ev_open_payments",
-    "name": "EMV Electric Vehicle Open Payments",
-    "path": "standards/std_emv_ev_open_payments.png",
-    "sha256": "35115f957f1e58fe7dae18b8ebe540ce8a5646fb7898c2cdb75bb74ddf5fcfb8",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 7236,
-    "category": "standards",
-    "height": 256,
-    "id": "std_emv_l3_testing",
-    "name": "EMV Level 3 Testing Framework",
-    "path": "standards/std_emv_l3_testing.png",
-    "sha256": "68ce5d443547d381bc426256ba7f29907b32e4dcb4dbdb554e50d030b7fa91e7",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 8079,
-    "category": "standards",
-    "height": 256,
-    "id": "std_emv_src",
-    "name": "EMV Secure Remote Commerce Specifications",
-    "path": "standards/std_emv_src.png",
-    "sha256": "094b7467da1d1febfe9a7436e14f915e5c31908b5a527b999e77765134cd3423",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11919,
-    "category": "standards",
-    "height": 256,
-    "id": "std_emv_tokenisation",
-    "name": "EMV Payment Tokenisation Specification",
-    "path": "standards/std_emv_tokenisation.png",
-    "sha256": "9243000a966d456305b459a5ad7d97bf7cbf6ef7e7d2c94d152ff31ebdba57f7",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 7768,
-    "category": "standards",
-    "height": 256,
-    "id": "std_emvco_qr",
-    "name": "EMV QR Code specifications",
-    "path": "standards/std_emvco_qr.png",
-    "sha256": "fbfefaa35e06beb3d455eda03e0781ba207619cdfbb86b35c4eb7bd89585fa23",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
     "bytes": 9767,
     "category": "standards",
     "height": 256,
     "id": "std_epc_oct_inst_2025",
     "name": "2025 One-Leg Out Instant Credit Transfer Rulebook v1.1",
-    "path": "standards/std_epc_oct_inst_2025.png",
     "sha256": "e47664a48288c9263ee18328c0382d95162a3b3830487a942098d74eed957221",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
-  },
-  {
-    "bytes": 8194,
-    "category": "standards",
-    "height": 256,
-    "id": "std_epc_spaa_v1_1",
-    "name": "SEPA Payment Account Access Scheme Rulebook v1.1",
-    "path": "standards/std_epc_spaa_v1_1.png",
-    "sha256": "bc9d4d1892788d0e3cb5bfdf21e3b32cc97d52e76445c93ef98e59f48b9e6feb",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 8417,
-    "category": "standards",
-    "height": 256,
-    "id": "std_epc_srtp_v4",
-    "name": "SEPA Request-to-Pay Scheme Rulebook v4.0",
-    "path": "standards/std_epc_srtp_v4.png",
-    "sha256": "7072c8b2b441ac2483ebd8f83374a8182fc101a8666fc291d55ffc5a4216d73f",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 8803,
-    "category": "standards",
-    "height": 256,
-    "id": "std_epc_vop_v1_1",
-    "name": "EPC Verification of Payee Scheme Rulebook v1.1",
-    "path": "standards/std_epc_vop_v1_1.png",
-    "sha256": "2edfc190bafa7023534b8155402c01f97e8a7fb4d73ccc65b96e93ffa49583fa",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 12929,
-    "category": "standards",
-    "height": 256,
-    "id": "std_fapi_2_attacker_model",
-    "name": "OpenID FAPI 2.0 Attacker Model",
-    "path": "standards/std_fapi_2_attacker_model.png",
-    "sha256": "57f6e29da059f3f06752bd4268e9d8452c2c607e417c7c5a0262a800c0f4327f",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11560,
-    "category": "standards",
-    "height": 256,
-    "id": "std_fapi_2_security",
-    "name": "OpenID FAPI 2.0 Security Profile",
-    "path": "standards/std_fapi_2_security.png",
-    "sha256": "2da780aa652ba9a6dd1e9fb32fc6464e9ed38b8fbdea712b268945147ec80369",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9721,
-    "category": "standards",
-    "height": 256,
-    "id": "std_fdx_api_6",
-    "name": "Financial Data Exchange API Standard",
-    "path": "standards/std_fdx_api_6.png",
-    "sha256": "ffd930ee5a83f1a173edb0a664f9e6440ae03443a49840ee6b8202c5ab9ab135",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9523,
-    "category": "standards",
-    "height": 256,
-    "id": "std_fedach_operating_circular_4",
-    "name": "Federal Reserve Operating Circular 4 — FedACH Services",
-    "path": "standards/std_fedach_operating_circular_4.png",
-    "sha256": "5d4dfea82707e66df4bea23fff5b5eb1aacd46bbfbe7d6a455b105e763c5352d",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9706,
-    "category": "standards",
-    "height": 256,
-    "id": "std_fednow_operating_circular_8",
-    "name": "Federal Reserve Operating Circular 8 — FedNow Service",
-    "path": "standards/std_fednow_operating_circular_8.png",
-    "sha256": "7f2de8798ac3dd412732d124da163b130d44ceff13166a47423877ebff12cab5",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10379,
-    "category": "standards",
-    "height": 256,
-    "id": "std_fednow_operating_procedures",
-    "name": "FedNow Service Operating Procedures",
-    "path": "standards/std_fednow_operating_procedures.png",
-    "sha256": "d276dffb4302488bc0cc81e1d72b7fae83940b36c539221d4da1b3075a8d163f",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9686,
-    "category": "standards",
-    "height": 256,
-    "id": "std_fedwire_operating_circular_6",
-    "name": "Federal Reserve Operating Circular 6 — Fedwire Funds Service",
-    "path": "standards/std_fedwire_operating_circular_6.png",
-    "sha256": "f8edabf06e6e109c4e3799873658bfd13c1b4bc131fb5db298a18f45a8f0418b",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 6347,
-    "category": "standards",
-    "height": 256,
-    "id": "std_hvps_plus",
-    "name": "HVPS+ ISO 20022 Usage Guidelines",
-    "path": "standards/std_hvps_plus.png",
-    "sha256": "efb0bcf89c5504f647cca60f8dea076263998562ef69e0f2d93b8a4e808f5327",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 8082,
-    "category": "standards",
-    "height": 256,
-    "id": "std_ideal_qr",
-    "name": "iDEAL QR Code implementation",
-    "path": "standards/std_ideal_qr.png",
-    "sha256": "d0162037afcb5f7d6f3fa6f1dff2c5c70a84c77f0e689a9bab572fb8c3b244db",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11356,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_11568_2023",
-    "name": "ISO 11568:2023 Retail Key Management",
-    "path": "standards/std_iso_11568_2023.png",
-    "sha256": "6974ac217c7252e2d746bd544713e3371828b558f8af79f6eaf74a0d1a19ddd3",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10492,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_11649_2009",
-    "name": "ISO 11649:2009 Structured Creditor Reference",
-    "path": "standards/std_iso_11649_2009.png",
-    "sha256": "d4805ae5f689f94d3aba7c16d083d21c856760411e1384aa2c943650db4b5db3",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 8888,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_12812_1_2017",
-    "name": "ISO 12812-1:2017 Mobile Financial Services — General Framework",
-    "path": "standards/std_iso_12812_1_2017.png",
-    "sha256": "64d9a98c6fc79f77a4c5f8014d87253c97388a5083427fcb4bacb9f8243757bc",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11415,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_13491_1_2024",
-    "name": "ISO 13491-1:2024 Secure Cryptographic Devices — Concepts and Requirements",
-    "path": "standards/std_iso_13491_1_2024.png",
-    "sha256": "447dc2b519fb75a087a5e3da4c259e35585e7092e209693dd7e0d105bc7d5e42",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11701,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_13491_2_2023",
-    "name": "ISO 13491-2:2023 Secure Cryptographic Devices — Security Compliance Checklists",
-    "path": "standards/std_iso_13491_2_2023.png",
-    "sha256": "c70e7578750670ccd577a730716ff26fe1e39f7826f1ec1aa4d336a58c372c92",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10680,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_13616_1_2020",
-    "name": "ISO 13616-1:2020 International Bank Account Number",
-    "path": "standards/std_iso_13616_1_2020.png",
-    "sha256": "f74044cb7c08910ed57833d744923ce6dee8fcb5b0a18b97bd7ca219a3f73d8a",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11806,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_16609_2022",
-    "name": "ISO 16609:2022 Message Authentication Requirements",
-    "path": "standards/std_iso_16609_2022.png",
-    "sha256": "9897a10989eaea6e6807e40012cd6d6628dce8f799e31b13a7995c3a0cf39054",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10220,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_17442_1_2020",
-    "name": "ISO 17442-1:2020 Legal Entity Identifier",
-    "path": "standards/std_iso_17442_1_2020.png",
-    "sha256": "80e886893a862c4a15973154347e450a5bf82074507438e77f19d8170f1bdfa3",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11275,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_18245_2023",
-    "name": "ISO 18245:2023 Merchant Category Codes",
-    "path": "standards/std_iso_18245_2023.png",
-    "sha256": "fa3e6259d9cd1d004652bae825096c6f5b20dba8b07d1ab08c62596e92fdb4da",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 8220,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_20022",
-    "name": "ISO 20022 Financial Services — Universal financial industry message scheme",
-    "path": "standards/std_iso_20022.png",
-    "sha256": "4ddd4b108d1324b88b8d835c1ba0664ac2a94aa29939e265d274d86bf04a7964",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11968,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_20038_2026",
-    "name": "ISO 20038:2026 Key Wrap Using AES",
-    "path": "standards/std_iso_20038_2026.png",
-    "sha256": "83fba94920f24e845a258d5822a6603f1e725e2f0a4ae57abb5f4f2d6453dc2a",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11365,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_21188_2018",
-    "name": "ISO 21188:2018 Public Key Infrastructure for Financial Services",
-    "path": "standards/std_iso_21188_2018.png",
-    "sha256": "92e1c87f9d802405b1f835b856e521d5299700cc4285393f1bc975479aaaeb17",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10486,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_3166_1",
-    "name": "ISO 3166-1 — Country codes",
-    "path": "standards/std_iso_3166_1.png",
-    "sha256": "2046590733b185dff61135cd49fc5e1b073e72ddc4c85c12e038beb0c4f18a21",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9644,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_4217",
-    "name": "ISO 4217 — Currency codes",
-    "path": "standards/std_iso_4217.png",
-    "sha256": "1b4622ff864919e7c99039ec5155926ead17166e7d222e566487f041f491280b",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 8225,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_8583_2023",
-    "name": "ISO 8583:2023 Financial-transaction-card-originated messages",
-    "path": "standards/std_iso_8583_2023.png",
-    "sha256": "d18e5fcaf538ac96239443be788dffd9cb8a9fc5c637b9e611a0867ac33cb496",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11121,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_9362_2022",
-    "name": "ISO 9362:2022 Business Identifier Code",
-    "path": "standards/std_iso_9362_2022.png",
-    "sha256": "3eb423a87e540eba14460fad7206380db7b6cc879e36257fc75a03e4d08e4867",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11594,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_9564_1",
-    "name": "ISO 9564-1:2017 PIN Management and Security",
-    "path": "standards/std_iso_9564_1.png",
-    "sha256": "2945b3f883b019b8e0cb0e1678cffd025fdfde3808b2b4a5ddb5a089e008ab82",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 12245,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_iec_27001_2022",
-    "name": "ISO/IEC 27001 Information Security Management Systems",
-    "path": "standards/std_iso_iec_27001_2022.png",
-    "sha256": "1f701d5def8b18bae069825da60dbb985dd2a9c2d124c00aa303575ed7a0a3c2",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 12075,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_iec_27017_2026",
-    "name": "ISO/IEC 27017:2026 Cloud Services Security Controls",
-    "path": "standards/std_iso_iec_27017_2026.png",
-    "sha256": "d210112a99c43625bec82e14fc972f9ab5a2f6401e5ae0a911d2ca80ff89f523",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10176,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_iec_7812_1",
-    "name": "ISO/IEC 7812-1",
-    "path": "standards/std_iso_iec_7812_1.png",
-    "sha256": "f584223f0877f167dc2a99030226a95366ce1b3a090dd40e0649e9105dba3993",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10433,
-    "category": "standards",
-    "height": 256,
-    "id": "std_iso_iec_7812_2_2017",
-    "name": "ISO/IEC 7812-2:2017 Issuer Identification Number Registration",
-    "path": "standards/std_iso_iec_7812_2_2017.png",
-    "sha256": "ca1b4e8a449c25c6f330d535ee26b3a75d607e36608824368fdfc918e4be67a3",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9914,
-    "category": "standards",
-    "height": 256,
-    "id": "std_mastercard_rules",
-    "name": "Mastercard Rules",
-    "path": "standards/std_mastercard_rules.png",
-    "sha256": "a55e92dd4071975592305f96900b65c5c2453e25b791c502f09f7e6bab272688",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 16061,
-    "category": "standards",
-    "height": 256,
-    "id": "std_mastercard_security_rules_procedures",
-    "name": "Mastercard Security Rules and Procedures",
-    "path": "standards/std_mastercard_security_rules_procedures.png",
-    "sha256": "78931402fe542ba15db5829dfda7f63f7e74918b7c620697bd463405ed41d526",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11533,
-    "category": "standards",
-    "height": 256,
-    "id": "std_mastercard_switch_rules",
-    "name": "Mastercard Switch Rules",
-    "path": "standards/std_mastercard_switch_rules.png",
-    "sha256": "5bfe7869d7acffe4f6859f80fa38cb4c69892ade26082f486868c2fb207a5a8e",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 12240,
-    "category": "standards",
-    "height": 256,
-    "id": "std_mastercard_transaction_processing_rules",
-    "name": "Mastercard Transaction Processing Rules",
-    "path": "standards/std_mastercard_transaction_processing_rules.png",
-    "sha256": "511f14d8f33d2eb605709577d7c51f1f8ae6ce4cc1ea03fe79e0216c23e78ff3",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10142,
-    "category": "standards",
-    "height": 256,
-    "id": "std_nacha_rules_2026",
-    "name": "2026 Nacha Operating Rules & Guidelines",
-    "path": "standards/std_nacha_rules_2026.png",
-    "sha256": "6e89302bd0bd69b2df22bb335516d7ceb90a6f47e4fa9371dfc4909124caad5d",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9547,
-    "category": "standards",
-    "height": 256,
-    "id": "std_nexo_acquirer_protocol",
-    "name": "nexo Acquirer Protocol",
-    "path": "standards/std_nexo_acquirer_protocol.png",
-    "sha256": "d09eb229906da747db85ce2c5d6d6f8d520b1e6ec63f66412139a32b229e8f74",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9418,
-    "category": "standards",
-    "height": 256,
-    "id": "std_nexo_retailer_protocol",
-    "name": "nexo Retailer Protocol",
-    "path": "standards/std_nexo_retailer_protocol.png",
-    "sha256": "44a84b38b4bae41f47153e419eacadf939c69a9d4a9ac81ff5d819d76de02492",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 8301,
-    "category": "standards",
-    "height": 256,
-    "id": "std_nexo_tms_protocol",
-    "name": "nexo TMS Protocol",
-    "path": "standards/std_nexo_tms_protocol.png",
-    "sha256": "06585c878e999c7f6c26f0aeb3709f61e453f4d56a0e18c11b8587ccbe9e1adc",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10629,
-    "category": "standards",
-    "height": 256,
-    "id": "std_npp_product_rules_v28",
-    "name": "New Payments Platform Product Rules v28",
-    "path": "standards/std_npp_product_rules_v28.png",
-    "sha256": "c0845bf4023ed925ec8be3c7c39f8d0908fb57452501df42937e3a277085adaa",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13076,
-    "category": "standards",
-    "height": 256,
-    "id": "std_open_banking_nigeria_v1",
-    "name": "Open Banking Nigeria API Standard v1",
-    "path": "standards/std_open_banking_nigeria_v1.png",
-    "sha256": "10a458fbe9e5527aaf55ed79329fb001cea62ba23d0d7af5df4c352daf455c0a",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 12310,
-    "category": "standards",
-    "height": 256,
-    "id": "std_open_finance_brazil_apis",
-    "name": "Open Finance Brasil API Standards",
-    "path": "standards/std_open_finance_brazil_apis.png",
-    "sha256": "02a0a35113814e287eba571495a934b66671213f68bb9f91758b7b289e969a8d",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 12007,
-    "category": "standards",
-    "height": 256,
-    "id": "std_openid_ciba_core_1_0",
-    "name": "OpenID Connect Client-Initiated Backchannel Authentication Core 1.0",
-    "path": "standards/std_openid_ciba_core_1_0.png",
-    "sha256": "918007a79a889baa5d39f6452623f8579234da754404674799579475ea021f8c",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10472,
-    "category": "standards",
-    "height": 256,
-    "id": "std_payments_canada_acss_rules_2026",
-    "name": "Payments Canada ACSS Rules 2026",
-    "path": "standards/std_payments_canada_acss_rules_2026.png",
-    "sha256": "4377f0844ead1ffaf728dc4d396e6231330b87117184917498603177a00d159f",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9704,
-    "category": "standards",
-    "height": 256,
-    "id": "std_payments_canada_lynx_rules_2026",
-    "name": "Payments Canada Lynx Rules 2026",
-    "path": "standards/std_payments_canada_lynx_rules_2026.png",
-    "sha256": "8d2f0b61dc56d1f0e889f1022c139a97abc9bc10771ae10dd80870ac6c85a75d",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11534,
-    "category": "standards",
-    "height": 256,
-    "id": "std_payments_nz_api_v3",
-    "name": "Payments NZ API Standards v3.0",
-    "path": "standards/std_payments_nz_api_v3.png",
-    "sha256": "cab4794fc6a257d6995b97dfddaab14a0f5564bac184dbb745e9778a9d366269",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 12064,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_3ds_core",
-    "name": "PCI 3DS Core Security Standard",
-    "path": "standards/std_pci_3ds_core.png",
-    "sha256": "8503f6b4b43873aefafe440539d11ec5b5f8011fb35025d7387a674238ffa909",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11863,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_3ds_sdk",
-    "name": "PCI 3DS SDK Security Standard",
-    "path": "standards/std_pci_3ds_sdk.png",
-    "sha256": "05c9beb182e2e7d1f5536b3a88f903dde2a45f14d87805b4e97045e384897c18",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 15138,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_card_production_logical_v3",
-    "name": "PCI Card Production and Provisioning — Logical v3.0",
-    "path": "standards/std_pci_card_production_logical_v3.png",
-    "sha256": "724655c84eac6dde8f62f047d42218b8c56819b3ef5c52f4c2971f77bfe9b8b7",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 15087,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_card_production_physical_v3",
-    "name": "PCI Card Production and Provisioning — Physical v3.0",
-    "path": "standards/std_pci_card_production_physical_v3.png",
-    "sha256": "d43b8992fb3a992598ead58126a410c46b69ac2198c58803fbb55ca023a19c16",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10581,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_dss_v4_0_1",
-    "name": "Payment Card Industry Data Security Standard v4.0.1",
-    "path": "standards/std_pci_dss_v4_0_1.png",
-    "sha256": "8c9a5b533ee7898c4cbadfd67e406e4ea029a5c62f0c2005b0bcb12c9cc98582",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10549,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_mpoc",
-    "name": "PCI Mobile Payments on COTS",
-    "path": "standards/std_pci_mpoc.png",
-    "sha256": "c8bd4d7af75fcbc0b5b7684219a0526f64a3fa689300bcbd0f64120f22424c6c",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10088,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_p2pe",
-    "name": "PCI Point-to-Point Encryption",
-    "path": "standards/std_pci_p2pe.png",
-    "sha256": "49312139010e9c81fdc2b496da2baf578de47bb53aa194e6bc7f7568f496d788",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11555,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_pin",
-    "name": "PCI PIN Security Requirements",
-    "path": "standards/std_pci_pin.png",
-    "sha256": "8a274cebad71ec99e181a09f122fabeb94d91aa090582a17391143436e5d016f",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11021,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_pts_hsm",
-    "name": "PCI PTS Hardware Security Module",
-    "path": "standards/std_pci_pts_hsm.png",
-    "sha256": "eeb0a4a4806d67bbdd34348eb9f620ef43ed269d54072d2514e3be90007e80d8",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10841,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_pts_poi",
-    "name": "PCI PTS Point of Interaction Requirements",
-    "path": "standards/std_pci_pts_poi.png",
-    "sha256": "ef86bebf6b6707c9b5ebb2f316250bba53279ce9ef07568aabf9b0f5b3c03ead",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11769,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_secure_slc",
-    "name": "PCI Secure Software Lifecycle Standard",
-    "path": "standards/std_pci_secure_slc.png",
-    "sha256": "9efaf2a98eaf455e829e1c9f859c78b80771612033d7ef308a3c22e4f219b5b7",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 12260,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_secure_software",
-    "name": "PCI Secure Software Standard",
-    "path": "standards/std_pci_secure_software.png",
-    "sha256": "21b9d027e8cc2e93f51d1f62fb549717ce3d1fc2767e893d2a52e56b728872aa",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10012,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pci_tsp",
-    "name": "PCI Token Service Provider Standard",
-    "path": "standards/std_pci_tsp.png",
-    "sha256": "70438159f9bf747b5013063cc8fb6fa7c8ad6921be74ffae58f2f7d5b2db0f65",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9016,
-    "category": "standards",
-    "height": 256,
-    "id": "std_pix_regulation",
-    "name": "Pix Regulation",
-    "path": "standards/std_pix_regulation.png",
-    "sha256": "7f01509d7889214290f66c2423d3b21555d269bcc59eb12bef784895c8275b1f",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10875,
-    "category": "standards",
-    "height": 256,
-    "id": "std_rebit_account_aggregator_api_v2",
-    "name": "ReBIT Account Aggregator Ecosystem API Specifications v2.0",
-    "path": "standards/std_rebit_account_aggregator_api_v2.png",
-    "sha256": "970b923a96484f3b2086f6a7875a2bfe284680f5b2c049e8398b42a0e6581293",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11098,
-    "category": "standards",
-    "height": 256,
-    "id": "std_rfc_8705",
-    "name": "RFC 8705 OAuth 2.0 Mutual-TLS Client Authentication",
-    "path": "standards/std_rfc_8705.png",
-    "sha256": "a6a1e1168c7f9fbfbe087893bedb327aaa40871cf3b8ba1e438e15cb80769cd3",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11942,
-    "category": "standards",
-    "height": 256,
-    "id": "std_rfc_9449",
-    "name": "RFC 9449 OAuth 2.0 Demonstrating Proof of Possession",
-    "path": "standards/std_rfc_9449.png",
-    "sha256": "839cec9c17e542706f983af1f7430647e6cf494c20d065c77136916f483d4c64",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11777,
-    "category": "standards",
-    "height": 256,
-    "id": "std_rfc_9700",
-    "name": "RFC 9700 OAuth 2.0 Security Best Current Practice",
-    "path": "standards/std_rfc_9700.png",
-    "sha256": "a3b6020093a4e67f323698429bdda330fd6b86deccdde6f2a2f0aa3c704341ea",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13695,
-    "category": "standards",
-    "height": 256,
-    "id": "std_saudi_open_banking_framework",
-    "name": "Saudi Open Banking Framework",
-    "path": "standards/std_saudi_open_banking_framework.png",
-    "sha256": "685e4fb90456317352f7124bf8743b5ad4854182068b10b8674126f83457fe55",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_epc_oct_inst_2025.png",
+    "aliases": [],
+    "path": "standards/2025-one-leg-out-instant-credit-transfer-rulebook-v1-1.png"
   },
   {
     "bytes": 8737,
@@ -1167,27 +21,15 @@
     "height": 256,
     "id": "std_sct_2025",
     "name": "2025 SEPA Credit Transfer Rulebook v1.1",
-    "path": "standards/std_sct_2025.png",
     "sha256": "f9b2732b2cf1c2e861c9bb74c79c6d9d424126d5d54b20f94e3b6d3e7df9636e",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
-  },
-  {
-    "bytes": 9711,
-    "category": "standards",
-    "height": 256,
-    "id": "std_sct_inst_2025",
-    "name": "2025 SEPA Instant Credit Transfer Rulebook v1.1",
-    "path": "standards/std_sct_inst_2025.png",
-    "sha256": "94e7ba44b16003e12360a288de2d10316c43a84ba7869c9cfde4a4ed229e4182",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_sct_2025.png",
+    "aliases": [],
+    "path": "standards/2025-sepa-credit-transfer-rulebook-v1-1.png"
   },
   {
     "bytes": 10010,
@@ -1195,13 +37,15 @@
     "height": 256,
     "id": "std_sdd_b2b_2025",
     "name": "2025 SEPA Direct Debit B2B Rulebook v1.1",
-    "path": "standards/std_sdd_b2b_2025.png",
     "sha256": "75cb53be05d6dc8bee3afbb135618c9d4a4d2ed67d6ecc3eb6d17c2b7d83b142",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_sdd_b2b_2025.png",
+    "aliases": [],
+    "path": "standards/2025-sepa-direct-debit-b2b-rulebook-v1-1.png"
   },
   {
     "bytes": 10535,
@@ -1209,125 +53,95 @@
     "height": 256,
     "id": "std_sdd_core_2025",
     "name": "2025 SEPA Direct Debit Core Rulebook v1.1",
-    "path": "standards/std_sdd_core_2025.png",
     "sha256": "ac18aad4c88634070d9e0a1246867a3ec19bbf3baec57260cf872bc38c546e96",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_sdd_core_2025.png",
+    "aliases": [],
+    "path": "standards/2025-sepa-direct-debit-core-rulebook-v1-1.png"
   },
   {
-    "bytes": 11181,
+    "bytes": 9711,
     "category": "standards",
     "height": 256,
-    "id": "std_stet_psd2_api_v1_6_3",
-    "name": "STET PSD2 API v1.6.3",
-    "path": "standards/std_stet_psd2_api_v1_6_3.png",
-    "sha256": "48b871e256edad96cd3373b0e11bbec1e5a7bac9f607ba7933c6c6a71bf65284",
+    "id": "std_sct_inst_2025",
+    "name": "2025 SEPA Instant Credit Transfer Rulebook v1.1",
+    "sha256": "94e7ba44b16003e12360a288de2d10316c43a84ba7869c9cfde4a4ed229e4182",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_sct_inst_2025.png",
+    "aliases": [],
+    "path": "standards/2025-sepa-instant-credit-transfer-rulebook-v1-1.png"
   },
   {
-    "bytes": 6434,
+    "bytes": 10142,
     "category": "standards",
     "height": 256,
-    "id": "std_swift_cbpr_plus",
-    "name": "Swift CBPR+ Usage Guidelines",
-    "path": "standards/std_swift_cbpr_plus.png",
-    "sha256": "dec7efe511efe20e55ff4da3aad04a2c80d7b29b1582f56603959006575372c2",
+    "id": "std_nacha_rules_2026",
+    "name": "2026 Nacha Operating Rules & Guidelines",
+    "sha256": "6e89302bd0bd69b2df22bb335516d7ceb90a6f47e4fa9371dfc4909124caad5d",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_nacha_rules_2026.png",
+    "aliases": [],
+    "path": "standards/2026-nacha-operating-rules-and-guidelines.png"
   },
   {
-    "bytes": 12691,
+    "bytes": 11438,
     "category": "standards",
     "height": 256,
-    "id": "std_swift_cscf_2026",
-    "name": "Swift Customer Security Controls Framework v2026",
-    "path": "standards/std_swift_cscf_2026.png",
-    "sha256": "7e111d937bdde9747426ea3db348b3423e42e7e259b82296b002a4b60ae4f00f",
+    "id": "std_au_cdr_banking",
+    "name": "Australian Consumer Data Standards — Banking",
+    "sha256": "26c3e808d4a7836e5f553c48b83a3ed2dfe66eb4881d4851ef64c66db9edb589",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
-  },
-  {
-    "bytes": 8760,
-    "category": "standards",
-    "height": 256,
-    "id": "std_swift_mt_2026",
-    "name": "Swift MT Standards Release 2026",
-    "path": "standards/std_swift_mt_2026.png",
-    "sha256": "d8712ed5e5ae50ef5073f0ae1da7d348f4ab7cbbfb95f9ab3f7b4e8b28b7de56",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_au_cdr_banking.png",
+    "aliases": [],
+    "path": "standards/australian-consumer-data-standards-banking.png"
   },
   {
     "bytes": 12146,
     "category": "standards",
     "height": 256,
-    "id": "std_tch_rtp_message_specifications",
-    "name": "RTP Network Message Specifications",
-    "path": "standards/std_tch_rtp_message_specifications.png",
-    "sha256": "846ccd8cd6515aa4d428e9aeaa4bc81b43b255f8a9b6d9e2c00f65bed87a6f63",
+    "id": "std_berlin_group_nextgenpsd2",
+    "name": "Berlin Group NextGenPSD2 Framework",
+    "sha256": "cf634f949d5d417d24da0d5bf9e4636d3fad3cd676aeb3a6ba93600a594810b1",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_berlin_group_nextgenpsd2.png",
+    "aliases": [],
+    "path": "standards/berlin-group-nextgenpsd2-framework.png"
   },
   {
-    "bytes": 9699,
+    "bytes": 13049,
     "category": "standards",
     "height": 256,
-    "id": "std_tch_rtp_operating_rules",
-    "name": "RTP Network Operating Rules",
-    "path": "standards/std_tch_rtp_operating_rules.png",
-    "sha256": "ad0f6d19d798916f669ea31d5fc385f46469d2abaeb7c3e292589da4acdb971b",
+    "id": "std_berlin_group_open_finance",
+    "name": "Berlin Group openFinance API Framework",
+    "sha256": "b352f2e678490fdd35941e894bee8cf6a98025ff8d3421a0b8b12f2005de492c",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
-  },
-  {
-    "bytes": 10566,
-    "category": "standards",
-    "height": 256,
-    "id": "std_tch_rtp_participation_rules",
-    "name": "RTP Network Participation Rules",
-    "path": "standards/std_tch_rtp_participation_rules.png",
-    "sha256": "7e29f0b292ac9b2b560c3c2e5f2f3c1a5bf8ff419a5b9ae9597d598ca54691ce",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 12855,
-    "category": "standards",
-    "height": 256,
-    "id": "std_uk_ob_read_write_api",
-    "name": "UK Open Banking Read/Write API Standard",
-    "path": "standards/std_uk_ob_read_write_api.png",
-    "sha256": "3bc5709a2c31004bba1e2459fe24595c7f11b02519ee609d6c7c59b4edf13246",
-    "source": {
-      "kind": "curated_category_icon",
-      "url": null
-    },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_berlin_group_open_finance.png",
+    "aliases": [],
+    "path": "standards/berlin-group-openfinance-api-framework.png"
   },
   {
     "bytes": 9698,
@@ -1335,13 +149,1391 @@
     "height": 256,
     "id": "std_upi_bhim_2026",
     "name": "BHIM UPI Guidelines 2026",
-    "path": "standards/std_upi_bhim_2026.png",
     "sha256": "50325809031c696e4adefb6c4473299ea94e40e181eafd7dc3508afb7f95bec8",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_upi_bhim_2026.png",
+    "aliases": [],
+    "path": "standards/bhim-upi-guidelines-2026.png"
+  },
+  {
+    "bytes": 13121,
+    "category": "standards",
+    "height": 256,
+    "id": "std_chips_iso_20022_guidelines_2026",
+    "name": "CHIPS ISO 20022 Message Usage Guidelines 2026",
+    "sha256": "d44507fc08ac7d9899cb0ebf4a320f458f2779c25beba7020c698abd91a9a826",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_chips_iso_20022_guidelines_2026.png",
+    "aliases": [],
+    "path": "standards/chips-iso-20022-message-usage-guidelines-2026.png"
+  },
+  {
+    "bytes": 9983,
+    "category": "standards",
+    "height": 256,
+    "id": "std_chips_rules_2026",
+    "name": "CHIPS Rules and Administrative Procedures 2026",
+    "sha256": "026c5dc5360b228d09e269df246b025ef982611643ea6c62cc401d5343239684",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_chips_rules_2026.png",
+    "aliases": [],
+    "path": "standards/chips-rules-and-administrative-procedures-2026.png"
+  },
+  {
+    "bytes": 6612,
+    "category": "standards",
+    "height": 256,
+    "id": "std_cgi_mp",
+    "name": "Common Global Implementation Market Practice",
+    "sha256": "785479bd0347a9de615326b3894aef3f7c8a374c4b6b09db1b3e3fc6c0407b95",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_cgi_mp.png",
+    "aliases": [],
+    "path": "standards/common-global-implementation-market-practice.png"
+  },
+  {
+    "bytes": 13392,
+    "category": "standards",
+    "height": 256,
+    "id": "std_cpmi_iso_20022_harmonisation_2026",
+    "name": "CPMI Harmonised ISO 20022 Data Requirements for Cross-border Payments",
+    "sha256": "6007983fdf993f20f20df03ef6ecee45135dd32f0215f471d0a5844aea9790c7",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_cpmi_iso_20022_harmonisation_2026.png",
+    "aliases": [],
+    "path": "standards/cpmi-harmonised-iso-20022-data-requirements-for-cross-border-payments.png"
+  },
+  {
+    "bytes": 10712,
+    "category": "standards",
+    "height": 256,
+    "id": "std_emv_3ds",
+    "name": "EMV 3-D Secure",
+    "sha256": "1a48bfb31e5d3872f231b038d516542ed89615f58937535b9d402e23ad5d1251",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_emv_3ds.png",
+    "aliases": [],
+    "path": "standards/emv-3-d-secure.png"
+  },
+  {
+    "bytes": 9461,
+    "category": "standards",
+    "height": 256,
+    "id": "std_emv_contact_chip",
+    "name": "EMV Contact Chip Specifications",
+    "sha256": "42b8b5de8d7fc693c5fda914a4af18834f304ae22021a5742a8bc35bd8bf0099",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_emv_contact_chip.png",
+    "aliases": [],
+    "path": "standards/emv-contact-chip-specifications.png"
+  },
+  {
+    "bytes": 9654,
+    "category": "standards",
+    "height": 256,
+    "id": "std_emv_contactless",
+    "name": "EMV Contactless Specifications",
+    "sha256": "a41531d746d9d3d2631295855a2f75789b9d1c779762d0ffb242cae3fb2c5bca",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_emv_contactless.png",
+    "aliases": [],
+    "path": "standards/emv-contactless-specifications.png"
+  },
+  {
+    "bytes": 8113,
+    "category": "standards",
+    "height": 256,
+    "id": "std_emv_ev_open_payments",
+    "name": "EMV Electric Vehicle Open Payments",
+    "sha256": "35115f957f1e58fe7dae18b8ebe540ce8a5646fb7898c2cdb75bb74ddf5fcfb8",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_emv_ev_open_payments.png",
+    "aliases": [],
+    "path": "standards/emv-electric-vehicle-open-payments.png"
+  },
+  {
+    "bytes": 7236,
+    "category": "standards",
+    "height": 256,
+    "id": "std_emv_l3_testing",
+    "name": "EMV Level 3 Testing Framework",
+    "sha256": "68ce5d443547d381bc426256ba7f29907b32e4dcb4dbdb554e50d030b7fa91e7",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_emv_l3_testing.png",
+    "aliases": [],
+    "path": "standards/emv-level-3-testing-framework.png"
+  },
+  {
+    "bytes": 11919,
+    "category": "standards",
+    "height": 256,
+    "id": "std_emv_tokenisation",
+    "name": "EMV Payment Tokenisation Specification",
+    "sha256": "9243000a966d456305b459a5ad7d97bf7cbf6ef7e7d2c94d152ff31ebdba57f7",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_emv_tokenisation.png",
+    "aliases": [],
+    "path": "standards/emv-payment-tokenisation-specification.png"
+  },
+  {
+    "bytes": 7768,
+    "category": "standards",
+    "height": 256,
+    "id": "std_emvco_qr",
+    "name": "EMV QR Code specifications",
+    "sha256": "fbfefaa35e06beb3d455eda03e0781ba207619cdfbb86b35c4eb7bd89585fa23",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_emvco_qr.png",
+    "aliases": [],
+    "path": "standards/emv-qr-code-specifications.png"
+  },
+  {
+    "bytes": 8079,
+    "category": "standards",
+    "height": 256,
+    "id": "std_emv_src",
+    "name": "EMV Secure Remote Commerce Specifications",
+    "sha256": "094b7467da1d1febfe9a7436e14f915e5c31908b5a527b999e77765134cd3423",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_emv_src.png",
+    "aliases": [],
+    "path": "standards/emv-secure-remote-commerce-specifications.png"
+  },
+  {
+    "bytes": 8803,
+    "category": "standards",
+    "height": 256,
+    "id": "std_epc_vop_v1_1",
+    "name": "EPC Verification of Payee Scheme Rulebook v1.1",
+    "sha256": "2edfc190bafa7023534b8155402c01f97e8a7fb4d73ccc65b96e93ffa49583fa",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_epc_vop_v1_1.png",
+    "aliases": [],
+    "path": "standards/epc-verification-of-payee-scheme-rulebook-v1-1.png"
+  },
+  {
+    "bytes": 9523,
+    "category": "standards",
+    "height": 256,
+    "id": "std_fedach_operating_circular_4",
+    "name": "Federal Reserve Operating Circular 4 — FedACH Services",
+    "sha256": "5d4dfea82707e66df4bea23fff5b5eb1aacd46bbfbe7d6a455b105e763c5352d",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_fedach_operating_circular_4.png",
+    "aliases": [],
+    "path": "standards/federal-reserve-operating-circular-4-fedach-services.png"
+  },
+  {
+    "bytes": 9686,
+    "category": "standards",
+    "height": 256,
+    "id": "std_fedwire_operating_circular_6",
+    "name": "Federal Reserve Operating Circular 6 — Fedwire Funds Service",
+    "sha256": "f8edabf06e6e109c4e3799873658bfd13c1b4bc131fb5db298a18f45a8f0418b",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_fedwire_operating_circular_6.png",
+    "aliases": [],
+    "path": "standards/federal-reserve-operating-circular-6-fedwire-funds-service.png"
+  },
+  {
+    "bytes": 9706,
+    "category": "standards",
+    "height": 256,
+    "id": "std_fednow_operating_circular_8",
+    "name": "Federal Reserve Operating Circular 8 — FedNow Service",
+    "sha256": "7f2de8798ac3dd412732d124da163b130d44ceff13166a47423877ebff12cab5",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_fednow_operating_circular_8.png",
+    "aliases": [],
+    "path": "standards/federal-reserve-operating-circular-8-fednow-service.png"
+  },
+  {
+    "bytes": 10379,
+    "category": "standards",
+    "height": 256,
+    "id": "std_fednow_operating_procedures",
+    "name": "FedNow Service Operating Procedures",
+    "sha256": "d276dffb4302488bc0cc81e1d72b7fae83940b36c539221d4da1b3075a8d163f",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_fednow_operating_procedures.png",
+    "aliases": [],
+    "path": "standards/fednow-service-operating-procedures.png"
+  },
+  {
+    "bytes": 9721,
+    "category": "standards",
+    "height": 256,
+    "id": "std_fdx_api_6",
+    "name": "Financial Data Exchange API Standard",
+    "sha256": "ffd930ee5a83f1a173edb0a664f9e6440ae03443a49840ee6b8202c5ab9ab135",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_fdx_api_6.png",
+    "aliases": [],
+    "path": "standards/financial-data-exchange-api-standard.png"
+  },
+  {
+    "bytes": 6347,
+    "category": "standards",
+    "height": 256,
+    "id": "std_hvps_plus",
+    "name": "HVPS+ ISO 20022 Usage Guidelines",
+    "sha256": "efb0bcf89c5504f647cca60f8dea076263998562ef69e0f2d93b8a4e808f5327",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_hvps_plus.png",
+    "aliases": [],
+    "path": "standards/hvps-plus-iso-20022-usage-guidelines.png"
+  },
+  {
+    "bytes": 8082,
+    "category": "standards",
+    "height": 256,
+    "id": "std_ideal_qr",
+    "name": "iDEAL QR Code implementation",
+    "sha256": "d0162037afcb5f7d6f3fa6f1dff2c5c70a84c77f0e689a9bab572fb8c3b244db",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_ideal_qr.png",
+    "aliases": [],
+    "path": "standards/ideal-qr-code-implementation.png"
+  },
+  {
+    "bytes": 11356,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_11568_2023",
+    "name": "ISO 11568:2023 Retail Key Management",
+    "sha256": "6974ac217c7252e2d746bd544713e3371828b558f8af79f6eaf74a0d1a19ddd3",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_11568_2023.png",
+    "aliases": [],
+    "path": "standards/iso-11568-2023-retail-key-management.png"
+  },
+  {
+    "bytes": 10492,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_11649_2009",
+    "name": "ISO 11649:2009 Structured Creditor Reference",
+    "sha256": "d4805ae5f689f94d3aba7c16d083d21c856760411e1384aa2c943650db4b5db3",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_11649_2009.png",
+    "aliases": [],
+    "path": "standards/iso-11649-2009-structured-creditor-reference.png"
+  },
+  {
+    "bytes": 8888,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_12812_1_2017",
+    "name": "ISO 12812-1:2017 Mobile Financial Services — General Framework",
+    "sha256": "64d9a98c6fc79f77a4c5f8014d87253c97388a5083427fcb4bacb9f8243757bc",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_12812_1_2017.png",
+    "aliases": [],
+    "path": "standards/iso-12812-1-2017-mobile-financial-services-general-framework.png"
+  },
+  {
+    "bytes": 11415,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_13491_1_2024",
+    "name": "ISO 13491-1:2024 Secure Cryptographic Devices — Concepts and Requirements",
+    "sha256": "447dc2b519fb75a087a5e3da4c259e35585e7092e209693dd7e0d105bc7d5e42",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_13491_1_2024.png",
+    "aliases": [],
+    "path": "standards/iso-13491-1-2024-secure-cryptographic-devices-concepts-and-requirements.png"
+  },
+  {
+    "bytes": 11701,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_13491_2_2023",
+    "name": "ISO 13491-2:2023 Secure Cryptographic Devices — Security Compliance Checklists",
+    "sha256": "c70e7578750670ccd577a730716ff26fe1e39f7826f1ec1aa4d336a58c372c92",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_13491_2_2023.png",
+    "aliases": [],
+    "path": "standards/iso-13491-2-2023-secure-cryptographic-devices-security-compliance-checklists.png"
+  },
+  {
+    "bytes": 10680,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_13616_1_2020",
+    "name": "ISO 13616-1:2020 International Bank Account Number",
+    "sha256": "f74044cb7c08910ed57833d744923ce6dee8fcb5b0a18b97bd7ca219a3f73d8a",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_13616_1_2020.png",
+    "aliases": [],
+    "path": "standards/iso-13616-1-2020-international-bank-account-number.png"
+  },
+  {
+    "bytes": 11806,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_16609_2022",
+    "name": "ISO 16609:2022 Message Authentication Requirements",
+    "sha256": "9897a10989eaea6e6807e40012cd6d6628dce8f799e31b13a7995c3a0cf39054",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_16609_2022.png",
+    "aliases": [],
+    "path": "standards/iso-16609-2022-message-authentication-requirements.png"
+  },
+  {
+    "bytes": 10220,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_17442_1_2020",
+    "name": "ISO 17442-1:2020 Legal Entity Identifier",
+    "sha256": "80e886893a862c4a15973154347e450a5bf82074507438e77f19d8170f1bdfa3",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_17442_1_2020.png",
+    "aliases": [],
+    "path": "standards/iso-17442-1-2020-legal-entity-identifier.png"
+  },
+  {
+    "bytes": 11275,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_18245_2023",
+    "name": "ISO 18245:2023 Merchant Category Codes",
+    "sha256": "fa3e6259d9cd1d004652bae825096c6f5b20dba8b07d1ab08c62596e92fdb4da",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_18245_2023.png",
+    "aliases": [],
+    "path": "standards/iso-18245-2023-merchant-category-codes.png"
+  },
+  {
+    "bytes": 8220,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_20022",
+    "name": "ISO 20022 Financial Services — Universal financial industry message scheme",
+    "sha256": "4ddd4b108d1324b88b8d835c1ba0664ac2a94aa29939e265d274d86bf04a7964",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_20022.png",
+    "aliases": [],
+    "path": "standards/iso-20022-financial-services-universal-financial-industry-message-scheme.png"
+  },
+  {
+    "bytes": 11968,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_20038_2026",
+    "name": "ISO 20038:2026 Key Wrap Using AES",
+    "sha256": "83fba94920f24e845a258d5822a6603f1e725e2f0a4ae57abb5f4f2d6453dc2a",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_20038_2026.png",
+    "aliases": [],
+    "path": "standards/iso-20038-2026-key-wrap-using-aes.png"
+  },
+  {
+    "bytes": 11365,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_21188_2018",
+    "name": "ISO 21188:2018 Public Key Infrastructure for Financial Services",
+    "sha256": "92e1c87f9d802405b1f835b856e521d5299700cc4285393f1bc975479aaaeb17",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_21188_2018.png",
+    "aliases": [],
+    "path": "standards/iso-21188-2018-public-key-infrastructure-for-financial-services.png"
+  },
+  {
+    "bytes": 10486,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_3166_1",
+    "name": "ISO 3166-1 — Country codes",
+    "sha256": "2046590733b185dff61135cd49fc5e1b073e72ddc4c85c12e038beb0c4f18a21",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_3166_1.png",
+    "aliases": [],
+    "path": "standards/iso-3166-1-country-codes.png"
+  },
+  {
+    "bytes": 9644,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_4217",
+    "name": "ISO 4217 — Currency codes",
+    "sha256": "1b4622ff864919e7c99039ec5155926ead17166e7d222e566487f041f491280b",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_4217.png",
+    "aliases": [],
+    "path": "standards/iso-4217-currency-codes.png"
+  },
+  {
+    "bytes": 8225,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_8583_2023",
+    "name": "ISO 8583:2023 Financial-transaction-card-originated messages",
+    "sha256": "d18e5fcaf538ac96239443be788dffd9cb8a9fc5c637b9e611a0867ac33cb496",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_8583_2023.png",
+    "aliases": [],
+    "path": "standards/iso-8583-2023-financial-transaction-card-originated-messages.png"
+  },
+  {
+    "bytes": 11121,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_9362_2022",
+    "name": "ISO 9362:2022 Business Identifier Code",
+    "sha256": "3eb423a87e540eba14460fad7206380db7b6cc879e36257fc75a03e4d08e4867",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_9362_2022.png",
+    "aliases": [],
+    "path": "standards/iso-9362-2022-business-identifier-code.png"
+  },
+  {
+    "bytes": 11594,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_9564_1",
+    "name": "ISO 9564-1:2017 PIN Management and Security",
+    "sha256": "2945b3f883b019b8e0cb0e1678cffd025fdfde3808b2b4a5ddb5a089e008ab82",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_9564_1.png",
+    "aliases": [],
+    "path": "standards/iso-9564-1-2017-pin-management-and-security.png"
+  },
+  {
+    "bytes": 12245,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_iec_27001_2022",
+    "name": "ISO/IEC 27001 Information Security Management Systems",
+    "sha256": "1f701d5def8b18bae069825da60dbb985dd2a9c2d124c00aa303575ed7a0a3c2",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_iec_27001_2022.png",
+    "aliases": [],
+    "path": "standards/iso-iec-27001-information-security-management-systems.png"
+  },
+  {
+    "bytes": 12075,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_iec_27017_2026",
+    "name": "ISO/IEC 27017:2026 Cloud Services Security Controls",
+    "sha256": "d210112a99c43625bec82e14fc972f9ab5a2f6401e5ae0a911d2ca80ff89f523",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_iec_27017_2026.png",
+    "aliases": [],
+    "path": "standards/iso-iec-27017-2026-cloud-services-security-controls.png"
+  },
+  {
+    "bytes": 10176,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_iec_7812_1",
+    "name": "ISO/IEC 7812-1",
+    "sha256": "f584223f0877f167dc2a99030226a95366ce1b3a090dd40e0649e9105dba3993",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_iec_7812_1.png",
+    "aliases": [],
+    "path": "standards/iso-iec-7812-1.png"
+  },
+  {
+    "bytes": 10433,
+    "category": "standards",
+    "height": 256,
+    "id": "std_iso_iec_7812_2_2017",
+    "name": "ISO/IEC 7812-2:2017 Issuer Identification Number Registration",
+    "sha256": "ca1b4e8a449c25c6f330d535ee26b3a75d607e36608824368fdfc918e4be67a3",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_iso_iec_7812_2_2017.png",
+    "aliases": [],
+    "path": "standards/iso-iec-7812-2-2017-issuer-identification-number-registration.png"
+  },
+  {
+    "bytes": 9914,
+    "category": "standards",
+    "height": 256,
+    "id": "std_mastercard_rules",
+    "name": "Mastercard Rules",
+    "sha256": "a55e92dd4071975592305f96900b65c5c2453e25b791c502f09f7e6bab272688",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_mastercard_rules.png",
+    "aliases": [],
+    "path": "standards/mastercard-rules.png"
+  },
+  {
+    "bytes": 16061,
+    "category": "standards",
+    "height": 256,
+    "id": "std_mastercard_security_rules_procedures",
+    "name": "Mastercard Security Rules and Procedures",
+    "sha256": "78931402fe542ba15db5829dfda7f63f7e74918b7c620697bd463405ed41d526",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_mastercard_security_rules_procedures.png",
+    "aliases": [],
+    "path": "standards/mastercard-security-rules-and-procedures.png"
+  },
+  {
+    "bytes": 11533,
+    "category": "standards",
+    "height": 256,
+    "id": "std_mastercard_switch_rules",
+    "name": "Mastercard Switch Rules",
+    "sha256": "5bfe7869d7acffe4f6859f80fa38cb4c69892ade26082f486868c2fb207a5a8e",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_mastercard_switch_rules.png",
+    "aliases": [],
+    "path": "standards/mastercard-switch-rules.png"
+  },
+  {
+    "bytes": 12240,
+    "category": "standards",
+    "height": 256,
+    "id": "std_mastercard_transaction_processing_rules",
+    "name": "Mastercard Transaction Processing Rules",
+    "sha256": "511f14d8f33d2eb605709577d7c51f1f8ae6ce4cc1ea03fe79e0216c23e78ff3",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_mastercard_transaction_processing_rules.png",
+    "aliases": [],
+    "path": "standards/mastercard-transaction-processing-rules.png"
+  },
+  {
+    "bytes": 10629,
+    "category": "standards",
+    "height": 256,
+    "id": "std_npp_product_rules_v28",
+    "name": "New Payments Platform Product Rules v28",
+    "sha256": "c0845bf4023ed925ec8be3c7c39f8d0908fb57452501df42937e3a277085adaa",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_npp_product_rules_v28.png",
+    "aliases": [],
+    "path": "standards/new-payments-platform-product-rules-v28.png"
+  },
+  {
+    "bytes": 9547,
+    "category": "standards",
+    "height": 256,
+    "id": "std_nexo_acquirer_protocol",
+    "name": "nexo Acquirer Protocol",
+    "sha256": "d09eb229906da747db85ce2c5d6d6f8d520b1e6ec63f66412139a32b229e8f74",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_nexo_acquirer_protocol.png",
+    "aliases": [],
+    "path": "standards/nexo-acquirer-protocol.png"
+  },
+  {
+    "bytes": 9418,
+    "category": "standards",
+    "height": 256,
+    "id": "std_nexo_retailer_protocol",
+    "name": "nexo Retailer Protocol",
+    "sha256": "44a84b38b4bae41f47153e419eacadf939c69a9d4a9ac81ff5d819d76de02492",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_nexo_retailer_protocol.png",
+    "aliases": [],
+    "path": "standards/nexo-retailer-protocol.png"
+  },
+  {
+    "bytes": 8301,
+    "category": "standards",
+    "height": 256,
+    "id": "std_nexo_tms_protocol",
+    "name": "nexo TMS Protocol",
+    "sha256": "06585c878e999c7f6c26f0aeb3709f61e453f4d56a0e18c11b8587ccbe9e1adc",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_nexo_tms_protocol.png",
+    "aliases": [],
+    "path": "standards/nexo-tms-protocol.png"
+  },
+  {
+    "bytes": 13076,
+    "category": "standards",
+    "height": 256,
+    "id": "std_open_banking_nigeria_v1",
+    "name": "Open Banking Nigeria API Standard v1",
+    "sha256": "10a458fbe9e5527aaf55ed79329fb001cea62ba23d0d7af5df4c352daf455c0a",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_open_banking_nigeria_v1.png",
+    "aliases": [],
+    "path": "standards/open-banking-nigeria-api-standard-v1.png"
+  },
+  {
+    "bytes": 12310,
+    "category": "standards",
+    "height": 256,
+    "id": "std_open_finance_brazil_apis",
+    "name": "Open Finance Brasil API Standards",
+    "sha256": "02a0a35113814e287eba571495a934b66671213f68bb9f91758b7b289e969a8d",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_open_finance_brazil_apis.png",
+    "aliases": [],
+    "path": "standards/open-finance-brasil-api-standards.png"
+  },
+  {
+    "bytes": 12007,
+    "category": "standards",
+    "height": 256,
+    "id": "std_openid_ciba_core_1_0",
+    "name": "OpenID Connect Client-Initiated Backchannel Authentication Core 1.0",
+    "sha256": "918007a79a889baa5d39f6452623f8579234da754404674799579475ea021f8c",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_openid_ciba_core_1_0.png",
+    "aliases": [],
+    "path": "standards/openid-connect-client-initiated-backchannel-authentication-core-1-0.png"
+  },
+  {
+    "bytes": 12929,
+    "category": "standards",
+    "height": 256,
+    "id": "std_fapi_2_attacker_model",
+    "name": "OpenID FAPI 2.0 Attacker Model",
+    "sha256": "57f6e29da059f3f06752bd4268e9d8452c2c607e417c7c5a0262a800c0f4327f",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_fapi_2_attacker_model.png",
+    "aliases": [],
+    "path": "standards/openid-fapi-2-0-attacker-model.png"
+  },
+  {
+    "bytes": 11560,
+    "category": "standards",
+    "height": 256,
+    "id": "std_fapi_2_security",
+    "name": "OpenID FAPI 2.0 Security Profile",
+    "sha256": "2da780aa652ba9a6dd1e9fb32fc6464e9ed38b8fbdea712b268945147ec80369",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_fapi_2_security.png",
+    "aliases": [],
+    "path": "standards/openid-fapi-2-0-security-profile.png"
+  },
+  {
+    "bytes": 10581,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_dss_v4_0_1",
+    "name": "Payment Card Industry Data Security Standard v4.0.1",
+    "sha256": "8c9a5b533ee7898c4cbadfd67e406e4ea029a5c62f0c2005b0bcb12c9cc98582",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_dss_v4_0_1.png",
+    "aliases": [],
+    "path": "standards/payment-card-industry-data-security-standard-v4-0-1.png"
+  },
+  {
+    "bytes": 10472,
+    "category": "standards",
+    "height": 256,
+    "id": "std_payments_canada_acss_rules_2026",
+    "name": "Payments Canada ACSS Rules 2026",
+    "sha256": "4377f0844ead1ffaf728dc4d396e6231330b87117184917498603177a00d159f",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_payments_canada_acss_rules_2026.png",
+    "aliases": [],
+    "path": "standards/payments-canada-acss-rules-2026.png"
+  },
+  {
+    "bytes": 9704,
+    "category": "standards",
+    "height": 256,
+    "id": "std_payments_canada_lynx_rules_2026",
+    "name": "Payments Canada Lynx Rules 2026",
+    "sha256": "8d2f0b61dc56d1f0e889f1022c139a97abc9bc10771ae10dd80870ac6c85a75d",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_payments_canada_lynx_rules_2026.png",
+    "aliases": [],
+    "path": "standards/payments-canada-lynx-rules-2026.png"
+  },
+  {
+    "bytes": 11534,
+    "category": "standards",
+    "height": 256,
+    "id": "std_payments_nz_api_v3",
+    "name": "Payments NZ API Standards v3.0",
+    "sha256": "cab4794fc6a257d6995b97dfddaab14a0f5564bac184dbb745e9778a9d366269",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_payments_nz_api_v3.png",
+    "aliases": [],
+    "path": "standards/payments-nz-api-standards-v3-0.png"
+  },
+  {
+    "bytes": 12064,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_3ds_core",
+    "name": "PCI 3DS Core Security Standard",
+    "sha256": "8503f6b4b43873aefafe440539d11ec5b5f8011fb35025d7387a674238ffa909",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_3ds_core.png",
+    "aliases": [],
+    "path": "standards/pci-3ds-core-security-standard.png"
+  },
+  {
+    "bytes": 11863,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_3ds_sdk",
+    "name": "PCI 3DS SDK Security Standard",
+    "sha256": "05c9beb182e2e7d1f5536b3a88f903dde2a45f14d87805b4e97045e384897c18",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_3ds_sdk.png",
+    "aliases": [],
+    "path": "standards/pci-3ds-sdk-security-standard.png"
+  },
+  {
+    "bytes": 15138,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_card_production_logical_v3",
+    "name": "PCI Card Production and Provisioning — Logical v3.0",
+    "sha256": "724655c84eac6dde8f62f047d42218b8c56819b3ef5c52f4c2971f77bfe9b8b7",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_card_production_logical_v3.png",
+    "aliases": [],
+    "path": "standards/pci-card-production-and-provisioning-logical-v3-0.png"
+  },
+  {
+    "bytes": 15087,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_card_production_physical_v3",
+    "name": "PCI Card Production and Provisioning — Physical v3.0",
+    "sha256": "d43b8992fb3a992598ead58126a410c46b69ac2198c58803fbb55ca023a19c16",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_card_production_physical_v3.png",
+    "aliases": [],
+    "path": "standards/pci-card-production-and-provisioning-physical-v3-0.png"
+  },
+  {
+    "bytes": 10549,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_mpoc",
+    "name": "PCI Mobile Payments on COTS",
+    "sha256": "c8bd4d7af75fcbc0b5b7684219a0526f64a3fa689300bcbd0f64120f22424c6c",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_mpoc.png",
+    "aliases": [],
+    "path": "standards/pci-mobile-payments-on-cots.png"
+  },
+  {
+    "bytes": 11555,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_pin",
+    "name": "PCI PIN Security Requirements",
+    "sha256": "8a274cebad71ec99e181a09f122fabeb94d91aa090582a17391143436e5d016f",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_pin.png",
+    "aliases": [],
+    "path": "standards/pci-pin-security-requirements.png"
+  },
+  {
+    "bytes": 10088,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_p2pe",
+    "name": "PCI Point-to-Point Encryption",
+    "sha256": "49312139010e9c81fdc2b496da2baf578de47bb53aa194e6bc7f7568f496d788",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_p2pe.png",
+    "aliases": [],
+    "path": "standards/pci-point-to-point-encryption.png"
+  },
+  {
+    "bytes": 11021,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_pts_hsm",
+    "name": "PCI PTS Hardware Security Module",
+    "sha256": "eeb0a4a4806d67bbdd34348eb9f620ef43ed269d54072d2514e3be90007e80d8",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_pts_hsm.png",
+    "aliases": [],
+    "path": "standards/pci-pts-hardware-security-module.png"
+  },
+  {
+    "bytes": 10841,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_pts_poi",
+    "name": "PCI PTS Point of Interaction Requirements",
+    "sha256": "ef86bebf6b6707c9b5ebb2f316250bba53279ce9ef07568aabf9b0f5b3c03ead",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_pts_poi.png",
+    "aliases": [],
+    "path": "standards/pci-pts-point-of-interaction-requirements.png"
+  },
+  {
+    "bytes": 11769,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_secure_slc",
+    "name": "PCI Secure Software Lifecycle Standard",
+    "sha256": "9efaf2a98eaf455e829e1c9f859c78b80771612033d7ef308a3c22e4f219b5b7",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_secure_slc.png",
+    "aliases": [],
+    "path": "standards/pci-secure-software-lifecycle-standard.png"
+  },
+  {
+    "bytes": 12260,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_secure_software",
+    "name": "PCI Secure Software Standard",
+    "sha256": "21b9d027e8cc2e93f51d1f62fb549717ce3d1fc2767e893d2a52e56b728872aa",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_secure_software.png",
+    "aliases": [],
+    "path": "standards/pci-secure-software-standard.png"
+  },
+  {
+    "bytes": 10012,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pci_tsp",
+    "name": "PCI Token Service Provider Standard",
+    "sha256": "70438159f9bf747b5013063cc8fb6fa7c8ad6921be74ffae58f2f7d5b2db0f65",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pci_tsp.png",
+    "aliases": [],
+    "path": "standards/pci-token-service-provider-standard.png"
+  },
+  {
+    "bytes": 9016,
+    "category": "standards",
+    "height": 256,
+    "id": "std_pix_regulation",
+    "name": "Pix Regulation",
+    "sha256": "7f01509d7889214290f66c2423d3b21555d269bcc59eb12bef784895c8275b1f",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_pix_regulation.png",
+    "aliases": [],
+    "path": "standards/pix-regulation.png"
+  },
+  {
+    "bytes": 10875,
+    "category": "standards",
+    "height": 256,
+    "id": "std_rebit_account_aggregator_api_v2",
+    "name": "ReBIT Account Aggregator Ecosystem API Specifications v2.0",
+    "sha256": "970b923a96484f3b2086f6a7875a2bfe284680f5b2c049e8398b42a0e6581293",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_rebit_account_aggregator_api_v2.png",
+    "aliases": [],
+    "path": "standards/rebit-account-aggregator-ecosystem-api-specifications-v2-0.png"
+  },
+  {
+    "bytes": 11098,
+    "category": "standards",
+    "height": 256,
+    "id": "std_rfc_8705",
+    "name": "RFC 8705 OAuth 2.0 Mutual-TLS Client Authentication",
+    "sha256": "a6a1e1168c7f9fbfbe087893bedb327aaa40871cf3b8ba1e438e15cb80769cd3",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_rfc_8705.png",
+    "aliases": [],
+    "path": "standards/rfc-8705-oauth-2-0-mutual-tls-client-authentication.png"
+  },
+  {
+    "bytes": 11942,
+    "category": "standards",
+    "height": 256,
+    "id": "std_rfc_9449",
+    "name": "RFC 9449 OAuth 2.0 Demonstrating Proof of Possession",
+    "sha256": "839cec9c17e542706f983af1f7430647e6cf494c20d065c77136916f483d4c64",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_rfc_9449.png",
+    "aliases": [],
+    "path": "standards/rfc-9449-oauth-2-0-demonstrating-proof-of-possession.png"
+  },
+  {
+    "bytes": 11777,
+    "category": "standards",
+    "height": 256,
+    "id": "std_rfc_9700",
+    "name": "RFC 9700 OAuth 2.0 Security Best Current Practice",
+    "sha256": "a3b6020093a4e67f323698429bdda330fd6b86deccdde6f2a2f0aa3c704341ea",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_rfc_9700.png",
+    "aliases": [],
+    "path": "standards/rfc-9700-oauth-2-0-security-best-current-practice.png"
+  },
+  {
+    "bytes": 12146,
+    "category": "standards",
+    "height": 256,
+    "id": "std_tch_rtp_message_specifications",
+    "name": "RTP Network Message Specifications",
+    "sha256": "846ccd8cd6515aa4d428e9aeaa4bc81b43b255f8a9b6d9e2c00f65bed87a6f63",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_tch_rtp_message_specifications.png",
+    "aliases": [],
+    "path": "standards/rtp-network-message-specifications.png"
+  },
+  {
+    "bytes": 9699,
+    "category": "standards",
+    "height": 256,
+    "id": "std_tch_rtp_operating_rules",
+    "name": "RTP Network Operating Rules",
+    "sha256": "ad0f6d19d798916f669ea31d5fc385f46469d2abaeb7c3e292589da4acdb971b",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_tch_rtp_operating_rules.png",
+    "aliases": [],
+    "path": "standards/rtp-network-operating-rules.png"
+  },
+  {
+    "bytes": 10566,
+    "category": "standards",
+    "height": 256,
+    "id": "std_tch_rtp_participation_rules",
+    "name": "RTP Network Participation Rules",
+    "sha256": "7e29f0b292ac9b2b560c3c2e5f2f3c1a5bf8ff419a5b9ae9597d598ca54691ce",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_tch_rtp_participation_rules.png",
+    "aliases": [],
+    "path": "standards/rtp-network-participation-rules.png"
+  },
+  {
+    "bytes": 13695,
+    "category": "standards",
+    "height": 256,
+    "id": "std_saudi_open_banking_framework",
+    "name": "Saudi Open Banking Framework",
+    "sha256": "685e4fb90456317352f7124bf8743b5ad4854182068b10b8674126f83457fe55",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_saudi_open_banking_framework.png",
+    "aliases": [],
+    "path": "standards/saudi-open-banking-framework.png"
+  },
+  {
+    "bytes": 8194,
+    "category": "standards",
+    "height": 256,
+    "id": "std_epc_spaa_v1_1",
+    "name": "SEPA Payment Account Access Scheme Rulebook v1.1",
+    "sha256": "bc9d4d1892788d0e3cb5bfdf21e3b32cc97d52e76445c93ef98e59f48b9e6feb",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_epc_spaa_v1_1.png",
+    "aliases": [],
+    "path": "standards/sepa-payment-account-access-scheme-rulebook-v1-1.png"
+  },
+  {
+    "bytes": 8417,
+    "category": "standards",
+    "height": 256,
+    "id": "std_epc_srtp_v4",
+    "name": "SEPA Request-to-Pay Scheme Rulebook v4.0",
+    "sha256": "7072c8b2b441ac2483ebd8f83374a8182fc101a8666fc291d55ffc5a4216d73f",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_epc_srtp_v4.png",
+    "aliases": [],
+    "path": "standards/sepa-request-to-pay-scheme-rulebook-v4-0.png"
+  },
+  {
+    "bytes": 11181,
+    "category": "standards",
+    "height": 256,
+    "id": "std_stet_psd2_api_v1_6_3",
+    "name": "STET PSD2 API v1.6.3",
+    "sha256": "48b871e256edad96cd3373b0e11bbec1e5a7bac9f607ba7933c6c6a71bf65284",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_stet_psd2_api_v1_6_3.png",
+    "aliases": [],
+    "path": "standards/stet-psd2-api-v1-6-3.png"
+  },
+  {
+    "bytes": 6434,
+    "category": "standards",
+    "height": 256,
+    "id": "std_swift_cbpr_plus",
+    "name": "Swift CBPR+ Usage Guidelines",
+    "sha256": "dec7efe511efe20e55ff4da3aad04a2c80d7b29b1582f56603959006575372c2",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_swift_cbpr_plus.png",
+    "aliases": [],
+    "path": "standards/swift-cbpr-plus-usage-guidelines.png"
+  },
+  {
+    "bytes": 12691,
+    "category": "standards",
+    "height": 256,
+    "id": "std_swift_cscf_2026",
+    "name": "Swift Customer Security Controls Framework v2026",
+    "sha256": "7e111d937bdde9747426ea3db348b3423e42e7e259b82296b002a4b60ae4f00f",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_swift_cscf_2026.png",
+    "aliases": [],
+    "path": "standards/swift-customer-security-controls-framework-v2026.png"
+  },
+  {
+    "bytes": 8760,
+    "category": "standards",
+    "height": 256,
+    "id": "std_swift_mt_2026",
+    "name": "Swift MT Standards Release 2026",
+    "sha256": "d8712ed5e5ae50ef5073f0ae1da7d348f4ab7cbbfb95f9ab3f7b4e8b28b7de56",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_swift_mt_2026.png",
+    "aliases": [],
+    "path": "standards/swift-mt-standards-release-2026.png"
+  },
+  {
+    "bytes": 12855,
+    "category": "standards",
+    "height": 256,
+    "id": "std_uk_ob_read_write_api",
+    "name": "UK Open Banking Read/Write API Standard",
+    "sha256": "3bc5709a2c31004bba1e2459fe24595c7f11b02519ee609d6c7c59b4edf13246",
+    "source": {
+      "kind": "curated_category_icon",
+      "url": null
+    },
+    "width": 256,
+    "upstreamPath": "standards/std_uk_ob_read_write_api.png",
+    "aliases": [],
+    "path": "standards/uk-open-banking-read-write-api-standard.png"
   },
   {
     "bytes": 9632,
@@ -1349,13 +1541,15 @@
     "height": 256,
     "id": "std_visa_core_rules",
     "name": "Visa Core Rules and Product and Service Rules",
-    "path": "standards/std_visa_core_rules.png",
     "sha256": "6942e446886c048c4db75fc181db9e3bf59c007fb423fd8bcfb1757138acf83e",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_visa_core_rules.png",
+    "aliases": [],
+    "path": "standards/visa-core-rules-and-product-and-service-rules.png"
   },
   {
     "bytes": 9641,
@@ -1363,13 +1557,15 @@
     "height": 256,
     "id": "std_w3c_payment_request_api",
     "name": "W3C Payment Request API",
-    "path": "standards/std_w3c_payment_request_api.png",
     "sha256": "65c69a340c293ed45c545b0869ab1b8bb910ad911175308ea67e0569d4859df9",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_w3c_payment_request_api.png",
+    "aliases": [],
+    "path": "standards/w3c-payment-request-api.png"
   },
   {
     "bytes": 11358,
@@ -1377,13 +1573,15 @@
     "height": 256,
     "id": "std_w3c_spc",
     "name": "W3C Secure Payment Confirmation",
-    "path": "standards/std_w3c_spc.png",
     "sha256": "499a34003c451772e0466b05b6b78d9a495703838a79237d3bcd3a595928d297",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_w3c_spc.png",
+    "aliases": [],
+    "path": "standards/w3c-secure-payment-confirmation.png"
   },
   {
     "bytes": 12097,
@@ -1391,12 +1589,14 @@
     "height": 256,
     "id": "std_w3c_webauthn_3",
     "name": "W3C Web Authentication Level 3",
-    "path": "standards/std_w3c_webauthn_3.png",
     "sha256": "598b506dc63c83701b29f4a76e55126e5cd2df756d3d8ed0cbab512a6646d842",
     "source": {
       "kind": "curated_category_icon",
       "url": null
     },
-    "width": 256
+    "width": 256,
+    "upstreamPath": "standards/std_w3c_webauthn_3.png",
+    "aliases": [],
+    "path": "standards/w3c-web-authentication-level-3.png"
   }
 ]

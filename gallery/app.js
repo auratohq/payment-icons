@@ -48,7 +48,6 @@ function renderCategories() {
 function openDetail(item) {
   state.selected = item;
   $('detail-name').textContent = item.name;
-  $('detail-id').textContent = item.id;
   $('detail-category').textContent = categoryName(item.category).toUpperCase();
   $('detail-image').src = item.path;
   $('detail-image').alt = item.name;
@@ -67,7 +66,7 @@ function openDetail(item) {
 function tile(item) {
   const button = element('button', 'tile' + (item.category === 'cards' ? ' card-art' : ''));
   button.type = 'button';
-  button.setAttribute('aria-label', `View ${item.name} (${item.id})`);
+  button.setAttribute('aria-label', `View ${item.name}`);
   const preview = element('span', 'preview-surface');
   const image = element('img');
   image.src = item.path;
@@ -82,7 +81,7 @@ function tile(item) {
   }, { once: true });
   preview.append(image);
   const text = element('span', 'tile-text');
-  text.append(element('span', 'tile-name', item.name), element('span', 'tile-meta', item.id));
+  text.append(element('span', 'tile-name', item.name), element('span', 'tile-meta', item.path.split('/').at(-1)));
   button.append(preview, text);
   button.addEventListener('click', () => openDetail(item));
   return button;
@@ -120,7 +119,7 @@ async function init() {
       return span;
     }));
     const batches = await Promise.all(index.categories.map((category) => json(category.path)));
-    state.entries = batches.flat().map((item) => ({ ...item, search: normalize(`${item.name} ${item.id} ${item.category}`) }));
+    state.entries = batches.flat().map((item) => ({ ...item, search: normalize(`${item.name} ${(item.aliases || []).join(' ')} ${item.path} ${item.category}`) }));
     state.entries.sort((a, b) => a.name.localeCompare(b.name, 'en') || a.id.localeCompare(b.id));
     const params = new URLSearchParams(location.search);
     const category = params.get('category');

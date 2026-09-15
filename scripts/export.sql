@@ -4,8 +4,10 @@
 select
   a.target_id as id,
   coalesce(e.name, s.name, r.name, c.name, a.alt_text, a.target_id) as name,
+  coalesce(e.slug, s.slug, r.slug, c.slug) as seo_slug,
+  coalesce(e.aliases, s.aliases, r.aliases, c.aliases, array[]::text[]) as aliases,
   split_part(a.object_path, '/', 1) as category,
-  a.object_path as path,
+  a.object_path as upstream_path,
   a.width, a.height, a.byte_size as bytes, a.sha256,
   a.source_kind, a.source_url
 from public.assets a

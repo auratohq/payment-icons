@@ -1,1906 +1,2481 @@
 [
   {
-    "bytes": 8048,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_abn_amro",
     "name": "ABN AMRO Bank N.V.",
-    "path": "banks/bnk_abn_amro.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 8048,
     "sha256": "4f43f1f1dfc7bed21dfb1919ea53882e0cb22db6a0db763974cf11484d115483",
+    "upstreamPath": "banks/bnk_abn_amro.png",
+    "aliases": [
+      "ABN AMRO",
+      "ABN AMRO Bank"
+    ],
     "source": {
       "kind": "linked_brand",
       "url": null
     },
-    "width": 256
+    "path": "banks/abn-amro.png"
   },
   {
-    "bytes": 44374,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_adcb",
     "name": "ADCB",
-    "path": "banks/bnk_adcb.png",
-    "sha256": "779c8092bc613386d45c7d70714d42393cf031354d5c7d9030750cc7154707c7",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 12495,
+    "sha256": "834e86d211273648cd18c2bf9c324141d2d60150d8df76e794886567689f4741",
+    "upstreamPath": "banks/bnk_adcb.png",
+    "aliases": [
+      "ADCB"
+    ],
     "source": {
-      "kind": "official_app_icon",
-      "url": "https://apps.apple.com/us/app/adcb/id6755109454?uo=4"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/adcb.png"
   },
   {
-    "bytes": 33608,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_al_rajhi_bank",
     "name": "Al Rajhi Bank",
-    "path": "banks/bnk_al_rajhi_bank.png",
-    "sha256": "6c6c82c826031778c4d68ed334dae9782de52faf32ec20aea9cc66128c916a76",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 29111,
+    "sha256": "eba3d164fddf46d226bf77e5c8d821e4b118f50aa5be187ca91eebd109fd676c",
+    "upstreamPath": "banks/bnk_al_rajhi_bank.png",
+    "aliases": [
+      "Al Rajhi Bank"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.alrajhibank.com.sa/favicon-32x32.ico"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/al-rajhi-bank.png"
   },
   {
-    "bytes": 22490,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_american_express_europe_s_a_netherlands_branch",
     "name": "American Express Europe S.A. (Netherlands branch)",
-    "path": "banks/bnk_american_express_europe_s_a_netherlands_branch.png",
-    "sha256": "20041a556eaa8c49f803b817c98b081de8ad4205c67b668bc6f01259a51af609",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 16146,
+    "sha256": "51494b6ba696435ff5da1690756f3d3e40d3460461c9bbe59ce0218e3157cdd4",
+    "upstreamPath": "banks/bnk_american_express_europe_s_a_netherlands_branch.png",
+    "aliases": [
+      "American Express Europe S.A. (Netherlands branch)"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.americanexpress.com/apple-touch-icon.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/american-express-europe-s-a-netherlands-branch.png"
   },
   {
-    "bytes": 22490,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_american_express",
     "name": "American Express",
-    "path": "banks/bnk_american_express.png",
-    "sha256": "20041a556eaa8c49f803b817c98b081de8ad4205c67b668bc6f01259a51af609",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 16146,
+    "sha256": "51494b6ba696435ff5da1690756f3d3e40d3460461c9bbe59ce0218e3157cdd4",
+    "upstreamPath": "banks/bnk_american_express.png",
+    "aliases": [
+      "American Express"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.americanexpress.com/apple-touch-icon.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/american-express.png"
   },
   {
-    "bytes": 10920,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_anz",
     "name": "Australia and New Zealand Banking Group Limited",
-    "path": "banks/bnk_anz.png",
-    "sha256": "53deb891957df64a3f44ea334e854aacdbbe91a5a5165bdee885dbee53b20f42",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 23915,
+    "sha256": "56932b9122e555abd9f9f058caef6cc0612ef9ac92fed1e480eb5e884883c23a",
+    "upstreamPath": "banks/bnk_anz.png",
+    "aliases": [
+      "ANZ",
+      "Australia and New Zealand Banking Group Limited"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.anz.com.au/content/dam/anzcomau/logos/anz/ANZ-MB-Logo-3rd-Party-RGB.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/anz.png"
   },
   {
-    "bytes": 24419,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_arab_bank",
     "name": "Arab Bank",
-    "path": "banks/bnk_arab_bank.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 24419,
     "sha256": "773e72537facec1cffe61dd7ecd3252db0efcba347eb697cafe3d0e42388dbaa",
+    "upstreamPath": "banks/bnk_arab_bank.png",
+    "aliases": [
+      "Arab Bank"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.arabbank.bh/Mvc/Content/images/apple-touch-icon.png"
     },
-    "width": 256
+    "path": "banks/arab-bank.png"
   },
   {
-    "bytes": 43336,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_arab_jordan_investment_bank",
     "name": "Arab Jordan Investment Bank",
-    "path": "banks/bnk_arab_jordan_investment_bank.png",
-    "sha256": "9927750fa2995391ac44dbb3244ae6bf14a644d31d5368c3c137bc4614b26b75",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ajib.com/sites/default/files/favicon.ico"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10730,
     "category": "banks",
+    "width": 256,
     "height": 256,
-    "id": "bnk_asn",
-    "name": "ASN Bank N.V.",
-    "path": "banks/bnk_asn.png",
-    "sha256": "44c734aac32930a5da8bca981d6a7e19c1735a18fb6f8c17e87910eb36c65b24",
+    "bytes": 62770,
+    "sha256": "4e39d4e99eb13c3e3f04aaa814c1cefe0a4070f7c1d6be15dfd6b6cdd6d4465e",
+    "upstreamPath": "banks/bnk_arab_jordan_investment_bank.png",
+    "aliases": [
+      "Arab Jordan Investment Bank"
+    ],
     "source": {
-      "kind": "linked_brand",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "banks/arab-jordan-investment-bank.png"
   },
   {
-    "bytes": 15758,
+    "id": "bnk_asn",
+    "name": "ASN Bank N.V.",
     "category": "banks",
+    "width": 256,
     "height": 256,
+    "bytes": 13041,
+    "sha256": "01d3ea1cd75bdff18edf5755d05116eeb983e1faabe4483809f8c0c465efc6fa",
+    "upstreamPath": "banks/bnk_asn.png",
+    "aliases": [
+      "ASN",
+      "ASN Bank"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/asn-bank.png"
+  },
+  {
     "id": "bnk_australian_military_bank",
     "name": "Australian Military Bank",
-    "path": "banks/bnk_australian_military_bank.png",
-    "sha256": "8ea31ceb50755917051d6faa31c4fab60c8fefcb0971aa1e2f15d193f1206036",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 25901,
+    "sha256": "16eaafea063ec19dc6603a942896e9189507efc2990250ad99d1ed84d1998747",
+    "upstreamPath": "banks/bnk_australian_military_bank.png",
+    "aliases": [
+      "Australian Military Bank"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.australianmilitarybank.com.au/sites/default/files/amb_logo_478.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/australian-military-bank.png"
   },
   {
-    "bytes": 10844,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_auswide_bank",
     "name": "Auswide Bank Ltd",
-    "path": "banks/bnk_auswide_bank.png",
-    "sha256": "ad34b1decaca58cfa70e9a807e5b93a87d58a25e74bab99d94ec85ab4673dbfd",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 10320,
+    "sha256": "2d872443a53594c5ff975767bd3fa971c27cbc13e1e92034a0de3a7449b5d7a7",
+    "upstreamPath": "banks/bnk_auswide_bank.png",
+    "aliases": [
+      "Auswide Bank Ltd",
+      "Auswide Bank"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://community.auswidebank.com.au/resources/images/templates/shared/auswide-bank-logo.svg"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/auswide-bank.png"
   },
   {
-    "bytes": 53786,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_axis_bank",
     "name": "Axis Bank",
-    "path": "banks/bnk_axis_bank.png",
-    "sha256": "1295a8f38ade7672ef5d9d15b92738746e9716aaedb63dfbf415c21441598172",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 9631,
+    "sha256": "76f4d64327a74fbc5fa61e614da4a4a37bc31d789ea6bc227c5a9d0e2ac86576",
+    "upstreamPath": "banks/bnk_axis_bank.png",
+    "aliases": [
+      "Axis Bank"
+    ],
     "source": {
-      "kind": "official_app_icon",
-      "url": "https://apps.apple.com/us/app/axis-bank-mobile-banking/id699582556?uo=4"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/axis-bank.png"
   },
   {
-    "bytes": 39009,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_banamex",
     "name": "Banamex",
-    "path": "banks/bnk_banamex.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 39009,
     "sha256": "0f6332477ea648128f851c1fc0c202c6cad61a15b193ca98a7144a1a062c9b1f",
+    "upstreamPath": "banks/bnk_banamex.png",
+    "aliases": [
+      "Banamex"
+    ],
     "source": {
       "kind": "official_app_icon",
       "url": "https://apps.apple.com/us/app/app-banamex/id498483038?uo=4"
     },
-    "width": 256
+    "path": "banks/banamex.png"
   },
   {
-    "bytes": 58498,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_banco_do_brasil",
     "name": "Banco do Brasil",
-    "path": "banks/bnk_banco_do_brasil.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 58498,
     "sha256": "84b277247a9b28a3584809799fa8b8175e55a9661f2a81d7011a24031f0714d0",
+    "upstreamPath": "banks/bnk_banco_do_brasil.png",
+    "aliases": [
+      "Banco do Brasil"
+    ],
     "source": {
       "kind": "official_app_icon",
       "url": "https://apps.apple.com/us/app/bb-banco-cart%C3%A3o-cr%C3%A9dito/id330984271?uo=4"
     },
-    "width": 256
+    "path": "banks/banco-do-brasil.png"
   },
   {
-    "bytes": 13262,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_banco_galicia",
     "name": "Banco Galicia",
-    "path": "banks/bnk_banco_galicia.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 13262,
     "sha256": "e4447a2a06ad7432b3d038b407eaada927563e6a673b57b55bba59d7eb3247ec",
+    "upstreamPath": "banks/bnk_banco_galicia.png",
+    "aliases": [
+      "Banco Galicia"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.galicia.ar/etc.clientlibs/galicia/clientlibs/clientlib-react/resources/logoGalicia.png"
     },
-    "width": 256
+    "path": "banks/banco-galicia.png"
   },
   {
-    "bytes": 30483,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_banco_pichincha",
     "name": "Banco Pichincha",
-    "path": "banks/bnk_banco_pichincha.png",
-    "sha256": "26c58d17b59239d89c3f70b9f70089b1510b8fc11b28847d23060d817b0d2306",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 7804,
+    "sha256": "e8ca01b969c11ad88baad6fdb458ad51f06f353792f3329a51ba998a4802dfec",
+    "upstreamPath": "banks/bnk_banco_pichincha.png",
+    "aliases": [
+      "Banco Pichincha"
+    ],
     "source": {
-      "kind": "official_app_icon",
-      "url": "https://apps.apple.com/us/app/banco-pichincha/id1169513403?uo=4"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/banco-pichincha.png"
   },
   {
-    "bytes": 16059,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bancolombia",
     "name": "Bancolombia",
-    "path": "banks/bnk_bancolombia.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 16059,
     "sha256": "5fda2fd3d58a81cb8f599656594a9db9a3389b17450e64b0a228bb83383c89e1",
+    "upstreamPath": "banks/bnk_bancolombia.png",
+    "aliases": [
+      "Bancolombia"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.bancolombia.com/apple-touch-icon.png"
     },
-    "width": 256
+    "path": "banks/bancolombia.png"
   },
   {
-    "bytes": 10316,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bank_australia",
     "name": "Bank Australia",
-    "path": "banks/bnk_bank_australia.png",
-    "sha256": "ad73826dc0d17c2d9ad0ea634203bd73a868458db7d76be08d97fbd1c1ecb1a2",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 14167,
+    "sha256": "9728f66b57381aeb7a8a68cf2bfadbf71d13e328202d83a8a062e06ee6a7c4c2",
+    "upstreamPath": "banks/bnk_bank_australia.png",
+    "aliases": [
+      "Bank Australia"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.bankaust.com.au/globalassets/assets/imagery/logos/bank-australia/ba_horizontal_logo.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/bank-australia.png"
   },
   {
-    "bytes": 11876,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bank_first",
     "name": "Bank First",
-    "path": "banks/bnk_bank_first.png",
-    "sha256": "d9626c41b6f9ae2888d88e6a007b07cc5916afc0e9891c16d121de17c19a6cef",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 60531,
+    "sha256": "6589b0ae48c75d71938c8de62edc0290e66516c698feee1c632a492cfe9a6d79",
+    "upstreamPath": "banks/bnk_bank_first.png",
+    "aliases": [
+      "Bank First"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://cdn.intelligencebank.com/au/share/e3Gq6M/oGkXA/Y01wk/original/Bank+First+Logo+Horizontal+Navy+RGB"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/bank-first.png"
   },
   {
-    "bytes": 23189,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bank_of_china",
     "name": "Bank of China Limited",
-    "path": "banks/bnk_bank_of_china.png",
-    "sha256": "860cb223b43695de64a88cf18bd135d9890398617ec5e9e6e7b6f7afdd6429ec",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 16919,
+    "sha256": "cf3e49982b86e185c745693eca535a820a65ac72e34b285f0254db1d10b52b21",
+    "upstreamPath": "banks/bnk_bank_of_china.png",
+    "aliases": [
+      "Bank of China",
+      "Bank of China Limited"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://boc-resources.s3.ap-southeast-2.amazonaws.com/images/BOC+logo.JPG"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/bank-of-china.png"
   },
   {
-    "bytes": 48631,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bank_of_khartoum",
     "name": "Bank of Khartoum",
-    "path": "banks/bnk_bank_of_khartoum.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 48631,
     "sha256": "9feb675aa35c91e381db293d3849e630766df6944ed5117f485faa7cf5f231de",
+    "upstreamPath": "banks/bnk_bank_of_khartoum.png",
+    "aliases": [
+      "Bank of Khartoum"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://bankofkhartoum.com/sudan/image/bok-icon.png"
     },
-    "width": 256
+    "path": "banks/bank-of-khartoum.png"
   },
   {
-    "bytes": 24078,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bank_of_kigali",
     "name": "Bank of Kigali",
-    "path": "banks/bnk_bank_of_kigali.png",
-    "sha256": "e375ed501a7d460da1d676559d6c3055db97d9144142d73c7fe40c38f9c18abc",
-    "source": {
-      "kind": "official_website",
-      "url": "https://bk.rw/favicon.ico"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13770,
     "category": "banks",
+    "width": 256,
     "height": 256,
-    "id": "bnk_bank_of_melbourne",
-    "name": "Bank of Melbourne",
-    "path": "banks/bnk_bank_of_melbourne.png",
-    "sha256": "b5c781924f1ba28ebf162ca74196beea5f6f1f90b63c646b8ae9c8d6fe386a58",
+    "bytes": 65179,
+    "sha256": "a202fd136df1c59cdc38f9d58a6bbccd93e8e093a2b1dbe51e8328df87963810",
+    "upstreamPath": "banks/bnk_bank_of_kigali.png",
+    "aliases": [
+      "Bank of Kigali"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.bankofmelbourne.com.au/content/dam/bom/images/home/BOM-logo_1200x1200.jpg"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13934,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_bank_of_us",
-    "name": "Bank of us",
-    "path": "banks/bnk_bank_of_us.png",
-    "sha256": "3589900b9300b6221285efae5f4b843184d30851125b776140ed9c512ec7aa4c",
-    "source": {
-      "kind": "official_registry",
-      "url": "https://api.bankofus.com.au/OpenBanking/Logo.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 12336,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_bank_ten_cate",
-    "name": "Bank ten Cate & Cie N.V.",
-    "path": "banks/bnk_bank_ten_cate.png",
-    "sha256": "14d31c1c8ed6bd3927e6e7b25fb9817fae4149c5fffa2b44c0a783c1293d8af0",
-    "source": {
-      "kind": "linked_brand",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "banks/bank-of-kigali.png"
   },
   {
-    "bytes": 13321,
+    "id": "bnk_bank_of_melbourne",
+    "name": "Bank of Melbourne",
     "category": "banks",
+    "width": 256,
     "height": 256,
+    "bytes": 13750,
+    "sha256": "49c5def7c799e2cc7e1517e86665f97f9a11e94a0ccb0d637c3fd10c9867d7df",
+    "upstreamPath": "banks/bnk_bank_of_melbourne.png",
+    "aliases": [
+      "Bank of Melbourne"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/bank-of-melbourne.png"
+  },
+  {
+    "id": "bnk_bank_of_us",
+    "name": "Bank of us",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 25739,
+    "sha256": "f76dc01da9b6e8037cc7a59b4ad1e701d75ad648f383986876d00c38a4419501",
+    "upstreamPath": "banks/bnk_bank_of_us.png",
+    "aliases": [
+      "Bank of us"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/bank-of-us.png"
+  },
+  {
+    "id": "bnk_bank_ten_cate",
+    "name": "Bank ten Cate & Cie N.V.",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 47612,
+    "sha256": "622912071c6be023aa503a8bad17190aef2abb4ca5914f3ce7a2f7b5c09d9518",
+    "upstreamPath": "banks/bnk_bank_ten_cate.png",
+    "aliases": [
+      "Bank ten Cate / ICS"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/bank-ten-cate.png"
+  },
+  {
     "id": "bnk_banksa",
     "name": "BankSA (Westpac Banking Corporation)",
-    "path": "banks/bnk_banksa.png",
-    "sha256": "500edc21f254dd653ef266eb75254fb591fbe2acd6cf4329f4adeab203ca1999",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 18350,
+    "sha256": "3e7ca2a4e222ca1e48b3359286b4adb7c9f589a3f1f2f6cae294ace81075d302",
+    "upstreamPath": "banks/bnk_banksa.png",
+    "aliases": [
+      "BankSA",
+      "BankSA (Westpac Banking Corporation)"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.banksa.com.au/content/dam/bsa/images/home/BSA-logo_1200x1200.jpg"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/banksa.png"
   },
   {
-    "bytes": 9643,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bankvic",
     "name": "BankVic",
-    "path": "banks/bnk_bankvic.png",
-    "sha256": "22103ed8e758f4d54848e9fa3490095f6c0129c1516eb56837308a9bdca3869a",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 10354,
+    "sha256": "13d62135e500199cc956a8883e13546531978477a400c28afd1d558b4e442175",
+    "upstreamPath": "banks/bnk_bankvic.png",
+    "aliases": [
+      "BankVic"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://ib.bankvic.com.au/bvib/App_Themes/BankVicResponsive/images/BankVic-logo.svg"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/bankvic.png"
   },
   {
-    "bytes": 10418,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bankwest",
     "name": "Bankwest",
-    "path": "banks/bnk_bankwest.png",
-    "sha256": "0148586430448cbfb991cb1047324492f038126eb6bb7f91e60344ad2f5221f9",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 33639,
+    "sha256": "95c7add0a52c47539840113c2f1f4de97a82322d3f5a3842ddcb20ea712372ac",
+    "upstreamPath": "banks/bnk_bankwest.png",
+    "aliases": [
+      "Bankwest"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.bankwest.com.au/content/dam/bankwest/system/logos/bankwest-logo-padding.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/bankwest.png"
   },
   {
-    "bytes": 8766,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bbva_espana",
     "name": "BBVA España",
-    "path": "banks/bnk_bbva_espana.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 8766,
     "sha256": "62c02cdd801073772f360a3e4a950cf494334c0752253642d17582eec1bd0ca8",
+    "upstreamPath": "banks/bnk_bbva_espana.png",
+    "aliases": [
+      "BBVA España"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.bbva.es/content/dam/library/favicons/apple-touch-icon.png"
     },
-    "width": 256
+    "path": "banks/bbva-espana.png"
   },
   {
-    "bytes": 8766,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bbva_mexico",
     "name": "BBVA México",
-    "path": "banks/bnk_bbva_mexico.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 8766,
     "sha256": "62c02cdd801073772f360a3e4a950cf494334c0752253642d17582eec1bd0ca8",
+    "upstreamPath": "banks/bnk_bbva_mexico.png",
+    "aliases": [
+      "BBVA México"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.bbva.mx/content/dam/library/favicons/apple-touch-icon.png"
     },
-    "width": 256
+    "path": "banks/bbva-mexico.png"
   },
   {
-    "bytes": 8766,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bbva_peru",
     "name": "BBVA Perú",
-    "path": "banks/bnk_bbva_peru.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 8766,
     "sha256": "62c02cdd801073772f360a3e4a950cf494334c0752253642d17582eec1bd0ca8",
+    "upstreamPath": "banks/bnk_bbva_peru.png",
+    "aliases": [
+      "BBVA Perú"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.bbva.pe/content/dam/library/favicons/apple-touch-icon.png"
     },
-    "width": 256
+    "path": "banks/bbva-peru.png"
   },
   {
-    "bytes": 36955,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bca",
     "name": "BCA",
-    "path": "banks/bnk_bca.png",
-    "sha256": "5c7feda8512110f61689800a68a754f4d25278206ce220e706bbd760e94c153e",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 15834,
+    "sha256": "a24d3c627a14afc7b3d5dbe7cbc6023e71d93e8f987de525f9aa545bcff9eee7",
+    "upstreamPath": "banks/bnk_bca.png",
+    "aliases": [
+      "BCA"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.bca.co.id/-/media/Feature/Default-BCA/favicon-bca.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/bca.png"
   },
   {
-    "bytes": 49327,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bcp",
     "name": "BCP",
-    "path": "banks/bnk_bcp.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 49327,
     "sha256": "41147c7e56809c0c1d730346e4e9c590f5ad15544f6752e5adf763be0491a3ff",
+    "upstreamPath": "banks/bnk_bcp.png",
+    "aliases": [
+      "BCP"
+    ],
     "source": {
       "kind": "official_app_icon",
       "url": "https://apps.apple.com/us/app/banca-m%C3%B3vil-bcp/id777961079?uo=4"
     },
-    "width": 256
+    "path": "banks/bcp.png"
   },
   {
-    "bytes": 10897,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bcu_bank",
     "name": "BCU Bank",
-    "path": "banks/bnk_bcu_bank.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 10897,
     "sha256": "deb6b46b5db1058a00e8fdb624a4818f063a9f37b7096fa7941c7b795f9c013c",
+    "upstreamPath": "banks/bnk_bcu_bank.png",
+    "aliases": [
+      "BCU Bank"
+    ],
     "source": {
       "kind": "official_registry",
       "url": "https://digital.bcu.com.au/globalassets/internet-banking/onboarding/logo-small.png"
     },
-    "width": 256
+    "path": "banks/bcu-bank.png"
   },
   {
-    "bytes": 25936,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bdo_unibank",
     "name": "BDO Unibank",
-    "path": "banks/bnk_bdo_unibank.png",
-    "sha256": "09f9b1bef8136ee6deac98c75a0182f906f74a563cc7c60f4d04f14bfe0b74b1",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 12131,
+    "sha256": "0f2b7504c24c3bc9b718f3ca5424d05c7c061709bc7b7b920a099e207bc7c7b1",
+    "upstreamPath": "banks/bnk_bdo_unibank.png",
+    "aliases": [
+      "BDO Unibank"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.bdo.com.ph/favicon.ico"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/bdo-unibank.png"
   },
   {
-    "bytes": 10304,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bendigo_bank",
     "name": "Bendigo Bank",
-    "path": "banks/bnk_bendigo_bank.png",
-    "sha256": "9c7cfa662d0d135e9105cec955c711a596502105b068aaa896bac573f50c13dd",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 27531,
+    "sha256": "184d1f301925a5dfe1f0c1f88c1a72f0c76f51fc587d9802b2cb6ffb3b55d398",
+    "upstreamPath": "banks/bnk_bendigo_bank.png",
+    "aliases": [
+      "Bendigo Bank"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.bendigobank.com.au/globalassets/globalresources/brand-logos/bendigobank-logo.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/bendigo-bank.png"
   },
   {
-    "bytes": 14222,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_beyond_bank_australia",
     "name": "Beyond Bank Australia",
-    "path": "banks/bnk_beyond_bank_australia.png",
-    "sha256": "e5b0073b89e8d2c7c12493140c8ef56ca6a4ebfa3b1e157dcf76ee5967346150",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 20310,
+    "sha256": "85bc850426779c5ded36cb1899d78e3b16e625a035d25dda5f4f872b177f0cf1",
+    "upstreamPath": "banks/bnk_beyond_bank_australia.png",
+    "aliases": [
+      "Beyond Bank Australia"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://brand.beyondbank.com.au/m/1a1424e421d07bea/thul-RGB-GRAD-Beyond-Bank-Logo.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/beyond-bank-australia.png"
   },
   {
-    "bytes": 18612,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bmo",
     "name": "BMO",
-    "path": "banks/bnk_bmo.png",
-    "sha256": "ef22d5dda5419ceeeaf43e67e43d79b09a0b9edb66d56723ee4e4214f6ee4f43",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 11601,
+    "sha256": "1602361251553254c910aecf7797ee73fdcbe43babf9c3829030db722d501da7",
+    "upstreamPath": "banks/bnk_bmo.png",
+    "aliases": [
+      "BMO"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.bmo.com/dist/favicon/apple-touch-icon.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/bmo.png"
   },
   {
-    "bytes": 12275,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bni_madagascar",
     "name": "BNI Madagascar",
-    "path": "banks/bnk_bni_madagascar.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 12275,
     "sha256": "e5cc9287bdbda8e8c63f84675e185f2b88fb1ae72799a42f7251706c39fd67d2",
+    "upstreamPath": "banks/bnk_bni_madagascar.png",
+    "aliases": [
+      "BNI Madagascar"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.bni.mg/sites/default/files/favicon.png"
     },
-    "width": 256
+    "path": "banks/bni-madagascar.png"
   },
   {
-    "bytes": 11132,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_border_bank",
     "name": "Border Bank",
-    "path": "banks/bnk_border_bank.png",
-    "sha256": "9ad7d7fbaa04c7bc5a7c95a1dbd187dbd0d749e222ca11c50575df2f65eb8d9f",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 16247,
+    "sha256": "f6c99fe24a6a48b2d954d3b9d52b0acca0be21d86d0e8a50f340daca6f3e6793",
+    "upstreamPath": "banks/bnk_border_bank.png",
+    "aliases": [
+      "Border Bank"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.borderbank.com.au/wp-content/uploads/2023/05/BBLogoArtboard-2.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/border-bank.png"
   },
   {
-    "bytes": 35581,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_brac_bank",
     "name": "BRAC Bank",
-    "path": "banks/bnk_brac_bank.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 35581,
     "sha256": "7bbed061f4e108000e072993e1738eaa38b9b46e3bf3d5df9fc688d08a5975f6",
+    "upstreamPath": "banks/bnk_brac_bank.png",
+    "aliases": [
+      "BRAC Bank"
+    ],
     "source": {
       "kind": "official_app_icon",
       "url": "https://apps.apple.com/us/app/brac-bank-astha/id1525525061?uo=4"
     },
-    "width": 256
+    "path": "banks/brac-bank.png"
   },
   {
-    "bytes": 20065,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bradesco",
     "name": "Bradesco",
-    "path": "banks/bnk_bradesco.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 20065,
     "sha256": "61e223fa0f0bff0de230b78390df6576956b545e5c943537a48756e561376562",
+    "upstreamPath": "banks/bnk_bradesco.png",
+    "aliases": [
+      "Bradesco"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://banco.bradesco/html/classic/produtos-servicos/cartoes/assets/images/favicon.ico"
     },
-    "width": 256
+    "path": "banks/bradesco.png"
   },
   {
-    "bytes": 9954,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_bunq",
     "name": "bunq B.V.",
-    "path": "banks/bnk_bunq.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 9954,
     "sha256": "ea84d873e6f7ad994a59e837400ab28a7a11a5fdc8655a695bc59d04a41af24f",
+    "upstreamPath": "banks/bnk_bunq.png",
+    "aliases": [
+      "bunq",
+      "bunq bank"
+    ],
     "source": {
       "kind": "linked_brand",
       "url": null
     },
-    "width": 256
+    "path": "banks/bunq.png"
   },
   {
-    "bytes": 16281,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_cibc",
     "name": "CIBC",
-    "path": "banks/bnk_cibc.png",
-    "sha256": "69a58f81d5f7b29e0668a8dc2230bdeabd91d9b21467f49d9714374dc6b33add",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 14164,
+    "sha256": "b62212bcb8061f5ce0260c2e7585fe4e67fdec38776dae06fed22eb71e3acdce",
+    "upstreamPath": "banks/bnk_cibc.png",
+    "aliases": [
+      "CIBC"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.cibc.com/content/dam/global-assets/logos/partner-logos/apple/apple-touch-icon.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/cibc.png"
   },
   {
-    "bytes": 23274,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_citi_hong_kong",
     "name": "Citi Hong Kong",
-    "path": "banks/bnk_citi_hong_kong.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 23274,
     "sha256": "f221e8b4d49f9e96edadef7c8b6edb49d409e4d3e0227b9dd822501698ebbcb1",
+    "upstreamPath": "banks/bnk_citi_hong_kong.png",
+    "aliases": [
+      "Citi Hong Kong"
+    ],
     "source": {
       "kind": "official_app_icon",
       "url": "https://apps.apple.com/us/app/citibank-hk/id373717372?uo=4"
     },
-    "width": 256
+    "path": "banks/citi-hong-kong.png"
   },
   {
-    "bytes": 10072,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_coastline_bank",
     "name": "Coastline Bank",
-    "path": "banks/bnk_coastline_bank.png",
-    "sha256": "4f1a5ec376225bf5fa6a96655f8aecec41d7fde7069ddcffe20fd3f0da6cdc6d",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 15635,
+    "sha256": "0c9bda4217d83a802fd888455f278c8ada714ba6526f15c9a29351f662eeadfb",
+    "upstreamPath": "banks/bnk_coastline_bank.png",
+    "aliases": [
+      "Coastline Bank"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://cdn.sanity.io/images/djf521sf/production/619a4d8c4e9da4c964d2366eeb8ffd143ff37fc1-400x43.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/coastline-bank.png"
   },
   {
-    "bytes": 19624,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_commonwealth_bank_australia",
     "name": "Commonwealth Bank of Australia",
-    "path": "banks/bnk_commonwealth_bank_australia.png",
-    "sha256": "2a7fc19be94fe96fd4503b057f7dfe83f3cb5e9d396cec1ade5e39c51a3830f4",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 10789,
+    "sha256": "8327666dc8625fd4703c4911a70bb4a43ec07ca4e7ee3848673e513ab74907a1",
+    "upstreamPath": "banks/bnk_commonwealth_bank_australia.png",
+    "aliases": [
+      "CommBank",
+      "Commonwealth Bank of Australia"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.commbank.com.au/content/dam/commbank-assets/cba-stacked.jpg"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/commonwealth-bank-australia.png"
   },
   {
-    "bytes": 21425,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_credit_union_sa",
     "name": "Credit Union SA",
-    "path": "banks/bnk_credit_union_sa.png",
-    "sha256": "68f0a7bf542227f689ab1acfbb575fa721536b4245a12338a3fc3ef455334649",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 16404,
+    "sha256": "b74cd2df761639195774bb2388e2a33f71117341bdc3415e8864ba6349705690",
+    "upstreamPath": "banks/bnk_credit_union_sa.png",
+    "aliases": [
+      "Credit Union SA"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://cms.creditunionsa.com.au/assets/images/Open-Banking/cusa-logo_stacked_trans_250px.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/credit-union-sa.png"
   },
   {
-    "bytes": 3900,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_danske_bank",
     "name": "Danske Bank",
-    "path": "banks/bnk_danske_bank.png",
-    "sha256": "148a4824ffdb15153110cc9217e14f02c83591380bd915e7eeeadb5968bcda95",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 13960,
+    "sha256": "e23c2fb60637ac083475eb6a68605982e3f493532841e9612536f726ea9caf88",
+    "upstreamPath": "banks/bnk_danske_bank.png",
+    "aliases": [
+      "Danske Bank"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://danskebank.dk/~/media/Danske%20Bank/favicons/Apple/apple-touch-icon-57x57.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/danske-bank.png"
   },
   {
-    "bytes": 14972,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_defence_bank",
     "name": "Defence Bank",
-    "path": "banks/bnk_defence_bank.png",
-    "sha256": "db12848e7b8eb59e3b3daf5bf1cddfaa7f8523a3d293c347b03396b767ddd210",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 29668,
+    "sha256": "6e3c1c03d7d87343339969e75e502db6ee2eb85206803845c1e602addf30a42c",
+    "upstreamPath": "banks/bnk_defence_bank.png",
+    "aliases": [
+      "Defence Bank"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.defencebank.com.au/globalassets/images/logos/defence-bank/logo.svg"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/defence-bank.png"
   },
   {
-    "bytes": 17757,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_dnb",
     "name": "DNB",
-    "path": "banks/bnk_dnb.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 17757,
     "sha256": "1f5f76307a98289af92f8f2b8144f1cd0956ce6604f327f11de30f7a9aab4bb9",
+    "upstreamPath": "banks/bnk_dnb.png",
+    "aliases": [
+      "DNB"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.dnb.no/web/images/favicon-180x180.png"
     },
-    "width": 256
+    "path": "banks/dnb.png"
   },
   {
-    "bytes": 6403,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_ecobank_benin",
     "name": "Ecobank Benin",
-    "path": "banks/bnk_ecobank_benin.png",
-    "sha256": "d8565ebe22562cc8bd07aa49a151adc2784724d42bca2d40bce19e238c4f244a",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/favicon.ico"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 23353,
     "category": "banks",
+    "width": 256,
     "height": 256,
-    "id": "bnk_ecobank_burkina_faso",
-    "name": "Ecobank Burkina Faso",
-    "path": "banks/bnk_ecobank_burkina_faso.png",
-    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
+    "bytes": 25342,
+    "sha256": "49750a8ba351e65b165307a1a2a6f6f6b81074eabcb3509d9a07ae183f4f59a8",
+    "upstreamPath": "banks/bnk_ecobank_benin.png",
+    "aliases": [
+      "Ecobank Benin"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 6403,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_cameroon",
-    "name": "Ecobank Cameroon",
-    "path": "banks/bnk_ecobank_cameroon.png",
-    "sha256": "d8565ebe22562cc8bd07aa49a151adc2784724d42bca2d40bce19e238c4f244a",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/favicon.ico"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 23353,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_central_african_republic",
-    "name": "Ecobank Central African Republic",
-    "path": "banks/bnk_ecobank_central_african_republic.png",
-    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 23353,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_congo",
-    "name": "Ecobank Congo",
-    "path": "banks/bnk_ecobank_congo.png",
-    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 23353,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_cote_d_ivoire",
-    "name": "Ecobank Côte d’Ivoire",
-    "path": "banks/bnk_ecobank_cote_d_ivoire.png",
-    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 23353,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_ghana",
-    "name": "Ecobank Ghana",
-    "path": "banks/bnk_ecobank_ghana.png",
-    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 6403,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_guinea_bissau",
-    "name": "Ecobank Guinea-Bissau",
-    "path": "banks/bnk_ecobank_guinea_bissau.png",
-    "sha256": "d8565ebe22562cc8bd07aa49a151adc2784724d42bca2d40bce19e238c4f244a",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/favicon.ico"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 6403,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_guinea",
-    "name": "Ecobank Guinea",
-    "path": "banks/bnk_ecobank_guinea.png",
-    "sha256": "d8565ebe22562cc8bd07aa49a151adc2784724d42bca2d40bce19e238c4f244a",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/favicon.ico"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 23353,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_liberia",
-    "name": "Ecobank Liberia",
-    "path": "banks/bnk_ecobank_liberia.png",
-    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 23353,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_mali",
-    "name": "Ecobank Mali",
-    "path": "banks/bnk_ecobank_mali.png",
-    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 23353,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_senegal",
-    "name": "Ecobank Senegal",
-    "path": "banks/bnk_ecobank_senegal.png",
-    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 23353,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_sierra_leone",
-    "name": "Ecobank Sierra Leone",
-    "path": "banks/bnk_ecobank_sierra_leone.png",
-    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 6403,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ecobank_south_sudan",
-    "name": "Ecobank South Sudan",
-    "path": "banks/bnk_ecobank_south_sudan.png",
-    "sha256": "d8565ebe22562cc8bd07aa49a151adc2784724d42bca2d40bce19e238c4f244a",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.ecobank.com/favicon.ico"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 16880,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_emirates_nbd",
-    "name": "Emirates NBD",
-    "path": "banks/bnk_emirates_nbd.png",
-    "sha256": "f6bf135a682151251b367f3ba533927922afe9554b44005ba53220d7e2a002bd",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.emiratesnbd.com/-/media/enbd/images/logos/favicon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13939,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_equity_bank_kenya",
-    "name": "Equity Bank Kenya",
-    "path": "banks/bnk_equity_bank_kenya.png",
-    "sha256": "d4904c77959d5e6735c72f893c7f37abe9812a654a92f1d9fc2879610857cf36",
-    "source": {
-      "kind": "official_website",
-      "url": "https://equitygroupholdings.com/favicon.ico"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13939,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_equity_bank_uganda",
-    "name": "Equity Bank Uganda",
-    "path": "banks/bnk_equity_bank_uganda.png",
-    "sha256": "d4904c77959d5e6735c72f893c7f37abe9812a654a92f1d9fc2879610857cf36",
-    "source": {
-      "kind": "official_website",
-      "url": "https://equitygroupholdings.com/favicon.ico"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13939,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_equitybcdc",
-    "name": "EquityBCDC",
-    "path": "banks/bnk_equitybcdc.png",
-    "sha256": "d4904c77959d5e6735c72f893c7f37abe9812a654a92f1d9fc2879610857cf36",
-    "source": {
-      "kind": "official_website",
-      "url": "https://equitygroupholdings.com/favicon.ico"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 30608,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_fab",
-    "name": "FAB",
-    "path": "banks/bnk_fab.png",
-    "sha256": "5f7bfe483c15d2af335112324cb8a8ad516329dfd1362c76729c66ebc9cccc93",
-    "source": {
-      "kind": "official_app_icon",
-      "url": "https://apps.apple.com/us/app/fab-mobile/id1383237548?uo=4"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 42216,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_gtbank",
-    "name": "GTBank",
-    "path": "banks/bnk_gtbank.png",
-    "sha256": "4b5e53a0ca248014ba2eb2bb9c9d8f6ea051fd2bb40e44fa62560885f21822a8",
-    "source": {
-      "kind": "official_app_icon",
-      "url": "https://apps.apple.com/us/app/gtworld/id1227647130?uo=4"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 28191,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_hbl",
-    "name": "HBL",
-    "path": "banks/bnk_hbl.png",
-    "sha256": "d3d655591ab348ef840d1095856ba758a3982cbf82addbaab60f95548f0ba064",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.hbl.com/assets/images/favicon-32x32.jpg"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 39968,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_hdfc_bank",
-    "name": "HDFC Bank",
-    "path": "banks/bnk_hdfc_bank.png",
-    "sha256": "17c5ff4c3a4a5ac04a01dbfbe442b5815a4826c962ceb4ca712a72046836f2f3",
-    "source": {
-      "kind": "official_app_icon",
-      "url": "https://apps.apple.com/us/app/hdfc-bank-app-banking-cards/id6504402552?uo=4"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10722,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_hsbc_bank_australia_limited_wholesale_banking",
-    "name": "HSBC Bank Australia Limited – Wholesale Banking",
-    "path": "banks/bnk_hsbc_bank_australia_limited_wholesale_banking.png",
-    "sha256": "1407128bcfa1426e360d0089169163bdc5a8f171efa946df34e2736355a879b9",
-    "source": {
-      "kind": "official_registry",
-      "url": "https://www.hsbc.com.au/content/dam/hsbc/au/images/01_HSBC_MASTERBRAND_LOGO_RGB.svg"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11128,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_hsbc_hong_kong",
-    "name": "HSBC Hong Kong",
-    "path": "banks/bnk_hsbc_hong_kong.png",
-    "sha256": "fcaa4f815207a4d8de494f9f77afc3fafb03869c9d53fde5b9767c5f62782199",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.hsbc.com.hk/etc.clientlibs/dpws/clientlibs-public/clientlib-site/resources/favicons/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11128,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_hsbc_mexico",
-    "name": "HSBC México",
-    "path": "banks/bnk_hsbc_mexico.png",
-    "sha256": "fcaa4f815207a4d8de494f9f77afc3fafb03869c9d53fde5b9767c5f62782199",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.hsbc.com.mx/etc.clientlibs/dpws/clientlibs-public/clientlib-site/resources/favicons/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11128,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_hsbc_uk",
-    "name": "HSBC UK",
-    "path": "banks/bnk_hsbc_uk.png",
-    "sha256": "fcaa4f815207a4d8de494f9f77afc3fafb03869c9d53fde5b9767c5f62782199",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.hsbc.co.uk/etc.clientlibs/dpws/clientlibs-public/clientlib-site/resources/favicons/apple-touch-icon.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 35679,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_icbc",
-    "name": "ICBC",
-    "path": "banks/bnk_icbc.png",
-    "sha256": "557d43aa04ab0b06f809d1fd76f2b1568f0c16a00275ad776caf5e3930db5600",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.icbc.com.cn/favicon.ico"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13858,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ing_australia",
-    "name": "ING Bank (Australia) Limited",
-    "path": "banks/bnk_ing_australia.png",
-    "sha256": "b3bfcfec0cb6c2fefe02e3d5587d9d4c9419b0a5f741d20f3a7893ed1256d2d0",
-    "source": {
-      "kind": "official_registry",
-      "url": "https://www.ing.com.au/img/logos/ING_Primary_Logo_RGB.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 13723,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_ing",
-    "name": "ING Bank N.V.",
-    "path": "banks/bnk_ing.png",
-    "sha256": "a2f9e86cfd76f2b97c7b50539b6446066ea68efe8dcda8f83730efe40437f753",
-    "source": {
-      "kind": "linked_brand",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "banks/ecobank-benin.png"
   },
   {
-    "bytes": 10404,
+    "id": "bnk_ecobank_burkina_faso",
+    "name": "Ecobank Burkina Faso",
     "category": "banks",
+    "width": 256,
     "height": 256,
+    "bytes": 23353,
+    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
+    "upstreamPath": "banks/bnk_ecobank_burkina_faso.png",
+    "aliases": [
+      "Ecobank Burkina Faso"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
+    },
+    "path": "banks/ecobank-burkina-faso.png"
+  },
+  {
+    "id": "bnk_ecobank_cameroon",
+    "name": "Ecobank Cameroon",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 25342,
+    "sha256": "49750a8ba351e65b165307a1a2a6f6f6b81074eabcb3509d9a07ae183f4f59a8",
+    "upstreamPath": "banks/bnk_ecobank_cameroon.png",
+    "aliases": [
+      "Ecobank Cameroon"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/ecobank-cameroon.png"
+  },
+  {
+    "id": "bnk_ecobank_central_african_republic",
+    "name": "Ecobank Central African Republic",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 23353,
+    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
+    "upstreamPath": "banks/bnk_ecobank_central_african_republic.png",
+    "aliases": [
+      "Ecobank Central African Republic"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
+    },
+    "path": "banks/ecobank-central-african-republic.png"
+  },
+  {
+    "id": "bnk_ecobank_congo",
+    "name": "Ecobank Congo",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 23353,
+    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
+    "upstreamPath": "banks/bnk_ecobank_congo.png",
+    "aliases": [
+      "Ecobank Congo"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
+    },
+    "path": "banks/ecobank-congo.png"
+  },
+  {
+    "id": "bnk_ecobank_cote_d_ivoire",
+    "name": "Ecobank Côte d’Ivoire",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 23353,
+    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
+    "upstreamPath": "banks/bnk_ecobank_cote_d_ivoire.png",
+    "aliases": [
+      "Ecobank Côte d’Ivoire"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
+    },
+    "path": "banks/ecobank-cote-d-ivoire.png"
+  },
+  {
+    "id": "bnk_ecobank_ghana",
+    "name": "Ecobank Ghana",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 23353,
+    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
+    "upstreamPath": "banks/bnk_ecobank_ghana.png",
+    "aliases": [
+      "Ecobank Ghana"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
+    },
+    "path": "banks/ecobank-ghana.png"
+  },
+  {
+    "id": "bnk_ecobank_guinea_bissau",
+    "name": "Ecobank Guinea-Bissau",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 25342,
+    "sha256": "49750a8ba351e65b165307a1a2a6f6f6b81074eabcb3509d9a07ae183f4f59a8",
+    "upstreamPath": "banks/bnk_ecobank_guinea_bissau.png",
+    "aliases": [
+      "Ecobank Guinea-Bissau"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/ecobank-guinea-bissau.png"
+  },
+  {
+    "id": "bnk_ecobank_guinea",
+    "name": "Ecobank Guinea",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 25342,
+    "sha256": "49750a8ba351e65b165307a1a2a6f6f6b81074eabcb3509d9a07ae183f4f59a8",
+    "upstreamPath": "banks/bnk_ecobank_guinea.png",
+    "aliases": [
+      "Ecobank Guinea"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/ecobank-guinea.png"
+  },
+  {
+    "id": "bnk_ecobank_liberia",
+    "name": "Ecobank Liberia",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 23353,
+    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
+    "upstreamPath": "banks/bnk_ecobank_liberia.png",
+    "aliases": [
+      "Ecobank Liberia"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
+    },
+    "path": "banks/ecobank-liberia.png"
+  },
+  {
+    "id": "bnk_ecobank_mali",
+    "name": "Ecobank Mali",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 23353,
+    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
+    "upstreamPath": "banks/bnk_ecobank_mali.png",
+    "aliases": [
+      "Ecobank Mali"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
+    },
+    "path": "banks/ecobank-mali.png"
+  },
+  {
+    "id": "bnk_ecobank_senegal",
+    "name": "Ecobank Senegal",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 23353,
+    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
+    "upstreamPath": "banks/bnk_ecobank_senegal.png",
+    "aliases": [
+      "Ecobank Senegal"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
+    },
+    "path": "banks/ecobank-senegal.png"
+  },
+  {
+    "id": "bnk_ecobank_sierra_leone",
+    "name": "Ecobank Sierra Leone",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 23353,
+    "sha256": "80903feee05cf77b40a1d176a2c164b00091d8ed923b3467204a27fae6012b5c",
+    "upstreamPath": "banks/bnk_ecobank_sierra_leone.png",
+    "aliases": [
+      "Ecobank Sierra Leone"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://www.ecobank.com/img/eco/apple-touch-icon.png"
+    },
+    "path": "banks/ecobank-sierra-leone.png"
+  },
+  {
+    "id": "bnk_ecobank_south_sudan",
+    "name": "Ecobank South Sudan",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 25342,
+    "sha256": "49750a8ba351e65b165307a1a2a6f6f6b81074eabcb3509d9a07ae183f4f59a8",
+    "upstreamPath": "banks/bnk_ecobank_south_sudan.png",
+    "aliases": [
+      "Ecobank South Sudan"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/ecobank-south-sudan.png"
+  },
+  {
+    "id": "bnk_emirates_nbd",
+    "name": "Emirates NBD",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 13370,
+    "sha256": "7c57f059620e77ced0fd183665a642784c9d8de8010f6e6b5cb5ccaaece94584",
+    "upstreamPath": "banks/bnk_emirates_nbd.png",
+    "aliases": [
+      "Emirates NBD"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/emirates-nbd.png"
+  },
+  {
+    "id": "bnk_equity_bank_kenya",
+    "name": "Equity Bank Kenya",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 13939,
+    "sha256": "d4904c77959d5e6735c72f893c7f37abe9812a654a92f1d9fc2879610857cf36",
+    "upstreamPath": "banks/bnk_equity_bank_kenya.png",
+    "aliases": [
+      "Equity Bank Kenya"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://equitygroupholdings.com/favicon.ico"
+    },
+    "path": "banks/equity-bank-kenya.png"
+  },
+  {
+    "id": "bnk_equity_bank_uganda",
+    "name": "Equity Bank Uganda",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 13939,
+    "sha256": "d4904c77959d5e6735c72f893c7f37abe9812a654a92f1d9fc2879610857cf36",
+    "upstreamPath": "banks/bnk_equity_bank_uganda.png",
+    "aliases": [
+      "Equity Bank Uganda"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://equitygroupholdings.com/favicon.ico"
+    },
+    "path": "banks/equity-bank-uganda.png"
+  },
+  {
+    "id": "bnk_equitybcdc",
+    "name": "EquityBCDC",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 13939,
+    "sha256": "d4904c77959d5e6735c72f893c7f37abe9812a654a92f1d9fc2879610857cf36",
+    "upstreamPath": "banks/bnk_equitybcdc.png",
+    "aliases": [
+      "EquityBCDC"
+    ],
+    "source": {
+      "kind": "official_website",
+      "url": "https://equitygroupholdings.com/favicon.ico"
+    },
+    "path": "banks/equitybcdc.png"
+  },
+  {
+    "id": "bnk_fab",
+    "name": "FAB",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 49247,
+    "sha256": "97fbc8e5ab2ee034db1c54c78e577568c7b8bc06957be5b5b6e6ddbf0ba8d0f4",
+    "upstreamPath": "banks/bnk_fab.png",
+    "aliases": [
+      "FAB"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/fab.png"
+  },
+  {
+    "id": "bnk_gtbank",
+    "name": "GTBank",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 3588,
+    "sha256": "d38be7b4fc7190967f6bbf0b09da2036fbe3dd194aea578ce659499ba08e5749",
+    "upstreamPath": "banks/bnk_gtbank.png",
+    "aliases": [
+      "GTBank"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/gtbank.png"
+  },
+  {
+    "id": "bnk_hbl",
+    "name": "HBL",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 10875,
+    "sha256": "59c27ad480da1440de17488540b72d299db3436d7cc3f0318d9fd656e53348df",
+    "upstreamPath": "banks/bnk_hbl.png",
+    "aliases": [
+      "HBL"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/hbl.png"
+  },
+  {
+    "id": "bnk_hdfc_bank",
+    "name": "HDFC Bank",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 6092,
+    "sha256": "29f1b2c05666b978b1da229d42d9853c9a2e67ab0ecb6dba7660a69d109f5355",
+    "upstreamPath": "banks/bnk_hdfc_bank.png",
+    "aliases": [
+      "HDFC Bank"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/hdfc-bank.png"
+  },
+  {
+    "id": "bnk_hsbc_bank_australia_limited_wholesale_banking",
+    "name": "HSBC Bank Australia Limited – Wholesale Banking",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 15617,
+    "sha256": "9edfaa6ae35415aa7cba600bc5e10bc1d30f70aa26b4c383152db5f58064b17e",
+    "upstreamPath": "banks/bnk_hsbc_bank_australia_limited_wholesale_banking.png",
+    "aliases": [
+      "HSBC Bank Australia Limited – Wholesale Banking"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/hsbc-bank-australia-limited-wholesale-banking.png"
+  },
+  {
+    "id": "bnk_hsbc_hong_kong",
+    "name": "HSBC Hong Kong",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 15617,
+    "sha256": "9edfaa6ae35415aa7cba600bc5e10bc1d30f70aa26b4c383152db5f58064b17e",
+    "upstreamPath": "banks/bnk_hsbc_hong_kong.png",
+    "aliases": [
+      "HSBC Hong Kong"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/hsbc-hong-kong.png"
+  },
+  {
+    "id": "bnk_hsbc_mexico",
+    "name": "HSBC México",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 15617,
+    "sha256": "9edfaa6ae35415aa7cba600bc5e10bc1d30f70aa26b4c383152db5f58064b17e",
+    "upstreamPath": "banks/bnk_hsbc_mexico.png",
+    "aliases": [
+      "HSBC México"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/hsbc-mexico.png"
+  },
+  {
+    "id": "bnk_hsbc_uk",
+    "name": "HSBC UK",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 15617,
+    "sha256": "9edfaa6ae35415aa7cba600bc5e10bc1d30f70aa26b4c383152db5f58064b17e",
+    "upstreamPath": "banks/bnk_hsbc_uk.png",
+    "aliases": [
+      "HSBC UK"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/hsbc-uk.png"
+  },
+  {
+    "id": "bnk_icbc",
+    "name": "ICBC",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 15886,
+    "sha256": "23f52935c7caebb6a948180b39c6d8030a64855dc5c635ae7715b9f4d3bcbb2f",
+    "upstreamPath": "banks/bnk_icbc.png",
+    "aliases": [
+      "ICBC"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/icbc.png"
+  },
+  {
+    "id": "bnk_ing_australia",
+    "name": "ING Bank (Australia) Limited",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 26470,
+    "sha256": "2cc357a6e5449b64c267002eafad346fac7180b4980e5eb965fd6f95e8dde731",
+    "upstreamPath": "banks/bnk_ing_australia.png",
+    "aliases": [
+      "ING BANK (Australia) Ltd",
+      "ING Australia",
+      "ING Bank (Australia) Limited"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/ing-australia.png"
+  },
+  {
+    "id": "bnk_ing",
+    "name": "ING Bank N.V.",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 26470,
+    "sha256": "2cc357a6e5449b64c267002eafad346fac7180b4980e5eb965fd6f95e8dde731",
+    "upstreamPath": "banks/bnk_ing.png",
+    "aliases": [
+      "ING",
+      "ING Bank"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/ing.png"
+  },
+  {
     "id": "bnk_international_card_services_b_v",
     "name": "International Card Services B.V.",
-    "path": "banks/bnk_international_card_services_b_v.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 10404,
     "sha256": "729b90d8f67749b8c4930c18a907248b1cfb0f0c8ceb543400ce2b6faf3043b4",
+    "upstreamPath": "banks/bnk_international_card_services_b_v.png",
+    "aliases": [
+      "International Card Services B.V."
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://assets.icscards.nl/static/images/favicons/favicon.png"
     },
-    "width": 256
+    "path": "banks/international-card-services-b-v.png"
   },
   {
-    "bytes": 19597,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_itau",
     "name": "Itaú",
-    "path": "banks/bnk_itau.png",
-    "sha256": "26cb70bcab0ee6d9fedf6fe4c4d1b2168501c8d77613cd471afa090fa55385b0",
-    "source": {
-      "kind": "official_website",
-      "url": "https://www.itau.com.br/media/dam/m/54e54170ad2b7925/original/logo-57px.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 8145,
     "category": "banks",
+    "width": 256,
     "height": 256,
-    "id": "bnk_jpmorgan_chase",
-    "name": "JPMorgan Chase & Co.",
-    "path": "banks/bnk_jpmorgan_chase.png",
-    "sha256": "85f90502567d1e635d203c0d0153960bbf11a479f2338030dfda12c025a2a478",
+    "bytes": 13971,
+    "sha256": "14f22172d6bf27b8e43d7effae39374838413998ef7f9d835a052d8c1435ebf3",
+    "upstreamPath": "banks/bnk_itau.png",
+    "aliases": [
+      "Itaú"
+    ],
     "source": {
-      "kind": "linked_brand",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "banks/itau.png"
   },
   {
-    "bytes": 52319,
+    "id": "bnk_jpmorgan_chase",
+    "name": "JPMorgan Chase & Co.",
     "category": "banks",
+    "width": 256,
     "height": 256,
+    "bytes": 18658,
+    "sha256": "b2c282660c0f303c8961b950c1b4c3d94eddb7449761529d8d38e0419317bfd2",
+    "upstreamPath": "banks/bnk_jpmorgan_chase.png",
+    "aliases": [
+      "Chase",
+      "J.P. Morgan",
+      "JPMC",
+      "JPMorgan Chase Bank",
+      "JPMorganChase"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/jpmorgan-chase.png"
+  },
+  {
     "id": "bnk_kasikornbank",
     "name": "Kasikornbank",
-    "path": "banks/bnk_kasikornbank.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 52319,
     "sha256": "48f0912ac2c37c8b482a9eed79a5239931fc65fe39f7747c8fe1b3d0724b86ca",
+    "upstreamPath": "banks/bnk_kasikornbank.png",
+    "aliases": [
+      "Kasikornbank"
+    ],
     "source": {
       "kind": "official_app_icon",
       "url": "https://apps.apple.com/us/app/k-plus/id361170631?uo=4"
     },
-    "width": 256
+    "path": "banks/kasikornbank.png"
   },
   {
-    "bytes": 10472,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_klarna",
     "name": "Klarna Bank AB",
-    "path": "banks/bnk_klarna.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 10472,
     "sha256": "90067103f6005ad11b33e417ae80d04ad1edb5f649ace7de1ca9425e8bb634c0",
+    "upstreamPath": "banks/bnk_klarna.png",
+    "aliases": [
+      "Klarna",
+      "Klarna Bank"
+    ],
     "source": {
       "kind": "linked_brand",
       "url": null
     },
-    "width": 256
+    "path": "banks/klarna.png"
   },
   {
-    "bytes": 10673,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_knab",
     "name": "Knab N.V.",
-    "path": "banks/bnk_knab.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 10673,
     "sha256": "d248bce0b05672d6e4c29805d187b35b7584d5b0f9698f131990fe6061513a3d",
+    "upstreamPath": "banks/bnk_knab.png",
+    "aliases": [
+      "Knab",
+      "Knab Bank"
+    ],
     "source": {
       "kind": "linked_brand",
       "url": null
     },
-    "width": 256
+    "path": "banks/knab.png"
   },
   {
-    "bytes": 9748,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_macquarie_bank",
     "name": "Macquarie Bank Limited",
-    "path": "banks/bnk_macquarie_bank.png",
-    "sha256": "912da7e61573e2fee00073971ad338127e47a4c7f69051e5f63a6c9f09abeb00",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 16604,
+    "sha256": "2819d39b011c4b53e8472341bba5e1f328dfd35178ee8fc09c7b414636014408",
+    "upstreamPath": "banks/bnk_macquarie_bank.png",
+    "aliases": [
+      "Macquarie Bank Limited",
+      "Macquarie"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.macquarie.com.au/assets/bfs/global/macquarie-logo_black.svg"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/macquarie-bank.png"
   },
   {
-    "bytes": 17688,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_mashreq",
     "name": "Mashreq",
-    "path": "banks/bnk_mashreq.png",
-    "sha256": "134544a461a53267940d0592948b88d123df87bffec23e5b5d1a5a87b5e77eee",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 31022,
+    "sha256": "132173788f87cbc71cda10e6f4fe263e440be13f1ec5d294e782d01727eac28b",
+    "upstreamPath": "banks/bnk_mashreq.png",
+    "aliases": [
+      "Mashreq"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.mashreq.com/dist/mashreq-reactjs/favicon.ico"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/mashreq.png"
   },
   {
-    "bytes": 22679,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_maybank_malaysia",
     "name": "Maybank Malaysia",
-    "path": "banks/bnk_maybank_malaysia.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 22679,
     "sha256": "0db04d63d96b1dc2c1ac803dba612e063acc1dd6f4c3d23d569edd1aefc56eb1",
+    "upstreamPath": "banks/bnk_maybank_malaysia.png",
+    "aliases": [
+      "Maybank Malaysia"
+    ],
     "source": {
       "kind": "official_app_icon",
       "url": "https://apps.apple.com/us/app/mae-by-maybank2u/id1481028763?uo=4"
     },
-    "width": 256
+    "path": "banks/maybank-malaysia.png"
   },
   {
-    "bytes": 8662,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_mbank",
     "name": "mBank",
-    "path": "banks/bnk_mbank.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 8662,
     "sha256": "61f460f92538b16c240a2e53f5c277dd45d5553dd62710c515754294ce6b055c",
+    "upstreamPath": "banks/bnk_mbank.png",
+    "aliases": [
+      "mBank"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.mbank.pl/favicon/apple-touch-icon.png"
     },
-    "width": 256
+    "path": "banks/mbank.png"
   },
   {
-    "bytes": 14258,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_millennium_bcp",
     "name": "Millennium bcp",
-    "path": "banks/bnk_millennium_bcp.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 14258,
     "sha256": "bf1248adfd80dfb73bda8140da13be397ba957cb204537361ebddd78f563fc12",
+    "upstreamPath": "banks/bnk_millennium_bcp.png",
+    "aliases": [
+      "Millennium bcp"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.millenniumbcp.pt/media/kq1jrxfx/apple-touch-icon.png"
     },
-    "width": 256
+    "path": "banks/millennium-bcp.png"
   },
   {
-    "bytes": 12613,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_n26",
     "name": "N26 Bank SE",
-    "path": "banks/bnk_n26.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 12613,
     "sha256": "a39b1447d22568a83245f307c976a09b32036bae83f6bde3a1c6a061442da147",
+    "upstreamPath": "banks/bnk_n26.png",
+    "aliases": [
+      "N26",
+      "N26 Bank"
+    ],
     "source": {
       "kind": "linked_brand",
       "url": null
     },
-    "width": 256
+    "path": "banks/n26.png"
   },
   {
-    "bytes": 21694,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_nab",
     "name": "National Australia Bank Limited",
-    "path": "banks/bnk_nab.png",
-    "sha256": "3708076febf7774f603aa66746d54957ef2e229cdc84bc73dfe572e30de95d68",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 20771,
+    "sha256": "4d42575317811bc6c75deb5cad55cdbe54ea3cdd8f3d00abcc3a4db610458c39",
+    "upstreamPath": "banks/bnk_nab.png",
+    "aliases": [
+      "NATIONAL AUSTRALIA BANK",
+      "NAB",
+      "National Australia Bank Limited"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.nab.com.au/etc/designs/nabrwd/clientlibs/images/logo.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/national-australia-bank.png"
   },
   {
-    "bytes": 25806,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_natwest",
     "name": "NatWest",
-    "path": "banks/bnk_natwest.png",
-    "sha256": "0ce289b11c6fa29f70e6d54e77510d572a324aee886bfa0e772c354b40d50223",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 28810,
+    "sha256": "1728439cf60f31c6bbaedb76eb8b9ad9530116a8d4a5e25d7a0281882e11b09b",
+    "upstreamPath": "banks/bnk_natwest.png",
+    "aliases": [
+      "NatWest"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.natwest.com/content/dam/championlogos/nw-champ-smartbanner.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/natwest.png"
   },
   {
-    "bytes": 46161,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_nbk_bahrain",
     "name": "NBK Bahrain",
-    "path": "banks/bnk_nbk_bahrain.png",
-    "sha256": "20b76651dce06e0d6210e9d35c36b76c0dc0d2545f547a4c48c3ae672d966f48",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 18545,
+    "sha256": "33f84877f6774b09e5efe120950a93aaec805b41cc58e292a7b5531b289f48a0",
+    "upstreamPath": "banks/bnk_nbk_bahrain.png",
+    "aliases": [
+      "NBK Bahrain"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.nbk.com/.resources/nbk-theme/images/favicon.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/nbk-bahrain.png"
   },
   {
-    "bytes": 30428,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_nedbank",
     "name": "Nedbank",
-    "path": "banks/bnk_nedbank.png",
-    "sha256": "4834d58b7c6615c98fd2457a69fa268f8207aceaa3441471bd9ee31a2fa4e415",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 14122,
+    "sha256": "4f62508d71164a1d581d8a64687ec653855bcc9d892d013b4affb39866ebc840",
+    "upstreamPath": "banks/bnk_nedbank.png",
+    "aliases": [
+      "Nedbank"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://personal.nedbank.co.za/content/dam/nedbank/logos/favicon-shortcut.ico"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/nedbank.png"
   },
   {
-    "bytes": 8252,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_nordea",
     "name": "Nordea",
-    "path": "banks/bnk_nordea.png",
-    "sha256": "d2dabe3d856dd9517a258db8e29f0503b2e114538fb89fc3b49a9e1eb326b18c",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 17753,
+    "sha256": "5e74c2cae4ace2df51c6836eee60c6478813decc370b1d6e4ba02922f1fb075c",
+    "upstreamPath": "banks/bnk_nordea.png",
+    "aliases": [
+      "Nordea"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.nordea.fi/static/common/img/nordea_pulse.svg"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/nordea.png"
   },
   {
-    "bytes": 10347,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_northern_inland_credit_union",
     "name": "Northern Inland Credit Union Limited",
-    "path": "banks/bnk_northern_inland_credit_union.png",
-    "sha256": "ef23df0c98fba6e331be2c9f7d52a57281fb4a53712aab68059e297daa3f6966",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 20155,
+    "sha256": "43a637e8aa6ac64f502989ac707019e2f53e0650c09e2d29093818bd5a307472",
+    "upstreamPath": "banks/bnk_northern_inland_credit_union.png",
+    "aliases": [
+      "Northern Inland Credit Union Limited",
+      "Northern Inland Credit Union"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://nicu.com.au/images/UserUploadedImages/11/NICUlogo.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/northern-inland-credit-union.png"
   },
   {
-    "bytes": 53031,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_ocbc",
     "name": "OCBC",
-    "path": "banks/bnk_ocbc.png",
-    "sha256": "70b5d5d8c27bfbc1e0979a756476f12a77a86b72f9e67c7285934104bbe39a45",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 19418,
+    "sha256": "25559611c1fb1ca7df4a0abb4080b08897e5cc4cbc9f6bebeb6cce3c97cf9fdf",
+    "upstreamPath": "banks/bnk_ocbc.png",
+    "aliases": [
+      "OCBC"
+    ],
     "source": {
-      "kind": "official_app_icon",
-      "url": "https://apps.apple.com/us/app/ocbc-singapore/id292506828?uo=4"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/ocbc.png"
   },
   {
-    "bytes": 11807,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_openbank",
     "name": "Open Bank S.A.",
-    "path": "banks/bnk_openbank.png",
-    "sha256": "b13df48f2ba3c2354e66899e982c96aba520fdaf3291885198d73286e99b708b",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 13574,
+    "sha256": "f70497cee749aa661ada996614f583229f2beb819996e7a440a2d4d882254c5e",
+    "upstreamPath": "banks/bnk_openbank.png",
+    "aliases": [
+      "Open Bank",
+      "Openbank",
+      "Openbank by Santander"
+    ],
     "source": {
-      "kind": "linked_brand",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "banks/openbank.png"
   },
   {
-    "bytes": 10706,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_p_and_n_bank",
     "name": "P&N Bank",
-    "path": "banks/bnk_p_and_n_bank.png",
-    "sha256": "c8285eb1b4e07b0249c7ddfc61e3817c9d4c139fd043eef03d384936d2827b30",
-    "source": {
-      "kind": "official_registry",
-      "url": "https://digital.pnbank.com.au/globalassets/internet-banking/onboarding/logo-small.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 24298,
     "category": "banks",
+    "width": 256,
     "height": 256,
-    "id": "bnk_pko_bank_polski",
-    "name": "PKO Bank Polski",
-    "path": "banks/bnk_pko_bank_polski.png",
-    "sha256": "8d8d683077d6d3f2283c95c84e7b87ab6a549b7f04ffdbe5143f49af537a3fc1",
+    "bytes": 51323,
+    "sha256": "cce2890c46f407344d851813e316ae23cec729245da5d780bb6bf10bec50b718",
+    "upstreamPath": "banks/bnk_p_and_n_bank.png",
+    "aliases": [
+      "P&N Bank"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.pkobp.pl/static/redesign/_front/_img/_layout/favicon_new.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 11886,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_police_bank",
-    "name": "Police Bank",
-    "path": "banks/bnk_police_bank.png",
-    "sha256": "b449dfe19d25c78a516c9018f386c2910c79b4fb68822f463f429e868b178c60",
-    "source": {
-      "kind": "official_registry",
-      "url": "https://www.policebank.com.au/wp-content/uploads/2024/11/Police-Bank-Logo-Base-Primary-2.svg"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 15709,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_qbank",
-    "name": "QBANK",
-    "path": "banks/bnk_qbank.png",
-    "sha256": "0210ed50748bb394ce589b6ec20c615f0920a39e013b94a01faff23ab0d639d4",
-    "source": {
-      "kind": "official_registry",
-      "url": "https://www.qbank.com.au/media/logo/qbank-logo.svg"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 10834,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_qudos_bank",
-    "name": "Qudos Bank",
-    "path": "banks/bnk_qudos_bank.png",
-    "sha256": "47c234398ab71b20c5318f481e17f2f9b5aa8ce79146faabe5dc78437f4aa8ad",
-    "source": {
-      "kind": "official_registry",
-      "url": "https://cdn.prod.website-files.com/663aabca709a328fd2c0ea2e/663b1305def411e0460bafb4_logo-60.svg"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 14290,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_queensland_country_bank",
-    "name": "Queensland Country Bank",
-    "path": "banks/bnk_queensland_country_bank.png",
-    "sha256": "06ea315029288fc6261e1b25737b34b89b66f017a2eabf1bc53d5253a44e76ea",
-    "source": {
-      "kind": "official_registry",
-      "url": "https://www.queenslandcountry.bank/siteassets/images/logo-bank/qcb-logo.png"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 9822,
-    "category": "banks",
-    "height": 256,
-    "id": "bnk_rabobank",
-    "name": "Coöperatieve Rabobank U.A.",
-    "path": "banks/bnk_rabobank.png",
-    "sha256": "bae060637255675e956a76dc8903fe2a94537841f560390af04da37713fb0ad6",
-    "source": {
-      "kind": "linked_brand",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "banks/p-and-n-bank.png"
   },
   {
-    "bytes": 16262,
+    "id": "bnk_pko_bank_polski",
+    "name": "PKO Bank Polski",
     "category": "banks",
+    "width": 256,
     "height": 256,
+    "bytes": 27289,
+    "sha256": "3ff78794b9059184e5f271a7e2e837b008ead00767a29c14a3342d9a99237867",
+    "upstreamPath": "banks/bnk_pko_bank_polski.png",
+    "aliases": [
+      "PKO Bank Polski"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/pko-bank-polski.png"
+  },
+  {
+    "id": "bnk_police_bank",
+    "name": "Police Bank",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 5791,
+    "sha256": "7c52e0934ec7c52ba24c68b011a4cccf85c9faf23da2bcbcd46687f73818b6ac",
+    "upstreamPath": "banks/bnk_police_bank.png",
+    "aliases": [
+      "Police Bank"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/police-bank.png"
+  },
+  {
+    "id": "bnk_qbank",
+    "name": "QBANK",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 17497,
+    "sha256": "cd2978b3f75196229634a119ac970e1582afe0b5988cda723ba6da4b08bd1d6c",
+    "upstreamPath": "banks/bnk_qbank.png",
+    "aliases": [
+      "QBANK"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/qbank.png"
+  },
+  {
+    "id": "bnk_qudos_bank",
+    "name": "Qudos Bank",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 36701,
+    "sha256": "51b142cf0f33f2c9d70a8591ec85010f8459f6aee555e242f4edd12209c296da",
+    "upstreamPath": "banks/bnk_qudos_bank.png",
+    "aliases": [
+      "Qudos Bank"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/qudos-bank.png"
+  },
+  {
+    "id": "bnk_queensland_country_bank",
+    "name": "Queensland Country Bank",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 38605,
+    "sha256": "a3ae3d7a689f3474d1e4b93904688555dcdf4807d428032df48397815fa0fd17",
+    "upstreamPath": "banks/bnk_queensland_country_bank.png",
+    "aliases": [
+      "Queensland Country Bank"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/queensland-country-bank.png"
+  },
+  {
+    "id": "bnk_rabobank",
+    "name": "Coöperatieve Rabobank U.A.",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 32192,
+    "sha256": "f2fb82250260c8787e83cd8a186c9f0292ea18c5bf3cd67debc6c510c8dc1576",
+    "upstreamPath": "banks/bnk_rabobank.png",
+    "aliases": [
+      "Rabobank",
+      "Rabobank Nederland"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "banks/rabobank.png"
+  },
+  {
     "id": "bnk_rakuten_card",
     "name": "Rakuten Card",
-    "path": "banks/bnk_rakuten_card.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 16262,
     "sha256": "f624f645a88fa045a459fc8780d2494047a6b4c6d51b167438602fa1de665214",
+    "upstreamPath": "banks/bnk_rakuten_card.png",
+    "aliases": [
+      "Rakuten Card"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://image.card.jp.rakuten-static.com/card_corp/smart/common/apple_touch_icon.png"
     },
-    "width": 256
+    "path": "banks/rakuten-card.png"
   },
   {
-    "bytes": 23669,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_rawbank",
     "name": "Rawbank",
-    "path": "banks/bnk_rawbank.png",
-    "sha256": "85d8477f6499fa478393883dfbfdeea31432bd02f42a2d073ef45cd78097349d",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 19936,
+    "sha256": "905e2273c6d89a6cb4420a1610f39babf81db95d34342a53a976ec197608a3d8",
+    "upstreamPath": "banks/bnk_rawbank.png",
+    "aliases": [
+      "Rawbank"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://rawbank.com/wp-content/uploads/2025/01/favicon-rawbank-300x300.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/rawbank.png"
   },
   {
-    "bytes": 59156,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_rbc_royal_bank",
     "name": "RBC Royal Bank",
-    "path": "banks/bnk_rbc_royal_bank.png",
-    "sha256": "c303fd2eda3f0f9ba06a0944d78dfa132ecad67215af6da4c004f22542a70b05",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 26248,
+    "sha256": "17f59b4dade8937c67b3aa0600a28f18294a6e852b25fa2fd7190b388f5904ff",
+    "upstreamPath": "banks/bnk_rbc_royal_bank.png",
+    "aliases": [
+      "RBC Royal Bank"
+    ],
     "source": {
-      "kind": "official_app_icon",
-      "url": "https://apps.apple.com/us/app/rbc-mobile/id407597290?uo=4"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/rbc-royal-bank.png"
   },
   {
-    "bytes": 22949,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_regional_australia_bank",
     "name": "Regional Australia Bank",
-    "path": "banks/bnk_regional_australia_bank.png",
-    "sha256": "1798dd22ba59d01396366464091ecd547c07a0cf88b7efc0f24d44fad2fe3064",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 27521,
+    "sha256": "4a9a8c1da1b5b7b822bdec3aa944de0aab6b7929613a361a03cf5fc585321ea2",
+    "upstreamPath": "banks/bnk_regional_australia_bank.png",
+    "aliases": [
+      "Regional Australia Bank"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.regionalaustraliabank.com.au/getcontentasset/ac992c94-0e8c-4439-be38-0028dc45c133/3beffb48-3dfa-48f3-8905-aded8557907a/regional-australia-bank-primary-logo.png?language=en"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/regional-australia-bank.png"
   },
   {
-    "bytes": 8998,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_revolut",
     "name": "Revolut Bank UAB",
-    "path": "banks/bnk_revolut.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 8998,
     "sha256": "8ec884e54f36cb315e587f6675bdd8f7c20b626a5d65841e87b1df6ab39159fa",
+    "upstreamPath": "banks/bnk_revolut.png",
+    "aliases": [
+      "Revolut",
+      "Revolut Bank"
+    ],
     "source": {
       "kind": "linked_brand",
       "url": null
     },
-    "width": 256
+    "path": "banks/revolut.png"
   },
   {
-    "bytes": 17874,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_santander_argentina",
     "name": "Santander Argentina",
-    "path": "banks/bnk_santander_argentina.png",
-    "sha256": "5224f99b9eb3a3190c32f0f0019f717728707aa7c7cad2c49d225c1a0bd450dc",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 13922,
+    "sha256": "e566b2113ab43d8c91667cf17c674d3b005d65faa5f613f0bbf13044e9aee44d",
+    "upstreamPath": "banks/bnk_santander_argentina.png",
+    "aliases": [
+      "Santander Argentina"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.santander.com.ar/favicon-32.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/santander-argentina.png"
   },
   {
-    "bytes": 12676,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_santander_brasil",
     "name": "Santander Brasil",
-    "path": "banks/bnk_santander_brasil.png",
-    "sha256": "065abda48be6a0b1c8af1f97aa7250b811ea7e473cad2ad8e1405677a83ad9c4",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 13922,
+    "sha256": "e566b2113ab43d8c91667cf17c674d3b005d65faa5f613f0bbf13044e9aee44d",
+    "upstreamPath": "banks/bnk_santander_brasil.png",
+    "aliases": [
+      "Santander Brasil"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:f59da7fa-e373-450b-b15e-61cadcf97491/as/apple-touch-icon.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/santander-brasil.png"
   },
   {
-    "bytes": 25374,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_santander_uruguay",
     "name": "Santander Uruguay",
-    "path": "banks/bnk_santander_uruguay.png",
-    "sha256": "2a47d8da4d005c31f337e0e887a7b9dfe47fe0761d8adc2fa62fd76ae9b51cfd",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 13922,
+    "sha256": "e566b2113ab43d8c91667cf17c674d3b005d65faa5f613f0bbf13044e9aee44d",
+    "upstreamPath": "banks/bnk_santander_uruguay.png",
+    "aliases": [
+      "Santander Uruguay"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.santander.com.uy/profiles/santander/themes/custom/santander_theme/favicon.ico"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/santander-uruguay.png"
   },
   {
-    "bytes": 52175,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_sbi_card",
     "name": "SBI Card",
-    "path": "banks/bnk_sbi_card.png",
-    "sha256": "90695de0033d134eb7b4dfb965b680a4027d8aa8e97d4b14b72725fe2a158b9c",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 11054,
+    "sha256": "e5b23bc097a17ddc2c784f6f607f76198db84fbbedaaf8c59a03152de4653331",
+    "upstreamPath": "banks/bnk_sbi_card.png",
+    "aliases": [
+      "SBI Card"
+    ],
     "source": {
-      "kind": "official_app_icon",
-      "url": "https://apps.apple.com/us/app/sbi-card-manage-credit-card/id694549848?uo=4"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/sbi-card.png"
   },
   {
-    "bytes": 24266,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_scotiabank_uruguay",
     "name": "Scotiabank Uruguay",
-    "path": "banks/bnk_scotiabank_uruguay.png",
-    "sha256": "14a7195889c29a76d5d94bd3fded552b176602b43f9959a364483f9e2db8c855",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 10999,
+    "sha256": "e37f88366ee1e8048da9be86053c5562919a90a44f4aae755960c5949e33ce55",
+    "upstreamPath": "banks/bnk_scotiabank_uruguay.png",
+    "aliases": [
+      "Scotiabank Uruguay"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://cdn.aglty.io/scotiabank-uruguay/icons/favicons/rebrand-2019/icon-iphone.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/scotiabank-uruguay.png"
   },
   {
-    "bytes": 18799,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_scotiabank",
     "name": "Scotiabank",
-    "path": "banks/bnk_scotiabank.png",
-    "sha256": "62426f33771f2df7151bea0bee7592749dee7a78358e50f32f8052d9e9e94bd9",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 10999,
+    "sha256": "e37f88366ee1e8048da9be86053c5562919a90a44f4aae755960c5949e33ce55",
+    "upstreamPath": "banks/bnk_scotiabank.png",
+    "aliases": [
+      "Scotiabank"
+    ],
     "source": {
-      "kind": "official_app_icon",
-      "url": "https://apps.apple.com/us/app/scotiabank/id341151570?uo=4"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/scotiabank.png"
   },
   {
-    "bytes": 8683,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_seb",
     "name": "SEB",
-    "path": "banks/bnk_seb.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 8683,
     "sha256": "614269c7bc249613376944385b44aa49444fc10fb47950a32c6c3e636b0bf298",
+    "upstreamPath": "banks/bnk_seb.png",
+    "aliases": [
+      "SEB"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://seb.se/apple-touch-icon.png"
     },
-    "width": 256
+    "path": "banks/seb.png"
   },
   {
-    "bytes": 14166,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_st_george_bank",
     "name": "St.George Bank",
-    "path": "banks/bnk_st_george_bank.png",
-    "sha256": "2187b7600e46d9605c7527de114d69750f335c07f64e7c9d021887e058c598a6",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 26205,
+    "sha256": "64d325c6175cf7307e25b432609b9c0f6384309771d4dd830f275ccbe39a10f6",
+    "upstreamPath": "banks/bnk_st_george_bank.png",
+    "aliases": [
+      "St.George Bank"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.stgeorge.com.au/content/dam/stg/images/home/STG-logo_1200x1200.jpg"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/st-george-bank.png"
   },
   {
-    "bytes": 60462,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_stanbic_bank_uganda",
     "name": "Stanbic Bank Uganda",
-    "path": "banks/bnk_stanbic_bank_uganda.png",
-    "sha256": "ae50c6280a68fe2fc614c48967ac561c1172b5e242cc543e106b7d43f348cc8c",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 64773,
+    "sha256": "21eeb89c13da236c002e8089f126d2ee77e97755358208760b507ddfdbe96c89",
+    "upstreamPath": "banks/bnk_stanbic_bank_uganda.png",
+    "aliases": [
+      "Stanbic Bank Uganda"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.stanbicbank.co.ug/static_file/assets/favicons/apple-icon-57x57.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/stanbic-bank-uganda.png"
   },
   {
-    "bytes": 60462,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_standard_bank_eswatini",
     "name": "Standard Bank Eswatini",
-    "path": "banks/bnk_standard_bank_eswatini.png",
-    "sha256": "ae50c6280a68fe2fc614c48967ac561c1172b5e242cc543e106b7d43f348cc8c",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 81751,
+    "sha256": "8842b47b9a9ef1579579855a7eb903c41f80e1d51c90fbfd35fc430f4c8ec534",
+    "upstreamPath": "banks/bnk_standard_bank_eswatini.png",
+    "aliases": [
+      "Standard Bank Eswatini"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.standardbank.co.sz/static_file/assets/favicons/apple-icon-57x57.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/standard-bank-eswatini.png"
   },
   {
-    "bytes": 60462,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_standard_bank_south_africa",
     "name": "Standard Bank South Africa",
-    "path": "banks/bnk_standard_bank_south_africa.png",
-    "sha256": "ae50c6280a68fe2fc614c48967ac561c1172b5e242cc543e106b7d43f348cc8c",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 44219,
+    "sha256": "48cb2edf48fe357b9272496e0654a9392869b677be9cf4de75803a7acd297d5e",
+    "upstreamPath": "banks/bnk_standard_bank_south_africa.png",
+    "aliases": [
+      "Standard Bank South Africa"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.standardbank.co.za/static_file/assets/favicons/apple-icon-57x57.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/standard-bank-south-africa.png"
   },
   {
-    "bytes": 15006,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_standard_chartered_hong_kong",
     "name": "Standard Chartered Hong Kong",
-    "path": "banks/bnk_standard_chartered_hong_kong.png",
-    "sha256": "9fc154d1ff0701380bdbec873a4fea16e619d0dfcf789932ad6b0f9fa8cdcba6",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 15480,
+    "sha256": "4e0479f09f81a51e71ada7d4889581032f045ddeb2db3c9b71919cf2e18bdb12",
+    "upstreamPath": "banks/bnk_standard_chartered_hong_kong.png",
+    "aliases": [
+      "Standard Chartered Hong Kong"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://av.sc.com/hk/content/images/content/images/cropped-512x512-1-200x200.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/standard-chartered-hong-kong.png"
   },
   {
-    "bytes": 12425,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_summerland_bank",
     "name": "Summerland Bank",
-    "path": "banks/bnk_summerland_bank.png",
-    "sha256": "ac617c91d5c0f8c2ca47f74417c03046377239f4d70bdea3cbf7a19d62d34b6f",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 27726,
+    "sha256": "38be195fb6f96ce50b47ff36b5c24221fb33adc779a9f9d4fbdb298fdb2582d4",
+    "upstreamPath": "banks/bnk_summerland_bank.png",
+    "aliases": [
+      "Summerland Bank"
+    ],
     "source": {
-      "kind": "official_registry",
-      "url": "https://www.summerland.com.au/app/uploads/2024/02/SB_Logo_NoTagline_Stacked_RGB_BLACK.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/summerland-bank.png"
   },
   {
-    "bytes": 51045,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_swedbank",
     "name": "Swedbank",
-    "path": "banks/bnk_swedbank.png",
-    "sha256": "e71fe7d5a94c77f3467d34563d696683d292307336c0210d36379357423c0da7",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 66543,
+    "sha256": "417ec86dbae22096e1908102e6384665cdf77ebfaf725c6260e6640f65924dc2",
+    "upstreamPath": "banks/bnk_swedbank.png",
+    "aliases": [
+      "Swedbank"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.swedbank.se/content/dam/assets/favicon-32x32.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/swedbank.png"
   },
   {
-    "bytes": 11991,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_td_canada_trust",
     "name": "TD Canada Trust",
-    "path": "banks/bnk_td_canada_trust.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 11991,
     "sha256": "ecd4b83f4faa35048040149aa5248748860ff861509556c6f92888995472cf27",
+    "upstreamPath": "banks/bnk_td_canada_trust.png",
+    "aliases": [
+      "TD Canada Trust"
+    ],
     "source": {
       "kind": "official_app_icon",
       "url": "https://apps.apple.com/us/app/td-canada/id358790776?uo=4"
     },
-    "width": 256
+    "path": "banks/td-canada-trust.png"
   },
   {
-    "bytes": 7997,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_trade_republic",
     "name": "Trade Republic Bank GmbH",
-    "path": "banks/bnk_trade_republic.png",
-    "sha256": "91a5f7275a309bb40cdf99c5ec2325324e443ed7d20e86f26e164b5880714dd6",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 15020,
+    "sha256": "b6e21fa4535cbe342941812434552b8dc8da736bc88b0dfced8c3c6781684460",
+    "upstreamPath": "banks/bnk_trade_republic.png",
+    "aliases": [
+      "Trade Republic",
+      "Trade Republic Bank"
+    ],
     "source": {
-      "kind": "linked_brand",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "banks/trade-republic.png"
   },
   {
-    "bytes": 12559,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_triodos",
     "name": "Triodos Bank N.V.",
-    "path": "banks/bnk_triodos.png",
-    "sha256": "9a9a9eb32937ca5b77d15e5a5068c4abe3da4672f42c018dfaded3e75f9696fb",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 44094,
+    "sha256": "974652c91795dbc1ec63824d16ee848c89692b2f5065a042cd050cec98305377",
+    "upstreamPath": "banks/bnk_triodos.png",
+    "aliases": [
+      "Triodos",
+      "Triodos Bank"
+    ],
     "source": {
-      "kind": "linked_brand",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "banks/triodos-bank.png"
   },
   {
-    "bytes": 24665,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_ubs",
     "name": "UBS",
-    "path": "banks/bnk_ubs.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 24665,
     "sha256": "e4bb76c3a3d62f448eb9c7163a3eb9a948991da4cbd9a27420a18f5e595a2732",
+    "upstreamPath": "banks/bnk_ubs.png",
+    "aliases": [
+      "UBS"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.ubs.com/etc.clientlibs/ubs/fit/design/resources/img/favicons/apple-touch-icon-180x180.20260313.png"
     },
-    "width": 256
+    "path": "banks/ubs.png"
   },
   {
-    "bytes": 24755,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_unicredit",
     "name": "UniCredit",
-    "path": "banks/bnk_unicredit.png",
-    "sha256": "bf7f470a3788f279ce7f0718c5fd2f50fc2801f0484b5a238c9020cd4a638323",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 14696,
+    "sha256": "8a6379dc128b99bebfa2471e8a82e105e910eb122217ee963a41dad36e3cf36d",
+    "upstreamPath": "banks/bnk_unicredit.png",
+    "aliases": [
+      "UniCredit"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://content.ucgstatic.eu/etc/designs/ucpublic/it/img/favicon/apple-touch-icon-57x57.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/unicredit.png"
   },
   {
-    "bytes": 58569,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_uob",
     "name": "UOB",
-    "path": "banks/bnk_uob.png",
-    "sha256": "663562905c52bcea0fae3ebad808cdc1d2295ee9287aa4b3dd48189bae628114",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 33980,
+    "sha256": "13eb5ec6a158acf92adadb7081be02888d20edc37d45d68d3462156e271500a7",
+    "upstreamPath": "banks/bnk_uob.png",
+    "aliases": [
+      "UOB"
+    ],
     "source": {
-      "kind": "official_app_icon",
-      "url": "https://apps.apple.com/us/app/uob-tmrw/id1049286296?uo=4"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/uob.png"
   },
   {
-    "bytes": 7745,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_van_lanschot_kempen",
     "name": "Van Lanschot Kempen N.V.",
-    "path": "banks/bnk_van_lanschot_kempen.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 7745,
     "sha256": "a8dbf7b7b431cd70eb28e63917c4267317254b29251957af22c38dc9b267a617",
+    "upstreamPath": "banks/bnk_van_lanschot_kempen.png",
+    "aliases": [
+      "Kempen",
+      "Van Lanschot",
+      "Van Lanschot Kempen"
+    ],
     "source": {
       "kind": "linked_brand",
       "url": null
     },
-    "width": 256
+    "path": "banks/van-lanschot-kempen.png"
   },
   {
-    "bytes": 25061,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_vietcombank",
     "name": "Vietcombank",
-    "path": "banks/bnk_vietcombank.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 25061,
     "sha256": "f96bf3d3d421a96302acd128dda5e18740dba32747ccaccdf4fb6fe5be47ab06",
+    "upstreamPath": "banks/bnk_vietcombank.png",
+    "aliases": [
+      "Vietcombank"
+    ],
     "source": {
       "kind": "official_website",
       "url": "https://www.vietcombank.com.vn/apple-touch-icon.png"
     },
-    "width": 256
+    "path": "banks/vietcombank.png"
   },
   {
-    "bytes": 8863,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_westpac",
     "name": "Westpac Banking Corporation",
-    "path": "banks/bnk_westpac.png",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 8863,
     "sha256": "ae5d16d198ee02356c59d9fff795f8d8c9c5a2d18c4d6394f5af8dd26158bdad",
+    "upstreamPath": "banks/bnk_westpac.png",
+    "aliases": [
+      "Westpac",
+      "Westpac Banking Corporation"
+    ],
     "source": {
       "kind": "official_registry",
       "url": "https://banking.westpac.com.au/wbc/banking/Themes/Default/Desktop/WBC/Core/Images/logo_white_bg.png.ce5c4c19ec61b56796f0e218fc8329c558421fd8.png"
     },
-    "width": 256
+    "path": "banks/westpac.png"
   },
   {
-    "bytes": 70841,
-    "category": "banks",
-    "height": 256,
     "id": "bnk_zanaco",
     "name": "Zanaco",
-    "path": "banks/bnk_zanaco.png",
-    "sha256": "1909f4bb8097ef731c09370df92bcc3f847b767dbe9b4a9d28d1f4467a194150",
+    "category": "banks",
+    "width": 256,
+    "height": 256,
+    "bytes": 24219,
+    "sha256": "13318d7419cbecfcdf00679effcc4c656476a4151f929e7f4d29da3ce3bb9a9d",
+    "upstreamPath": "banks/bnk_zanaco.png",
+    "aliases": [
+      "Zanaco"
+    ],
     "source": {
-      "kind": "official_website",
-      "url": "https://www.zanaco.co.zm/wp-content/uploads/2025/05/cropped-Zanaco-cog_Copper-180x180.jpg"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "banks/zanaco.png"
   }
 ]

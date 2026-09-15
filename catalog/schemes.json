@@ -1,1282 +1,1636 @@
 [
   {
-    "bytes": 20158,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_ach_colombia",
     "name": "ACH Colombia",
-    "path": "schemes/sch_ach_colombia.png",
-    "sha256": "bd0927f607b38ab7d9938bdbe6f678c00f4a962bc12decb72723c6074846d14b",
-    "source": {
-      "kind": "official_brand_asset",
-      "url": "https://www.achcolombia.com.co/documents/1176258/209438465/Logo+ACH+azul.png/6642c3fa-1507-351b-7710-660c2396b263?version=1.0&t=1764187417972"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 17194,
     "category": "schemes",
+    "width": 256,
     "height": 256,
-    "id": "sch_aeps",
-    "name": "AePS",
-    "path": "schemes/sch_aeps.png",
-    "sha256": "9b3d1e6f79e82efdbf76d502370b32cfe98babcbe47a1b1198002532978fe865",
-    "source": {
-      "kind": "generated",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 15082,
-    "category": "schemes",
-    "height": 256,
-    "id": "sch_afr",
-    "name": "AFR",
-    "path": "schemes/sch_afr.png",
-    "sha256": "1d02690e66b985722207806a5ab8fd9184141186412a7e646e0e887dae120b9a",
+    "bytes": 41076,
+    "sha256": "946f3de2116745e42e1b646309207fa043d48e1afe0cc1aa6cc2e3b8aee101ee",
+    "upstreamPath": "schemes/sch_ach_colombia.png",
+    "aliases": [],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/ach-colombia.png"
   },
   {
-    "bytes": 16550,
+    "id": "sch_aeps",
+    "name": "AePS",
     "category": "schemes",
+    "width": 256,
     "height": 256,
-    "id": "sch_american_express",
-    "name": "American Express",
-    "path": "schemes/sch_american_express.png",
-    "sha256": "01e4553fab0587a4ece867494d2c8d2f69531be8f8e6193201002044716bcada",
+    "bytes": 17194,
+    "sha256": "9b3d1e6f79e82efdbf76d502370b32cfe98babcbe47a1b1198002532978fe865",
+    "upstreamPath": "schemes/sch_aeps.png",
+    "aliases": [
+      "Aadhaar Enabled Payment System",
+      "Aadhaar-enabled Payment System",
+      "AEPS",
+      "AePS scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/aeps.png"
   },
   {
-    "bytes": 8947,
+    "id": "sch_afr",
+    "name": "AFR",
     "category": "schemes",
+    "width": 256,
     "height": 256,
+    "bytes": 15082,
+    "sha256": "1d02690e66b985722207806a5ab8fd9184141186412a7e646e0e887dae120b9a",
+    "upstreamPath": "schemes/sch_afr.png",
+    "aliases": [
+      "Azonnali Fizetési Rendszer",
+      "Hungarian Instant Payment System"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "schemes/afr.png"
+  },
+  {
+    "id": "sch_american_express",
+    "name": "American Express",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 16146,
+    "sha256": "51494b6ba696435ff5da1690756f3d3e40d3460461c9bbe59ce0218e3157cdd4",
+    "upstreamPath": "schemes/sch_american_express.png",
+    "aliases": [
+      "Amex scheme",
+      "American Express card payment",
+      "amex",
+      "American Express scheme",
+      "American Express",
+      "American Express Card"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "schemes/american-express.png"
+  },
+  {
     "id": "sch_apbs",
     "name": "APBS",
-    "path": "schemes/sch_apbs.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 8947,
     "sha256": "0ff21a1e38c470650dbe816ff67b68583274ec042cb5c4036e8fd5f85a4a41d5",
+    "upstreamPath": "schemes/sch_apbs.png",
+    "aliases": [
+      "Aadhaar Payment Bridge System",
+      "Aadhaar Payments Bridge System",
+      "APB System",
+      "ABPS",
+      "APBS scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": "https://www.npci.org.in/product/nach/about-nach"
     },
-    "width": 256
+    "path": "schemes/apbs.png"
   },
   {
-    "bytes": 12228,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_arca",
     "name": "ArCa",
-    "path": "schemes/sch_arca.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 12228,
     "sha256": "dbdeba3086dde1e620f3f09dd38067048fd5ff94f55c49b45092a7469d18c4a6",
+    "upstreamPath": "schemes/sch_arca.png",
+    "aliases": [
+      "Armenian Card"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/arca.png"
   },
   {
-    "bytes": 14429,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_bakong",
     "name": "Bakong",
-    "path": "schemes/sch_bakong.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 14429,
     "sha256": "58ed36f5e84b7e797fc00c80f2b706eca35ab1f8547be3ca06c03c0666734536",
+    "upstreamPath": "schemes/sch_bakong.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/bakong.png"
   },
   {
-    "bytes": 11254,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_bancontact",
     "name": "Bancontact",
-    "path": "schemes/sch_bancontact.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 11254,
     "sha256": "50d940b7ddc0aa187926c19c9685e247652c097726eaa04ad79bfa3dcce02a31",
+    "upstreamPath": "schemes/sch_bancontact.png",
+    "aliases": [],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/bancontact.png"
   },
   {
-    "bytes": 16454,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_bank_pay",
     "name": "Bank Pay",
-    "path": "schemes/sch_bank_pay.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 16454,
     "sha256": "6a1189349116e7f3ce3a50088c106fb326124d69aac76e97c5e5b7d893e76d74",
+    "upstreamPath": "schemes/sch_bank_pay.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/bank-pay.png"
   },
   {
-    "bytes": 17186,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_bankaxept",
     "name": "BankAxept",
-    "path": "schemes/sch_bankaxept.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 17186,
     "sha256": "5b5f2310bc13e8aacebec8e71a935324d9f16c68d1375b5ccaf6164fcff80613",
+    "upstreamPath": "schemes/sch_bankaxept.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/bankaxept.png"
   },
   {
-    "bytes": 56535,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_bc",
     "name": "BC",
-    "path": "schemes/sch_bc.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 56535,
     "sha256": "ef44d3987b59d168640f88cc72e4e39565a2c725824bc9ce0a63bf38d04a1084",
+    "upstreamPath": "schemes/sch_bc.png",
+    "aliases": [
+      "BC Card scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/bc.png"
   },
   {
-    "bytes": 31283,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_bcard",
     "name": "bcard",
-    "path": "schemes/sch_bcard.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 31283,
     "sha256": "6fdd6a409ce4ddcd59c898aad9ca50a8b52b2933a99995bcf4078d1461ff4d2a",
+    "upstreamPath": "schemes/sch_bcard.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/bcard.png"
   },
   {
-    "bytes": 16012,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_belkart",
     "name": "Belkart",
-    "path": "schemes/sch_belkart.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 16012,
     "sha256": "e3a0561f60ccc683657678732d0d6ba65328e360f3babed2b946b91820479261",
+    "upstreamPath": "schemes/sch_belkart.png",
+    "aliases": [
+      "BELKART scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/belkart.png"
   },
   {
-    "bytes": 25862,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_blik",
     "name": "BLIK",
-    "path": "schemes/sch_blik.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 25862,
     "sha256": "f7cad282188b7ca6b1b31f6605d8e39bb88646661cbfc4e73e1cdf5bf5674786",
+    "upstreamPath": "schemes/sch_blik.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/blik.png"
   },
   {
-    "bytes": 34818,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_cabal",
     "name": "Cabal",
-    "path": "schemes/sch_cabal.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 34818,
     "sha256": "cfc6bddfbdfeb14c4567aca53b40ff9f5cb5b359de64fd77e125f9f40f94d36d",
+    "upstreamPath": "schemes/sch_cabal.png",
+    "aliases": [],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/cabal.png"
   },
   {
-    "bytes": 32360,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_carnet",
     "name": "Carnet",
-    "path": "schemes/sch_carnet.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 32360,
     "sha256": "d9856e0733d1fc87868ba2feae457ac0f074855d3fed8d4f2e2bb034bc313fd0",
+    "upstreamPath": "schemes/sch_carnet.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/carnet.png"
   },
   {
-    "bytes": 37616,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_cartes_bancaires",
     "name": "Cartes Bancaires",
-    "path": "schemes/sch_cartes_bancaires.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 37616,
     "sha256": "dc62158b832bedfe8c0885eb602933353ea03ad0ee34d67ecfa72e8d0bcd97ee",
+    "upstreamPath": "schemes/sch_cartes_bancaires.png",
+    "aliases": [
+      "CB"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/cartes-bancaires.png"
   },
   {
-    "bytes": 10375,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_cheques",
     "name": "Cheques",
-    "path": "schemes/sch_cheques.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 10375,
     "sha256": "92a909271d7da0ce1a6aba0ec3ec2c4f8e93a54b3c3b17a401a9552311eabf96",
+    "upstreamPath": "schemes/sch_cheques.png",
+    "aliases": [
+      "Checks"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/cheques.png"
   },
   {
-    "bytes": 31865,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_clave",
     "name": "Clave",
-    "path": "schemes/sch_clave.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 31865,
     "sha256": "345c876b6b1fc6ba11a8fa95dc10c784f5c1ee0cb635eb264eafa555dde2277e",
+    "upstreamPath": "schemes/sch_clave.png",
+    "aliases": [
+      "Sistema Clave"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/clave.png"
   },
   {
-    "bytes": 14762,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_cliq",
     "name": "CliQ",
-    "path": "schemes/sch_cliq.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 14762,
     "sha256": "66d439e8ae75b9262db2b91b1f34aa0df05301c2c9337cb089b8b9c09afbc4ba",
+    "upstreamPath": "schemes/sch_cliq.png",
+    "aliases": [
+      "CliQ scheme"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/cliq.png"
   },
   {
-    "bytes": 7755,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_dankort",
     "name": "Dankort",
-    "path": "schemes/sch_dankort.png",
-    "sha256": "d24049964e9fed5abc1dde144f0ebf0700b80a616e1af3d4a41666d610e4e8d5",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 10366,
+    "sha256": "0d690d7617902a371291bd18502841bf54e9fa75d2de90bcb9b6ccfa077ce8db",
+    "upstreamPath": "schemes/sch_dankort.png",
+    "aliases": [],
     "source": {
-      "kind": "linked_brand_tile",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/dankort.png"
   },
   {
-    "bytes": 14429,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_dinacard",
     "name": "DinaCard",
-    "path": "schemes/sch_dinacard.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 14429,
     "sha256": "86509a8b8e394d2f1df7a5cb0c0ba388e675bff8651adbc988366c0faf8ba33d",
+    "upstreamPath": "schemes/sch_dinacard.png",
+    "aliases": [
+      "Dina Card scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/dinacard.png"
   },
   {
-    "bytes": 11512,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_diners_club",
     "name": "Diners Club",
-    "path": "schemes/sch_diners_club.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 11512,
     "sha256": "762be2b365466b4c51a02a6110efe8117be418247cd84d5176eb04da6271adf3",
+    "upstreamPath": "schemes/sch_diners_club.png",
+    "aliases": [
+      "Diners Club International",
+      "Diners Club scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null,
       "reference": "/payment-icons/pmt_diners_club.svg"
     },
-    "width": 256
+    "path": "schemes/diners-club.png"
   },
   {
-    "bytes": 10837,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_discover",
     "name": "Discover",
-    "path": "schemes/sch_discover.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 10837,
     "sha256": "dc210845b134d73c0afd59f5f2d10af7ee4dad8f1ff8f89bb7907c03d119353d",
+    "upstreamPath": "schemes/sch_discover.png",
+    "aliases": [],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/discover.png"
   },
   {
-    "bytes": 16871,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_duitnow",
     "name": "DuitNow",
-    "path": "schemes/sch_duitnow.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 16871,
     "sha256": "0d0504593e7a278e82e2dab05e05166d4be24004f05a91edab8ad0d15c3de6c3",
+    "upstreamPath": "schemes/sch_duitnow.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/duitnow.png"
   },
   {
-    "bytes": 31511,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_eftpos",
     "name": "eftpos",
-    "path": "schemes/sch_eftpos.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 31511,
     "sha256": "d5d6329fcb1a2a2fc9912cc175a476f471c21df376f9693179d77af09f295212",
+    "upstreamPath": "schemes/sch_eftpos.png",
+    "aliases": [
+      "eftpos Australia"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/eftpos.png"
   },
   {
-    "bytes": 13085,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_elcart",
     "name": "ELCART",
-    "path": "schemes/sch_elcart.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 13085,
     "sha256": "8035e119ac0e6fe66cf692cf7bed34117899713b712cccb6bae85990d68b72c3",
+    "upstreamPath": "schemes/sch_elcart.png",
+    "aliases": [
+      "Elcard",
+      "Элкарт"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/elcart.png"
   },
   {
-    "bytes": 11165,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_elo",
     "name": "Elo",
-    "path": "schemes/sch_elo.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 11165,
     "sha256": "0e7e020a920a26b963d0715642220f0f721d1fc479841f14970cdd3dbaf6d367",
+    "upstreamPath": "schemes/sch_elo.png",
+    "aliases": [
+      "elo-card",
+      "Elo Card"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/elo.png"
   },
   {
-    "bytes": 13557,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_emoney",
     "name": "eMoney",
-    "path": "schemes/sch_emoney.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 13557,
     "sha256": "b87413f04254e19a6a271c222d9fbb776990cb5ffc2aea94890009624d82d806",
+    "upstreamPath": "schemes/sch_emoney.png",
+    "aliases": [
+      "Electronic money",
+      "E-money",
+      "Stored-value scheme",
+      "Digital stored value"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/emoney.png"
   },
   {
-    "bytes": 25067,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_fast_singapore",
     "name": "FAST",
-    "path": "schemes/sch_fast_singapore.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 25067,
     "sha256": "710fc5614e4820585119044a77129962ab79ae18fb0675b8b19df8398fa75993",
+    "upstreamPath": "schemes/sch_fast_singapore.png",
+    "aliases": [
+      "Fast and Secure Transfers"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/fast-singapore.png"
   },
   {
-    "bytes": 42821,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_faster_payments",
     "name": "Faster Payments",
-    "path": "schemes/sch_faster_payments.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 42821,
     "sha256": "78b5da573f6e862f83f608cfd2fa47cbf341586ec8588056b12574dd6009957d",
+    "upstreamPath": "schemes/sch_faster_payments.png",
+    "aliases": [
+      "UK Faster Payments"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/faster-payments.png"
   },
   {
-    "bytes": 17133,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_flik",
     "name": "Flik",
-    "path": "schemes/sch_flik.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 17133,
     "sha256": "88d01ad243cc438d9d06acc600b27500f2c12518634334f87b48d3c5deee5168",
+    "upstreamPath": "schemes/sch_flik.png",
+    "aliases": [
+      "FLIK scheme"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/flik.png"
   },
   {
-    "bytes": 18927,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_fonepay",
     "name": "Fonepay",
-    "path": "schemes/sch_fonepay.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 18927,
     "sha256": "450a67a28b30c9dc918d8178c8a6f5b4a4438ac8f90a099a85d0197228cf1b6a",
+    "upstreamPath": "schemes/sch_fonepay.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/fonepay.png"
   },
   {
-    "bytes": 24313,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_fps_hong_kong",
     "name": "FPS Hong Kong",
-    "path": "schemes/sch_fps_hong_kong.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 24313,
     "sha256": "94b86c4c10c892c26b33a551abc24c023db6fae6f463d9f4603078ab984a980a",
+    "upstreamPath": "schemes/sch_fps_hong_kong.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/fps-hong-kong.png"
   },
   {
-    "bytes": 8815,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_fpx",
     "name": "FPX",
-    "path": "schemes/sch_fpx.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 8815,
     "sha256": "2cfd4c8b03e53bbd72d5b3d8c7d1bd093c6c9d9197fd6a4659f2b3772e3be168",
+    "upstreamPath": "schemes/sch_fpx.png",
+    "aliases": [],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/fpx.png"
   },
   {
-    "bytes": 20452,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_girocard",
     "name": "girocard",
-    "path": "schemes/sch_girocard.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 20452,
     "sha256": "9f5439ebe1777661fffb0e4e43b42aaaacef699e054dc6841e7f97d0846fb975",
+    "upstreamPath": "schemes/sch_girocard.png",
+    "aliases": [],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/girocard.png"
   },
   {
-    "bytes": 15253,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_hipercard",
     "name": "Hipercard",
-    "path": "schemes/sch_hipercard.png",
-    "sha256": "04748b341f41e44621ebd4c7114aae2ad03882871879a09515b9c869d0b7905b",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 82214,
+    "sha256": "ce757bd2a7f018f6ff0390a6c261c52a38c47745ed77a1d90ba5be8ac27ba28f",
+    "upstreamPath": "schemes/sch_hipercard.png",
+    "aliases": [],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/hipercard.png"
   },
   {
-    "bytes": 33141,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_humo",
     "name": "HUMO",
-    "path": "schemes/sch_humo.png",
-    "sha256": "a5b9a3c5363ebacba48a3f18abfe25523ce0c57831cd33d42f0a16f9cd30d9ab",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 12051,
+    "sha256": "c9b1b622d0e715fa8ba52413aeb6db14401a4145beb4218e295144f2ea95259d",
+    "upstreamPath": "schemes/sch_humo.png",
+    "aliases": [
+      "HUMO scheme"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/humo.png"
   },
   {
-    "bytes": 19415,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_imps",
     "name": "IMPS",
-    "path": "schemes/sch_imps.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 19415,
     "sha256": "f2d3172ae50a5a1b75470048925cdf6d3a2b2f2e038e920b3e3a8984ccc9454f",
+    "upstreamPath": "schemes/sch_imps.png",
+    "aliases": [
+      "Immediate Payment Service",
+      "Immediate Payment System",
+      "IMPS scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/imps.png"
   },
   {
-    "bytes": 24048,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_instapay_philippines",
     "name": "InstaPay Philippines",
-    "path": "schemes/sch_instapay_philippines.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 24048,
     "sha256": "b7b0ec82fa2154cc3e3a27f98396f91f4aa0be9252c947d57aa84b3115faeb75",
+    "upstreamPath": "schemes/sch_instapay_philippines.png",
+    "aliases": [],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/instapay-philippines.png"
   },
   {
-    "bytes": 17113,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_interac_etransfer",
     "name": "Interac e-Transfer",
-    "path": "schemes/sch_interac_etransfer.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 17113,
     "sha256": "a1b768d2b94a4c6fd91b7d1457c3e398adba7a18ffd7b63ab3da20159478eb56",
+    "upstreamPath": "schemes/sch_interac_etransfer.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/interac-e-transfer.png"
   },
   {
-    "bytes": 16971,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_interac",
     "name": "Interac",
-    "path": "schemes/sch_interac.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 16971,
     "sha256": "122834248fd77aa80094860a64a5c9e1fea2d441bce717c58eaa4b29e0c49611",
+    "upstreamPath": "schemes/sch_interac.png",
+    "aliases": [],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/interac.png"
   },
   {
-    "bytes": 33511,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_ipn_egypt",
     "name": "IPN Egypt",
-    "path": "schemes/sch_ipn_egypt.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 33511,
     "sha256": "bc0297ffb7351a1d52bfb58055972508fe9226580f260f283f8783580aef304e",
+    "upstreamPath": "schemes/sch_ipn_egypt.png",
+    "aliases": [
+      "Instant Payment Network Egypt"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/ipn-egypt.png"
   },
   {
-    "bytes": 18924,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_iris_payments",
     "name": "IRIS",
-    "path": "schemes/sch_iris_payments.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 18924,
     "sha256": "90a9c81ddb1ef3c4018fc95c2aba3b67af2a54d91248157a39af2f710414d3c8",
+    "upstreamPath": "schemes/sch_iris_payments.png",
+    "aliases": [
+      "IRIS Payments",
+      "IRIS payment scheme"
+    ],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/iris.png"
   },
   {
-    "bytes": 18901,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_isracard",
     "name": "Isracard",
-    "path": "schemes/sch_isracard.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 18901,
     "sha256": "25ca13e2b0dd64c5bcbc8ad4281a52bc3fc843d66c0a30098da2efa95360929e",
+    "upstreamPath": "schemes/sch_isracard.png",
+    "aliases": [
+      "Isracard scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/isracard.png"
   },
   {
-    "bytes": 21240,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_j_debit",
     "name": "J-Debit",
-    "path": "schemes/sch_j_debit.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 21240,
     "sha256": "67330745d889d900fbdecc0d02a5e14d70ec7584771c353345f17ff845355ac2",
+    "upstreamPath": "schemes/sch_j_debit.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/j-debit.png"
   },
   {
-    "bytes": 22965,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_jaywan",
     "name": "Jaywan",
-    "path": "schemes/sch_jaywan.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 22965,
     "sha256": "8535a503baf67c2e41427867bf885c740388df50e7ff864c707955103af8c135",
+    "upstreamPath": "schemes/sch_jaywan.png",
+    "aliases": [
+      "Jaywan scheme"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/jaywan.png"
   },
   {
-    "bytes": 8887,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_jcb",
     "name": "JCB",
-    "path": "schemes/sch_jcb.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 8887,
     "sha256": "3dc3d0f93f3a46d1a8e3654da587a89d7c3d0d077c8998505839a893400c5281",
+    "upstreamPath": "schemes/sch_jcb.png",
+    "aliases": [
+      "JCB",
+      "JCB scheme",
+      "JCB Card",
+      "JCB card scheme",
+      "JCB card payment"
+    ],
     "source": {
       "kind": "generated",
       "url": null,
       "reference": "/payment-icons/pmt_jcb.svg"
     },
-    "width": 256
+    "path": "schemes/jcb.png"
   },
   {
-    "bytes": 13568,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_knet",
     "name": "KNET",
-    "path": "schemes/sch_knet.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 13568,
     "sha256": "76e02a756ac7ab4d808d5eecb8f50ca29c05239e1446261d9cba67fd7c7cd408",
+    "upstreamPath": "schemes/sch_knet.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/knet.png"
   },
   {
-    "bytes": 28232,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_lankapay_ncs",
     "name": "LankaPay",
-    "path": "schemes/sch_lankapay_ncs.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 28232,
     "sha256": "86d868e3d337f5a7c379f7818fd8c5f74c6d7cc01818d5e2e06380b03f23a1dc",
+    "upstreamPath": "schemes/sch_lankapay_ncs.png",
+    "aliases": [
+      "LankaPay NCS",
+      "National Card Scheme Sri Lanka"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/lankapay-national-card-scheme.png"
   },
   {
-    "bytes": 11651,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_maal",
     "name": "Maal",
-    "path": "schemes/sch_maal.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 11651,
     "sha256": "0192365406af55d123d2ed6270a7a2764035d8c65299fd6fd66f84a01a0d4152",
+    "upstreamPath": "schemes/sch_maal.png",
+    "aliases": [
+      "Maal card scheme"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/maal.png"
   },
   {
-    "bytes": 6677,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_mada",
     "name": "mada",
-    "path": "schemes/sch_mada.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 6677,
     "sha256": "827ff79821cb2aea2d2341e5d347ecd5f8f30fdaae5d461325200ba399bbde53",
+    "upstreamPath": "schemes/sch_mada.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/mada.png"
   },
   {
-    "bytes": 5952,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_mastercard",
     "name": "Mastercard",
-    "path": "schemes/sch_mastercard.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 5952,
     "sha256": "95878ffc463db7ecd4b4201ca5c0fa784a805aa3fd46c20943c42397ef2a6a49",
+    "upstreamPath": "schemes/sch_mastercard.png",
+    "aliases": [
+      "Mastercard card scheme",
+      "Mastercard payment scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null,
       "reference": "/payment-icons/pmt_mastercard.svg"
     },
-    "width": 256
+    "path": "schemes/mastercard.png"
   },
   {
-    "bytes": 39849,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_meeza",
     "name": "Meeza",
-    "path": "schemes/sch_meeza.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 39849,
     "sha256": "c58033c1a61abd8c9be8ca6a322a0af9beff18d0d9fe8fa75eabf4ac988b007d",
+    "upstreamPath": "schemes/sch_meeza.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/meeza.png"
   },
   {
-    "bytes": 36218,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_mia",
     "name": "MIA",
-    "path": "schemes/sch_mia.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 36218,
     "sha256": "d25376cb340a0aec9905218d39e9ab17e2b08f8e36dacd2440a4513c5b5dc9e2",
+    "upstreamPath": "schemes/sch_mia.png",
+    "aliases": [
+      "MIA Instant Payments"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/mia.png"
   },
   {
-    "bytes": 7718,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_mir",
     "name": "Mir",
-    "path": "schemes/sch_mir.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 7718,
     "sha256": "6821d38584b0f32a146df7264a2354f80e903f068c64e9c41224102d730dfd4b",
+    "upstreamPath": "schemes/sch_mir.png",
+    "aliases": [
+      "mir-card",
+      "Mir Card"
+    ],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/mir.png"
   },
   {
-    "bytes": 16851,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_multibanco",
     "name": "Multibanco",
-    "path": "schemes/sch_multibanco.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 16851,
     "sha256": "e85178090d70be4b9f696abf10ecfc04836e1d7de51d37bd619aeaeeebf15ede",
+    "upstreamPath": "schemes/sch_multibanco.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/multibanco.png"
   },
   {
-    "bytes": 13349,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_mydebit",
     "name": "MyDebit",
-    "path": "schemes/sch_mydebit.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 13349,
     "sha256": "685b7fe91f495d081f0a779962bf172e644a6b0e34cb528eeb9d861e2f14d033",
+    "upstreamPath": "schemes/sch_mydebit.png",
+    "aliases": [
+      "MyDebit scheme"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/mydebit.png"
   },
   {
-    "bytes": 10238,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_nach_debit",
     "name": "NACH Debit",
-    "path": "schemes/sch_nach_debit.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 10238,
     "sha256": "a02ce322a77efde3d3804dcc9f837c71785b8adc40ca32beb4b40e8c6cbb32b1",
+    "upstreamPath": "schemes/sch_nach_debit.png",
+    "aliases": [
+      "National Automated Clearing House Debit",
+      "NACH DR",
+      "eNACH Debit"
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://www.npci.org.in/product/nach/about-nach"
     },
-    "width": 256
+    "path": "schemes/nach-debit.png"
   },
   {
-    "bytes": 10238,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_nach",
     "name": "NACH",
-    "path": "schemes/sch_nach.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 10238,
     "sha256": "a02ce322a77efde3d3804dcc9f837c71785b8adc40ca32beb4b40e8c6cbb32b1",
+    "upstreamPath": "schemes/sch_nach.png",
+    "aliases": [
+      "National Automated Clearing House",
+      "NACH Credit",
+      "NACH scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": "https://www.npci.org.in/product/nach/about-nach"
     },
-    "width": 256
+    "path": "schemes/nach.png"
   },
   {
-    "bytes": 14830,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_napas",
     "name": "NAPAS",
-    "path": "schemes/sch_napas.png",
-    "sha256": "12767a4b83c5d1d5db4b74ebe90f2009d953159f0017704b25482e3d3cf2c68e",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 44686,
+    "sha256": "c76ca4e4ba84be2ab0adafa658cce8b421e294195d99bc5a7eddfad73f866d5f",
+    "upstreamPath": "schemes/sch_napas.png",
+    "aliases": [],
     "source": {
-      "kind": "linked_brand_tile",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/napas.png"
   },
   {
-    "bytes": 20692,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_naranja",
     "name": "Naranja",
-    "path": "schemes/sch_naranja.png",
-    "sha256": "138e7ad3bcd1158a26d8357f84a6b9715293aa7f948534da561be2cbec432b46",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 25337,
+    "sha256": "05f3e1d99a1037e05081a232e02696436de463280763df2daa6df245102a85f5",
+    "upstreamPath": "schemes/sch_naranja.png",
+    "aliases": [
+      "Tarjeta Naranja scheme"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/naranja.png"
   },
   {
-    "bytes": 22597,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_neft",
     "name": "NEFT",
-    "path": "schemes/sch_neft.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 22597,
     "sha256": "7896c478a484d5522665c93fa2fd6c1b46b91f3c5098a53763aca91dea82c826",
+    "upstreamPath": "schemes/sch_neft.png",
+    "aliases": [
+      "National Electronic Funds Transfer",
+      "NEFT scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/neft.png"
   },
   {
-    "bytes": 14345,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_netc",
     "name": "NETC",
-    "path": "schemes/sch_netc.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 14345,
     "sha256": "1a9ff33c2a5834510b5c1642b62d692f01825e22b2307c6b0321c4265559b0b8",
+    "upstreamPath": "schemes/sch_netc.png",
+    "aliases": [
+      "National Electronic Toll Collection",
+      "NETC FASTag",
+      "FASTag network"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/netc.png"
   },
   {
-    "bytes": 17724,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_nets",
     "name": "NETS",
-    "path": "schemes/sch_nets.png",
-    "sha256": "531a08e3bf00b1eb1a7717231698dc905c12fb351fdd7b3eb289fa840b1fe6eb",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 13685,
+    "sha256": "b361b43102a02703e5a0d8bd755c91b64fa3c2b6b0014733b07992241459a4ca",
+    "upstreamPath": "schemes/sch_nets.png",
+    "aliases": [],
     "source": {
-      "kind": "linked_brand_tile",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/nets.png"
   },
   {
-    "bytes": 11665,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_other",
     "name": "Other",
-    "path": "schemes/sch_other.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 11665,
     "sha256": "0add2ea51a33cce2df0cb0096f3757352a44f6bf91ad62ace803aa0b338e33a9",
+    "upstreamPath": "schemes/sch_other.png",
+    "aliases": [],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/other.png"
   },
   {
-    "bytes": 18905,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_pagobancomat",
     "name": "PagoBANCOMAT",
-    "path": "schemes/sch_pagobancomat.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 18905,
     "sha256": "c55ae83a5ca2f6b2fe551ed573312fe3cc50e761918f71afa41522aa7e2c54c2",
+    "upstreamPath": "schemes/sch_pagobancomat.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/pagobancomat.png"
   },
   {
-    "bytes": 31399,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_pay_easy",
     "name": "Pay-easy",
-    "path": "schemes/sch_pay_easy.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 31399,
     "sha256": "7be3dfa4a61dc3ed7778326867253d575217dd8e3fd2d604577705dea6570edb",
+    "upstreamPath": "schemes/sch_pay_easy.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/pay-easy.png"
   },
   {
-    "bytes": 37676,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_paypak",
     "name": "PayPak",
-    "path": "schemes/sch_paypak.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 37676,
     "sha256": "2370dd0633f1ccd763d421b2c892087e0372f35c0d007a6507bad3cb78fe39bd",
+    "upstreamPath": "schemes/sch_paypak.png",
+    "aliases": [
+      "PayPak scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/paypak.png"
   },
   {
-    "bytes": 17445,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_payshap",
     "name": "PayShap",
-    "path": "schemes/sch_payshap.png",
-    "sha256": "4a17555953e948aae80e2e8d6aa59938b2d64204a99998701038ae15bc62c4aa",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 21805,
+    "sha256": "748a6e607cf0278acf305f3a5780b89b8e24926979d5a01ef22640e90273424e",
+    "upstreamPath": "schemes/sch_payshap.png",
+    "aliases": [],
     "source": {
-      "kind": "linked_brand_tile",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/payshap.png"
   },
   {
-    "bytes": 25330,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_pesalink",
     "name": "PesaLink",
-    "path": "schemes/sch_pesalink.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 25330,
     "sha256": "51c9ef430d31837aff1448c5e97beebcce454fc853b84a1d75ece007c09e7912",
+    "upstreamPath": "schemes/sch_pesalink.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/pesalink.png"
   },
   {
-    "bytes": 28518,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_pesonet",
     "name": "PESONet",
-    "path": "schemes/sch_pesonet.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 28518,
     "sha256": "94319d6fac72408bff7b4e67559e3cc33a39820ffc0c6c7646d6ff67b91e1f98",
+    "upstreamPath": "schemes/sch_pesonet.png",
+    "aliases": [],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/pesonet.png"
   },
   {
-    "bytes": 12294,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_promptpay",
     "name": "PromptPay",
-    "path": "schemes/sch_promptpay.png",
-    "sha256": "6f7d23a6e6cbce22409e8211245b15061b885736e3110c337084f290166eb053",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 28352,
+    "sha256": "dfc2ef605dc953c4f5389183fa4fc7cbd660396347cb3bbd5310032062c26bc4",
+    "upstreamPath": "schemes/sch_promptpay.png",
+    "aliases": [],
     "source": {
-      "kind": "linked_brand_tile",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/promptpay.png"
   },
   {
-    "bytes": 12281,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_remittances",
     "name": "Remittances",
-    "path": "schemes/sch_remittances.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 12281,
     "sha256": "e36dcd44c2110d758e6a1a6344c6a4ba648e41cacbeb2d9a4085102cef7eb4ea",
+    "upstreamPath": "schemes/sch_remittances.png",
+    "aliases": [
+      "Money transfer",
+      "Cross-border remittance"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/remittances.png"
   },
   {
-    "bytes": 13172,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_ropay",
     "name": "RoPay",
-    "path": "schemes/sch_ropay.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 13172,
     "sha256": "c2f7b3c06ee649ca2fbd4fdcae0801124c730d081e79744018361475c0d636a3",
+    "upstreamPath": "schemes/sch_ropay.png",
+    "aliases": [
+      "RoPay scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/ropay.png"
   },
   {
-    "bytes": 7853,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_rupay",
     "name": "RuPay",
-    "path": "schemes/sch_rupay.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 7853,
     "sha256": "31874389ca6f1980759de0cc87e5231d753a9128a23535c53e7ae7ba383992f4",
+    "upstreamPath": "schemes/sch_rupay.png",
+    "aliases": [
+      "RuPay payments",
+      "RuPay",
+      "RuPay Card"
+    ],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/rupay.png"
   },
   {
-    "bytes": 17426,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_sbp",
     "name": "SBP",
-    "path": "schemes/sch_sbp.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 17426,
     "sha256": "857bbc60c3aa0f31e08b5999cd96ec797db43cbeadf1e20d3276b0d5116a54d7",
+    "upstreamPath": "schemes/sch_sbp.png",
+    "aliases": [
+      "Faster Payments System Russia"
+    ],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/sbp.png"
   },
   {
-    "bytes": 52202,
-    "category": "schemes",
-    "height": 256,
-    "id": "sch_sct_inst",
-    "name": "SEPA Instant Credit Transfer",
-    "path": "schemes/sch_sct_inst.png",
-    "sha256": "dca3cde7a3815f8c8656de1a8d2d7ab0c49f427620fd61db62e4018b464c1083",
-    "source": {
-      "kind": "provided",
-      "url": null
-    },
-    "width": 256
-  },
-  {
-    "bytes": 48656,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_sct",
     "name": "SEPA Credit Transfer",
-    "path": "schemes/sch_sct.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 48656,
     "sha256": "acdb7a8cb8c027e4919c3ec2cdb394718720f3329c16b2c09720e562e14d52fd",
+    "upstreamPath": "schemes/sch_sct.png",
+    "aliases": [
+      "euro credit transfer",
+      "SCT",
+      "SEPA bank transfer"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/sepa-credit-transfer.png"
   },
   {
-    "bytes": 51324,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_sdd_b2b",
     "name": "SEPA Direct Debit B2B",
-    "path": "schemes/sch_sdd_b2b.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 51324,
     "sha256": "2c5ebdfde3a2e6c0dccae15421d631c060301e196f918aa72eb9ec947eb28b85",
+    "upstreamPath": "schemes/sch_sdd_b2b.png",
+    "aliases": [
+      "SDD B2B",
+      "SEPA zakelijke incasso"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/sepa-direct-debit-b2b.png"
   },
   {
-    "bytes": 50135,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_sdd_core",
     "name": "SEPA Direct Debit Core",
-    "path": "schemes/sch_sdd_core.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 50135,
     "sha256": "f7905cc747a4f9eb353d2313b45cdbd9885903aa16242904ab5efa720d2629e0",
+    "upstreamPath": "schemes/sch_sdd_core.png",
+    "aliases": [
+      "European direct debit",
+      "SDD Core",
+      "SEPA incasso"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/sepa-direct-debit-core.png"
   },
   {
-    "bytes": 14421,
+    "id": "sch_sct_inst",
+    "name": "SEPA Instant Credit Transfer",
     "category": "schemes",
+    "width": 256,
     "height": 256,
+    "bytes": 52202,
+    "sha256": "dca3cde7a3815f8c8656de1a8d2d7ab0c49f427620fd61db62e4018b464c1083",
+    "upstreamPath": "schemes/sch_sct_inst.png",
+    "aliases": [
+      "instant bank transfer",
+      "SCT Inst",
+      "SEPA Instant"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "schemes/sepa-instant-credit-transfer.png"
+  },
+  {
     "id": "sch_siirto",
     "name": "Siirto",
-    "path": "schemes/sch_siirto.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 14421,
     "sha256": "af7772df380f27f9db8a3ab0b067170f66720d3c4dcb0bb876519bb3b36f5b6f",
+    "upstreamPath": "schemes/sch_siirto.png",
+    "aliases": [
+      "Siirto scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "schemes/siirto.png"
   },
   {
-    "bytes": 18785,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_sinpe",
     "name": "SINPE",
-    "path": "schemes/sch_sinpe.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 18785,
     "sha256": "1eb1c9393ae50c3e71f495b50a32462a3963d2592fca6faf6a8c75a968ea83ef",
+    "upstreamPath": "schemes/sch_sinpe.png",
+    "aliases": [],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/sinpe.png"
   },
   {
-    "bytes": 9664,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_spei",
     "name": "SPEI",
-    "path": "schemes/sch_spei.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 9664,
     "sha256": "2f7d89d81412cccee89c3ca6ab5052ee1d27c916e1941fb97bbb84fee23f22d2",
+    "upstreamPath": "schemes/sch_spei.png",
+    "aliases": [],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/spei.png"
   },
   {
-    "bytes": 20210,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_swish",
     "name": "Swish",
-    "path": "schemes/sch_swish.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 20210,
     "sha256": "b4c1e9e89482e9cadda9ca9e34f3b1a0b22e9abe3f80267a46a3a5e6e8552122",
+    "upstreamPath": "schemes/sch_swish.png",
+    "aliases": [],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/swish.png"
   },
   {
-    "bytes": 17073,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_troy",
     "name": "TROY",
-    "path": "schemes/sch_troy.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 17073,
     "sha256": "d8c5e1f73f5e9f8fbb6fbf9a70db10f1cbe0d3fbe01785ba1bd913d611a137f2",
+    "upstreamPath": "schemes/sch_troy.png",
+    "aliases": [
+      "TROY Card",
+      "troy-card"
+    ],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/troy.png"
   },
   {
-    "bytes": 22327,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_unionpay",
     "name": "UnionPay",
-    "path": "schemes/sch_unionpay.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 22327,
     "sha256": "4740c8461e3afde6c5ad856959fb97b8692a8b0061990af26133e360c351c761",
+    "upstreamPath": "schemes/sch_unionpay.png",
+    "aliases": [
+      "unionpay-card",
+      "UnionPay aggregate card",
+      "UnionPay card scheme",
+      "UnionPay Card",
+      "UnionPay scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null,
       "reference": "/payment-icons/pmt_unionpay.svg"
     },
-    "width": 256
+    "path": "schemes/unionpay.png"
   },
   {
-    "bytes": 10033,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_upi",
     "name": "UPI",
-    "path": "schemes/sch_upi.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 10033,
     "sha256": "8ba05c5a7ad1e21c40c6ed288feab838f5e6be7a6372e240344bc3d6c5d886d9",
+    "upstreamPath": "schemes/sch_upi.png",
+    "aliases": [
+      "Unified Payments Interface",
+      "Unified Payment Interface",
+      "UPI scheme",
+      "India instant payments",
+      "pmt_upi",
+      "net_upi"
+    ],
     "source": {
       "kind": "generated",
       "url": null,
       "reference": "/payment-icons/pmt_upi.svg"
     },
-    "width": 256
+    "path": "schemes/upi.png"
   },
   {
-    "bytes": 59227,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_uzcard",
     "name": "UZCARD",
-    "path": "schemes/sch_uzcard.png",
-    "sha256": "564e0ea6121d49f05c1d2b5314ee571e54806bb2c3637b028755648f68895e36",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 88374,
+    "sha256": "0f45f173deb6ff1253ec040c539c24edeefba8db5c81952b72b3ea6adbae48ef",
+    "upstreamPath": "schemes/sch_uzcard.png",
+    "aliases": [
+      "UZCARD scheme"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "schemes/uzcard.png"
   },
   {
-    "bytes": 28624,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_verve",
     "name": "Verve",
-    "path": "schemes/sch_verve.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 28624,
     "sha256": "2c5b9603ffa51c84e06d3856940592565df912233b65428e7f18ca061b55b702",
+    "upstreamPath": "schemes/sch_verve.png",
+    "aliases": [
+      "verve-card",
+      "Verve Card"
+    ],
     "source": {
       "kind": "linked_brand_tile",
       "url": null
     },
-    "width": 256
+    "path": "schemes/verve.png"
   },
   {
-    "bytes": 7052,
-    "category": "schemes",
-    "height": 256,
     "id": "sch_visa",
     "name": "Visa",
-    "path": "schemes/sch_visa.png",
+    "category": "schemes",
+    "width": 256,
+    "height": 256,
+    "bytes": 7052,
     "sha256": "166a332d35f6dc3937372a65fbd148080b3b1b0e98583d105a89325909042345",
+    "upstreamPath": "schemes/sch_visa.png",
+    "aliases": [
+      "Visa debit / prepaid / virtual",
+      "Visa",
+      "Visa Debit Sudan",
+      "Visa card scheme",
+      "Visa Virtual Sudan",
+      "visa-debit-prepaid-virtual-sudan",
+      "Visa Prepaid Sudan",
+      "Visa payment scheme"
+    ],
     "source": {
       "kind": "generated",
       "url": null,
       "reference": "/payment-icons/pmt_visa.svg"
     },
-    "width": 256
+    "path": "schemes/visa.png"
   }
 ]

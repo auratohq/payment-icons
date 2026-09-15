@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Browse Aurato's payment icons: payment methods, networks, banks, markets and card artwork. Search, preview and download PNG assets.">
+  <meta name="description" content="Browse 8,296 Aurato payment icons and logos: payment methods, digital wallets, card networks, PSPs, banks, markets and card artwork. Search, preview and download PNG files.">
   <meta name="color-scheme" content="dark">
   <title>Payment icons · aurato.</title>
   <link rel="stylesheet" href="gallery/style.css">
@@ -32,13 +32,13 @@
       </aside>
       <div class="browser">
         <div class="toolbar">
-          <label class="search"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="Search names or IDs…" aria-label="Search all icons by name or ID" autocomplete="off"></label>
+          <label class="search"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="Search names, aliases or filenames…" aria-label="Search all icons by name, alias or filename" autocomplete="off"></label>
           <fieldset class="preview-controls"><legend class="sr-only">Preview background</legend><button type="button" data-background="light" title="Light background" aria-label="Light background" aria-pressed="true"><span class="swatch light"></span></button><button type="button" data-background="dark" title="Dark background" aria-label="Dark background" aria-pressed="false"><span class="swatch dark"></span></button><button type="button" data-background="checker" title="Transparency checker" aria-label="Transparency checker" aria-pressed="false"><span class="swatch checker"></span></button></fieldset>
         </div>
         <div class="results-heading"><div><h2 id="category-title">Payment methods</h2><span id="result-count" role="status" aria-live="polite">Loading…</span></div><label class="source-filter"><span class="sr-only">Source type</span><select id="source-filter"><option value="all">All sources</option><option value="generated">Generated artwork</option><option value="other">Other source types</option></select></label></div>
         <div id="error" class="error" role="alert" hidden></div>
         <div id="grid" class="grid" aria-label="Icons"></div>
-        <p id="empty" class="empty" hidden>No icons found. Try another name, ID or category.</p>
+        <p id="empty" class="empty" hidden>No icons found. Try another name, alias, filename or category.</p>
         <div class="pagination"><button id="load-more" type="button" hidden>Show 60 more <span aria-hidden="true">↓</span></button></div>
       </div>
     </section>
@@ -48,7 +48,7 @@
   <dialog id="detail" aria-labelledby="detail-name">
     <button type="button" class="close" id="close-detail" aria-label="Close icon details">×</button>
     <div class="detail-preview preview-surface"><img id="detail-image" alt="" width="128" height="128"></div>
-    <div class="detail-content"><span class="eyebrow" id="detail-category"></span><h2 id="detail-name"></h2><p id="detail-id" class="mono"></p><dl><div><dt>Format</dt><dd id="detail-format"></dd></div><div><dt>Source type</dt><dd id="detail-kind"></dd></div><div id="detail-source-row"><dt>Source</dt><dd><a id="detail-source" target="_blank" rel="noopener noreferrer">View source ↗</a></dd></div></dl><label class="path-label" for="detail-path">Repository path</label><input id="detail-path" readonly class="mono"><div class="detail-actions"><button type="button" id="copy-path">Copy path</button><a id="download-icon" class="primary-link" download>Download PNG ↓</a></div><details><summary>SHA-256</summary><code id="detail-sha"></code></details><p class="detail-note">Source labels reproduce Aurato's recorded provenance. They do not establish a license or imply brand endorsement.</p></div>
+    <div class="detail-content"><span class="eyebrow" id="detail-category"></span><h2 id="detail-name"></h2><dl><div><dt>Format</dt><dd id="detail-format"></dd></div><div><dt>Source type</dt><dd id="detail-kind"></dd></div><div id="detail-source-row"><dt>Source</dt><dd><a id="detail-source" target="_blank" rel="noopener noreferrer">View source ↗</a></dd></div></dl><label class="path-label" for="detail-path">Repository path</label><input id="detail-path" readonly class="mono"><div class="detail-actions"><button type="button" id="copy-path">Copy path</button><a id="download-icon" class="primary-link" download>Download PNG ↓</a></div><details><summary>SHA-256</summary><code id="detail-sha"></code></details><p class="detail-note">Source labels reproduce Aurato's recorded provenance. They do not establish a license or imply brand endorsement.</p></div>
   </dialog>
   <div id="toast" role="status" aria-live="polite"></div>
 </body>

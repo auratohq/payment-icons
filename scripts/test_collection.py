@@ -22,7 +22,20 @@ def specimen(shape='rounded', hole=False):
     im.save(stream, format='PNG')
     data = stream.getvalue()
     return data, {'id': 'pmt_test', 'name': 'Test', 'category': 'payment-methods',
-                  'path': 'payment-methods/pmt_test.png', 'width': 256, 'height': 256,
+                  'path': 'payment-methods/test.png', 'upstreamPath': 'payment-methods/pmt_test.png',
+                  'aliases': [], 'width': 256, 'height': 256,
+                  'bytes': len(data), 'sha256': hashlib.sha256(data).hexdigest(),
+                  'source': {'kind': 'generated', 'url': None}}
+
+
+def card_specimen():
+    im = Image.new('RGBA', (406, 256), 'white')
+    stream = BytesIO()
+    im.save(stream, format='PNG')
+    data = stream.getvalue()
+    return data, {'id': 'crd_test', 'name': 'Test Card', 'category': 'cards',
+                  'path': 'cards/test-card.png', 'upstreamPath': 'cards/crd_test.png',
+                  'aliases': [], 'width': 406, 'height': 256,
                   'bytes': len(data), 'sha256': hashlib.sha256(data).hexdigest(),
                   'source': {'kind': 'generated', 'url': None}}
 
@@ -38,6 +51,9 @@ class ValidationTests(unittest.TestCase):
             with self.subTest(shape=shape), self.assertRaises(ValueError):
                 check_image(*specimen(shape))
 
+    def test_card_can_keep_its_own_opaque_frame(self):
+        check_image(*card_specimen())
+
     def test_transparent_interior_is_rejected(self):
         with self.assertRaises(ValueError):
             check_image(*specimen(hole=True))
@@ -49,8 +65,9 @@ class ValidationTests(unittest.TestCase):
 
     def test_path_traversal_and_hidden_layers_are_rejected(self):
         _, item = specimen()
-        for path in ('../outside.png', 'payment-methods/../outside.png', '/payment-methods/pmt_test.png',
-                     'payment-methods//pmt_test.png', 'v1/payment-methods/pmt_test.png'):
+        for path in ('../outside.png', 'payment-methods/../outside.png', '/payment-methods/test.png',
+                     'payment-methods//test.png', 'v1/payment-methods/test.png', 'payment-methods/Test.png',
+                     'payment-methods/pmt_test.png'):
             with self.subTest(path=path), self.assertRaises(ValueError):
                 check_entry({**item, 'path': path})
 

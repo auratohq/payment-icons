@@ -1,32 +1,38 @@
-# Aurato payment icons
+<p align="center">
+  <img src=".github/assets/aurato-global-payment-icon-pack-banner.png" alt="Aurato Global Payment Icon Pack with payment method, card network, PSP, bank and market icons" width="100%">
+</p>
+
+# Aurato Global Payment Icon Pack
 
 **The world of payments. One icon library.**
 
-A versioned collection of **8,284 payment-related PNG assets** maintained by [Aurato](https://aurato.io): **2,274 rounded-square icons** and **6,010 card images**, across **13 categories**.
+A searchable, versioned collection of **8,296 payment-related PNG assets** maintained by [Aurato](https://aurato.io): **2,280 rounded-square icons** and **6,016 card images**, across **13 categories**. Find payment method icons and logos, digital wallets, card networks, payment service providers (PSPs), banks, currencies, markets, regulators, schemes and payment systems.
 
 [Download ZIP](https://github.com/auratohq/payment-icons/archive/refs/heads/main.zip) · [JSON catalog](catalog.json) · [CSV catalog](catalog.csv) · [Contribute](CONTRIBUTING.md) · [Artwork rights](RIGHTS.md)
 
 <p>
-  <img src="payment-methods/pmt_apple_pay.png" width="52" height="52" alt="Apple Pay">&nbsp;
-  <img src="payment-methods/pmt_google_pay.png" width="52" height="52" alt="Google Pay">&nbsp;
-  <img src="payment-methods/pmt_paypal.png" width="52" height="52" alt="PayPal">&nbsp;
-  <img src="payment-methods/pmt_alipay.png" width="52" height="52" alt="Alipay">&nbsp;
-  <img src="payment-methods/pmt_ideal.png" width="52" height="52" alt="iDEAL">&nbsp;
-  <img src="payment-methods/pmt_pix.png" width="52" height="52" alt="Pix">&nbsp;
-  <img src="payment-methods/pmt_klarna.png" width="52" height="52" alt="Klarna">&nbsp;
-  <img src="payment-methods/pmt_in3.png" width="52" height="52" alt="in3">
+  <img src="payment-methods/apple-pay.png" width="52" height="52" alt="Apple Pay icon">&nbsp;
+  <img src="payment-methods/google-pay.png" width="52" height="52" alt="Google Pay icon">&nbsp;
+  <img src="payment-methods/paypal.png" width="52" height="52" alt="PayPal icon">&nbsp;
+  <img src="payment-methods/alipay.png" width="52" height="52" alt="Alipay icon">&nbsp;
+  <img src="payment-methods/ideal.png" width="52" height="52" alt="iDEAL icon">&nbsp;
+  <img src="payment-methods/pix.png" width="52" height="52" alt="Pix icon">&nbsp;
+  <img src="payment-methods/klarna.png" width="52" height="52" alt="Klarna icon">&nbsp;
+  <img src="payment-methods/in3.png" width="52" height="52" alt="in3 icon">
 </p>
+
+Popular payment method icons: [Apple Pay](payment-methods/apple-pay.png) · [Google Pay](payment-methods/google-pay.png) · [PayPal](payment-methods/paypal.png) · [Alipay](payment-methods/alipay.png) · [iDEAL](payment-methods/ideal.png) · [Pix](payment-methods/pix.png) · [Klarna](payment-methods/klarna.png) · [in3](payment-methods/in3.png)
 
 ## What's included
 
-- Actual PNG files checked into Git, with stable Aurato IDs as filenames.
+- Actual PNG files checked into Git with lowercase, human-readable, SEO-friendly filenames based on the full entity or product name.
 - Consistent **256 × 256** primary icons: opaque rounded-square base, approximately **43 px corner radius**, transparent outside corners. The shape is in the image itself; no CSS clipping is needed.
 - **406 × 256** card artwork, preserving its card proportions.
 - Searchable gallery with category and source filters, light/dark/transparency previews, and individual downloads.
-- Machine-readable names, dimensions, byte sizes, SHA-256 hashes and recorded provenance.
+- Machine-readable names, aliases, internal record IDs, repository paths, upstream paths, dimensions, byte sizes, SHA-256 hashes and recorded provenance.
 - Reproducible downloads and validation against the approved source snapshot.
 
-The catalog includes brand marks, flags, currency symbols, category icons and generated artwork. **Most card images are generated illustrations, not official card photographs.** Each entry records its source type. There are 2,072 distinct image hashes: some related records intentionally share the same artwork.
+The catalog includes brand marks, flags, currency symbols, category icons and generated artwork. **Most card images are generated illustrations, not official card photographs.** Each entry records its source type. There are 2,678 distinct image hashes: some related records intentionally share the same artwork.
 
 ## Browse the gallery
 
@@ -49,15 +55,15 @@ All asset folders are directly at the repository root.
 | Folder | Assets | Shape |
 | --- | ---: | --- |
 | [banks](banks/) | 136 | Rounded square |
-| [cards](cards/) | 6,010 | Card |
+| [cards](cards/) | 6,016 | Card |
 | [compliance](compliance/) | 128 | Rounded square |
 | [currencies](currencies/) | 153 | Rounded square |
 | [identifiers](identifiers/) | 4 | Rounded square |
 | [markets](markets/) | 250 | Rounded square |
 | [operators](operators/) | 88 | Rounded square |
-| [payment-methods](payment-methods/) | 1,005 | Rounded square |
+| [payment-methods](payment-methods/) | 1,006 | Rounded square |
 | [psps](psps/) | 50 | Rounded square |
-| [regulators](regulators/) | 250 | Rounded square |
+| [regulators](regulators/) | 255 | Rounded square |
 | [schemes](schemes/) | 91 | Rounded square |
 | [standards](standards/) | 100 | Rounded square |
 | [systems](systems/) | 19 | Rounded square |
@@ -69,7 +75,7 @@ All asset folders are directly at the repository root.
 Copy the relevant file into your application's public assets:
 
 ```html
-<img src="/payment-methods/pmt_in3.png" alt="in3" width="45" height="45">
+<img src="/payment-methods/in3.png" alt="in3 payment method icon" width="45" height="45">
 ```
 
 For cards, keep the native aspect ratio:
@@ -82,9 +88,8 @@ For cards, keep the native aspect ratio:
 ### React
 
 ```jsx
-export function PaymentIcon({ id, name }) {
-  // Use a validated ID from the catalog.
-  return <img src={`/payment-methods/${id}.png`} alt={name} width={45} height={45} />;
+export function PaymentIcon({ slug, name }) {
+  return <img src={`/payment-methods/${slug}.png`} alt={`${name} payment method icon`} width={45} height={45} />;
 }
 ```
 
@@ -93,7 +98,7 @@ export function PaymentIcon({ id, name }) {
 For a quick prototype:
 
 ```text
-https://raw.githubusercontent.com/auratohq/payment-icons/main/payment-methods/pmt_in3.png
+https://raw.githubusercontent.com/auratohq/payment-icons/main/payment-methods/in3.png
 ```
 
 `main` changes over time. For reproducible use, replace `main` with a reviewed commit SHA, or vendor the files into your own deployment. The repository is a snapshot; Aurato's public Supabase asset library remains the upstream source.
@@ -106,8 +111,8 @@ https://raw.githubusercontent.com/auratohq/payment-icons/main/payment-methods/pm
 const index = await fetch('/catalog.json').then(r => r.json());
 const category = index.categories.find(c => c.id === 'payment-methods');
 const icons = await fetch('/' + category.path).then(r => r.json());
-const in3 = icons.find(icon => icon.id === 'pmt_in3');
-console.log(in3.path, in3.sha256, in3.source.kind);
+const in3 = icons.find(icon => icon.name === 'in3');
+console.log(in3.path, in3.upstreamPath, in3.sha256, in3.source.kind);
 ```
 
 See [the catalog specification](catalog/README.md) for fields and [the asset schema](catalog/asset.schema.json). `catalog.csv` contains the same records in one spreadsheet-friendly file; formula-like text values are prefixed with an apostrophe for spreadsheet safety.

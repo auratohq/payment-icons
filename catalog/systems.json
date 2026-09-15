@@ -1,270 +1,374 @@
 [
   {
-    "bytes": 16659,
-    "category": "systems",
-    "height": 256,
     "id": "sys_american_express",
     "name": "Amex Network",
-    "path": "systems/sys_american_express.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 16659,
     "sha256": "f641c61ee8a3b70a8d70cf20032aca97696928b03892ccdec49df48ed0af80fa",
+    "upstreamPath": "systems/sys_american_express.png",
+    "aliases": [
+      "Amex Network",
+      "American Express Network",
+      "GNS",
+      "Global Network Services",
+      "American Express card network"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "systems/amex-network.png"
   },
   {
-    "bytes": 8887,
+    "id": "sys_mastercard",
+    "name": "Banknet",
     "category": "systems",
+    "width": 256,
     "height": 256,
-    "id": "sys_cardnet",
-    "name": "JCB Network",
-    "path": "systems/sys_cardnet.png",
-    "sha256": "3dc3d0f93f3a46d1a8e3654da587a89d7c3d0d077c8998505839a893400c5281",
+    "bytes": 5952,
+    "sha256": "95878ffc463db7ecd4b4201ca5c0fa784a805aa3fd46c20943c42397ef2a6a49",
+    "upstreamPath": "systems/sys_mastercard.png",
+    "aliases": [
+      "Banknet",
+      "Mastercard Banknet",
+      "Mastercard card system",
+      "Mastercard System"
+    ],
     "source": {
       "kind": "generated",
-      "url": null,
-      "reference": "/payment-icons/pmt_jcb.svg"
+      "url": null
     },
-    "width": 256
+    "path": "systems/banknet.png"
   },
   {
-    "bytes": 7001,
-    "category": "systems",
-    "height": 256,
     "id": "sys_cts",
     "name": "CTS",
-    "path": "systems/sys_cts.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 7001,
     "sha256": "4f257b70527e58a5746512d34114bc4b9ed40fc6e3e07a9ae6f725aad0b945f4",
+    "upstreamPath": "systems/sys_cts.png",
+    "aliases": [
+      "Cheque Truncation System",
+      "Check Truncation System",
+      "CTS system"
+    ],
     "source": {
       "kind": "generated",
       "url": "https://www.rbi.org.in/commonman/english/Scripts/FAQs.aspx?Id=3878"
     },
-    "width": 256
+    "path": "systems/cts.png"
   },
   {
-    "bytes": 22327,
-    "category": "systems",
-    "height": 256,
     "id": "sys_cups",
     "name": "CUPS",
-    "path": "systems/sys_cups.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 22327,
     "sha256": "4740c8461e3afde6c5ad856959fb97b8692a8b0061990af26133e360c351c761",
+    "upstreamPath": "systems/sys_cups.png",
+    "aliases": [
+      "China UnionPay System",
+      "CUPS system"
+    ],
     "source": {
       "kind": "generated",
       "url": null,
       "reference": "/payment-icons/pmt_unionpay.svg"
     },
-    "width": 256
+    "path": "systems/cups.png"
   },
   {
-    "bytes": 22344,
-    "category": "systems",
-    "height": 256,
     "id": "sys_dnps",
     "name": "DNPS",
-    "path": "systems/sys_dnps.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 22344,
     "sha256": "ba2a3c6f2b083f3faa929b69a1a6f7f95098a410ba03d331200218a26e1c30d1",
+    "upstreamPath": "systems/sys_dnps.png",
+    "aliases": [
+      "Discover Network Processing System",
+      "DNPS system"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "systems/dnps.png"
   },
   {
-    "bytes": 14187,
-    "category": "systems",
-    "height": 256,
     "id": "sys_equensworldline_csm",
     "name": "Worldline",
-    "path": "systems/sys_equensworldline_csm.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 14187,
     "sha256": "bcb6d299fdeef73538b5205c4e60ba92a9bc7fec1ecaec681e3b695825446ea3",
+    "upstreamPath": "systems/sys_equensworldline_csm.png",
+    "aliases": [
+      "Equens CSM",
+      "Worldline CSM",
+      "equensWorldline CSM"
+    ],
     "source": {
       "kind": "official",
       "url": "https://worldline.com/en/home/main-navigation/who-we-serve/financial-institutions/equensworldline-nv"
     },
-    "width": 256
+    "path": "systems/equensworldline-csm.png"
   },
   {
-    "bytes": 14187,
-    "category": "systems",
-    "height": 256,
     "id": "sys_equensworldline_instant_payments_csm",
     "name": "Worldline Instant",
-    "path": "systems/sys_equensworldline_instant_payments_csm.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 14187,
     "sha256": "bcb6d299fdeef73538b5205c4e60ba92a9bc7fec1ecaec681e3b695825446ea3",
+    "upstreamPath": "systems/sys_equensworldline_instant_payments_csm.png",
+    "aliases": [
+      "equensWorldline Instant Payments CSM",
+      "equensWorldline IP CSM",
+      "Instant Payments CSM"
+    ],
     "source": {
       "kind": "generated",
       "url": "https://worldline.com/en/home/main-navigation/who-we-serve/financial-institutions/equensworldline-nv"
     },
-    "width": 256
+    "path": "systems/equensworldline-instant-payments-csm.png"
   },
   {
-    "bytes": 71822,
-    "category": "systems",
-    "height": 256,
     "id": "sys_euro1",
     "name": "EURO1",
-    "path": "systems/sys_euro1.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 71822,
     "sha256": "f6752250abdd87c127a45b2c9c7d13f6ede4e83063191c47bf86fba375aeb76d",
+    "upstreamPath": "systems/sys_euro1.png",
+    "aliases": [],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "systems/euro1.png"
   },
   {
-    "bytes": 5952,
+    "id": "sys_cardnet",
+    "name": "JCB Network",
     "category": "systems",
+    "width": 256,
     "height": 256,
-    "id": "sys_mastercard",
-    "name": "Banknet",
-    "path": "systems/sys_mastercard.png",
-    "sha256": "95878ffc463db7ecd4b4201ca5c0fa784a805aa3fd46c20943c42397ef2a6a49",
+    "bytes": 8887,
+    "sha256": "3dc3d0f93f3a46d1a8e3654da587a89d7c3d0d077c8998505839a893400c5281",
+    "upstreamPath": "systems/sys_cardnet.png",
+    "aliases": [
+      "JCB Network",
+      "CARDNET",
+      "Japan Card Network",
+      "JCB CARDNET"
+    ],
     "source": {
       "kind": "generated",
-      "url": null
+      "url": null,
+      "reference": "/payment-icons/pmt_jcb.svg"
     },
-    "width": 256
+    "path": "systems/jcb-network.png"
   },
   {
-    "bytes": 9177,
-    "category": "systems",
-    "height": 256,
     "id": "sys_neft_clearing_system",
     "name": "NEFT Clearing System",
-    "path": "systems/sys_neft_clearing_system.png",
-    "sha256": "4c03dc675824be1c4a3eba4aac0d4874bc344861f7d3fd4682be530e6a3f460a",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 29308,
+    "sha256": "3bfbf00a4654b80cc98fcafa0f0bc60d030a45aa04c4caee7b5acb80a756e6b0",
+    "upstreamPath": "systems/sys_neft_clearing_system.png",
+    "aliases": [
+      "NEFT",
+      "National Electronic Funds Transfer",
+      "RBI NEFT"
+    ],
     "source": {
-      "kind": "generated",
-      "url": "https://www.rbi.org.in/scripts/paymentsystems_um.aspx"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "systems/neft-clearing-system.png"
   },
   {
-    "bytes": 15068,
-    "category": "systems",
-    "height": 256,
     "id": "sys_omannet",
     "name": "OmanNet",
-    "path": "systems/sys_omannet.png",
-    "sha256": "17dfa980638657e40066da676b318872586a0df81eda6147493e015924c464ec",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 22123,
+    "sha256": "2f84619795424aec515b13968e65900f1f3a1696e11c1373b49bf4f975f0dfd6",
+    "upstreamPath": "systems/sys_omannet.png",
+    "aliases": [
+      "Oman National ATM/POS System",
+      "Oman Net"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "systems/omannet.png"
   },
   {
-    "bytes": 54899,
-    "category": "systems",
-    "height": 256,
     "id": "sys_rt1",
     "name": "RT1",
-    "path": "systems/sys_rt1.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 54899,
     "sha256": "1e135fcc949d53d635a948322c324b036d445d472b324798a2bbb4583981540b",
+    "upstreamPath": "systems/sys_rt1.png",
+    "aliases": [
+      "EBA RT1"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "systems/rt1.png"
   },
   {
-    "bytes": 29043,
-    "category": "systems",
-    "height": 256,
     "id": "sys_rtgs",
     "name": "RTGS",
-    "path": "systems/sys_rtgs.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 29043,
     "sha256": "b2ab109d2f9ffc7ca36b7fbec8ed17feee8c2de99394e6f4a208138d249ee36d",
+    "upstreamPath": "systems/sys_rtgs.png",
+    "aliases": [
+      "Real Time Gross Settlement",
+      "Real-Time Gross Settlement",
+      "RBI RTGS"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "systems/rtgs.png"
   },
   {
-    "bytes": 27970,
-    "category": "systems",
-    "height": 256,
     "id": "sys_spi",
     "name": "Instant Payment System (SPI)",
-    "path": "systems/sys_spi.png",
-    "sha256": "a6bf690545791d702009e3759ac3d1b13805ea96778f618f035f082f0bd98710",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 33834,
+    "sha256": "41599703bed45d00695748c95a6334eae1a95b2ab5e71cd8f294f6cab093a253",
+    "upstreamPath": "systems/sys_spi.png",
+    "aliases": [
+      "Brazil instant payment system",
+      "Pix settlement",
+      "Sistema de Pagamentos Instantaneos",
+      "SPI"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "systems/spi.png"
   },
   {
-    "bytes": 59128,
-    "category": "systems",
-    "height": 256,
     "id": "sys_step2",
     "name": "STEP2",
-    "path": "systems/sys_step2.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 59128,
     "sha256": "9fd030d57d8c55c8a18379728ab7131f5eac913994c99e32e6c97f2be44eff6c",
+    "upstreamPath": "systems/sys_step2.png",
+    "aliases": [
+      "STEP2-T"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "systems/step2.png"
   },
   {
-    "bytes": 33181,
-    "category": "systems",
-    "height": 256,
     "id": "sys_t2",
     "name": "T2",
-    "path": "systems/sys_t2.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 33181,
     "sha256": "e936094d03e4d4c6be0754776a68684989dee558e1a534191f0b2e6b514ac05f",
+    "upstreamPath": "systems/sys_t2.png",
+    "aliases": [
+      "TARGET2"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "systems/t2.png"
   },
   {
-    "bytes": 21822,
-    "category": "systems",
-    "height": 256,
     "id": "sys_tips",
     "name": "TARGET Instant Payment Settlement",
-    "path": "systems/sys_tips.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 21822,
     "sha256": "23c9bc50924b70bfd352b1147e58f9141a81d7522320fe8c099655c79f77c152",
+    "upstreamPath": "systems/sys_tips.png",
+    "aliases": [
+      "TARGET Instant Payment Settlement",
+      "TIPS"
+    ],
     "source": {
       "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "systems/tips.png"
   },
   {
-    "bytes": 7052,
-    "category": "systems",
-    "height": 256,
     "id": "sys_visanet",
     "name": "VisaNet",
-    "path": "systems/sys_visanet.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 7052,
     "sha256": "166a332d35f6dc3937372a65fbd148080b3b1b0e98583d105a89325909042345",
+    "upstreamPath": "systems/sys_visanet.png",
+    "aliases": [
+      "VisaNet",
+      "VisaNet system"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "systems/visanet.png"
   },
   {
-    "bytes": 14187,
-    "category": "systems",
-    "height": 256,
     "id": "sys_worldline_switch",
     "name": "Worldline Switch",
-    "path": "systems/sys_worldline_switch.png",
+    "category": "systems",
+    "width": 256,
+    "height": 256,
+    "bytes": 14187,
     "sha256": "bcb6d299fdeef73538b5205c4e60ba92a9bc7fec1ecaec681e3b695825446ea3",
+    "upstreamPath": "systems/sys_worldline_switch.png",
+    "aliases": [
+      "Worldline Switch",
+      "Worldline card switch",
+      "equensWorldline Switch"
+    ],
     "source": {
       "kind": "generated",
       "url": "https://worldline.com/en/home/main-navigation/who-we-serve/financial-institutions/equensworldline-nv"
     },
-    "width": 256
+    "path": "systems/worldline-switch.png"
   }
 ]

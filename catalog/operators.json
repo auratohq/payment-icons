@@ -1,1234 +1,1644 @@
 [
   {
-    "bytes": 8611,
-    "category": "operators",
-    "height": 256,
     "id": "ops_1link",
     "name": "1LINK (Guarantee) Limited",
-    "path": "operators/ops_1link.png",
-    "sha256": "2c64eec59aa139e790e6f881eedcad45e30681494870514d8c843bddc7c5a2f7",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 27618,
+    "sha256": "e5a28d2813e839f991a97a5cf355fb1153039f36f13fcb3bf8fd0c9c54581892",
+    "upstreamPath": "operators/ops_1link.png",
+    "aliases": [
+      "1LINK"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/1link.png"
   },
   {
-    "bytes": 29058,
-    "category": "operators",
-    "height": 256,
     "id": "ops_abs",
     "name": "Association of Banks in Singapore",
-    "path": "operators/ops_abs.png",
-    "sha256": "6b6e9b0a36b631a8c614bafbfa1638376b15361c801391d65515aaaf454f803c",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 44512,
+    "sha256": "158b61d64f6535f38e08bc2968041f7fb1cec7895f185631091658e2f6dd4dcd",
+    "upstreamPath": "operators/ops_abs.png",
+    "aliases": [
+      "abs",
+      "Association of Banks in Singapore"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/abs.png"
   },
   {
-    "bytes": 15995,
-    "category": "operators",
-    "height": 256,
     "id": "ops_aircash",
     "name": "Aircash",
-    "path": "operators/ops_aircash.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 15995,
     "sha256": "ce7e69218b9c9f4f4286fc2a2eceb8702483e6b6e09b86320c206797443b97ea",
+    "upstreamPath": "operators/ops_aircash.png",
+    "aliases": [
+      "Aircash d.o.o.",
+      "Abon operator"
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://apps.apple.com/at/app/aircash/id1178612530?uo=4"
     },
-    "width": 256
+    "path": "operators/aircash.png"
   },
   {
-    "bytes": 9513,
-    "category": "operators",
-    "height": 256,
     "id": "ops_al_etihad_payments",
     "name": "Al Etihad Payments",
-    "path": "operators/ops_al_etihad_payments.png",
-    "sha256": "454490914f3cdfc2dbc0e1c2297eda5a54c7e2ca6a91494e83825a5beeb73921",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 16214,
+    "sha256": "c614b81f9f5d00839c4310c3737d3a9d35bc4fcdf337e4047b548d6e4d956044",
+    "upstreamPath": "operators/ops_al_etihad_payments.png",
+    "aliases": [
+      "AEP"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/al-etihad-payments.png"
   },
   {
-    "bytes": 9814,
-    "category": "operators",
-    "height": 256,
     "id": "ops_amex",
     "name": "American Express Company",
-    "path": "operators/ops_amex.png",
-    "sha256": "fa3853991d207ac6af7e01a2c1df7cc09b35a2b8f12a983ae243e6ea10d01617",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 16146,
+    "sha256": "51494b6ba696435ff5da1690756f3d3e40d3460461c9bbe59ce0218e3157cdd4",
+    "upstreamPath": "operators/ops_amex.png",
+    "aliases": [
+      "American Express Company",
+      "amex"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/amex.png"
   },
   {
-    "bytes": 14001,
-    "category": "operators",
-    "height": 256,
     "id": "ops_ancv",
     "name": "Agence Nationale pour les Chèques-Vacances",
-    "path": "operators/ops_ancv.png",
-    "sha256": "ccdeb7daae0b2e6ebcfe2beb4853e19f09699e74a92b53cd78e6993840cdd835",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 24048,
+    "sha256": "ee06d175c61a031e90701d89a99e54cfea2eb932b06acf653cf8fcb40b3135c8",
+    "upstreamPath": "operators/ops_ancv.png",
+    "aliases": [
+      "ANCV"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/ancv.png"
   },
   {
-    "bytes": 7333,
-    "category": "operators",
-    "height": 256,
     "id": "ops_ant_intl",
     "name": "Ant International",
-    "path": "operators/ops_ant_intl.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 7333,
     "sha256": "2cc7c32d83240c89dbe77f033beb26634e2d6f9f00d1aab3a90a25508ea42246",
+    "upstreamPath": "operators/ops_ant_intl.png",
+    "aliases": [
+      "Ant International",
+      "ant_intl"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/ant-intl.png"
   },
   {
-    "bytes": 7937,
-    "category": "operators",
-    "height": 256,
     "id": "ops_apple",
     "name": "Apple Inc.",
-    "path": "operators/ops_apple.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 7937,
     "sha256": "12aea612db1aad4b42fc731e13084e41e2fb8bcab6c5c64bb72802593e66fcd7",
+    "upstreamPath": "operators/ops_apple.png",
+    "aliases": [
+      "Apple"
+    ],
     "source": {
       "kind": "generated",
       "url": "https://cdn.simpleicons.org/apple/FFFFFF"
     },
-    "width": 256
+    "path": "operators/apple.png"
   },
   {
-    "bytes": 10069,
-    "category": "operators",
-    "height": 256,
     "id": "ops_armenian_card",
     "name": "Armenian Card CJSC",
-    "path": "operators/ops_armenian_card.png",
-    "sha256": "9996ed330c863d15b116322a1ece9584984aeb9f57bf9b84abb0d397d0519e72",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 18248,
+    "sha256": "88993d4afec1eeb5829b074649cba05c570305e5ce785c292b39ac6d18d3292f",
+    "upstreamPath": "operators/ops_armenian_card.png",
+    "aliases": [
+      "ArCa operator",
+      "Armenian Card"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/armenian-card.png"
   },
   {
-    "bytes": 13428,
-    "category": "operators",
-    "height": 256,
     "id": "ops_astropay",
     "name": "AstroPay",
-    "path": "operators/ops_astropay.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 13428,
     "sha256": "80bb7d5faa0397ba5854d97e0e721ed4e718e51d05e392f90bfabefc2d8097f0",
+    "upstreamPath": "operators/ops_astropay.png",
+    "aliases": [
+      "AstroPay Limited"
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_astropay.png"
     },
-    "width": 256
+    "path": "operators/astropay.png"
   },
   {
-    "bytes": 18905,
-    "category": "operators",
-    "height": 256,
     "id": "ops_bancomat",
     "name": "BANCOMAT S.p.A.",
-    "path": "operators/ops_bancomat.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 18905,
     "sha256": "c55ae83a5ca2f6b2fe551ed573312fe3cc50e761918f71afa41522aa7e2c54c2",
+    "upstreamPath": "operators/ops_bancomat.png",
+    "aliases": [
+      "bancomat",
+      "BANCOMAT S.p.A."
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/bancomat.png"
   },
   {
-    "bytes": 11254,
-    "category": "operators",
-    "height": 256,
     "id": "ops_bancontact_company",
     "name": "Bancontact Company",
-    "path": "operators/ops_bancontact_company.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 11254,
     "sha256": "50d940b7ddc0aa187926c19c9685e247652c097726eaa04ad79bfa3dcce02a31",
+    "upstreamPath": "operators/ops_bancontact_company.png",
+    "aliases": [
+      "Bancontact Payconiq Company"
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_bancontact.png"
     },
-    "width": 256
+    "path": "operators/bancontact-company.png"
   },
   {
-    "bytes": 9347,
-    "category": "operators",
-    "height": 256,
     "id": "ops_bankart",
     "name": "Bankart d.o.o.",
-    "path": "operators/ops_bankart.png",
-    "sha256": "803c439023fac99fcc30eb81195164a467009c421a95b2d85eacdee395df7a2a",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 45547,
+    "sha256": "9807cfbabeceded24500ad622f7448abdc066f92d18e4ceb8fcd6c99cd9216c1",
+    "upstreamPath": "operators/ops_bankart.png",
+    "aliases": [
+      "Bankart"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/bankart.png"
   },
   {
-    "bytes": 56535,
-    "category": "operators",
-    "height": 256,
     "id": "ops_bc_card",
     "name": "BC Card Co., Ltd.",
-    "path": "operators/ops_bc_card.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 56535,
     "sha256": "ef44d3987b59d168640f88cc72e4e39565a2c725824bc9ce0a63bf38d04a1084",
+    "upstreamPath": "operators/ops_bc_card.png",
+    "aliases": [
+      "BC Card"
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_bc_card.png"
     },
-    "width": 256
+    "path": "operators/bc-card.png"
   },
   {
-    "bytes": 16111,
-    "category": "operators",
-    "height": 256,
     "id": "ops_belkart",
     "name": "Belkart Payment System",
-    "path": "operators/ops_belkart.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 16111,
     "sha256": "113c326d6f1701f270d57d72dee287a531248d15cb5008c24616ebea969036f6",
+    "upstreamPath": "operators/ops_belkart.png",
+    "aliases": [
+      "BELKART operator"
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_belkart.png"
     },
-    "width": 256
+    "path": "operators/belkart-payment-system.png"
   },
   {
-    "bytes": 24659,
-    "category": "operators",
-    "height": 256,
     "id": "ops_benefit",
     "name": "The BENEFIT Company",
-    "path": "operators/ops_benefit.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 24659,
     "sha256": "cce1b99fdd4bdac7f516326b3cc48369e2a64ac3161da8c684e7aded933b8ab1",
+    "upstreamPath": "operators/ops_benefit.png",
+    "aliases": [
+      "benefit",
+      "The BENEFIT Company"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/benefit.png"
   },
   {
-    "bytes": 8936,
-    "category": "operators",
-    "height": 256,
     "id": "ops_billink",
     "name": "Billink B.V.",
-    "path": "operators/ops_billink.png",
-    "sha256": "2e3f8e31df6de430d4d756c91763221fc6d240c3733a895e8a5429eb31cf9644",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 7111,
+    "sha256": "12f97acb7a95deb0f21d1d742a2fe7e32824cac9185b24607c6905a1bd050289",
+    "upstreamPath": "operators/ops_billink.png",
+    "aliases": [
+      "Billink"
+    ],
     "source": {
-      "kind": "generated",
-      "url": "https://www.billink.nl/hoe-billink-werkt"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "operators/billink-operator.png"
   },
   {
-    "bytes": 19081,
-    "category": "operators",
-    "height": 256,
     "id": "ops_bizum",
     "name": "Bizum S.L.",
-    "path": "operators/ops_bizum.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 19081,
     "sha256": "74041769600dc4ce7d99ef18a3510d648e6e7ba64ef55df2a76cd2383c2df553",
+    "upstreamPath": "operators/ops_bizum.png",
+    "aliases": [
+      "bizum",
+      "Bizum S.L."
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/bizum.png"
   },
   {
-    "bytes": 27190,
-    "category": "operators",
-    "height": 256,
     "id": "ops_bkash",
     "name": "bKash Limited",
-    "path": "operators/ops_bkash.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 27190,
     "sha256": "1a7b546ebc1ed302204c8f56334b93cba19190c9e79ba4dfcd6bc4a3b2a705a9",
+    "upstreamPath": "operators/ops_bkash.png",
+    "aliases": [
+      "bkash",
+      "bKash Limited"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/bkash.png"
   },
   {
-    "bytes": 9482,
-    "category": "operators",
-    "height": 256,
     "id": "ops_block",
     "name": "Block, Inc.",
-    "path": "operators/ops_block.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 9482,
     "sha256": "8b7b8d039ec86a0c1e155bc0825bc2e84a0ce0dff0cc6ed6137bb98ddf866791",
+    "upstreamPath": "operators/ops_block.png",
+    "aliases": [
+      "block",
+      "Block, Inc."
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/block.png"
   },
   {
-    "bytes": 32192,
-    "category": "operators",
-    "height": 256,
     "id": "ops_credicorp",
     "name": "Credicorp / Banco de Crédito del Perú",
-    "path": "operators/ops_credicorp.png",
-    "sha256": "121cd71d6a7c1c1bbd8dc932ec73b8cb40fb7e4d6af0d594a4862a9697c53134",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 26667,
+    "sha256": "b113ac7360c9db66fa5658fd92545074a24a4dcbc8004208104a4955eb625859",
+    "upstreamPath": "operators/ops_credicorp.png",
+    "aliases": [
+      "credicorp",
+      "Credicorp / Banco de Crédito del Perú"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/credicorp.png"
   },
   {
-    "bytes": 32272,
-    "category": "operators",
-    "height": 256,
     "id": "ops_currence",
     "name": "Currence iDEAL B.V.",
-    "path": "operators/ops_currence.png",
-    "sha256": "bcf617ce54b87ed172c663b2bbc4f944e96864575a306f1646e054b955f3affc",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 19141,
+    "sha256": "719f21c51bafd20f963c5115199c3072c0f1145b5638db04fb237284f319c4b3",
+    "upstreamPath": "operators/ops_currence.png",
+    "aliases": [
+      "currence",
+      "Currence iDEAL B.V."
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/currence.png"
   },
   {
-    "bytes": 30724,
-    "category": "operators",
-    "height": 256,
     "id": "ops_dana",
     "name": "PT Espay Debit Indonesia Koe",
-    "path": "operators/ops_dana.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 30724,
     "sha256": "0c38e995dcd6cbe5bd28f8870a7f42f5cecc8ec9b8cf7fb1b2104c0db8c27aa3",
+    "upstreamPath": "operators/ops_dana.png",
+    "aliases": [
+      "dana",
+      "PT Espay Debit Indonesia Koe"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/dana.png"
   },
   {
-    "bytes": 15691,
-    "category": "operators",
-    "height": 256,
     "id": "ops_davivienda",
     "name": "Banco Davivienda",
-    "path": "operators/ops_davivienda.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 15691,
     "sha256": "3fd9bade2da1d3c36a6a0a4267b210116bceb8e46309ee5b749ecd451182f8e4",
+    "upstreamPath": "operators/ops_davivienda.png",
+    "aliases": [
+      "Banco Davivienda",
+      "davivienda"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/davivienda.png"
   },
   {
-    "bytes": 12375,
-    "category": "operators",
-    "height": 256,
     "id": "ops_dias",
     "name": "DIAS Interbanking Systems S.A.",
-    "path": "operators/ops_dias.png",
-    "sha256": "ef6e25264c5d9b0e9b89c070e41253943fd279327d221d74ef57f27022262a61",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 13648,
+    "sha256": "26c82dbde0b5cc5c64008d60dd83da7d8e0a81c7404b6c52b383a615ee74e00b",
+    "upstreamPath": "operators/ops_dias.png",
+    "aliases": [
+      "DIAS",
+      "DIAS S.A."
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/dias.png"
   },
   {
-    "bytes": 2308,
-    "category": "operators",
-    "height": 256,
     "id": "ops_dinarak",
     "name": "Dinarak",
-    "path": "operators/ops_dinarak.png",
-    "sha256": "0a0db80e7fe568a20ecfc7b282aff8117cfbca7750786e936b6293068df0ec07",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 26822,
+    "sha256": "45a17a0db022c0f2259c7a7379ae422bf11cc2ab65d6e46cdfe8b49133571fcc",
+    "upstreamPath": "operators/ops_dinarak.png",
+    "aliases": [
+      "Dinarak operator"
+    ],
     "source": {
-      "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_dinarak.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "operators/dinarak.png"
   },
   {
-    "bytes": 27047,
-    "category": "operators",
-    "height": 256,
     "id": "ops_easypaisa",
     "name": "easypaisa Bank Limited",
-    "path": "operators/ops_easypaisa.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 27047,
     "sha256": "e629849606098b207d2468193e21909e1063c2c913436136ab7b6da6a07202cb",
+    "upstreamPath": "operators/ops_easypaisa.png",
+    "aliases": [
+      "easypaisa",
+      "easypaisa Bank Limited"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/easypaisa.png"
   },
   {
-    "bytes": 9328,
-    "category": "operators",
-    "height": 256,
     "id": "ops_eba_clearing",
     "name": "EBA CLEARING",
-    "path": "operators/ops_eba_clearing.png",
-    "sha256": "c590787562070875b4b9a3684ebf3e01c7fc0c06bea947ff705ef8557bf6e695",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 32638,
+    "sha256": "9708d74976191c86702248501896b4a4ca8144675fbd9c90cedf631a0f10ab87",
+    "upstreamPath": "operators/ops_eba_clearing.png",
+    "aliases": [
+      "EBA Clearing",
+      "EURO1",
+      "RT1",
+      "STEP2"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/eba-clearing.png"
   },
   {
-    "bytes": 12096,
-    "category": "operators",
-    "height": 256,
     "id": "ops_elkart_ipc",
     "name": "Interbank Processing Center CJSC",
-    "path": "operators/ops_elkart_ipc.png",
-    "sha256": "9e8335767382e3adf85ebbc7f8123e58129bd075eb240423924fe6095ea32e90",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 40374,
+    "sha256": "64bebdf1fd97e7789f703961a29dd4828c507790d1a7ee1d54129592d06e6382",
+    "upstreamPath": "operators/ops_elkart_ipc.png",
+    "aliases": [
+      "ELCART operator",
+      "IPC Kyrgyzstan"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/elkart-interbank-processing-center.png"
   },
   {
-    "bytes": 13948,
-    "category": "operators",
-    "height": 256,
-    "id": "ops_epc",
-    "name": "European Payments Council",
-    "path": "operators/ops_epc.png",
-    "sha256": "0eaaa8b1c9b7a3e9aec75290e7e87d401ab85b6101b4e3be01988cc608e883b5",
-    "source": {
-      "kind": "generated",
-      "url": "https://www.europeanpaymentscouncil.eu/"
-    },
-    "width": 256
-  },
-  {
-    "bytes": 25317,
-    "category": "operators",
-    "height": 256,
     "id": "ops_epi",
     "name": "European Payments Initiative",
-    "path": "operators/ops_epi.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 25317,
     "sha256": "427a008c39d8fbec54d3695884c6a1f2c32b03bf2987c7e7a1a4f15446381101",
+    "upstreamPath": "operators/ops_epi.png",
+    "aliases": [
+      "epi",
+      "European Payments Initiative"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/epi.png"
   },
   {
-    "bytes": 4866,
+    "id": "ops_epc",
+    "name": "European Payments Council",
     "category": "operators",
+    "width": 256,
     "height": 256,
+    "bytes": 46538,
+    "sha256": "75a881b428f0f8b40b2c237c050f7dfb4c53160df8610370a5446e2f59396df7",
+    "upstreamPath": "operators/ops_epc.png",
+    "aliases": [
+      "EPC"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "operators/european-payments-council.png"
+  },
+  {
     "id": "ops_ews",
     "name": "Early Warning Services",
-    "path": "operators/ops_ews.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 4866,
     "sha256": "38715b879e1a2496ce5ffbf52a7da4b4ca12cac61cc2e705f39e897e9c3ad1f8",
+    "upstreamPath": "operators/ops_ews.png",
+    "aliases": [
+      "Early Warning Services",
+      "ews"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/ews.png"
   },
   {
-    "bytes": 7314,
-    "category": "operators",
-    "height": 256,
     "id": "ops_fawry",
     "name": "Fawry",
-    "path": "operators/ops_fawry.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 7314,
     "sha256": "4f5b899869561a435609ce4a44a16b33c5647478338c74e3b8242f23a18fa534",
+    "upstreamPath": "operators/ops_fawry.png",
+    "aliases": [
+      "fawry"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/fawry.png"
   },
   {
-    "bytes": 20210,
-    "category": "operators",
-    "height": 256,
     "id": "ops_getswish",
     "name": "Getswish AB",
-    "path": "operators/ops_getswish.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 20210,
     "sha256": "b4c1e9e89482e9cadda9ca9e34f3b1a0b22e9abe3f80267a46a3a5e6e8552122",
+    "upstreamPath": "operators/ops_getswish.png",
+    "aliases": [
+      "getswish",
+      "Getswish AB"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/getswish.png"
   },
   {
-    "bytes": 9785,
-    "category": "operators",
-    "height": 256,
     "id": "ops_google",
     "name": "Google LLC",
-    "path": "operators/ops_google.png",
-    "sha256": "a3ef73e13df3e56d2d2b162abb5e3563a6cef64cb1fdab820d63ccc24bb0e6c1",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 29488,
+    "sha256": "50a1aa386e97309c0f833aeecbff90aea3983ab137c21a2a3b5c9ba39be38f6f",
+    "upstreamPath": "operators/ops_google.png",
+    "aliases": [
+      "Google Wallet"
+    ],
     "source": {
-      "kind": "generated",
-      "url": "https://cdn.simpleicons.org/google/4285F4"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "operators/google.png"
   },
   {
-    "bytes": 46876,
-    "category": "operators",
-    "height": 256,
     "id": "ops_goto_financial",
     "name": "GoTo Financial",
-    "path": "operators/ops_goto_financial.png",
-    "sha256": "02cb0c9d680ba88ea4ec8e5695955659db557343a9ae398cf0087375960d443d",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 12670,
+    "sha256": "101ee2cd0e02c67655252c2aaea6630a4e9cdc14694073cf72e2ce7a347c8def",
+    "upstreamPath": "operators/ops_goto_financial.png",
+    "aliases": [
+      "GoTo Financial",
+      "goto_financial"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/goto-financial.png"
   },
   {
-    "bytes": 27588,
-    "category": "operators",
-    "height": 256,
     "id": "ops_gxchange",
     "name": "G-Xchange, Inc.",
-    "path": "operators/ops_gxchange.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 27588,
     "sha256": "89b690bb41e36b7304c0a213fd69cfd8d263b7bccaf81042e22def56add0e670",
+    "upstreamPath": "operators/ops_gxchange.png",
+    "aliases": [
+      "G-Xchange, Inc.",
+      "gxchange"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/gxchange.png"
   },
   {
-    "bytes": 33134,
-    "category": "operators",
-    "height": 256,
     "id": "ops_humo",
     "name": "HUMO",
-    "path": "operators/ops_humo.png",
-    "sha256": "ee4e00c79d52434644fd30128a3cbb9ba81a846a8c871615f480bfaceb79bd40",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 12051,
+    "sha256": "c9b1b622d0e715fa8ba52413aeb6db14401a4145beb4218e295144f2ea95259d",
+    "upstreamPath": "operators/ops_humo.png",
+    "aliases": [
+      "National Interbank Processing Center",
+      "HUMO payment system"
+    ],
     "source": {
-      "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_humo.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "operators/humo.png"
   },
   {
-    "bytes": 10653,
-    "category": "operators",
-    "height": 256,
     "id": "ops_in3",
     "name": "in3",
-    "path": "operators/ops_in3.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 10653,
     "sha256": "7fb08d36662bd949c9a013a8eecdb92207ef743ad2ca602513084af6c266f6c6",
+    "upstreamPath": "operators/ops_in3.png",
+    "aliases": [
+      "Payin3"
+    ],
     "source": {
       "kind": "official",
       "url": "https://play-lh.googleusercontent.com/pkFURxo5LRnt2eKoc4S_Gavuc_K-ahnA3XhdFBdbJUUqaZ6NBdcoJ6I4d043C_C98w77TMV6nXSC9q3JO3wa=w1024-h1024"
     },
-    "width": 256
+    "path": "operators/in3-operator.png"
   },
   {
-    "bytes": 17113,
-    "category": "operators",
-    "height": 256,
     "id": "ops_interac",
     "name": "Interac Corp.",
-    "path": "operators/ops_interac.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 17113,
     "sha256": "a1b768d2b94a4c6fd91b7d1457c3e398adba7a18ffd7b63ab3da20159478eb56",
+    "upstreamPath": "operators/ops_interac.png",
+    "aliases": [
+      "interac",
+      "Interac Corp."
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/interac.png"
   },
   {
-    "bytes": 18901,
-    "category": "operators",
-    "height": 256,
     "id": "ops_isracard",
     "name": "Isracard Ltd.",
-    "path": "operators/ops_isracard.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 18901,
     "sha256": "25ca13e2b0dd64c5bcbc8ad4281a52bc3fc843d66c0a30098da2efa95360929e",
+    "upstreamPath": "operators/ops_isracard.png",
+    "aliases": [
+      "Isracard"
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_isracard.png"
     },
-    "width": 256
+    "path": "operators/isracard.png"
   },
   {
-    "bytes": 18415,
-    "category": "operators",
-    "height": 256,
     "id": "ops_jazzcash",
     "name": "JazzCash",
-    "path": "operators/ops_jazzcash.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 18415,
     "sha256": "6363b9829441005b7e927f715b9fddd147a5f738b4d141b723cdc059c69a0c66",
+    "upstreamPath": "operators/ops_jazzcash.png",
+    "aliases": [
+      "jazzcash"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/jazzcash.png"
   },
   {
-    "bytes": 8887,
-    "category": "operators",
-    "height": 256,
     "id": "ops_jcb",
     "name": "JCB Co., Ltd.",
-    "path": "operators/ops_jcb.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 8887,
     "sha256": "3dc3d0f93f3a46d1a8e3654da587a89d7c3d0d077c8998505839a893400c5281",
+    "upstreamPath": "operators/ops_jcb.png",
+    "aliases": [
+      "jcb",
+      "JCB Co., Ltd."
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/jcb.png"
   },
   {
-    "bytes": 13832,
-    "category": "operators",
-    "height": 256,
     "id": "ops_jopacc",
     "name": "Jordan Payments and Clearing Company",
-    "path": "operators/ops_jopacc.png",
-    "sha256": "c11ce55e56b6313fc88eeb543cbd99de57a7b7040cff7609657a453658a0a9ee",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 33091,
+    "sha256": "ad2f6a863398166a94d7cf7654dd86c77e7282999202170c3a9f77ed91edaeab",
+    "upstreamPath": "operators/ops_jopacc.png",
+    "aliases": [
+      "JoPACC"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/jopacc.png"
   },
   {
-    "bytes": 5681,
-    "category": "operators",
-    "height": 256,
     "id": "ops_klarna",
     "name": "Klarna Group plc",
-    "path": "operators/ops_klarna.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 5681,
     "sha256": "9735ae254cad366b732e26b793ed5116bec7252a112341ac175b246e969ba7c7",
+    "upstreamPath": "operators/ops_klarna.png",
+    "aliases": [
+      "klarna",
+      "Klarna Group plc"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/klarna.png"
   },
   {
-    "bytes": 28232,
-    "category": "operators",
-    "height": 256,
     "id": "ops_lankapay",
     "name": "LankaPay (Private) Limited",
-    "path": "operators/ops_lankapay.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 28232,
     "sha256": "86d868e3d337f5a7c379f7818fd8c5f74c6d7cc01818d5e2e06380b03f23a1dc",
+    "upstreamPath": "operators/ops_lankapay.png",
+    "aliases": [
+      "LankaClear",
+      "LankaPay"
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_lankapay_ncs.png"
     },
-    "width": 256
+    "path": "operators/lankapay.png"
   },
   {
-    "bytes": 5952,
-    "category": "operators",
-    "height": 256,
     "id": "ops_mastercard",
     "name": "Mastercard Incorporated",
-    "path": "operators/ops_mastercard.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 5952,
     "sha256": "95878ffc463db7ecd4b4201ca5c0fa784a805aa3fd46c20943c42397ef2a6a49",
+    "upstreamPath": "operators/ops_mastercard.png",
+    "aliases": [
+      "mastercard",
+      "Mastercard Incorporated"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/mastercard.png"
   },
   {
-    "bytes": 19949,
-    "category": "operators",
-    "height": 256,
     "id": "ops_masterpass_technology_services",
     "name": "Masterpass Technology Services Inc.",
-    "path": "operators/ops_masterpass_technology_services.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 19949,
     "sha256": "83e82ed8ecb1e0dc55079af0a366073863e5a702cd471dc980283ac6251d5959",
+    "upstreamPath": "operators/ops_masterpass_technology_services.png",
+    "aliases": [
+      "Masterpass Technology Services Inc.",
+      "Masterpass Technology Services"
+    ],
     "source": {
       "kind": "linked_brand",
       "url": "https://cascad.com/images/payment-methods/masterpass.png"
     },
-    "width": 256
+    "path": "operators/masterpass-technology-services.png"
   },
   {
-    "bytes": 10904,
-    "category": "operators",
-    "height": 256,
     "id": "ops_maxima_group",
     "name": "Maxima Group",
-    "path": "operators/ops_maxima_group.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 10904,
     "sha256": "2b32df3b4172ed76568c42263a500cb31a9ad0af7506dfba5cfcbfc423a5448e",
+    "upstreamPath": "operators/ops_maxima_group.png",
+    "aliases": [
+      "MAXIMA GRUPĖ"
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://www.maximagrupe.eu/uploads/images/titulinis/1712001095_0_BrandGuide_MAXIMA_LT_final_1.png"
     },
-    "width": 256
+    "path": "operators/maxima-group.png"
   },
   {
-    "bytes": 17448,
-    "category": "operators",
-    "height": 256,
     "id": "ops_maya",
     "name": "Maya Philippines, Inc.",
-    "path": "operators/ops_maya.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 17448,
     "sha256": "17abafd9dd3e510bae8fcd2f52ad5baeffc850f8a07478f02d8042407b527cd4",
+    "upstreamPath": "operators/ops_maya.png",
+    "aliases": [
+      "maya",
+      "Maya Philippines, Inc."
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/maya.png"
   },
   {
-    "bytes": 35704,
-    "category": "operators",
-    "height": 256,
     "id": "ops_mercadolibre",
     "name": "MercadoLibre, Inc.",
-    "path": "operators/ops_mercadolibre.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 35704,
     "sha256": "10812accfe787abd9217f166f5b7a5a60645b7b92a05c9d946e6e4eb1f9f8698",
+    "upstreamPath": "operators/ops_mercadolibre.png",
+    "aliases": [
+      "mercadolibre",
+      "MercadoLibre, Inc."
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/mercadolibre.png"
   },
   {
-    "bytes": 28677,
-    "category": "operators",
-    "height": 256,
     "id": "ops_momo_vn",
     "name": "M_Service JSC",
-    "path": "operators/ops_momo_vn.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 28677,
     "sha256": "dfd41769c1a15ba104d2b98a205e6ec5eaf9bed3033905f0f2335f7dca886a2a",
+    "upstreamPath": "operators/ops_momo_vn.png",
+    "aliases": [
+      "M_Service JSC",
+      "momo_vn"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/momo-vn.png"
   },
   {
-    "bytes": 11111,
-    "category": "operators",
-    "height": 256,
     "id": "ops_moneta_technologies",
     "name": "Moneta Technologies S.C.",
-    "path": "operators/ops_moneta_technologies.png",
-    "sha256": "f5f904300fc81472279b361c1d86e6804d03c43d7eb4d70b1ff5eba05416f845",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 15382,
+    "sha256": "781e0a9a9435627a8a9e7aa27023a6e6e8a454c81f7c0325d9668d6ab5f72bd0",
+    "upstreamPath": "operators/ops_moneta_technologies.png",
+    "aliases": [
+      "Amole operator",
+      "Moneta Technologies"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/moneta-technologies.png"
   },
   {
-    "bytes": 35861,
-    "category": "operators",
-    "height": 256,
     "id": "ops_mtn",
     "name": "MTN Group",
-    "path": "operators/ops_mtn.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 35861,
     "sha256": "b0e3af695c9bc6cfc6d18b7f90e1ea9c1046246adbd3c99f307e2b583a8e6720",
+    "upstreamPath": "operators/ops_mtn.png",
+    "aliases": [
+      "mtn",
+      "MTN Group"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/mtn.png"
   },
   {
-    "bytes": 3618,
-    "category": "operators",
-    "height": 256,
     "id": "ops_muchbetter",
     "name": "MuchBetter",
-    "path": "operators/ops_muchbetter.png",
-    "sha256": "078f7898e6f3b85d6db560a7bdaef1807974d7dbb93472f4d9bb85b81adac401",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 13865,
+    "sha256": "c954285bde5fcfabceb8a88fbaba0d5cf789c3dd863dd9c99b027cb46fe327d8",
+    "upstreamPath": "operators/ops_muchbetter.png",
+    "aliases": [
+      "MuchBetter Wallet"
+    ],
     "source": {
-      "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_muchbetter.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "operators/muchbetter.png"
   },
   {
-    "bytes": 19375,
-    "category": "operators",
-    "height": 256,
     "id": "ops_naranja_x",
     "name": "Naranja X",
-    "path": "operators/ops_naranja_x.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 19375,
     "sha256": "f59cab6519c0d8130bcea57c832ddf842e12f94f40b40d1d7249b923e004c2a2",
+    "upstreamPath": "operators/ops_naranja_x.png",
+    "aliases": [
+      "Naranja Digital Compañía Financiera",
+      "Tarjeta Naranja"
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://apps.apple.com/ar/app/naranja-x-billetera-virtual/id1452691757?uo=4"
     },
-    "width": 256
+    "path": "operators/naranja-x.png"
   },
   {
-    "bytes": 9124,
-    "category": "operators",
-    "height": 256,
     "id": "ops_nequi",
     "name": "Nequi",
-    "path": "operators/ops_nequi.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 9124,
     "sha256": "be08ddeb2af6a08cd06bf77c33240db446cd71337d6c63babb935ba1feefeffa",
+    "upstreamPath": "operators/ops_nequi.png",
+    "aliases": [
+      "nequi"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/nequi.png"
   },
   {
-    "bytes": 11973,
-    "category": "operators",
-    "height": 256,
     "id": "ops_nets_singapore",
     "name": "Network for Electronic Transfers (Singapore) Pte Ltd.",
-    "path": "operators/ops_nets_singapore.png",
-    "sha256": "e0c1a15292f774ceaaef68a382df04aab83345c7dc120060392ed3a1223962a6",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 34210,
+    "sha256": "cca1499f010f3a6dca63b44ee608adb06b70637f4c4257360870341256c53813",
+    "upstreamPath": "operators/ops_nets_singapore.png",
+    "aliases": [
+      "NETS Singapore",
+      "NETS"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/nets-singapore.png"
   },
   {
-    "bytes": 22235,
-    "category": "operators",
-    "height": 256,
     "id": "ops_npci",
     "name": "National Payments Corporation of India",
-    "path": "operators/ops_npci.png",
-    "sha256": "aa30fffcaedca788217948221489f56b96e9ee21c473148097c62b0823148eae",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 11983,
+    "sha256": "77f3205171a441bdd9b2f5d23f0e87ffd40e7a0ffa56740f50aa9ae5f6274199",
+    "upstreamPath": "operators/ops_npci.png",
+    "aliases": [
+      "National Payments Corporation of India",
+      "npci"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/npci.png"
   },
   {
-    "bytes": 7708,
-    "category": "operators",
-    "height": 256,
     "id": "ops_okto",
     "name": "OKTO",
-    "path": "operators/ops_okto.png",
-    "sha256": "ffc5e6a9d0509c1a33cd29c51eec826cffb2e3defe03228b2d654d64a880a019",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 25515,
+    "sha256": "1679f4791f6004389f06fac1932e101b05ad9e32af76cccd1219223767c775cd",
+    "upstreamPath": "operators/ops_okto.png",
+    "aliases": [
+      "OKTO Payments"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/okto.png"
   },
   {
-    "bytes": 20075,
-    "category": "operators",
-    "height": 256,
     "id": "ops_opay",
     "name": "OPay",
-    "path": "operators/ops_opay.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 20075,
     "sha256": "b7835ae0b449279e7310254f02cf847335f362ba6ebbc7d3ffe8dde1b6963320",
+    "upstreamPath": "operators/ops_opay.png",
+    "aliases": [
+      "opay"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/opay.png"
   },
   {
-    "bytes": 24403,
-    "category": "operators",
-    "height": 256,
     "id": "ops_orange_mea",
     "name": "Orange Middle East and Africa",
-    "path": "operators/ops_orange_mea.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 24403,
     "sha256": "033aadc7fa4eaf869ef796315605a122029932a5163e553e9497c1c28c615c04",
+    "upstreamPath": "operators/ops_orange_mea.png",
+    "aliases": [
+      "Orange Middle East and Africa",
+      "orange_mea"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/orange-mea.png"
   },
   {
-    "bytes": 4158,
-    "category": "operators",
-    "height": 256,
     "id": "ops_papara",
     "name": "Papara Elektronik Para A.Ş.",
-    "path": "operators/ops_papara.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 4158,
     "sha256": "76d732fd804fceb21da5c9531dd8c413e805b23a615e090cbaa6295e16979050",
+    "upstreamPath": "operators/ops_papara.png",
+    "aliases": [
+      "Papara"
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_papara.png"
     },
-    "width": 256
+    "path": "operators/papara.png"
   },
   {
-    "bytes": 5592,
-    "category": "operators",
-    "height": 256,
     "id": "ops_pay4fun",
     "name": "Pay4Fun Instituição de Pagamento S.A.",
-    "path": "operators/ops_pay4fun.png",
-    "sha256": "a4ce366f7ca2b85b255219c7a07e8b9ef4f66c1f0687a52dd4020921ef379f14",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 36518,
+    "sha256": "56e11e8e119e74e29d3de155f60b7ca932c0a838416d56bfea5970e74ae6c2bc",
+    "upstreamPath": "operators/ops_pay4fun.png",
+    "aliases": [
+      "Pay4Fun",
+      "P4F"
+    ],
     "source": {
-      "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_pay4fun.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "operators/pay4fun.png"
   },
   {
-    "bytes": 14117,
-    "category": "operators",
-    "height": 256,
     "id": "ops_paynet_malaysia",
     "name": "Payments Network Malaysia Sdn Bhd",
-    "path": "operators/ops_paynet_malaysia.png",
-    "sha256": "834f18ce1e81cb36857cdec4ce76298f85484cd63592cf3f4b734b115cb33e4f",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 62535,
+    "sha256": "d57442b84e2c9d74b54e7fca693e6479822fa8fa5637b27dfabeaa94f3ee65e2",
+    "upstreamPath": "operators/ops_paynet_malaysia.png",
+    "aliases": [
+      "PayNet Malaysia",
+      "PayNet"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/paynet-malaysia.png"
   },
   {
-    "bytes": 14024,
-    "category": "operators",
-    "height": 256,
     "id": "ops_paypal",
     "name": "PayPal Holdings, Inc.",
-    "path": "operators/ops_paypal.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 14024,
     "sha256": "377a37d07b9931f9f74e9fd9fcaecf32394f499c6ec165b2fba01c025019fff2",
+    "upstreamPath": "operators/ops_paypal.png",
+    "aliases": [
+      "paypal",
+      "PayPal Holdings, Inc."
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/paypal.png"
   },
   {
-    "bytes": 24015,
-    "category": "operators",
-    "height": 256,
     "id": "ops_paypay",
     "name": "PayPay Corporation",
-    "path": "operators/ops_paypay.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 24015,
     "sha256": "84bd06d1ddc9120c1280d9b3e10dbd5ed97d88c7780fb3f1485787c362c2da9b",
+    "upstreamPath": "operators/ops_paypay.png",
+    "aliases": [
+      "paypay",
+      "PayPay Corporation"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/paypay.png"
   },
   {
-    "bytes": 27847,
-    "category": "operators",
-    "height": 256,
     "id": "ops_paytm",
     "name": "One 97 Communications Limited",
-    "path": "operators/ops_paytm.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 27847,
     "sha256": "c2fb074104224d8b8dc4460a3bd13018b263e1e4afa58df2ed01ea4187df2681",
+    "upstreamPath": "operators/ops_paytm.png",
+    "aliases": [
+      "One 97 Communications Limited",
+      "paytm"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/paytm.png"
   },
   {
-    "bytes": 12638,
-    "category": "operators",
-    "height": 256,
     "id": "ops_phonepe",
     "name": "PhonePe Limited",
-    "path": "operators/ops_phonepe.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 12638,
     "sha256": "781623c865334cee2f95c743cf9d784e8970594f90f4ba465c27dd8743300fa4",
+    "upstreamPath": "operators/ops_phonepe.png",
+    "aliases": [
+      "phonepe",
+      "PhonePe Limited"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/phonepe.png"
   },
   {
-    "bytes": 23936,
-    "category": "operators",
-    "height": 256,
     "id": "ops_picpay",
     "name": "PicPay",
-    "path": "operators/ops_picpay.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 23936,
     "sha256": "d2aedaa13073880ab9067b008c68c3029a2aa505a3c611224df75dbcd70feae1",
+    "upstreamPath": "operators/ops_picpay.png",
+    "aliases": [
+      "picpay"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/picpay.png"
   },
   {
-    "bytes": 8950,
-    "category": "operators",
-    "height": 256,
     "id": "ops_psi_pay",
     "name": "PSI-Pay Ltd.",
-    "path": "operators/ops_psi_pay.png",
-    "sha256": "8a1a05fcc726d3c8ead40066dd273b3d3aa811bd6ee1ab4d029158b307221ca7",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 32524,
+    "sha256": "f187427650bed65e121b6f61775f7f3c94f880ad3a43d23c4c0172a1e356af45",
+    "upstreamPath": "operators/ops_psi_pay.png",
+    "aliases": [
+      "Payz",
+      "ecoPayz operator"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/psi-pay.png"
   },
   {
-    "bytes": 25862,
-    "category": "operators",
-    "height": 256,
     "id": "ops_psp",
     "name": "Polski Standard Płatności",
-    "path": "operators/ops_psp.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 25862,
     "sha256": "f7cad282188b7ca6b1b31f6605d8e39bb88646661cbfc4e73e1cdf5bf5674786",
+    "upstreamPath": "operators/ops_psp.png",
+    "aliases": [
+      "Polski Standard Płatności",
+      "psp"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/psp.png"
   },
   {
-    "bytes": 16009,
-    "category": "operators",
-    "height": 256,
     "id": "ops_pyypl",
     "name": "Pyypl",
-    "path": "operators/ops_pyypl.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 16009,
     "sha256": "5244436befc398b597e354b6fa49a56253b98e3ca83496a9c9df148648e7fa04",
+    "upstreamPath": "operators/ops_pyypl.png",
+    "aliases": [
+      "Pyypl Ltd."
+    ],
     "source": {
       "kind": "curated_brand_asset",
       "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_pyypl.png"
     },
-    "width": 256
+    "path": "operators/pyypl.png"
   },
   {
-    "bytes": 12022,
-    "category": "operators",
-    "height": 256,
     "id": "ops_riverty",
     "name": "Riverty Group GmbH",
-    "path": "operators/ops_riverty.png",
-    "sha256": "e07232b92b45d28d93b542ba523c798dd93fdfeaf814b693bb13329d1a792d70",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 10799,
+    "sha256": "e158dd14b3f78d17612c9ffe915f60edabcf90d04f47f95314ee339bee26df58",
+    "upstreamPath": "operators/ops_riverty.png",
+    "aliases": [
+      "Riverty"
+    ],
     "source": {
-      "kind": "generated",
-      "url": "https://www.riverty.com/nl-nl/achteraf-betalen/"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "operators/riverty-operator.png"
   },
   {
-    "bytes": 29171,
-    "category": "operators",
-    "height": 256,
     "id": "ops_safaricom",
     "name": "Safaricom PLC",
-    "path": "operators/ops_safaricom.png",
-    "sha256": "c499569d56a84ebcf6d0408c0611fab5d00cb13a8a586866123ea6e90f700caf",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 22478,
+    "sha256": "a383f3a92e29b70cb9a0b1e014132f719852bf37a3e5ece40b15b262791cc83e",
+    "upstreamPath": "operators/ops_safaricom.png",
+    "aliases": [
+      "safaricom",
+      "Safaricom PLC"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/safaricom.png"
   },
   {
-    "bytes": 6677,
-    "category": "operators",
-    "height": 256,
     "id": "ops_saudi_payments",
     "name": "Saudi Payments",
-    "path": "operators/ops_saudi_payments.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 6677,
     "sha256": "827ff79821cb2aea2d2341e5d347ecd5f8f30fdaae5d461325200ba399bbde53",
+    "upstreamPath": "operators/ops_saudi_payments.png",
+    "aliases": [
+      "Saudi Payments",
+      "saudi_payments"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/saudi-payments.png"
   },
   {
-    "bytes": 10615,
-    "category": "operators",
-    "height": 256,
     "id": "ops_sibs",
     "name": "SIBS",
-    "path": "operators/ops_sibs.png",
-    "sha256": "b1592c129493e4c8fc6005afc3efc301f1d665baff787c9fda8e7b0037312741",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 10456,
+    "sha256": "9ae8363cc31334ae0fcb46334f8e2ecb144e83bb9a68bba283b127708099c492",
+    "upstreamPath": "operators/ops_sibs.png",
+    "aliases": [
+      "sibs"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/sibs.png"
   },
   {
-    "bytes": 10291,
-    "category": "operators",
-    "height": 256,
     "id": "ops_siirto_brand",
     "name": "Siirto Brand Oy",
-    "path": "operators/ops_siirto_brand.png",
-    "sha256": "d8ef6010bd03d55bc5249755cda86a54a5b8ba2c4b5667f999ca459f4e869038",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 17262,
+    "sha256": "79d7ef319ff20a99de0a3300e59b3e0b7b75323ff0c14ba82271e932ea4151cb",
+    "upstreamPath": "operators/ops_siirto_brand.png",
+    "aliases": [
+      "Siirto"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/siirto-brand.png"
   },
   {
-    "bytes": 9053,
-    "category": "operators",
-    "height": 256,
     "id": "ops_telered",
     "name": "Telered S.A.",
-    "path": "operators/ops_telered.png",
-    "sha256": "f955f7e0d603c509008ab6e8452e5e631d555a443d1ce2376846f32eb3f2c676",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 36213,
+    "sha256": "13f9605789629df72161ef42ade52b18efa632c058fe6356d80eeafc4f8a6743",
+    "upstreamPath": "operators/ops_telered.png",
+    "aliases": [
+      "Telered",
+      "Sistema Clave operator"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/telered.png"
   },
   {
-    "bytes": 11992,
-    "category": "operators",
-    "height": 256,
     "id": "ops_tencent",
     "name": "Tencent",
-    "path": "operators/ops_tencent.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 11992,
     "sha256": "961c9ea6c85e2b1e1ee7f2150eadcd037ee17a2a3f49d9e775c4dc7d7397e371",
+    "upstreamPath": "operators/ops_tencent.png",
+    "aliases": [
+      "tencent"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/tencent.png"
   },
   {
-    "bytes": 47688,
-    "category": "operators",
-    "height": 256,
     "id": "ops_tngdigital",
     "name": "TNG Digital Sdn. Bhd.",
-    "path": "operators/ops_tngdigital.png",
-    "sha256": "c38023a3c48845e72d4eca9ae5465b226fc0ec2774df97e20c5f1d7b6adb6201",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 26171,
+    "sha256": "c04122804022880837b808283d089e12e92616804b815ec97b1b492ef8f4a7fc",
+    "upstreamPath": "operators/ops_tngdigital.png",
+    "aliases": [
+      "TNG Digital Sdn. Bhd.",
+      "tngdigital"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/tngdigital.png"
   },
   {
-    "bytes": 10213,
-    "category": "operators",
-    "height": 256,
     "id": "ops_transfond",
     "name": "TRANSFOND S.A.",
-    "path": "operators/ops_transfond.png",
-    "sha256": "56e049150097858269df32d76678ec9f3943f3196aaa25b010bd52620447dfd3",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 30387,
+    "sha256": "e61d6e9d6ab4a4a60f7de5978681790a29f664aa71c9f1305433c27c06db17b4",
+    "upstreamPath": "operators/ops_transfond.png",
+    "aliases": [
+      "TRANSFOND"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/transfond.png"
   },
   {
-    "bytes": 14008,
-    "category": "operators",
-    "height": 256,
     "id": "ops_twint",
     "name": "TWINT AG",
-    "path": "operators/ops_twint.png",
-    "sha256": "3e2f56708da5b8e6033b8da74fd5833144395baaa9c23e0c9dda59712d172f6e",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 30230,
+    "sha256": "71e01eb8071c41b6cf2cee2049230156b33bcbc4e2177769aca3227b133edb4e",
+    "upstreamPath": "operators/ops_twint.png",
+    "aliases": [
+      "twint",
+      "TWINT AG"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/twint.png"
   },
   {
-    "bytes": 22327,
-    "category": "operators",
-    "height": 256,
     "id": "ops_unionpay",
     "name": "China UnionPay",
-    "path": "operators/ops_unionpay.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 22327,
     "sha256": "4740c8461e3afde6c5ad856959fb97b8692a8b0061990af26133e360c351c761",
+    "upstreamPath": "operators/ops_unionpay.png",
+    "aliases": [
+      "China UnionPay",
+      "unionpay"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/unionpay.png"
   },
   {
-    "bytes": 14456,
-    "category": "operators",
-    "height": 256,
     "id": "ops_uzcard_crpc",
     "name": "Common Republican Processing Centre JSC",
-    "path": "operators/ops_uzcard_crpc.png",
-    "sha256": "1ec2f7c9fa8bfb8422da40178fbd95d2ce1368eef44a6d57aeb69201167a66dd",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 26129,
+    "sha256": "688e9a1fa219e8a158bba9f782ec76da2913b99d9df3eda74fa793230ae181eb",
+    "upstreamPath": "operators/ops_uzcard_crpc.png",
+    "aliases": [
+      "UZCARD operator",
+      "CRPC"
+    ],
     "source": {
-      "kind": "curated_entity_icon",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/uzcard-crpc.png"
   },
   {
-    "bytes": 22054,
-    "category": "operators",
-    "height": 256,
     "id": "ops_vipps_mobilepay",
     "name": "Vipps MobilePay AS",
-    "path": "operators/ops_vipps_mobilepay.png",
-    "sha256": "65344b9716984b329fd4fa8ffe15263c610be1de0a2c586afcdba29e449fac99",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 11525,
+    "sha256": "297522297c95515da1b0c16e60645ded88e5fe1d0d182e1d74197fd961d53215",
+    "upstreamPath": "operators/ops_vipps_mobilepay.png",
+    "aliases": [
+      "Vipps MobilePay AS",
+      "vipps_mobilepay"
+    ],
     "source": {
-      "kind": "generated",
+      "kind": "provided",
       "url": null
     },
-    "width": 256
+    "path": "operators/vipps-mobilepay.png"
   },
   {
-    "bytes": 7052,
-    "category": "operators",
-    "height": 256,
     "id": "ops_visa",
     "name": "Visa Inc.",
-    "path": "operators/ops_visa.png",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 7052,
     "sha256": "166a332d35f6dc3937372a65fbd148080b3b1b0e98583d105a89325909042345",
+    "upstreamPath": "operators/ops_visa.png",
+    "aliases": [
+      "visa",
+      "Visa Inc."
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "operators/visa.png"
   },
   {
-    "bytes": 7095,
-    "category": "operators",
-    "height": 256,
     "id": "ops_wechat_pay_hk",
     "name": "WeChat Pay Hong Kong Limited",
-    "path": "operators/ops_wechat_pay_hk.png",
-    "sha256": "f9dca8a198744c4d5ea4a8bcbd1274542b847740fb54c36879c295ff8c8f8d0b",
+    "category": "operators",
+    "width": 256,
+    "height": 256,
+    "bytes": 37779,
+    "sha256": "8069faea9a05dbd6808a51c509877a21763f165d42dcfbaa3d83efdb362a6465",
+    "upstreamPath": "operators/ops_wechat_pay_hk.png",
+    "aliases": [
+      "WeChat Pay HK"
+    ],
     "source": {
-      "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_wechat_pay_hk.png"
+      "kind": "provided",
+      "url": null
     },
-    "width": 256
+    "path": "operators/wechat-pay-hk.png"
   }
 ]

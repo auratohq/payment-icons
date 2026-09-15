@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026.09.15
+
+- Synchronized the latest approved Aurato snapshot: 8,296 PNG assets across 13 categories.
+- Updated 1,485 existing records with current image bytes, added 60 newly published records and retired 48 records no longer in the approved snapshot.
+- Migrated public filenames from internal record keys to descriptive lowercase slugs such as `payment-methods/apple-pay.png`.
+- Added aliases and separate upstream object paths to catalog schema v2, keeping repository paths readable without losing traceability.
+- Added searchable category indexes and the Aurato Global Payment Icon Pack banner.
+- Improved snapshot reuse so shared artwork hashes avoid unnecessary upstream downloads.
+
 ## 2026.09.12
 
 - Initial public snapshot: 8,284 PNG assets across 13 categories.

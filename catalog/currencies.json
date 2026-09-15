@@ -1,2144 +1,3178 @@
 [
   {
-    "bytes": 24341,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_aed",
     "name": "United Arab Emirates dirham",
-    "path": "currencies/cur_aed.png",
-    "sha256": "09c7de2a9cd4d7dd9af0ff3504c95b73d52483581d26f1f9ddedd09aded9773b",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56715,
+    "sha256": "4e73a2acb73c07628fbe74739e8968d55aecdc330edd3d59ebae480f28f01177",
+    "upstreamPath": "currencies/cur_aed.png",
+    "aliases": [
+      "AED",
+      "784",
+      "United Arab Emirates dirham",
+      "UAE Dirham"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/aed.png"
   },
   {
-    "bytes": 24302,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_afn",
     "name": "Afghan afghani",
-    "path": "currencies/cur_afn.png",
-    "sha256": "f57bfd288358c213678e47e4b3697a99100d9cf79216df69b5b6af048d4b6e85",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56478,
+    "sha256": "5f0d789bdf226fed4028b0da22023ad517881d522312c243debb01bfd97bc51d",
+    "upstreamPath": "currencies/cur_afn.png",
+    "aliases": [
+      "AFN",
+      "971",
+      "Afghan afghani",
+      "Afghani"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/afn.png"
   },
   {
-    "bytes": 23367,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_all",
     "name": "Albanian lek",
-    "path": "currencies/cur_all.png",
-    "sha256": "c584e3961b4a4cf3322c43088bd873a949e0eafbd80feac19be91506e71d8d56",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56170,
+    "sha256": "32f06d7caca272f3ab3168889bbcb8bf3be68e6b66414e41c7f13d45881d0daa",
+    "upstreamPath": "currencies/cur_all.png",
+    "aliases": [
+      "ALL",
+      "008",
+      "Albanian lek",
+      "Lek"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/all.png"
   },
   {
-    "bytes": 24500,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_amd",
     "name": "Armenian dram",
-    "path": "currencies/cur_amd.png",
-    "sha256": "f3410fcf536cdd3075b24305f9d8104691bae07446e11f5940e9f97881a1bee0",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58086,
+    "sha256": "d6907e5860dab98b1b9b232eb5770ba8249aaf31cb83ecfb28f4d611796181ee",
+    "upstreamPath": "currencies/cur_amd.png",
+    "aliases": [
+      "AMD",
+      "051",
+      "Armenian dram"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/amd.png"
   },
   {
-    "bytes": 24792,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_aoa",
     "name": "Angolan kwanza",
-    "path": "currencies/cur_aoa.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24792,
     "sha256": "9047cda78ed481d9ebae373e4632eb8eea9a4ac77849d5af6b43328ab854c3e6",
+    "upstreamPath": "currencies/cur_aoa.png",
+    "aliases": [
+      "AOA",
+      "973",
+      "Angolan kwanza",
+      "Kwanza"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/aoa.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_ars",
     "name": "Argentine peso",
-    "path": "currencies/cur_ars.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_ars.png",
+    "aliases": [
+      "$",
+      "032",
+      "Argentine peso",
+      "ARS"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/ars.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_aud",
     "name": "Australian dollar",
-    "path": "currencies/cur_aud.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_aud.png",
+    "aliases": [
+      "AUD",
+      "036",
+      "Australian dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/aud.png"
   },
   {
-    "bytes": 27760,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_awg",
     "name": "Aruban florin",
-    "path": "currencies/cur_awg.png",
-    "sha256": "702c76c6bb61247c21efc424d56ac42661715b6bef1440787df2aeecd9e92f5d",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 60686,
+    "sha256": "d11d2bc2cfe14b164cf4f52d2e3bc792dff69f5b1b7aee0cf222d06a1218c0e8",
+    "upstreamPath": "currencies/cur_awg.png",
+    "aliases": [
+      "AWG",
+      "533",
+      "Aruban florin"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/awg.png"
   },
   {
-    "bytes": 25152,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_azn",
     "name": "Azerbaijani manat",
-    "path": "currencies/cur_azn.png",
-    "sha256": "afbc7a371db48443efc0d5df054e534425414e328d1587a289adb668c33c8646",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57279,
+    "sha256": "c8b2b61ed9874675570255af1e9d658068798186336f1c1ae49c6786a57be3d3",
+    "upstreamPath": "currencies/cur_azn.png",
+    "aliases": [
+      "AZN",
+      "944",
+      "Azerbaijani manat",
+      "Azerbaijan Manat"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/azn.png"
   },
   {
-    "bytes": 25042,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_bam",
     "name": "Bosnia-Herzegovina convertible mark",
-    "path": "currencies/cur_bam.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 25042,
     "sha256": "d625ed813536c2fe4efb734928031dbf09b63ca48105cc5c9b368857e645d6dc",
+    "upstreamPath": "currencies/cur_bam.png",
+    "aliases": [
+      "BAM",
+      "977",
+      "Bosnia-Herzegovina convertible mark",
+      "Convertible Mark"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/bam.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_bbd",
     "name": "Barbadian dollar",
-    "path": "currencies/cur_bbd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_bbd.png",
+    "aliases": [
+      "BBD",
+      "052",
+      "Barbadian dollar",
+      "Barbados Dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/bbd.png"
   },
   {
-    "bytes": 24763,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_bdt",
     "name": "Bangladeshi taka",
-    "path": "currencies/cur_bdt.png",
-    "sha256": "3649922d8c9ce1cbc175fb968cac970894badbddd7aea646d03ffbcb917c13de",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55977,
+    "sha256": "6fc1c6ed78123711a356cc5073c30caa988bf143be915241a0cb168a5790936b",
+    "upstreamPath": "currencies/cur_bdt.png",
+    "aliases": [
+      "৳",
+      "050",
+      "Bangladeshi taka",
+      "BDT"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/bdt.png"
   },
   {
-    "bytes": 23968,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_bhd",
     "name": "Bahraini dinar",
-    "path": "currencies/cur_bhd.png",
-    "sha256": "8df8dd4b36960c6a3781d0870b83af77a73ccf4ba1992f76ce5adacf804d786e",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55521,
+    "sha256": "69a2e7ccd82ebce56b204488dc029ebde01672afd2674e2680a1f7185c6fd399",
+    "upstreamPath": "currencies/cur_bhd.png",
+    "aliases": [
+      "048",
+      "Bahraini dinar",
+      "BD",
+      "BHD"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/bhd.png"
   },
   {
-    "bytes": 23258,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_bif",
     "name": "Burundian franc",
-    "path": "currencies/cur_bif.png",
-    "sha256": "9fd548210a8e6aae31f5ef5ff91e6d3aba50aa0c43f7819f353a1198c2da0591",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 54969,
+    "sha256": "c7782ecc75fdd06baff34853013cc961425b7720da28f59e3e797b1feaf22217",
+    "upstreamPath": "currencies/cur_bif.png",
+    "aliases": [
+      "BIF",
+      "108",
+      "Burundian franc",
+      "Burundi Franc"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/bif.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_bmd",
     "name": "Bermudan dollar",
-    "path": "currencies/cur_bmd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_bmd.png",
+    "aliases": [
+      "BMD",
+      "060",
+      "Bermudan dollar",
+      "Bermudian Dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/bmd.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_bnd",
     "name": "Brunei dollar",
-    "path": "currencies/cur_bnd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_bnd.png",
+    "aliases": [
+      "BND",
+      "096",
+      "Brunei dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/bnd.png"
   },
   {
-    "bytes": 26754,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_bob",
     "name": "Bolivian Boliviano",
-    "path": "currencies/cur_bob.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26754,
     "sha256": "56230548ad3c97c64f9dc71e828c9a41e2d3871a3838837bc99c533275e61f30",
+    "upstreamPath": "currencies/cur_bob.png",
+    "aliases": [
+      "BOB",
+      "068",
+      "Bolivian Boliviano",
+      "Boliviano"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/bob.png"
   },
   {
-    "bytes": 27120,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_brl",
     "name": "Brazilian real",
-    "path": "currencies/cur_brl.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 27120,
     "sha256": "0811e12ca2a8b8bff848f68e6f9f071d5566842502ed3ea7a762faf1f2587232",
+    "upstreamPath": "currencies/cur_brl.png",
+    "aliases": [
+      "986",
+      "Brazilian real",
+      "Brazilian real currency",
+      "BRL",
+      "R$"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/brl.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_bsd",
     "name": "Bahamian dollar",
-    "path": "currencies/cur_bsd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_bsd.png",
+    "aliases": [
+      "BSD",
+      "044",
+      "Bahamian dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/bsd.png"
   },
   {
-    "bytes": 24324,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_btn",
     "name": "Bhutanese Ngultrum",
-    "path": "currencies/cur_btn.png",
-    "sha256": "cafd2da0b9591fb456bef8038e16d34ace01b9a2b7ad34aa3e21efa2bfc5509b",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55862,
+    "sha256": "4d65f9d9d0fdc6e17393519251f7050d87cbf11748a0f4353e920820089ccae3",
+    "upstreamPath": "currencies/cur_btn.png",
+    "aliases": [
+      "BTN",
+      "064",
+      "Bhutanese Ngultrum",
+      "Ngultrum"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/btn.png"
   },
   {
-    "bytes": 22703,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_bwp",
     "name": "Botswana pula",
-    "path": "currencies/cur_bwp.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22703,
     "sha256": "bc424cca853afb6c2f869a449ce749f83115eb43fe7f7671651db298fea20703",
+    "upstreamPath": "currencies/cur_bwp.png",
+    "aliases": [
+      "072",
+      "Botswana pula",
+      "BWP",
+      "P"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/bwp.png"
   },
   {
-    "bytes": 25622,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_byn",
     "name": "Belarusian ruble",
-    "path": "currencies/cur_byn.png",
-    "sha256": "d5d68a36297597749db9c90b817c14509a15e588acd721b18a7ab2cac3e0dab4",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57016,
+    "sha256": "3fe66e4b856161a02d1e649fa215e0f2a42c452ebb7a1f4033c107c52d2bec1a",
+    "upstreamPath": "currencies/cur_byn.png",
+    "aliases": [
+      "BYN",
+      "933",
+      "Belarusian ruble"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/byn.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_bzd",
     "name": "Belize dollar",
-    "path": "currencies/cur_bzd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_bzd.png",
+    "aliases": [
+      "BZD",
+      "084",
+      "Belize dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/bzd.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_cad",
     "name": "Canadian dollar",
-    "path": "currencies/cur_cad.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_cad.png",
+    "aliases": [
+      "124",
+      "CA$",
+      "CAD",
+      "Canadian dollar",
+      "Canadian dollar currency"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/cad.png"
   },
   {
-    "bytes": 25225,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_cdf",
     "name": "Congolese franc",
-    "path": "currencies/cur_cdf.png",
-    "sha256": "ec9f916cefcea2f83d9415e81352dd5f67a596f61f2e75e096011dc65c387fb2",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56070,
+    "sha256": "3b7c3c2adf5d9bb3245835a38b293347d9382a5d6c2bde147b3ea991da02e9ac",
+    "upstreamPath": "currencies/cur_cdf.png",
+    "aliases": [
+      "976",
+      "CDF",
+      "Congolese franc",
+      "FC"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/cdf.png"
   },
   {
-    "bytes": 23678,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_chf",
     "name": "Swiss franc",
-    "path": "currencies/cur_chf.png",
-    "sha256": "40e75389310fd3133d975b84aeaf6a969820c95559030b17878fdcbfad5d6e4a",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55442,
+    "sha256": "9e5def16d5183bfd5edcd6ff496853891928dfe84bffef15fa054085c59e4dc1",
+    "upstreamPath": "currencies/cur_chf.png",
+    "aliases": [
+      "756",
+      "CHF",
+      "Swiss franc"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/chf.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_clp",
     "name": "Chilean peso",
-    "path": "currencies/cur_clp.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_clp.png",
+    "aliases": [
+      "$",
+      "152",
+      "Chilean peso",
+      "CLP"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/clp.png"
   },
   {
-    "bytes": 23379,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_cny",
     "name": "Chinese yuan",
-    "path": "currencies/cur_cny.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 23379,
     "sha256": "72d28a16732d77f4a3926ea1b7ba1133fb04925b5ac6095540074521808a18d6",
+    "upstreamPath": "currencies/cur_cny.png",
+    "aliases": [
+      "¥",
+      "156",
+      "Chinese yuan",
+      "CNY"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/cny.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_cop",
     "name": "Colombian peso",
-    "path": "currencies/cur_cop.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_cop.png",
+    "aliases": [
+      "170",
+      "COL$",
+      "Colombian peso",
+      "COP"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/cop.png"
   },
   {
-    "bytes": 28878,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_crc",
     "name": "Costa Rican colón",
-    "path": "currencies/cur_crc.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 28878,
     "sha256": "f1ba209cf52f68b5a57cbd17a4560520c96a078d5ea1fb99315a2de39860cf8e",
+    "upstreamPath": "currencies/cur_crc.png",
+    "aliases": [
+      "CRC",
+      "188",
+      "Costa Rican colón",
+      "Costa Rican Colon"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/crc.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_cup",
     "name": "Cuban peso",
-    "path": "currencies/cur_cup.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_cup.png",
+    "aliases": [
+      "CUP",
+      "192",
+      "Cuban peso"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/cup.png"
   },
   {
-    "bytes": 25863,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_cve",
     "name": "Cape Verdean escudo",
-    "path": "currencies/cur_cve.png",
-    "sha256": "0641279487864f52bee15d745ad771313113939cd5bf20a2531ca8900496b312",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58243,
+    "sha256": "3d060ca4448165e49146694e7251abac489efd5d834c7e860eecb95ea69fb66a",
+    "upstreamPath": "currencies/cur_cve.png",
+    "aliases": [
+      "CVE",
+      "132",
+      "Cape Verdean escudo",
+      "Cabo Verde Escudo"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/cve.png"
   },
   {
-    "bytes": 27855,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_czk",
     "name": "Czech koruna",
-    "path": "currencies/cur_czk.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 27855,
     "sha256": "2e0731f6d4f4465f006bca8800d0c7b0b1971a1c6ef08627d820bba1a03e88ae",
+    "upstreamPath": "currencies/cur_czk.png",
+    "aliases": [
+      "CZK",
+      "203",
+      "Czech koruna"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/czk.png"
   },
   {
-    "bytes": 23900,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_djf",
     "name": "Djiboutian franc",
-    "path": "currencies/cur_djf.png",
-    "sha256": "398b05b38a77dece237992ea059cadaeb8a0de51b250fde52be49a8ee641d631",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55838,
+    "sha256": "24c5d6544b1c5e4e000af489ffed3b648b493e71f3d104c3e72df33e020e6285",
+    "upstreamPath": "currencies/cur_djf.png",
+    "aliases": [
+      "DJF",
+      "262",
+      "Djiboutian franc",
+      "Djibouti Franc"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/djf.png"
   },
   {
-    "bytes": 24119,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_dkk",
     "name": "Danish krone",
-    "path": "currencies/cur_dkk.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24119,
     "sha256": "c01703befd2eb3a7fd977897212b6f6fa073c9f31fa0edf3fa76cc9f0969386d",
+    "upstreamPath": "currencies/cur_dkk.png",
+    "aliases": [
+      "208",
+      "Danish krone",
+      "DKK",
+      "kr"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/dkk.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_dop",
     "name": "Dominican peso",
-    "path": "currencies/cur_dop.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_dop.png",
+    "aliases": [
+      "DOP",
+      "214",
+      "Dominican peso"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/dop.png"
   },
   {
-    "bytes": 25128,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_dzd",
     "name": "Algerian dinar",
-    "path": "currencies/cur_dzd.png",
-    "sha256": "abede43faae5463f97d1597e45e1ff8204415e169f52eb789b5d700787970e62",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56588,
+    "sha256": "555d536429069bdf09cd4257fae616374d1c7013d1c46b2a1abce82c53634cfa",
+    "upstreamPath": "currencies/cur_dzd.png",
+    "aliases": [
+      "DZD",
+      "012",
+      "Algerian dinar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/dzd.png"
   },
   {
-    "bytes": 22290,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_egp",
     "name": "Egyptian pound",
-    "path": "currencies/cur_egp.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22290,
     "sha256": "139325eb77ff6aa4ddaa4ded980038d85e8052ab0527059fffa0ad1cb00e33ce",
+    "upstreamPath": "currencies/cur_egp.png",
+    "aliases": [
+      "818",
+      "E£",
+      "EGP",
+      "Egyptian pound"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/egp.png"
   },
   {
-    "bytes": 24439,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_ern",
     "name": "Eritrean nakfa",
-    "path": "currencies/cur_ern.png",
-    "sha256": "54531f444bd55b8fb2f11e4246ca6e5c8b9be48fd1a9fb832ee5ad9c7c69c016",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55547,
+    "sha256": "8cd1f48de32c50bad0dbf58895ac653b9281bf53ee67c0275e884ee2d05c2e7f",
+    "upstreamPath": "currencies/cur_ern.png",
+    "aliases": [
+      "ERN",
+      "232",
+      "Eritrean nakfa",
+      "Nakfa"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/ern.png"
   },
   {
-    "bytes": 22693,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_etb",
     "name": "Ethiopian birr",
-    "path": "currencies/cur_etb.png",
-    "sha256": "886c9f53f223340fa19380784f523aa3310d0561a16512a1107540398098ae42",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55018,
+    "sha256": "b1d486330daa90d464bf8769e27029c3ce0a103845cf423913b34d1c33a70b02",
+    "upstreamPath": "currencies/cur_etb.png",
+    "aliases": [
+      "ETB",
+      "230",
+      "Ethiopian birr"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/etb.png"
   },
   {
-    "bytes": 68495,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_eur",
     "name": "Euro",
-    "path": "currencies/cur_eur.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 68495,
     "sha256": "252ac4c11aef64bb3df22f88c5729c57c3e978dab9da70e2c295012e162237c3",
+    "upstreamPath": "currencies/cur_eur.png",
+    "aliases": [
+      "€",
+      "978",
+      "EUR",
+      "Euro",
+      "Euro currency"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/eur.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_fjd",
     "name": "Fijian dollar",
-    "path": "currencies/cur_fjd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_fjd.png",
+    "aliases": [
+      "FJD",
+      "242",
+      "Fijian dollar",
+      "Fiji Dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/fjd.png"
   },
   {
-    "bytes": 22706,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_fkp",
     "name": "Falkland Islands pound",
-    "path": "currencies/cur_fkp.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22706,
     "sha256": "ff176213fe7c54c681f84e136f1e64fb33bd4376b5065f49f561d1e8fe3f51f7",
+    "upstreamPath": "currencies/cur_fkp.png",
+    "aliases": [
+      "FKP",
+      "238",
+      "Falkland Islands pound"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/fkp.png"
   },
   {
-    "bytes": 22706,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_gbp",
     "name": "Pound sterling",
-    "path": "currencies/cur_gbp.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22706,
     "sha256": "ff176213fe7c54c681f84e136f1e64fb33bd4376b5065f49f561d1e8fe3f51f7",
+    "upstreamPath": "currencies/cur_gbp.png",
+    "aliases": [
+      "GBP",
+      "826",
+      "Pound sterling"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/gbp.png"
   },
   {
-    "bytes": 23795,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_gel",
     "name": "Georgian lari",
-    "path": "currencies/cur_gel.png",
-    "sha256": "4ffabcababd4960b423058e9845992154fd0efa8c5b2fb9daf64774c4d788993",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55402,
+    "sha256": "5071c7e5306cee030283e92b079b732ba73552e87724df4b390b7477de6494f4",
+    "upstreamPath": "currencies/cur_gel.png",
+    "aliases": [
+      "GEL",
+      "981",
+      "Georgian lari",
+      "Lari"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/gel.png"
   },
   {
-    "bytes": 25167,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_ghs",
     "name": "Ghanaian cedi",
-    "path": "currencies/cur_ghs.png",
-    "sha256": "ac31b5717f8f58b72f2f21f3ca61500db38834b0d6e31cac84d59e4d0ec94334",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57535,
+    "sha256": "bc86acaa682b6a64d8cb72f28d2bd14c500605460cf6c15ea4aa94963ba4c301",
+    "upstreamPath": "currencies/cur_ghs.png",
+    "aliases": [
+      "936",
+      "GH₵",
+      "Ghanaian cedi",
+      "GHS"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/ghs.png"
   },
   {
-    "bytes": 22706,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_gip",
     "name": "Gibraltar pound",
-    "path": "currencies/cur_gip.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22706,
     "sha256": "ff176213fe7c54c681f84e136f1e64fb33bd4376b5065f49f561d1e8fe3f51f7",
+    "upstreamPath": "currencies/cur_gip.png",
+    "aliases": [
+      "GIP",
+      "292",
+      "Gibraltar pound"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/gip.png"
   },
   {
-    "bytes": 24593,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_gmd",
     "name": "Gambian dalasi",
-    "path": "currencies/cur_gmd.png",
-    "sha256": "21774f3234c9e3e0b4df1bcdd3a8cd185f23c86dd8af8a89ee2b0c8d8696b88d",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58130,
+    "sha256": "d8853b601d0fafcbdf0b53f2d600d5a2595688177ee7e7df4169be6209da5bd1",
+    "upstreamPath": "currencies/cur_gmd.png",
+    "aliases": [
+      "GMD",
+      "270",
+      "Gambian dalasi",
+      "Dalasi"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/gmd.png"
   },
   {
-    "bytes": 24488,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_gnf",
     "name": "Guinean franc",
-    "path": "currencies/cur_gnf.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24488,
     "sha256": "9186623c80e9483a248866ae3cef0ea4aa291e3131895fb1409cdc07fa70cc39",
+    "upstreamPath": "currencies/cur_gnf.png",
+    "aliases": [
+      "324",
+      "FG",
+      "GNF",
+      "Guinean franc"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/gnf.png"
   },
   {
-    "bytes": 27609,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_gtq",
     "name": "Guatemalan quetzal",
-    "path": "currencies/cur_gtq.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 27609,
     "sha256": "ff2a6dfb56c5982a0d4fe88aec3d008439bc1dbf7acf0dfa1b3868caae7f03d5",
+    "upstreamPath": "currencies/cur_gtq.png",
+    "aliases": [
+      "GTQ",
+      "320",
+      "Guatemalan quetzal",
+      "Quetzal"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/gtq.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_gyd",
     "name": "Guyanaese dollar",
-    "path": "currencies/cur_gyd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_gyd.png",
+    "aliases": [
+      "GYD",
+      "328",
+      "Guyanaese dollar",
+      "Guyana Dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/gyd.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_hkd",
     "name": "Hong Kong dollar",
-    "path": "currencies/cur_hkd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_hkd.png",
+    "aliases": [
+      "HKD",
+      "344",
+      "Hong Kong dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/hkd.png"
   },
   {
-    "bytes": 20364,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_hnl",
     "name": "Honduran lempira",
-    "path": "currencies/cur_hnl.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 20364,
     "sha256": "21c3ef6a85cfadc6f670681b0f8242a7bca94d77dbaef7a1fcb400afd4b47e27",
+    "upstreamPath": "currencies/cur_hnl.png",
+    "aliases": [
+      "HNL",
+      "340",
+      "Honduran lempira",
+      "Lempira"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/hnl.png"
   },
   {
-    "bytes": 24031,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_htg",
     "name": "Haitian gourde",
-    "path": "currencies/cur_htg.png",
-    "sha256": "ab602a9c5d3a60514c8b15abad436efb383c20187f01f2cbe080358a2797c362",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56473,
+    "sha256": "8a4a8650636adae30df62accd455ca84a7f44835d3045533bde7b862f451978c",
+    "upstreamPath": "currencies/cur_htg.png",
+    "aliases": [
+      "HTG",
+      "332",
+      "Haitian gourde",
+      "Gourde"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/htg.png"
   },
   {
-    "bytes": 21488,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_huf",
     "name": "Hungarian forint",
-    "path": "currencies/cur_huf.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 21488,
     "sha256": "cb076e92ed6cc3fbaa97a3c80856418d416a3fe83a5d1e52fdba6be2aaf5dcad",
+    "upstreamPath": "currencies/cur_huf.png",
+    "aliases": [
+      "HUF",
+      "348",
+      "Hungarian forint",
+      "Forint"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/huf.png"
   },
   {
-    "bytes": 25698,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_idr",
     "name": "Indonesian rupiah",
-    "path": "currencies/cur_idr.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 25698,
     "sha256": "9b54a4ed3f8953d16700f9912f9d663de46fbfc4308cf9817b97c2c78d0d0784",
+    "upstreamPath": "currencies/cur_idr.png",
+    "aliases": [
+      "360",
+      "IDR",
+      "Indonesian rupiah",
+      "Indonesian rupiah currency",
+      "Rp"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/idr.png"
   },
   {
-    "bytes": 23624,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_ils",
     "name": "Israeli new shekel",
-    "path": "currencies/cur_ils.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 23624,
     "sha256": "b650f88f43b914dcf58b5238bd5a388523425acc5ee0cd9c12712a69e53287eb",
+    "upstreamPath": "currencies/cur_ils.png",
+    "aliases": [
+      "ILS",
+      "376",
+      "Israeli new shekel",
+      "New Israeli Sheqel"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/ils.png"
   },
   {
-    "bytes": 24518,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_inr",
     "name": "Indian rupee",
-    "path": "currencies/cur_inr.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24518,
     "sha256": "c1f512a974dd102ff5881610f2b6b289f0c5c6a421273a936fcb2376b735b962",
+    "upstreamPath": "currencies/cur_inr.png",
+    "aliases": [
+      "₹",
+      "356",
+      "Indian rupee",
+      "Indian rupee currency",
+      "INR"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/inr.png"
   },
   {
-    "bytes": 26338,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_iqd",
     "name": "Iraqi dinar",
-    "path": "currencies/cur_iqd.png",
-    "sha256": "9a59b4c56074165f3777aa993a80ae06f3d794560d7b8cf339f759e63999e215",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57946,
+    "sha256": "b9dfe0be99272623cdc04a979937e92603a9c407680f427a3e4ed893b8edcdeb",
+    "upstreamPath": "currencies/cur_iqd.png",
+    "aliases": [
+      "IQD",
+      "368",
+      "Iraqi dinar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/iqd.png"
   },
   {
-    "bytes": 24721,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_irr",
     "name": "Iranian rial",
-    "path": "currencies/cur_irr.png",
-    "sha256": "9d2014b986418b82b0ce1934abc38fbbbf11d014394e88c55096cbfefe6e203f",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55671,
+    "sha256": "83267f380805a00ea87d7e9d34a022ac6029cb7e62d44553947105ffa9eb27f1",
+    "upstreamPath": "currencies/cur_irr.png",
+    "aliases": [
+      "IRR",
+      "364",
+      "Iranian rial"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/irr.png"
   },
   {
-    "bytes": 24119,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_isk",
     "name": "Icelandic króna",
-    "path": "currencies/cur_isk.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24119,
     "sha256": "c01703befd2eb3a7fd977897212b6f6fa073c9f31fa0edf3fa76cc9f0969386d",
+    "upstreamPath": "currencies/cur_isk.png",
+    "aliases": [
+      "ISK",
+      "352",
+      "Icelandic króna",
+      "Iceland Krona"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/isk.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_jmd",
     "name": "Jamaican dollar",
-    "path": "currencies/cur_jmd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_jmd.png",
+    "aliases": [
+      "JMD",
+      "388",
+      "Jamaican dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/jmd.png"
   },
   {
-    "bytes": 26202,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_jod",
     "name": "Jordanian dinar",
-    "path": "currencies/cur_jod.png",
-    "sha256": "e79ea3b30334bd72dba8aa8e71cd2c8a066391884030be7127495ba29ec2397d",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56748,
+    "sha256": "26055e9cdba5149bee250acbf8315695f9e186f4c43cab3d2422d041bd52c1b2",
+    "upstreamPath": "currencies/cur_jod.png",
+    "aliases": [
+      "400",
+      "JD",
+      "JOD",
+      "Jordanian dinar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/jod.png"
   },
   {
-    "bytes": 23379,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_jpy",
     "name": "Japanese yen",
-    "path": "currencies/cur_jpy.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 23379,
     "sha256": "72d28a16732d77f4a3926ea1b7ba1133fb04925b5ac6095540074521808a18d6",
+    "upstreamPath": "currencies/cur_jpy.png",
+    "aliases": [
+      "¥",
+      "392",
+      "Japanese yen",
+      "JPY"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/jpy.png"
   },
   {
-    "bytes": 25735,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_kes",
     "name": "Kenyan shilling",
-    "path": "currencies/cur_kes.png",
-    "sha256": "1d1b340c0fba38ec294f90de4dfe6b4f86bb62d761933e6081631f6ebca8c76b",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58073,
+    "sha256": "792dac92abfa4a79fcfd4f945c4cf4cdaf4a7b6fb0bf5052e1b48ce6511b2a19",
+    "upstreamPath": "currencies/cur_kes.png",
+    "aliases": [
+      "404",
+      "Kenyan shilling",
+      "Kenyan shilling currency",
+      "KES",
+      "KSh"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/kes.png"
   },
   {
-    "bytes": 27901,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_kgs",
     "name": "Kyrgystani som",
-    "path": "currencies/cur_kgs.png",
-    "sha256": "f94c08a1a9eaa77af834136acf4b7437d8e62ca7b00faa86e62a9cb80c6ec00a",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 59883,
+    "sha256": "853b0eb4230e59411d771fe5e82eec3a4aee4d19029061d8d509f8405d10607a",
+    "upstreamPath": "currencies/cur_kgs.png",
+    "aliases": [
+      "KGS",
+      "417",
+      "Kyrgystani som",
+      "Som"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/kgs.png"
   },
   {
-    "bytes": 24130,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_khr",
     "name": "Cambodian riel",
-    "path": "currencies/cur_khr.png",
-    "sha256": "0f0b0db32e9683d18848b1235f1e939b7e5b1906c2e6ca96124aef205d1595be",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56283,
+    "sha256": "f442e9f3d12e98b18feae48af01479179364be3839647428c16aab74ea5deddd",
+    "upstreamPath": "currencies/cur_khr.png",
+    "aliases": [
+      "KHR",
+      "116",
+      "Cambodian riel",
+      "Riel"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/khr.png"
   },
   {
-    "bytes": 24588,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_kmf",
     "name": "Comorian franc",
-    "path": "currencies/cur_kmf.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24588,
     "sha256": "21d69640571e589469de98c30e5a1d3b1e27464851e92bde623e5f78aca253f9",
+    "upstreamPath": "currencies/cur_kmf.png",
+    "aliases": [
+      "KMF",
+      "174",
+      "Comorian franc"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/kmf.png"
   },
   {
-    "bytes": 26219,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_kpw",
     "name": "North Korean won",
-    "path": "currencies/cur_kpw.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26219,
     "sha256": "d3de38bfb1742f0c4cb4b291520e2c8c3f02b392509a2a22d18ebf115b685da3",
+    "upstreamPath": "currencies/cur_kpw.png",
+    "aliases": [
+      "KPW",
+      "408",
+      "North Korean won"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/kpw.png"
   },
   {
-    "bytes": 26219,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_krw",
     "name": "South Korean won",
-    "path": "currencies/cur_krw.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26219,
     "sha256": "d3de38bfb1742f0c4cb4b291520e2c8c3f02b392509a2a22d18ebf115b685da3",
+    "upstreamPath": "currencies/cur_krw.png",
+    "aliases": [
+      "KRW",
+      "410",
+      "South Korean won",
+      "Won"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/krw.png"
   },
   {
-    "bytes": 26577,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_kwd",
     "name": "Kuwaiti dinar",
-    "path": "currencies/cur_kwd.png",
-    "sha256": "31aeb56501280b6ef6dd88f688d143421660ae3a909f29dac3eecd372e5d91c5",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 59461,
+    "sha256": "ff25660ed901b5748b5ef56868715899a19f63f1147930bd31811dd6c4bab7c3",
+    "upstreamPath": "currencies/cur_kwd.png",
+    "aliases": [
+      "KWD",
+      "414",
+      "Kuwaiti dinar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/kwd.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_kyd",
     "name": "Cayman Islands dollar",
-    "path": "currencies/cur_kyd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_kyd.png",
+    "aliases": [
+      "KYD",
+      "136",
+      "Cayman Islands dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/kyd.png"
   },
   {
-    "bytes": 20121,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_kzt",
     "name": "Kazakhstani tenge",
-    "path": "currencies/cur_kzt.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 20121,
     "sha256": "d1f1796b18e8366abff639b9ff43b45e45ee77fe9f4ad10bd09951ff0954607a",
+    "upstreamPath": "currencies/cur_kzt.png",
+    "aliases": [
+      "KZT",
+      "398",
+      "Kazakhstani tenge",
+      "Tenge"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/kzt.png"
   },
   {
-    "bytes": 24490,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_lak",
     "name": "Laotian kip",
-    "path": "currencies/cur_lak.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24490,
     "sha256": "f7b7a079ca184a200ef575d6fd09f7a6e5ba50bc6069fe17a5ade08bca656f25",
+    "upstreamPath": "currencies/cur_lak.png",
+    "aliases": [
+      "LAK",
+      "418",
+      "Laotian kip",
+      "Lao Kip"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/lak.png"
   },
   {
-    "bytes": 22309,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_lbp",
     "name": "Lebanese pound",
-    "path": "currencies/cur_lbp.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22309,
     "sha256": "a17eb990d9f0cb101e08bb70acdfbf632fdcdb7bf59e548b8ccb14e2025ed875",
+    "upstreamPath": "currencies/cur_lbp.png",
+    "aliases": [
+      "LBP",
+      "422",
+      "Lebanese pound"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/lbp.png"
   },
   {
-    "bytes": 27033,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_lkr",
     "name": "Sri Lankan rupee",
-    "path": "currencies/cur_lkr.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 27033,
     "sha256": "cafb59a79da65a44c61c7741ffa37531b2e3d1f447f0c2cd9382eae1108ea16e",
+    "upstreamPath": "currencies/cur_lkr.png",
+    "aliases": [
+      "LKR",
+      "144",
+      "Sri Lankan rupee",
+      "Sri Lanka Rupee"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/lkr.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_lrd",
     "name": "Liberian dollar",
-    "path": "currencies/cur_lrd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_lrd.png",
+    "aliases": [
+      "430",
+      "L$",
+      "Liberian dollar",
+      "LRD"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/lrd.png"
   },
   {
-    "bytes": 24365,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_lsl",
     "name": "Lesotho loti",
-    "path": "currencies/cur_lsl.png",
-    "sha256": "5a8496536bf9444de6b76b5ea7ac0fd0974f8a33da7e9f57bda7613bf61c291b",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56997,
+    "sha256": "f5cee67cdfc9995f7fa86b41589f1aeaf37b065037f663d1b78275265848f4b0",
+    "upstreamPath": "currencies/cur_lsl.png",
+    "aliases": [
+      "LSL",
+      "426",
+      "Lesotho loti",
+      "Loti"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/lsl.png"
   },
   {
-    "bytes": 24386,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_lyd",
     "name": "Libyan dinar",
-    "path": "currencies/cur_lyd.png",
-    "sha256": "20c8cfaf4e3d604e2794d08f96264c98019dfa45534b71be2cb74e55c8f899c5",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56588,
+    "sha256": "edabc74c30e6ff18ebae5243160c7cb37bbab272470c8f55956417643a36c690",
+    "upstreamPath": "currencies/cur_lyd.png",
+    "aliases": [
+      "LYD",
+      "434",
+      "Libyan dinar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/lyd.png"
   },
   {
-    "bytes": 25197,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mad",
     "name": "Moroccan dirham",
-    "path": "currencies/cur_mad.png",
-    "sha256": "6d8c1fad80bd7a860f8d2b774434babeb0bd8fa29f6d1ca9e2981d0182ebb9dd",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57909,
+    "sha256": "c12dc6402fac6eaaab9f014b671cdae0ad552a45f45c6ee7efce63064c4cf308",
+    "upstreamPath": "currencies/cur_mad.png",
+    "aliases": [
+      "504",
+      "DH",
+      "MAD",
+      "Moroccan dirham"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mad.png"
   },
   {
-    "bytes": 24743,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mdl",
     "name": "Moldovan leu",
-    "path": "currencies/cur_mdl.png",
-    "sha256": "29ea518445024f9429cd2c2947e94fd5f5928b7f305be664e1a2a24654c4a91c",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56340,
+    "sha256": "36da6bf28ef20c204759f7655ae05d32d985601bcb4cf90afbcb9e506ac76f50",
+    "upstreamPath": "currencies/cur_mdl.png",
+    "aliases": [
+      "MDL",
+      "498",
+      "Moldovan leu"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mdl.png"
   },
   {
-    "bytes": 25117,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mga",
     "name": "Malagasy ariary",
-    "path": "currencies/cur_mga.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 25117,
     "sha256": "adffc801fedd0d97086a3bd75cd428620d1e96075fe04a3e5fabe6674344c414",
+    "upstreamPath": "currencies/cur_mga.png",
+    "aliases": [
+      "969",
+      "Ar",
+      "Malagasy ariary",
+      "MGA"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mga.png"
   },
   {
-    "bytes": 24741,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mkd",
     "name": "Macedonian denar",
-    "path": "currencies/cur_mkd.png",
-    "sha256": "d848641443e0fd68275126e8ed56c8f09429339ce47e840808e9117e61dec8c1",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57631,
+    "sha256": "63d64e62a34d15eefa95984102ab620e0694149d6e3fb4d4bacc867aefb2da08",
+    "upstreamPath": "currencies/cur_mkd.png",
+    "aliases": [
+      "MKD",
+      "807",
+      "Macedonian denar",
+      "Denar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mkd.png"
   },
   {
-    "bytes": 24135,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mmk",
     "name": "Myanmar kyat",
-    "path": "currencies/cur_mmk.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24135,
     "sha256": "ed230594a8a58caf122fb3b24b9e831518d8b558199e6d459a566033e7fb3328",
+    "upstreamPath": "currencies/cur_mmk.png",
+    "aliases": [
+      "MMK",
+      "104",
+      "Myanmar kyat",
+      "Kyat"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mmk.png"
   },
   {
-    "bytes": 23662,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mnt",
     "name": "Mongolian tugrik",
-    "path": "currencies/cur_mnt.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 23662,
     "sha256": "e9307258bb21050c485f78c54defe9a6c1da68d5f747efd738413e5cc438a467",
+    "upstreamPath": "currencies/cur_mnt.png",
+    "aliases": [
+      "MNT",
+      "496",
+      "Mongolian tugrik",
+      "Tugrik"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mnt.png"
   },
   {
-    "bytes": 25990,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mop",
     "name": "Macanese pataca",
-    "path": "currencies/cur_mop.png",
-    "sha256": "46248c52cff977f7b3c61492c6e5e9ef10ed2b46dceae313b08032644a3ef513",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58340,
+    "sha256": "f77db31528f61a29a748f714f4951a8cd0bc9ba88d34b3f81f87eaca95a353aa",
+    "upstreamPath": "currencies/cur_mop.png",
+    "aliases": [
+      "MOP",
+      "446",
+      "Macanese pataca",
+      "Pataca"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mop.png"
   },
   {
-    "bytes": 25134,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mru",
     "name": "Mauritanian ouguiya",
-    "path": "currencies/cur_mru.png",
-    "sha256": "c6f55a72246ba9c916b0751b29baa8a1b3460792f7cf25f268e449bc81b5b3c4",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56803,
+    "sha256": "dfeff138790cd84a441e0feccbc1dff26140a5096f73a84cd86e1fa2ead1faa4",
+    "upstreamPath": "currencies/cur_mru.png",
+    "aliases": [
+      "MRU",
+      "929",
+      "Mauritanian ouguiya",
+      "Ouguiya"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mru.png"
   },
   {
-    "bytes": 27033,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mur",
     "name": "Mauritian rupee",
-    "path": "currencies/cur_mur.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 27033,
     "sha256": "cafb59a79da65a44c61c7741ffa37531b2e3d1f447f0c2cd9382eae1108ea16e",
+    "upstreamPath": "currencies/cur_mur.png",
+    "aliases": [
+      "MUR",
+      "480",
+      "Mauritian rupee",
+      "Mauritius Rupee"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mur.png"
   },
   {
-    "bytes": 25540,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mvr",
     "name": "Maldivian rufiyaa",
-    "path": "currencies/cur_mvr.png",
-    "sha256": "ebe67f6456b5c25cf126cea47c0b4cb36218dd01622a1637746abc03c269a520",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58076,
+    "sha256": "aa064ea83a25810db1d85b2d464bbebe0031664d9ae68aafdfa5686545d02c38",
+    "upstreamPath": "currencies/cur_mvr.png",
+    "aliases": [
+      "MVR",
+      "462",
+      "Maldivian rufiyaa",
+      "Rufiyaa"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mvr.png"
   },
   {
-    "bytes": 25686,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mwk",
     "name": "Malawian kwacha",
-    "path": "currencies/cur_mwk.png",
-    "sha256": "58984f60b02c82063f13455e6c3f381d1224a3fb1d26cfc648b5c7e45a1cb398",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 59431,
+    "sha256": "02c4c548f09bb96d1c80a959bd6d2b85b005391a6c055105d75c172c32bd6f54",
+    "upstreamPath": "currencies/cur_mwk.png",
+    "aliases": [
+      "MWK",
+      "454",
+      "Malawian kwacha",
+      "Malawi Kwacha"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mwk.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mxn",
     "name": "Mexican peso",
-    "path": "currencies/cur_mxn.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_mxn.png",
+    "aliases": [
+      "$",
+      "484",
+      "Mexican peso",
+      "MXN"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mxn.png"
   },
   {
-    "bytes": 24915,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_myr",
     "name": "Malaysian ringgit",
-    "path": "currencies/cur_myr.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24915,
     "sha256": "0b298c606634a7bb28d4c1f53d895a260bfa106aea4266d8cccb7a3d6fffbfd4",
+    "upstreamPath": "currencies/cur_myr.png",
+    "aliases": [
+      "458",
+      "Malaysian ringgit",
+      "MYR",
+      "RM"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/myr.png"
   },
   {
-    "bytes": 24795,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_mzn",
     "name": "Mozambican metical",
-    "path": "currencies/cur_mzn.png",
-    "sha256": "393add6ebe2023869f39e6055fe01bebe685c57b9412f6a0201a9062ced823fc",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56776,
+    "sha256": "8d60baccd19135e4d87412d9f57c8a15df78dc093adc66fac05c0b482e8b027f",
+    "upstreamPath": "currencies/cur_mzn.png",
+    "aliases": [
+      "MZN",
+      "943",
+      "Mozambican metical",
+      "Mozambique Metical"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/mzn.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_nad",
     "name": "Namibian dollar",
-    "path": "currencies/cur_nad.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_nad.png",
+    "aliases": [
+      "NAD",
+      "516",
+      "Namibian dollar",
+      "Namibia Dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/nad.png"
   },
   {
-    "bytes": 22033,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_ngn",
     "name": "Nigerian naira",
-    "path": "currencies/cur_ngn.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22033,
     "sha256": "13e12417037a310b185faf461e05330ce1d7512b32b6e80aba4ecf4f4e8ce127",
+    "upstreamPath": "currencies/cur_ngn.png",
+    "aliases": [
+      "₦",
+      "566",
+      "NGN",
+      "Nigerian naira"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/ngn.png"
   },
   {
-    "bytes": 28428,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_nio",
     "name": "Nicaraguan córdoba",
-    "path": "currencies/cur_nio.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 28428,
     "sha256": "a1cd83f21de93f63504159171ecaeee754a27ad047822482687991454c36fac5",
+    "upstreamPath": "currencies/cur_nio.png",
+    "aliases": [
+      "NIO",
+      "558",
+      "Nicaraguan córdoba",
+      "Cordoba Oro"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/nio.png"
   },
   {
-    "bytes": 24119,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_nok",
     "name": "Norwegian krone",
-    "path": "currencies/cur_nok.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24119,
     "sha256": "c01703befd2eb3a7fd977897212b6f6fa073c9f31fa0edf3fa76cc9f0969386d",
+    "upstreamPath": "currencies/cur_nok.png",
+    "aliases": [
+      "578",
+      "kr",
+      "NOK",
+      "Norwegian krone"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/nok.png"
   },
   {
-    "bytes": 27033,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_npr",
     "name": "Nepalese rupee",
-    "path": "currencies/cur_npr.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 27033,
     "sha256": "cafb59a79da65a44c61c7741ffa37531b2e3d1f447f0c2cd9382eae1108ea16e",
+    "upstreamPath": "currencies/cur_npr.png",
+    "aliases": [
+      "NPR",
+      "524",
+      "Nepalese rupee"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/npr.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_nzd",
     "name": "New Zealand dollar",
-    "path": "currencies/cur_nzd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_nzd.png",
+    "aliases": [
+      "NZD",
+      "554",
+      "New Zealand dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/nzd.png"
   },
   {
-    "bytes": 24972,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_omr",
     "name": "Omani rial",
-    "path": "currencies/cur_omr.png",
-    "sha256": "b3cb915822fc3df1bdf264abb4072fe55692ddfbf711c1e09b615571d22df6d4",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58281,
+    "sha256": "43d55fbd80a6a9083e6862706f02b9b0685531c6469b86e82d9bb1294fa6df18",
+    "upstreamPath": "currencies/cur_omr.png",
+    "aliases": [
+      "OMR",
+      "512",
+      "Omani rial",
+      "Rial Omani"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/omr.png"
   },
   {
-    "bytes": 25619,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_pab",
     "name": "Panamanian balboa",
-    "path": "currencies/cur_pab.png",
-    "sha256": "fdb4b8a56ae5def9761bac08fa8510ed6062de4447a085eadf704f41539656e0",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57233,
+    "sha256": "d06b42f7ceaaeeb352143f80346713d61d7c68ab5a39da4d1f1116880869f254",
+    "upstreamPath": "currencies/cur_pab.png",
+    "aliases": [
+      "PAB",
+      "590",
+      "Panamanian balboa",
+      "Balboa"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/pab.png"
   },
   {
-    "bytes": 23985,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_pen",
     "name": "Peruvian sol",
-    "path": "currencies/cur_pen.png",
-    "sha256": "7ea9ca61925ed067cf4501d3ea8086f9b6b79ade7e68f1e8e3e287ff2fdc37f5",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55397,
+    "sha256": "a782ff478e180e87c95d827f2557b871bb9a26e907b9fee51d6df1350b448376",
+    "upstreamPath": "currencies/cur_pen.png",
+    "aliases": [
+      "604",
+      "PEN",
+      "Peruvian sol",
+      "S/"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/pen.png"
   },
   {
-    "bytes": 26248,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_pgk",
     "name": "Papua New Guinean kina",
-    "path": "currencies/cur_pgk.png",
-    "sha256": "c05424d82f62f168316f8e6812f8d277e3a067aa3cba8d415ec1635b00803af3",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58164,
+    "sha256": "fac68ef0e39d4cc31c909cb3af733cda33acd26107421b708f2cd545d41a8ee1",
+    "upstreamPath": "currencies/cur_pgk.png",
+    "aliases": [
+      "PGK",
+      "598",
+      "Papua New Guinean kina",
+      "Kina"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/pgk.png"
   },
   {
-    "bytes": 22789,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_php",
     "name": "Philippine peso",
-    "path": "currencies/cur_php.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22789,
     "sha256": "633999601c8f74a1bda55317d2348c5dce7080a7733bd98b94ea7edbd695b378",
+    "upstreamPath": "currencies/cur_php.png",
+    "aliases": [
+      "₱",
+      "608",
+      "Philippine peso",
+      "PHP"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/php.png"
   },
   {
-    "bytes": 27033,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_pkr",
     "name": "Pakistani rupee",
-    "path": "currencies/cur_pkr.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 27033,
     "sha256": "cafb59a79da65a44c61c7741ffa37531b2e3d1f447f0c2cd9382eae1108ea16e",
+    "upstreamPath": "currencies/cur_pkr.png",
+    "aliases": [
+      "586",
+      "Pakistani rupee",
+      "PKR",
+      "Rs"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/pkr.png"
   },
   {
-    "bytes": 23870,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_pln",
     "name": "Polish zloty",
-    "path": "currencies/cur_pln.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 23870,
     "sha256": "5a0c06410c43692f672f51a591eb02e69d2b220c115d9568e5037a7621bddf4b",
+    "upstreamPath": "currencies/cur_pln.png",
+    "aliases": [
+      "985",
+      "PLN",
+      "Polish zloty",
+      "Polish zloty currency",
+      "zł"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/pln.png"
   },
   {
-    "bytes": 25809,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_pyg",
     "name": "Paraguayan guarani",
-    "path": "currencies/cur_pyg.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 25809,
     "sha256": "d30318d542abac23d4cefdfcd54658a3b5881c3d54f152f75ff15edb745ccc9a",
+    "upstreamPath": "currencies/cur_pyg.png",
+    "aliases": [
+      "PYG",
+      "600",
+      "Paraguayan guarani",
+      "Guarani"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/pyg.png"
   },
   {
-    "bytes": 26894,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_qar",
     "name": "Qatari riyal",
-    "path": "currencies/cur_qar.png",
-    "sha256": "53f3f098bfa83ff768255562d156734aad3dbad054da7f07a431aa5b2e392635",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 59203,
+    "sha256": "43fe7232edb3eb0552c3a9632471452d94ba1bcc2c19acbfaa49ba4bfb1a805e",
+    "upstreamPath": "currencies/cur_qar.png",
+    "aliases": [
+      "QAR",
+      "634",
+      "Qatari riyal",
+      "Qatari Rial"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/qar.png"
   },
   {
-    "bytes": 24612,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_ron",
     "name": "Romanian leu",
-    "path": "currencies/cur_ron.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24612,
     "sha256": "66051ec86c177c0b453ffa8881eaed3aaa695a82f670411a908b9545ffd0e7a7",
+    "upstreamPath": "currencies/cur_ron.png",
+    "aliases": [
+      "RON",
+      "946",
+      "Romanian leu"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/ron.png"
   },
   {
-    "bytes": 27217,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_rsd",
     "name": "Serbian dinar",
-    "path": "currencies/cur_rsd.png",
-    "sha256": "2877c72498ef6922ec3354bcee14a055b4a30abf44826eb2f7bc3edb8cec1f67",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56632,
+    "sha256": "bc8d13d806d9854b6213d593f1d892b8bf276045ad3346499c441735d8440105",
+    "upstreamPath": "currencies/cur_rsd.png",
+    "aliases": [
+      "RSD",
+      "941",
+      "Serbian dinar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/rsd.png"
   },
   {
-    "bytes": 22950,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_rub",
     "name": "Russian ruble",
-    "path": "currencies/cur_rub.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22950,
     "sha256": "53b87c2e1750003db8c36b12a944bc77c976daecafe85912229f2d386913d26d",
+    "upstreamPath": "currencies/cur_rub.png",
+    "aliases": [
+      "RUB",
+      "643",
+      "Russian ruble"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/rub.png"
   },
   {
-    "bytes": 23225,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_rwf",
     "name": "Rwandan franc",
-    "path": "currencies/cur_rwf.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 23225,
     "sha256": "75829f3f5d99bb25ef71571db7cf309ddf42ccdaf51dbd489575714a642743a3",
+    "upstreamPath": "currencies/cur_rwf.png",
+    "aliases": [
+      "646",
+      "RF",
+      "Rwandan franc",
+      "RWF"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/rwf.png"
   },
   {
-    "bytes": 26835,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_sar",
     "name": "Saudi riyal",
-    "path": "currencies/cur_sar.png",
-    "sha256": "797c24ca94454e0f75370dcfecae68e5d8dd7bcef690650a4c15eb429f742c8a",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58927,
+    "sha256": "b327dc62d828a75d4a1294be1c9f320fbff12f2b371a22f5cc4326bb6ada0441",
+    "upstreamPath": "currencies/cur_sar.png",
+    "aliases": [
+      "682",
+      "SAR",
+      "Saudi riyal"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/sar.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_sbd",
     "name": "Solomon Islands dollar",
-    "path": "currencies/cur_sbd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_sbd.png",
+    "aliases": [
+      "SBD",
+      "090",
+      "Solomon Islands dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/sbd.png"
   },
   {
-    "bytes": 27137,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_scr",
     "name": "Seychellois rupee",
-    "path": "currencies/cur_scr.png",
-    "sha256": "924311ad47dad3b6c591e5bccf5c518cb1f0c006b1829d7597177a83319e438b",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 59216,
+    "sha256": "79ff0830f07ddcd6eaf60a13ad1108036e1b34d059595009f4c3e63e23655a30",
+    "upstreamPath": "currencies/cur_scr.png",
+    "aliases": [
+      "SCR",
+      "690",
+      "Seychellois rupee",
+      "Seychelles Rupee"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/scr.png"
   },
   {
-    "bytes": 26996,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_sdg",
     "name": "Sudanese pound",
-    "path": "currencies/cur_sdg.png",
-    "sha256": "70358674f43926ae70d1444a7274b6fa5fdacdafdaedaf4e431c22284651482e",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 59144,
+    "sha256": "12eb30645864a384dc9eb8b9cd1a3f723d035b079556b72a46c3aada3911cf17",
+    "upstreamPath": "currencies/cur_sdg.png",
+    "aliases": [
+      "938",
+      "SDG",
+      "Sudanese pound"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/sdg.png"
   },
   {
-    "bytes": 24119,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_sek",
     "name": "Swedish krona",
-    "path": "currencies/cur_sek.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24119,
     "sha256": "c01703befd2eb3a7fd977897212b6f6fa073c9f31fa0edf3fa76cc9f0969386d",
+    "upstreamPath": "currencies/cur_sek.png",
+    "aliases": [
+      "752",
+      "kr",
+      "SEK",
+      "Swedish krona",
+      "Swedish krona currency"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/sek.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_sgd",
     "name": "Singapore dollar",
-    "path": "currencies/cur_sgd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_sgd.png",
+    "aliases": [
+      "702",
+      "S$",
+      "SGD",
+      "Singapore dollar",
+      "Singapore dollar currency"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/sgd.png"
   },
   {
-    "bytes": 22706,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_shp",
     "name": "Saint Helena pound",
-    "path": "currencies/cur_shp.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22706,
     "sha256": "ff176213fe7c54c681f84e136f1e64fb33bd4376b5065f49f561d1e8fe3f51f7",
+    "upstreamPath": "currencies/cur_shp.png",
+    "aliases": [
+      "SHP",
+      "654",
+      "Saint Helena pound"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/shp.png"
   },
   {
-    "bytes": 24303,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_sle",
     "name": "Sierra Leonean leone",
-    "path": "currencies/cur_sle.png",
-    "sha256": "3c9ee90fa90c2c931a2324ad30cdf94fccf38dd40a52d9444812dc947a2d42cc",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56870,
+    "sha256": "34fc6d145a48d21e199aeefbafc923a7f638e4c2b29fdc6da6bbfa65315ab1ae",
+    "upstreamPath": "currencies/cur_sle.png",
+    "aliases": [
+      "925",
+      "Le",
+      "Sierra Leonean leone",
+      "SLE"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/sle.png"
   },
   {
-    "bytes": 28562,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_sos",
     "name": "Somali shilling",
-    "path": "currencies/cur_sos.png",
-    "sha256": "d19a5a3b9f212cd8feb5608974e25d1066764ee2c3bdb7a4afec621cae3e7942",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 60626,
+    "sha256": "4e9bc22c3e6ea9502d7eb014e76bcc7b1e7b650dfedbc75b7959f943daed5d0e",
+    "upstreamPath": "currencies/cur_sos.png",
+    "aliases": [
+      "SOS",
+      "706",
+      "Somali shilling"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/sos.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_srd",
     "name": "Surinamese dollar",
-    "path": "currencies/cur_srd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_srd.png",
+    "aliases": [
+      "SRD",
+      "968",
+      "Surinamese dollar",
+      "Surinam Dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/srd.png"
   },
   {
-    "bytes": 22706,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_ssp",
     "name": "South Sudanese pound",
-    "path": "currencies/cur_ssp.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22706,
     "sha256": "ff176213fe7c54c681f84e136f1e64fb33bd4376b5065f49f561d1e8fe3f51f7",
+    "upstreamPath": "currencies/cur_ssp.png",
+    "aliases": [
+      "728",
+      "South Sudanese pound",
+      "SSP"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/ssp.png"
   },
   {
-    "bytes": 25759,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_stn",
     "name": "São Tomé & Príncipe dobra",
-    "path": "currencies/cur_stn.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 25759,
     "sha256": "96fa763f2f47522ff4dda6c829d4ad8105dfa0b3213fb92bf7cf9553ad14c0f6",
+    "upstreamPath": "currencies/cur_stn.png",
+    "aliases": [
+      "STN",
+      "930",
+      "São Tomé & Príncipe dobra",
+      "Dobra"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/stn.png"
   },
   {
-    "bytes": 22706,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_syp",
     "name": "Syrian pound",
-    "path": "currencies/cur_syp.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 22706,
     "sha256": "ff176213fe7c54c681f84e136f1e64fb33bd4376b5065f49f561d1e8fe3f51f7",
+    "upstreamPath": "currencies/cur_syp.png",
+    "aliases": [
+      "SYP",
+      "760",
+      "Syrian pound"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/syp.png"
   },
   {
-    "bytes": 25180,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_szl",
     "name": "Swazi lilangeni",
-    "path": "currencies/cur_szl.png",
-    "sha256": "2612930212502cf2b0d58b1823392b9f39fb547e1c3a2f98f1f1c91ed7e01cf9",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57875,
+    "sha256": "c8beecf3c2369f8fe3d917bd62c58c30969a221ff1ff3fdf3fc66e5646646bf8",
+    "upstreamPath": "currencies/cur_szl.png",
+    "aliases": [
+      "748",
+      "L",
+      "Swazi lilangeni",
+      "SZL"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/szl.png"
   },
   {
-    "bytes": 23758,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_thb",
     "name": "Thai baht",
-    "path": "currencies/cur_thb.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 23758,
     "sha256": "42ff227414e84b47beb74908726d2dad9c26f53e78b3b346652d2cd7f4b1aa59",
+    "upstreamPath": "currencies/cur_thb.png",
+    "aliases": [
+      "฿",
+      "764",
+      "Thai baht",
+      "Thai baht currency",
+      "THB"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/thb.png"
   },
   {
-    "bytes": 25317,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_tjs",
     "name": "Tajikistani somoni",
-    "path": "currencies/cur_tjs.png",
-    "sha256": "b74685f0def15134453648b4224ad8f9fb9b9da586e16829c64858b6dfdc4046",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57733,
+    "sha256": "5f481881d8356af671ed0f600589cca96bd808a4de87cfcbea94956ae78bf0cb",
+    "upstreamPath": "currencies/cur_tjs.png",
+    "aliases": [
+      "TJS",
+      "972",
+      "Tajikistani somoni",
+      "Somoni"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/tjs.png"
   },
   {
-    "bytes": 22933,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_tmt",
     "name": "Turkmenistani manat",
-    "path": "currencies/cur_tmt.png",
-    "sha256": "b71009661346fd8b9d02946fa486bee56c8c97fd6a7daa9de788651576fb4dcf",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55578,
+    "sha256": "2157563592cfbbae80ccb6fdb486a983840c03f13495617458d61a8b4506f0a1",
+    "upstreamPath": "currencies/cur_tmt.png",
+    "aliases": [
+      "TMT",
+      "934",
+      "Turkmenistani manat",
+      "Turkmenistan New Manat"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/tmt.png"
   },
   {
-    "bytes": 23544,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_tnd",
     "name": "Tunisian dinar",
-    "path": "currencies/cur_tnd.png",
-    "sha256": "03aff21d61d08bdce6413ee273e91eff90c84af63578e61b34bba25114a47d1b",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 55054,
+    "sha256": "c2a491c69c6fff4c6dd4d07e8c1a329dea05d77e7ab9a7556e815da3b5ff6b4b",
+    "upstreamPath": "currencies/cur_tnd.png",
+    "aliases": [
+      "788",
+      "DT",
+      "TND",
+      "Tunisian dinar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/tnd.png"
   },
   {
-    "bytes": 25223,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_top",
     "name": "Tongan paʻanga",
-    "path": "currencies/cur_top.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 25223,
     "sha256": "d69b30ec9701aa2639c541a3ea0925c807cd772f547a3417725f852e62413906",
+    "upstreamPath": "currencies/cur_top.png",
+    "aliases": [
+      "TOP",
+      "776",
+      "Tongan paʻanga",
+      "Pa’anga"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/top.png"
   },
   {
-    "bytes": 25537,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_try",
     "name": "Turkish lira",
-    "path": "currencies/cur_try.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 25537,
     "sha256": "abfec50dfb0fac50ca1e5284a8061d3def656cc5a16b32ab2ef592510b3961f5",
+    "upstreamPath": "currencies/cur_try.png",
+    "aliases": [
+      "TRY",
+      "949",
+      "Turkish lira"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/try.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_ttd",
     "name": "Trinidad & Tobago dollar",
-    "path": "currencies/cur_ttd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_ttd.png",
+    "aliases": [
+      "TTD",
+      "780",
+      "Trinidad & Tobago dollar",
+      "Trinidad and Tobago Dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/ttd.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_twd",
     "name": "New Taiwan dollar",
-    "path": "currencies/cur_twd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_twd.png",
+    "aliases": [
+      "TWD",
+      "901",
+      "New Taiwan dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/twd.png"
   },
   {
-    "bytes": 25224,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_tzs",
     "name": "Tanzanian shilling",
-    "path": "currencies/cur_tzs.png",
-    "sha256": "937aeaf82c21698bdbfac725801658e7e9a846e8a7db89a196bdc4428546c9c7",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57704,
+    "sha256": "b7d46a94d49344e57dccf83b532c23fb76be218be45dc397ebe5c5cef80023c5",
+    "upstreamPath": "currencies/cur_tzs.png",
+    "aliases": [
+      "TZS",
+      "834",
+      "Tanzanian shilling"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/tzs.png"
   },
   {
-    "bytes": 25756,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_uah",
     "name": "Ukrainian hryvnia",
-    "path": "currencies/cur_uah.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 25756,
     "sha256": "0790129977259e62d8a92b3550f3ee8b04acc7fd9d00e7f62e69cbdc62743b81",
+    "upstreamPath": "currencies/cur_uah.png",
+    "aliases": [
+      "UAH",
+      "980",
+      "Ukrainian hryvnia",
+      "Hryvnia"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/uah.png"
   },
   {
-    "bytes": 26863,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_ugx",
     "name": "Ugandan shilling",
-    "path": "currencies/cur_ugx.png",
-    "sha256": "086a805e8fea0db1f136a2444b087533ee721cadc138494556d9875c219e878b",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 59136,
+    "sha256": "1d5608225bd679fb75665bc823986b399e5c6a22850f71f982160b4d8b93140f",
+    "upstreamPath": "currencies/cur_ugx.png",
+    "aliases": [
+      "800",
+      "Ugandan shilling",
+      "UGX",
+      "USh"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/ugx.png"
   },
   {
-    "bytes": 67001,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_usd",
     "name": "United States dollar",
-    "path": "currencies/cur_usd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 67001,
     "sha256": "5f9f92779faa28fc078fe081fac2034c08bbda84be84abdbc018f935638bef3c",
+    "upstreamPath": "currencies/cur_usd.png",
+    "aliases": [
+      "$",
+      "840",
+      "United States dollar",
+      "USD"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/usd.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_uyu",
     "name": "Uruguayan peso",
-    "path": "currencies/cur_uyu.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_uyu.png",
+    "aliases": [
+      "$U",
+      "858",
+      "Uruguayan peso",
+      "UYU"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/uyu.png"
   },
   {
-    "bytes": 26052,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_uzs",
     "name": "Uzbekistani som",
-    "path": "currencies/cur_uzs.png",
-    "sha256": "16a14693530c36b9077e994be4482385ae5a1dc18f20f957c7ffa8146c859c30",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58282,
+    "sha256": "d58d37461da319665716c382d45a96591c698b2873ee93e1d731d14b805f4110",
+    "upstreamPath": "currencies/cur_uzs.png",
+    "aliases": [
+      "UZS",
+      "860",
+      "Uzbekistani som",
+      "Uzbekistan Sum"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/uzs.png"
   },
   {
-    "bytes": 26129,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_ves",
     "name": "Venezuelan bolívar",
-    "path": "currencies/cur_ves.png",
-    "sha256": "e3219684cfd43372420dfe0eb1f07b2edeb99075a68590e954e40f56a544f2a4",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58542,
+    "sha256": "cafe79a0d032a388c8150179b9e006e1447d06afb74318cf178078d73d3d9e95",
+    "upstreamPath": "currencies/cur_ves.png",
+    "aliases": [
+      "VES",
+      "928",
+      "Venezuelan bolívar",
+      "Bolívar Soberano"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/ves.png"
   },
   {
-    "bytes": 24831,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_vnd",
     "name": "Vietnamese dong",
-    "path": "currencies/cur_vnd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24831,
     "sha256": "ae661fe7edce2fc2dfa043e491be427a1aace29c6879a9e8debe2cdb6cf83bc0",
+    "upstreamPath": "currencies/cur_vnd.png",
+    "aliases": [
+      "₫",
+      "704",
+      "Vietnamese dong",
+      "VND"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/vnd.png"
   },
   {
-    "bytes": 25656,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_vuv",
     "name": "Vanuatu vatu",
-    "path": "currencies/cur_vuv.png",
-    "sha256": "47c2f6f6df2fc281ebac916027a8d2ff95dbeaca47d00b029cca98794e28877d",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56778,
+    "sha256": "e3efb698e67090074605e2b79c158a4559a4a122e72249ec6da96a431930c1f1",
+    "upstreamPath": "currencies/cur_vuv.png",
+    "aliases": [
+      "VUV",
+      "548",
+      "Vanuatu vatu",
+      "Vatu"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/vuv.png"
   },
   {
-    "bytes": 27141,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_wst",
     "name": "Samoan tala",
-    "path": "currencies/cur_wst.png",
-    "sha256": "0ca28e65c70b8b14a5d4ab3b52276645486f67facbd845b89bc13a567fcc8e68",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 59739,
+    "sha256": "1f2306c5bd07903660c249853cb4685533a5d18a3ccc5d899a58b228d32c19e6",
+    "upstreamPath": "currencies/cur_wst.png",
+    "aliases": [
+      "WST",
+      "882",
+      "Samoan tala",
+      "Tala"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/wst.png"
   },
   {
-    "bytes": 25815,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_xaf",
     "name": "Central African CFA franc",
-    "path": "currencies/cur_xaf.png",
-    "sha256": "6b1c608176fa29ab1b4db3d0ad6d2e45357ac59559d176ff316adb4d7aa806e9",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57885,
+    "sha256": "d7a942cb522e58debe566149f03e51ff21bb24051698797af2135accdaec67d6",
+    "upstreamPath": "currencies/cur_xaf.png",
+    "aliases": [
+      "950",
+      "Central African CFA franc",
+      "FCFA",
+      "XAF"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/xaf.png"
   },
   {
-    "bytes": 26188,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_xcd",
     "name": "East Caribbean dollar",
-    "path": "currencies/cur_xcd.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 26188,
     "sha256": "4cd77e1618b7d6297e584d975d56a2ef641adc611e921552e481c6089fc5354c",
+    "upstreamPath": "currencies/cur_xcd.png",
+    "aliases": [
+      "XCD",
+      "951",
+      "East Caribbean dollar"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/xcd.png"
   },
   {
-    "bytes": 28329,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_xcg",
     "name": "Caribbean guilder",
-    "path": "currencies/cur_xcg.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 28329,
     "sha256": "743d296f6f975ee2281c4ddf1b0aa7977e85455e73ddb0a5f0cd540f4793a9fe",
+    "upstreamPath": "currencies/cur_xcg.png",
+    "aliases": [
+      "XCG",
+      "532",
+      "Caribbean guilder"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/xcg.png"
   },
   {
-    "bytes": 26801,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_xof",
     "name": "West African CFA franc",
-    "path": "currencies/cur_xof.png",
-    "sha256": "7a59f30532ce6c5c382271bfd3004c79943b6659df1bdc7b4e7585b76a26f74e",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 58731,
+    "sha256": "7b243dc92ee7405ff893a9400d1d5a61278a0f553c98246006fd62eb9498d29c",
+    "upstreamPath": "currencies/cur_xof.png",
+    "aliases": [
+      "952",
+      "CFA",
+      "West African CFA franc",
+      "XOF"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/xof.png"
   },
   {
-    "bytes": 24855,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_xpf",
     "name": "CFP franc",
-    "path": "currencies/cur_xpf.png",
-    "sha256": "5b46ceaf6d58ff7b3f682f08b0851270fc2dafd365d48803850826b77425c13c",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 57196,
+    "sha256": "58298649e41c232c9665932177dfe9f0d0ad9daf8cf743eb72745ae3e1cf295d",
+    "upstreamPath": "currencies/cur_xpf.png",
+    "aliases": [
+      "XPF",
+      "953",
+      "CFP franc"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/xpf.png"
   },
   {
-    "bytes": 24100,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_yer",
     "name": "Yemeni rial",
-    "path": "currencies/cur_yer.png",
-    "sha256": "e80b692c136b14c47f0fd646415b675223b4a3e659c6c120747ee00b9ac44781",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 56401,
+    "sha256": "9d22876505f12b68e1a756c294140ddf2c64e8d7fba234687615d89576f4908f",
+    "upstreamPath": "currencies/cur_yer.png",
+    "aliases": [
+      "YER",
+      "886",
+      "Yemeni rial"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/yer.png"
   },
   {
-    "bytes": 24108,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_zar",
     "name": "South African rand",
-    "path": "currencies/cur_zar.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24108,
     "sha256": "d43a9ad911f535d68da7bfdb87a8463d043cff356f3d8cdd427d2c911ca33207",
+    "upstreamPath": "currencies/cur_zar.png",
+    "aliases": [
+      "710",
+      "R",
+      "South African rand",
+      "ZAR"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/zar.png"
   },
   {
-    "bytes": 24820,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_zmw",
     "name": "Zambian kwacha",
-    "path": "currencies/cur_zmw.png",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 24820,
     "sha256": "e8cc523f74c4b50ff0842716dd616e249fc6c796cf21ba175357df3b4a14f568",
+    "upstreamPath": "currencies/cur_zmw.png",
+    "aliases": [
+      "967",
+      "Zambian kwacha",
+      "ZK",
+      "ZMW"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/zmw.png"
   },
   {
-    "bytes": 27236,
-    "category": "currencies",
-    "height": 256,
     "id": "cur_zwg",
     "name": "Zimbabwe Gold",
-    "path": "currencies/cur_zwg.png",
-    "sha256": "50ae8c2a541e1cce30139612492b8d4a94aef01e57599f1efd911005caa91870",
+    "category": "currencies",
+    "width": 256,
+    "height": 256,
+    "bytes": 59910,
+    "sha256": "6123149ee3a691f5b71763b6b96bd23ae789fc908ab390643625c239913cfe8c",
+    "upstreamPath": "currencies/cur_zwg.png",
+    "aliases": [
+      "ZWG",
+      "924",
+      "Zimbabwe Gold"
+    ],
     "source": {
       "kind": "generated",
       "url": null
     },
-    "width": 256
+    "path": "currencies/zwg.png"
   }
 ]
