@@ -42,8 +42,8 @@ All asset folders are directly at the repository root.
 
 | Folder | Assets |
 | --- | ---: |
-| [banks](banks/) | 136 |
 | [cards](cards/) | 6,016 |
+| [banks](banks/) | 136 |
 | [currencies](currencies/) | 153 |
 | [markets](markets/) | 250 |
 | [operators](operators/) | 88 |
