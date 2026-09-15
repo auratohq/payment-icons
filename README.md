@@ -7,7 +7,7 @@
 **The world of payments - one icon pack.**
 
 A searchable, versioned collection of **8,089 payment-related PNG assets** maintained by [Aurato](https://aurato.io):   
-**2,073 rounded-square icons** and **6,016 card images**, across **10 categories**. Find payment methods, wallets, cards, payment service providers (PSPs), banks, currencies, markets, regulators, schemes, and systems.
+**2,073 rounded-square icons** and **6,016 card images**, across **10 categories**. Find payment methods, wallets, cards, payment service providers (PSPs), banks, currencies, markets, regulators, operators, schemes, and systems.
 
 [Download ZIP](https://github.com/auratohq/payment-icons/archive/refs/heads/main.zip) · [Contribute](CONTRIBUTING.md) · [Copyright](RIGHTS.md)
 
