@@ -2,7 +2,7 @@
   <img src=".github/assets/aurato-global-payment-icon-pack-banner.png" alt="Aurato Global Payment Icon Pack with payment method, card network, PSP, bank and market icons" width="100%">
 </p>
 
-# Aurato Global Payment Icon Pack
+# Aurato Global Payments Icon Pack
 
 **The world of payments. One icon library.**
 
@@ -10,23 +10,23 @@ A searchable, versioned collection of **8,089 payment-related PNG assets** maint
 
 [Download ZIP](https://github.com/auratohq/payment-icons/archive/refs/heads/main.zip) · [JSON catalog](catalog.json) · [CSV catalog](catalog.csv) · [Contribute](CONTRIBUTING.md) · [Artwork rights](RIGHTS.md)
 
+
 ## What's included
 
-- Actual PNG files checked into Git with lowercase, human-readable, SEO-friendly filenames based on the full entity or product name.
-- Consistent **256 × 256** primary icons: opaque rounded-square base, approximately **43 px corner radius**, transparent outside corners. The shape is in the image itself; no CSS clipping is needed.
+- Actual PNG files checked into Git with lowercase, human-readable filenames based on the full entity/product name.
+- Consistent **256 × 256** primary icons: opaque rounded-square base (**43 px corner radius**), transparent outside corners. The shape is in the image itself; no CSS clipping is needed.
 - **406 × 256** card artwork, preserving its card proportions.
 - Searchable gallery with category and source filters, light/dark/transparency previews, and individual downloads.
 - Machine-readable names, aliases, internal record IDs, repository paths, upstream paths, dimensions, byte sizes, SHA-256 hashes and recorded provenance.
 - Reproducible downloads and validation against the approved source snapshot.
 
-The catalog includes brand marks, flags, currency symbols, category icons and generated artwork. **Most card images are generated illustrations, not official card photographs.** Each entry records its source type. There are 2,471 distinct image hashes: some related records intentionally share the same artwork.
 
 ## Browse the gallery
 
 Clone or unzip the repository and serve it locally:
 
 ```sh
-git clone https://github.com/auratohq/payment-icons.git
+git clone https://github.com/auratohq/payments-icons.git
 cd payment-icons
 python -m http.server 8000
 ```
@@ -59,7 +59,7 @@ All asset folders are directly at the repository root.
 Copy the relevant file into your application's public assets:
 
 ```html
-<img src="/payment-methods/in3.png" alt="in3 payment method icon" width="45" height="45">
+<img src="/payment-methods/paypal.png" alt="paypal payment method icon" width="45" height="45">
 ```
 
 For cards, keep the native aspect ratio:
@@ -82,7 +82,7 @@ export function PaymentIcon({ slug, name }) {
 For a quick prototype:
 
 ```text
-https://raw.githubusercontent.com/auratohq/payment-icons/main/payment-methods/in3.png
+https://raw.githubusercontent.com/auratohq/payment-icons/main/payment-methods/paypal.png
 ```
 
 `main` changes over time. For reproducible use, replace `main` with a reviewed commit SHA, or vendor the files into your own deployment. The repository is a snapshot; Aurato's public Supabase asset library remains the upstream source.
@@ -124,8 +124,9 @@ Downloads use public URLs, require no API key, and reject changed bytes. [Contri
 
 ## Rights
 
-The gallery, scripts and documentation are [MIT licensed](LICENSE). **PNG assets and third-party artwork are excluded from that license.** Brand names, logos and card designs belong to their respective owners. Inclusion does not imply endorsement or grant trademark or artwork rights. See [RIGHTS.md](RIGHTS.md) for provenance, intended use, corrections and removal requests.
+The gallery, scripts and documentation are [MIT licensed](LICENSE). **PNG assets and third-party artwork are excluded from that license.** Brand names, logos and card designs belong to their respective owners. Inclusion does not imply endorsement or grant trademark or artwork rights. 
+See [RIGHTS.md](RIGHTS.md) for provenance, intended use, corrections and removal requests.
 
 ---
 
-Built and maintained by [aurato.](https://aurato.io) — Understand how money moves, anywhere.
+Built and maintained by [Aurato](https://aurato.io) — understand how money moves, anywhere.
