@@ -132,7 +132,8 @@
     ],
     "source": {
       "kind": "brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_abon.png"
+      "url": null,
+      "reference": "payment-methods/abon.png"
     },
     "path": "payment-methods/abon.png"
   },
@@ -727,7 +728,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_american_express.png"
+      "url": null,
+      "reference": "schemes/american-express.png"
     },
     "path": "payment-methods/american-express-charge-card.png"
   },
@@ -743,7 +745,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_american_express.png"
+      "url": null,
+      "reference": "schemes/american-express.png"
     },
     "path": "payment-methods/american-express-creditcard.png"
   },
@@ -759,7 +762,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_american_express.png"
+      "url": null,
+      "reference": "schemes/american-express.png"
     },
     "path": "payment-methods/american-express-debitcard.png"
   },
@@ -775,7 +779,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_american_express.png"
+      "url": null,
+      "reference": "schemes/american-express.png"
     },
     "path": "payment-methods/american-express-prepaid-card.png"
   },
@@ -1055,7 +1060,8 @@
     ],
     "source": {
       "kind": "brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_astropay.png"
+      "url": null,
+      "reference": "payment-methods/astropay.png"
     },
     "path": "payment-methods/astropay.png"
   },
@@ -1463,7 +1469,8 @@
     ],
     "source": {
       "kind": "brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_bancontact_pay.png"
+      "url": null,
+      "reference": "payment-methods/bancontact-pay.png"
     },
     "path": "payment-methods/bancontact-pay.png"
   },
@@ -2719,7 +2726,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_cabal.png"
+      "url": null,
+      "reference": "schemes/cabal.png"
     },
     "path": "payment-methods/cabal-creditcard.png"
   },
@@ -2735,7 +2743,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_cabal.png"
+      "url": null,
+      "reference": "schemes/cabal.png"
     },
     "path": "payment-methods/cabal-debitcard.png"
   },
@@ -4525,7 +4534,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_edenred.png"
+      "url": null,
+      "reference": "payment-methods/edenred.png"
     },
     "path": "payment-methods/edenred-food-voucher.png"
   },
@@ -4541,7 +4551,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_edenred.png"
+      "url": null,
+      "reference": "payment-methods/edenred.png"
     },
     "path": "payment-methods/edenred-romania-cards.png"
   },
@@ -4704,7 +4715,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_elo.png"
+      "url": null,
+      "reference": "schemes/elo.png"
     },
     "path": "payment-methods/elo-creditcard.png"
   },
@@ -4720,7 +4732,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_elo.png"
+      "url": null,
+      "reference": "schemes/elo.png"
     },
     "path": "payment-methods/elo-debitcard.png"
   },
@@ -4736,7 +4749,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_elo.png"
+      "url": null,
+      "reference": "schemes/elo.png"
     },
     "path": "payment-methods/elo-prepaid-card.png"
   },
@@ -5229,7 +5243,8 @@
     ],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_fawry.png"
+      "url": null,
+      "reference": "payment-methods/fawry.png"
     },
     "path": "payment-methods/fawry-sudan.png"
   },
@@ -10951,7 +10966,8 @@
     ],
     "source": {
       "kind": "brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_papara.png"
+      "url": null,
+      "reference": "payment-methods/papara.png"
     },
     "path": "payment-methods/papara.png"
   },
@@ -11039,7 +11055,8 @@
     ],
     "source": {
       "kind": "brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_pay4fun.png"
+      "url": null,
+      "reference": "payment-methods/pay4fun.png"
     },
     "path": "payment-methods/pay4fun.png"
   },
@@ -11977,7 +11994,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_pluxee.png"
+      "url": null,
+      "reference": "payment-methods/pluxee.png"
     },
     "path": "payment-methods/pluxee-food-voucher.png"
   },
@@ -11993,7 +12011,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_pluxee.png"
+      "url": null,
+      "reference": "payment-methods/pluxee.png"
     },
     "path": "payment-methods/pluxee-romania-cards.png"
   },
@@ -12390,7 +12409,8 @@
     ],
     "source": {
       "kind": "brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_pyypl.png"
+      "url": null,
+      "reference": "payment-methods/pyypl.png"
     },
     "path": "payment-methods/pyypl.png"
   },
@@ -12979,7 +12999,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_rupay.png"
+      "url": null,
+      "reference": "schemes/rupay.png"
     },
     "path": "payment-methods/rupay-creditcard.png"
   },
@@ -12995,7 +13016,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_rupay.png"
+      "url": null,
+      "reference": "schemes/rupay.png"
     },
     "path": "payment-methods/rupay-debitcard.png"
   },
@@ -13011,7 +13033,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_rupay.png"
+      "url": null,
+      "reference": "schemes/rupay.png"
     },
     "path": "payment-methods/rupay-prepaid-card.png"
   },
@@ -15115,7 +15138,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_troy.png"
+      "url": null,
+      "reference": "schemes/troy.png"
     },
     "path": "payment-methods/troy-creditcard.png"
   },
@@ -15131,7 +15155,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_troy.png"
+      "url": null,
+      "reference": "schemes/troy.png"
     },
     "path": "payment-methods/troy-debitcard.png"
   },
@@ -15147,7 +15172,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_troy.png"
+      "url": null,
+      "reference": "schemes/troy.png"
     },
     "path": "payment-methods/troy-prepaid-card.png"
   },
@@ -15676,7 +15702,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_verve.png"
+      "url": null,
+      "reference": "schemes/verve.png"
     },
     "path": "payment-methods/verve-creditcard.png"
   },
@@ -15692,7 +15719,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_verve.png"
+      "url": null,
+      "reference": "schemes/verve.png"
     },
     "path": "payment-methods/verve-debitcard.png"
   },
@@ -15708,7 +15736,8 @@
     "aliases": [],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_verve.png"
+      "url": null,
+      "reference": "schemes/verve.png"
     },
     "path": "payment-methods/verve-prepaid-card.png"
   },
@@ -16267,7 +16296,8 @@
     ],
     "source": {
       "kind": "brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_wechat_pay_hk.png"
+      "url": null,
+      "reference": "payment-methods/wechat-pay-hk.png"
     },
     "path": "payment-methods/wechat-pay-hk.png"
   },

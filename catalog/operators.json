@@ -180,7 +180,8 @@
     ],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_astropay.png"
+      "url": null,
+      "reference": "payment-methods/astropay.png"
     },
     "path": "operators/astropay.png"
   },
@@ -217,7 +218,8 @@
     ],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_bancontact.png"
+      "url": null,
+      "reference": "schemes/bancontact.png"
     },
     "path": "operators/bancontact-company.png"
   },
@@ -253,7 +255,8 @@
     ],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_bc_card.png"
+      "url": null,
+      "reference": "payment-methods/bc-card.png"
     },
     "path": "operators/bc-card.png"
   },
@@ -271,7 +274,8 @@
     ],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_belkart.png"
+      "url": null,
+      "reference": "schemes/belkart.png"
     },
     "path": "operators/belkart-payment-system.png"
   },
@@ -760,7 +764,8 @@
     ],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_isracard.png"
+      "url": null,
+      "reference": "schemes/isracard.png"
     },
     "path": "operators/isracard.png"
   },
@@ -853,7 +858,8 @@
     ],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/schemes/sch_lankapay_ncs.png"
+      "url": null,
+      "reference": "schemes/lankapay-national-card-scheme.png"
     },
     "path": "operators/lankapay.png"
   },
@@ -1170,7 +1176,8 @@
     ],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_papara.png"
+      "url": null,
+      "reference": "payment-methods/papara.png"
     },
     "path": "operators/papara.png"
   },
@@ -1358,7 +1365,8 @@
     ],
     "source": {
       "kind": "curated_brand_asset",
-      "url": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/payment-methods/pmt_pyypl.png"
+      "url": null,
+      "reference": "payment-methods/pyypl.png"
     },
     "path": "operators/pyypl.png"
   },
