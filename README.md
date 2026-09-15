@@ -17,7 +17,7 @@ A searchable, versioned collection of **8,089 payment-related PNG assets** maint
 - Actual PNG files checked into Git with lowercase, human-readable filenames.
 - Consistent **256 × 256** primary icons: opaque rounded-square base (**43 px corner radius**), transparent outside corners. The shape is in the image itself - no CSS clipping is needed.
 - **406 × 256** card artwork, preserving its card proportions.
-- Searchable gallery with category and source filters, light/dark/transparency previews, and individual downloads.
+- Searchable gallery with filters, light/dark/transparency previews, and individual downloads.
 - Machine-readable names, aliases, internal record IDs, repository paths, upstream paths, dimensions, byte sizes, SHA-256 hashes and recorded provenance.
 - Reproducible downloads and validation against the approved source snapshot.
 
