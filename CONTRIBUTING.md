@@ -7,13 +7,13 @@ An improvement can be a corrected icon, better provenance, a new payment entity,
 1. Search the catalog first to avoid a duplicate record.
 2. Open an issue with the entity name, category, official public source and proposed file path.
 3. Explain whether the artwork is official, adapted, generated or a designed category symbol. Include any relevant rights information; do not assume every logo has the same license.
-4. Use the entity's descriptive lowercase slug as the repository filename (for example, `payment-methods/apple-pay.png`). Keep the stable Aurato ID and exact Supabase object path in catalog metadata. Primary icons are 256 × 256 PNGs with an opaque rounded-square interior and transparent exterior corners. Cards are 406 × 256 PNGs and retain their card proportions.
+4. Use the entity's descriptive lowercase slug as the repository filename (for example, `payment-methods/apple-pay.png`). Keep the stable Aurato ID and host-free upstream object path in catalog metadata. Primary icons are 256 × 256 PNGs with an opaque rounded-square interior and transparent exterior corners. Cards are 406 × 256 PNGs and retain their card proportions.
 
 Files live directly in category folders at the repository root. Do not introduce `v1/`, `primary-icons/`, backup folders or copies at extra nesting levels.
 
 ## Maintain the snapshot
 
-The repository is a versioned mirror of the approved public Aurato asset catalog. Production Supabase Storage is upstream. Repository scripts never write to Supabase.
+The repository is a versioned mirror of the approved public Aurato asset catalog. The maintained asset library stays private and repository scripts never write to it.
 
 ```sh
 python -m venv .venv
@@ -21,11 +21,11 @@ python -m venv .venv
 python -m pip install -r requirements.txt
 ```
 
-For a new upstream snapshot, an authorized maintainer runs the read-only query in `scripts/export.sql` using the existing Supabase connection, saves the result rows as a JSON array, then runs:
+For a new upstream snapshot, an authorized maintainer runs the read-only query in `scripts/export.sql` using the private production connection, saves the result rows as a JSON array, then runs:
 
 ```sh
 python scripts/collection.py import /path/to/snapshot.json
-python scripts/collection.py download
+AURATO_ASSET_BASE_URL='<private asset base URL>' python scripts/collection.py download
 python scripts/collection.py prune
 python scripts/collection.py validate
 python -m unittest discover -s scripts -p 'test_*.py'

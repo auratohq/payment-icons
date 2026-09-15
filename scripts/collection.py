@@ -11,6 +11,7 @@ from datetime import date
 import hashlib
 from io import BytesIO
 import json
+import os
 from pathlib import Path, PurePosixPath
 import re
 import shutil
@@ -18,11 +19,13 @@ import sys
 import time
 import unicodedata
 from urllib.request import Request, urlopen
+from urllib.parse import unquote, urlsplit
 
 from PIL import Image, ImageChops
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = 'https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/'
+SOURCE = os.environ.get('AURATO_ASSET_BASE_URL', '').rstrip('/')
+PUBLIC_OBJECT_MARKER = '/storage/v1/object/public/'
 NAMES = {'banks': 'Banks', 'cards': 'Cards', 'currencies': 'Currencies', 'markets': 'Markets',
          'operators': 'Operators', 'payment-methods': 'Payment methods', 'psps': 'PSPs',
          'regulators': 'Regulators', 'schemes': 'Schemes', 'systems': 'Systems'}
@@ -72,8 +75,8 @@ def destination(item):
 def load_catalog():
     index = json.loads((ROOT / 'catalog.json').read_text())
     schema_version = index.get('schemaVersion')
-    if schema_version not in (1, 2) or index.get('sourceBaseUrl') != SOURCE:
-        raise ValueError('Unsupported catalog schema or source')
+    if schema_version not in (1, 2) or 'sourceBaseUrl' in index:
+        raise ValueError('Unsupported catalog schema or public upstream URL')
     entries, categories = [], set()
     for category in index['categories']:
         cid = category['id']
@@ -169,10 +172,15 @@ def download(entries, workers):
                 except ValueError:
                     pass
         if data is None:
+            if not SOURCE:
+                raise ValueError(
+                    f'Missing approved bytes for {first["path"]}; '
+                    'set AURATO_ASSET_BASE_URL in the private maintainer environment'
+                )
             for attempt in range(3):
                 try:
                     suffix = '' if attempt == 0 else '?v=' + first['sha256']
-                    request = Request(SOURCE + first['upstreamPath'] + suffix, headers={'User-Agent': 'Aurato-Payment-Icons/1.0'})
+                    request = Request(f'{SOURCE}/{first["upstreamPath"]}{suffix}', headers={'User-Agent': 'Aurato-Payment-Icons/1.0'})
                     with urlopen(request, timeout=30) as response:
                         data = response.read(5_000_001)
                     check_bytes(data, first)
@@ -228,7 +236,63 @@ def spreadsheet_safe(value):
     return "'" + text if text.startswith(('=', '+', '-', '@', '\t', '\r')) else text
 
 
+def private_asset_path(url):
+    """Return an upstream object path without retaining its private host."""
+    if not isinstance(url, str):
+        return None
+    parsed = urlsplit(url)
+    if parsed.scheme not in ('http', 'https') or PUBLIC_OBJECT_MARKER not in parsed.path:
+        return None
+    object_path = unquote(parsed.path.split(PUBLIC_OBJECT_MARKER, 1)[1])
+    if '/' not in object_path:
+        return None
+    _, upstream_path = object_path.split('/', 1)
+    parts = PurePosixPath(upstream_path).parts
+    if len(parts) != 2 or upstream_path != '/'.join(parts):
+        return None
+    return upstream_path
+
+
+def redact_private_source_urls(entries):
+    """Replace internal asset URLs with stable public repository references."""
+    public_paths = defaultdict(list)
+    for item in entries:
+        public_paths[item['upstreamPath']].append(item['path'])
+    changed = 0
+    for item in entries:
+        source = item['source']
+        upstream_path = private_asset_path(source.get('url'))
+        if not upstream_path:
+            continue
+        source['url'] = None
+        matches = sorted(public_paths.get(upstream_path, []))
+        if matches:
+            source['reference'] = matches[0]
+        changed += 1
+    return changed
+
+
+def check_no_private_source_urls(entries):
+    exposed = [item['path'] for item in entries if private_asset_path(item['source'].get('url'))]
+    if exposed:
+        raise ValueError(f'Private asset source URL in public catalog: {exposed[:10]}')
+
+
+def write_category_catalogs(index, entries):
+    for category in index['categories']:
+        batch = [item for item in entries if item['category'] == category['id']]
+        (ROOT/category['path']).write_text(json.dumps(batch, indent=2, ensure_ascii=False)+'\n')
+
+
+def redact_catalog(index, entries):
+    changed = redact_private_source_urls(entries)
+    write_category_catalogs(index, entries)
+    export_csv(entries)
+    print(f'Redacted {changed:,} private source URLs and refreshed public catalog exports.')
+
+
 def export_csv(entries):
+    check_no_private_source_urls(entries)
     with (ROOT/'catalog.csv').open('w', newline='', encoding='utf-8') as stream:
         writer = csv.writer(stream, lineterminator='\n')
         writer.writerow(['id', 'name', 'aliases', 'category', 'path', 'upstream_path', 'width', 'height', 'bytes', 'sha256', 'source_kind', 'source_url', 'source_reference'])
@@ -344,6 +408,7 @@ def import_snapshot(path):
         raise ValueError(f'Unexpected missing categories: {sorted(missing)}')
     assign_paths(entries)
     entries.sort(key=lambda x: x['path'])
+    redact_private_source_urls(entries)
     for item in entries:
         check_entry(item)
     if len({x['path'] for x in entries}) != len(entries):
@@ -359,7 +424,7 @@ def import_snapshot(path):
     materialize_existing(entries, old_entries)
     for category in index['categories']:
         category['count'] = counts[category['id']]
-        (ROOT/category['path']).write_text(json.dumps([x for x in entries if x['category'] == category['id']], indent=2, ensure_ascii=False)+'\n')
+    write_category_catalogs(index, entries)
     (ROOT/'catalog.json').write_text(json.dumps(index, indent=2)+'\n')
     export_csv(entries)
     export_category_readmes(entries)
@@ -369,7 +434,7 @@ def import_snapshot(path):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command', choices=['download', 'validate', 'export', 'import', 'prune'])
+    parser.add_argument('command', choices=['download', 'validate', 'export', 'import', 'prune', 'redact'])
     parser.add_argument('snapshot', nargs='?', type=Path)
     parser.add_argument('--workers', type=int, default=12)
     args = parser.parse_args()
@@ -378,7 +443,7 @@ def main():
             parser.error('import requires a JSON snapshot path')
         import_snapshot(args.snapshot)
         return
-    _, entries = load_catalog()
+    index, entries = load_catalog()
     if args.command == 'download':
         if not 1 <= args.workers <= 48:
             parser.error('--workers must be between 1 and 48')
@@ -389,6 +454,8 @@ def main():
         prune(entries)
     elif args.command == 'export':
         export_csv(entries)
+    elif args.command == 'redact':
+        redact_catalog(index, entries)
 
 
 if __name__ == '__main__':

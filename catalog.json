@@ -1,0 +1,80 @@
+{
+  "assetCount": 8089,
+  "cardCount": 6016,
+  "categories": [
+    {
+      "count": 136,
+      "id": "banks",
+      "name": "Banks",
+      "path": "catalog/banks.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 6016,
+      "id": "cards",
+      "name": "Cards",
+      "path": "catalog/cards.json",
+      "shape": "card"
+    },
+    {
+      "count": 153,
+      "id": "currencies",
+      "name": "Currencies",
+      "path": "catalog/currencies.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 250,
+      "id": "markets",
+      "name": "Markets",
+      "path": "catalog/markets.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 88,
+      "id": "operators",
+      "name": "Operators",
+      "path": "catalog/operators.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 1006,
+      "id": "payment-methods",
+      "name": "Payment methods",
+      "path": "catalog/payment-methods.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 75,
+      "id": "psps",
+      "name": "PSPs",
+      "path": "catalog/psps.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 255,
+      "id": "regulators",
+      "name": "Regulators",
+      "path": "catalog/regulators.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 91,
+      "id": "schemes",
+      "name": "Schemes",
+      "path": "catalog/schemes.json",
+      "shape": "rounded-square"
+    },
+    {
+      "count": 19,
+      "id": "systems",
+      "name": "Systems",
+      "path": "catalog/systems.json",
+      "shape": "rounded-square"
+    }
+  ],
+  "primaryIconCount": 2073,
+  "schemaVersion": 2,
+  "updatedAt": "2026-09-15",
+  "version": "2026.09.15"
+}

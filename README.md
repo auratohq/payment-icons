@@ -86,7 +86,7 @@ For a quick prototype:
 https://raw.githubusercontent.com/auratohq/payment-icons/main/payment-methods/paypal.png
 ```
 
-`main` changes over time. For reproducible use, replace `main` with a reviewed commit SHA, or vendor the files into your own deployment. The repository is a snapshot; Aurato's public Supabase asset library remains the upstream source.
+`main` changes over time. For reproducible use, replace `main` with a reviewed commit SHA, or vendor the files into your own deployment. The repository is a snapshot; Aurato's maintained asset library remains the upstream source.
 
 ### Read the catalog
 
@@ -121,7 +121,7 @@ python scripts/collection.py download
 python scripts/collection.py validate
 ```
 
-Downloads use public URLs, require no API key, and reject changed bytes. [Contribution instructions](CONTRIBUTING.md) explain how maintainers export and review a new upstream snapshot. These scripts never change Supabase Storage.
+Maintainer downloads use a privately configured upstream URL and reject changed bytes. [Contribution instructions](CONTRIBUTING.md) explain how maintainers export and review a new upstream snapshot. These scripts never change the upstream asset library.
 
 ## Rights
 

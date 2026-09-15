@@ -4,7 +4,7 @@ import unittest
 
 from PIL import Image, ImageDraw
 
-from collection import check_entry, check_image, spreadsheet_safe
+from collection import check_entry, check_image, redact_private_source_urls, spreadsheet_safe
 
 
 def specimen(shape='rounded', hole=False):
@@ -80,6 +80,16 @@ class ValidationTests(unittest.TestCase):
     def test_csv_formula_is_escaped(self):
         self.assertEqual(spreadsheet_safe('=1+1'), "'=1+1")
         self.assertEqual(spreadsheet_safe('Visa'), 'Visa')
+
+    def test_private_asset_url_becomes_repository_reference(self):
+        _, item = specimen()
+        item['source']['url'] = (
+            'https://assets.example/storage/v1/object/public/entity-assets/'
+            'payment-methods/pmt_test.png'
+        )
+        self.assertEqual(redact_private_source_urls([item]), 1)
+        self.assertIsNone(item['source']['url'])
+        self.assertEqual(item['source']['reference'], 'payment-methods/test.png')
 
 
 if __name__ == '__main__':
