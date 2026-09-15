@@ -40,18 +40,18 @@ Open **[localhost:8000](http://localhost:8000)**. The gallery has no build step 
 
 All asset folders are directly at the repository root.
 
-| Folder | Assets | Shape |
-| --- | ---: | --- |
-| [banks](banks/) | 136 | Rounded square |
-| [cards](cards/) | 6,016 | Card |
-| [currencies](currencies/) | 153 | Rounded square |
-| [markets](markets/) | 250 | Rounded square |
-| [operators](operators/) | 88 | Rounded square |
-| [payment-methods](payment-methods/) | 1,006 | Rounded square |
-| [psps](psps/) | 75 | Rounded square |
-| [regulators](regulators/) | 255 | Rounded square |
-| [schemes](schemes/) | 91 | Rounded square |
-| [systems](systems/) | 19 | Rounded square |
+| Folder | Assets |
+| --- | ---: |
+| [banks](banks/) | 136 |
+| [cards](cards/) | 6,016 |
+| [currencies](currencies/) | 153 |
+| [markets](markets/) | 250 |
+| [operators](operators/) | 88 |
+| [payment-methods](payment-methods/) | 1,006 |
+| [psps](psps/) | 75 |
+| [regulators](regulators/) | 255 |
+| [schemes](schemes/) | 91 |
+| [systems](systems/) | 19 |
 
 ## Usage
 
