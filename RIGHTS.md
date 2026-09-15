@@ -1,6 +1,6 @@
 # Artwork, attribution and rights
 
-This collection contains third-party brand marks, flags, currency symbols, category icons, identifiers and generated or adapted artwork. It is maintained for identifying and discussing payment-related entities.
+This collection contains third-party brand marks, flags, currency symbols, category icons and generated or adapted artwork. It is maintained for identifying and discussing payment-related entities.
 
 ## What is licensed here
 

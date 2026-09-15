@@ -119,6 +119,42 @@
     "path": "psps/buckaroo.png"
   },
   {
+    "id": "psp_cashfree",
+    "name": "Cashfree Payments",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 7149,
+    "sha256": "05c7559163480397565fc68ca3d255993bfb11a4354db38b199fb8c51567362a",
+    "upstreamPath": "psps/psp_cashfree.png",
+    "aliases": [
+      "Cashfree"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/cashfree-payments.png"
+  },
+  {
+    "id": "psp_ccavenue",
+    "name": "CCAvenue",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 12825,
+    "sha256": "31993b57614a8ecd7b56d97b9fb62d55475455f505425c92db4f2d7026529921",
+    "upstreamPath": "psps/psp_ccavenue.png",
+    "aliases": [
+      "CCAvenue Payments"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/ccavenue.png"
+  },
+  {
     "id": "psp_checkout",
     "name": "Checkout.com",
     "category": "psps",
@@ -170,6 +206,41 @@
     "path": "psps/cielo.png"
   },
   {
+    "id": "psp_clip",
+    "name": "Clip",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 15835,
+    "sha256": "a81fb47a157875d0b8c58bd2b62952d0eabe11c846c5c58dfe9f1998861a4fb1",
+    "upstreamPath": "psps/psp_clip.png",
+    "aliases": [
+      "PayClip",
+      "Clip Mexico"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/clip.png"
+  },
+  {
+    "id": "psp_conekta",
+    "name": "Conekta",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 24620,
+    "sha256": "fed832bcebd560694c3fa72519f1364ae1974a2736f9b4c26e7431cad2b42b5f",
+    "upstreamPath": "psps/psp_conekta.png",
+    "aliases": [],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/conekta.png"
+  },
+  {
     "id": "psp_cybersource",
     "name": "Cybersource",
     "category": "psps",
@@ -202,6 +273,24 @@
       "url": null
     },
     "path": "psps/dlocal.png"
+  },
+  {
+    "id": "psp_doku",
+    "name": "DOKU",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 15620,
+    "sha256": "eaef925f0d50d1e3af0086ca1d54536e4b424620e60dcd6d59a99ecb4b26b8eb",
+    "upstreamPath": "psps/psp_doku.png",
+    "aliases": [
+      "PT Nusa Satu Inti Artha"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/doku.png"
   },
   {
     "id": "psp_ebanx",
@@ -252,6 +341,25 @@
     "path": "psps/fiserv.png"
   },
   {
+    "id": "psp_fiuu",
+    "name": "Fiuu",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 16678,
+    "sha256": "cf9c53bfcaa26e752241b6fa4aac4723bb586021e876a4134385430e0ad1a2a3",
+    "upstreamPath": "psps/psp_fiuu.png",
+    "aliases": [
+      "Razer Merchant Services",
+      "MOLPay"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/fiuu.png"
+  },
+  {
     "id": "psp_flutterwave",
     "name": "Flutterwave",
     "category": "psps",
@@ -266,6 +374,22 @@
       "url": "https://flutterwave.com/"
     },
     "path": "psps/flutterwave.png"
+  },
+  {
+    "id": "psp_geidea",
+    "name": "Geidea",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 111187,
+    "sha256": "3b252590ffd68b89a9aa5fd71fdbda076641c2b975ad93fd76429c423d663618",
+    "upstreamPath": "psps/psp_geidea.png",
+    "aliases": [],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/geidea.png"
   },
   {
     "id": "psp_getnet",
@@ -332,6 +456,38 @@
     "path": "psps/gocardless.png"
   },
   {
+    "id": "psp_hitpay",
+    "name": "HitPay",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 42170,
+    "sha256": "18520a624b20da386e09209a63992e70a928d01c8cf64b23e010653e6a6426c6",
+    "upstreamPath": "psps/psp_hitpay.png",
+    "aliases": [],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/hitpay.png"
+  },
+  {
+    "id": "psp_hyperpay",
+    "name": "HyperPay",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 5465,
+    "sha256": "7c6546de5db8d901dca0a5d214437ecbe871cfea91091abe43b95cbbf73eedcc",
+    "upstreamPath": "psps/psp_hyperpay.png",
+    "aliases": [],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/hyperpay.png"
+  },
+  {
     "id": "psp_interswitch",
     "name": "Interswitch",
     "category": "psps",
@@ -364,6 +520,22 @@
     "path": "psps/j-p-morgan-payments.png"
   },
   {
+    "id": "psp_kushki",
+    "name": "Kushki",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 14146,
+    "sha256": "7780add080eaaff331ba9fb9eb4c5cdfcff720ff33ba62d00014bdf1cf40375d",
+    "upstreamPath": "psps/psp_kushki.png",
+    "aliases": [],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/kushki.png"
+  },
+  {
     "id": "psp_mercado_pago",
     "name": "Mercado Pago",
     "category": "psps",
@@ -378,6 +550,24 @@
       "url": null
     },
     "path": "psps/mercado-pago.png"
+  },
+  {
+    "id": "psp_midtrans",
+    "name": "Midtrans",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 10779,
+    "sha256": "abbd99a028d879d0df9f722eea121950ae4a7183b09e68d75065f9aa0c5acd63",
+    "upstreamPath": "psps/psp_midtrans.png",
+    "aliases": [
+      "Veritrans Indonesia"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/midtrans.png"
   },
   {
     "id": "psp_mollie",
@@ -465,6 +655,43 @@
       "url": null
     },
     "path": "psps/nuvei.png"
+  },
+  {
+    "id": "psp_omise",
+    "name": "Omise",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 14604,
+    "sha256": "7b47a7c93757f962fe785ec25a471f91f5cc742be9a4c9bbed8b38555d91ed74",
+    "upstreamPath": "psps/psp_omise.png",
+    "aliases": [
+      "Opn Payments",
+      "Opn"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/omise.png"
+  },
+  {
+    "id": "psp_openpay",
+    "name": "Openpay",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 18016,
+    "sha256": "58f90a237dd1f1e3008b263c222a8b9ad920762891fc05c3b6395a0e8a62c842",
+    "upstreamPath": "psps/psp_openpay.png",
+    "aliases": [
+      "Openpay by BBVA"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/openpay.png"
   },
   {
     "id": "psp_pagbank",
@@ -566,6 +793,41 @@
     "path": "psps/paystack.png"
   },
   {
+    "id": "psp_paytabs",
+    "name": "PayTabs",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 13998,
+    "sha256": "43fd0669f4bab7ae306816c906fbbc31f18e1e07a8927bac7b9558a559a6ff29",
+    "upstreamPath": "psps/psp_paytabs.png",
+    "aliases": [],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/paytabs.png"
+  },
+  {
+    "id": "psp_paytm_pg",
+    "name": "Paytm Payment Gateway",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 79983,
+    "sha256": "1f7f845b6a22bcb8b133fd4c2122c1e7baee139f2f52ff71f717eb2bcc0a30e8",
+    "upstreamPath": "psps/psp_paytm_pg.png",
+    "aliases": [
+      "Paytm Payments",
+      "Paytm Payments Services"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/paytm-payment-gateway.png"
+  },
+  {
     "id": "psp_payu",
     "name": "PayU",
     "category": "psps",
@@ -580,6 +842,38 @@
       "url": null
     },
     "path": "psps/payu.png"
+  },
+  {
+    "id": "psp_peach_payments",
+    "name": "Peach Payments",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 5066,
+    "sha256": "db9ae47b604393fbeb2d58c9b8caf194cf8f053b7a80db686dec550a9e9256f6",
+    "upstreamPath": "psps/psp_peach_payments.png",
+    "aliases": [],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/peach-payments.png"
+  },
+  {
+    "id": "psp_pesapal",
+    "name": "Pesapal",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 25375,
+    "sha256": "cbed4bbf22d81558c8c32efabd01ccbcb6ce2e41c55a0193d5377ff98f213b39",
+    "upstreamPath": "psps/psp_pesapal.png",
+    "aliases": [],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/pesapal.png"
   },
   {
     "id": "psp_phonepe_pg",
@@ -599,6 +893,24 @@
       "url": null
     },
     "path": "psps/phonepe-payment-gateway.png"
+  },
+  {
+    "id": "psp_pine_labs",
+    "name": "Pine Labs",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 7688,
+    "sha256": "9494f4dfab769cc063ced1beaf6bce983c575c6eb571015a958418d6fb72149e",
+    "upstreamPath": "psps/psp_pine_labs.png",
+    "aliases": [
+      "Pine Labs Online"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/pine-labs.png"
   },
   {
     "id": "psp_ppro",
@@ -751,6 +1063,24 @@
     "path": "psps/sumup.png"
   },
   {
+    "id": "psp_tap_payments",
+    "name": "Tap Payments",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 51210,
+    "sha256": "41df504111c04b25aecc9008a8f4d1253f6ae24eb2703c3f74a119de5758b12c",
+    "upstreamPath": "psps/psp_tap_payments.png",
+    "aliases": [
+      "Tap"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/tap-payments.png"
+  },
+  {
     "id": "psp_toast",
     "name": "Toast",
     "category": "psps",
@@ -767,6 +1097,40 @@
     "path": "psps/toast.png"
   },
   {
+    "id": "psp_toss_payments",
+    "name": "Toss Payments",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 31951,
+    "sha256": "e6d604200bda306deea6c49f4c90793b7c2eefa6ea556d41f5110b5233096975",
+    "upstreamPath": "psps/psp_toss_payments.png",
+    "aliases": [],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/toss-payments.png"
+  },
+  {
+    "id": "psp_trust_payments",
+    "name": "Trust Payments",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 16177,
+    "sha256": "e1e2a6f13ec553029d0350efaddb585dbe92487f635bc46abc8f6406ae468e0a",
+    "upstreamPath": "psps/psp_trust_payments.png",
+    "aliases": [
+      "Secure Trading"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/trust-payments.png"
+  },
+  {
     "id": "psp_tyro_payments",
     "name": "Tyro Payments",
     "category": "psps",
@@ -781,6 +1145,61 @@
       "url": "https://apps.apple.com/au/app/tyro/id389064739"
     },
     "path": "psps/tyro-payments.png"
+  },
+  {
+    "id": "psp_unzer",
+    "name": "Unzer",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 13682,
+    "sha256": "7c094b9e8e2ed65f402f0e8e5a7017e950ab0651894852898460e024e96fa5d5",
+    "upstreamPath": "psps/psp_unzer.png",
+    "aliases": [
+      "Heidelpay"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/unzer.png"
+  },
+  {
+    "id": "psp_viva",
+    "name": "Viva.com",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 18845,
+    "sha256": "2f927422c051179f5b828db110c9d130b643fdedac4bc2d31192bb9ab81b7970",
+    "upstreamPath": "psps/psp_viva.png",
+    "aliases": [
+      "Viva Wallet",
+      "Viva Payments"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/viva-com.png"
+  },
+  {
+    "id": "psp_windcave",
+    "name": "Windcave",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 25638,
+    "sha256": "1aa26f0ccdd7fa4cc03d8a3b35a4ad9965bc44bb3db5413cb7428a951cc177f6",
+    "upstreamPath": "psps/psp_windcave.png",
+    "aliases": [
+      "Payment Express"
+    ],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/windcave.png"
   },
   {
     "id": "psp_worldline",
@@ -831,5 +1250,21 @@
       "url": "https://www.xendit.co/"
     },
     "path": "psps/xendit.png"
+  },
+  {
+    "id": "psp_yoco",
+    "name": "Yoco",
+    "category": "psps",
+    "width": 256,
+    "height": 256,
+    "bytes": 14902,
+    "sha256": "67afe6e7607caa99bd7b066fe3245e35f61242df9514593175f13be5ebd48cc1",
+    "upstreamPath": "psps/psp_yoco.png",
+    "aliases": [],
+    "source": {
+      "kind": "provided",
+      "url": null
+    },
+    "path": "psps/yoco.png"
   }
 ]

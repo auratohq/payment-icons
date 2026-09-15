@@ -35,7 +35,7 @@ async function visibleImagesReady(page) {
   await page.goto(origin);
   await page.waitForSelector('.tile');
   assert.equal(await page.locator('.tile').count(), 60);
-  assert.match(await page.locator('#stats').innerText(), /2,280/);
+  assert.match(await page.locator('#stats').innerText(), /2,073/);
   assert.match(await page.locator('#stats').innerText(), /6,016/);
   await visibleImagesReady(page);
   await page.screenshot({ path: path.join(output, 'desktop.png') });

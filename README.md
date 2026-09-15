@@ -6,7 +6,7 @@
 
 **The world of payments. One icon library.**
 
-A searchable, versioned collection of **8,296 payment-related PNG assets** maintained by [Aurato](https://aurato.io): **2,280 rounded-square icons** and **6,016 card images**, across **13 categories**. Find payment methods, digital wallets, card networks, payment service providers (PSPs), banks, currencies, markets, regulators, schemes and payment systems.
+A searchable, versioned collection of **8,089 payment-related PNG assets** maintained by [Aurato](https://aurato.io): **2,073 rounded-square icons** and **6,016 card images**, across **10 categories**. Find payment methods, digital wallets, card networks, payment service providers (PSPs), banks, currencies, markets, regulators, schemes and payment systems.
 
 [Download ZIP](https://github.com/auratohq/payment-icons/archive/refs/heads/main.zip) · [JSON catalog](catalog.json) · [CSV catalog](catalog.csv) · [Contribute](CONTRIBUTING.md) · [Artwork rights](RIGHTS.md)
 
@@ -19,7 +19,7 @@ A searchable, versioned collection of **8,296 payment-related PNG assets** maint
 - Machine-readable names, aliases, internal record IDs, repository paths, upstream paths, dimensions, byte sizes, SHA-256 hashes and recorded provenance.
 - Reproducible downloads and validation against the approved source snapshot.
 
-The catalog includes brand marks, flags, currency symbols, category icons and generated artwork. **Most card images are generated illustrations, not official card photographs.** Each entry records its source type. There are 2,678 distinct image hashes: some related records intentionally share the same artwork.
+The catalog includes brand marks, flags, currency symbols, category icons and generated artwork. **Most card images are generated illustrations, not official card photographs.** Each entry records its source type. There are 2,471 distinct image hashes: some related records intentionally share the same artwork.
 
 ## Browse the gallery
 
@@ -43,16 +43,13 @@ All asset folders are directly at the repository root.
 | --- | ---: | --- |
 | [banks](banks/) | 136 | Rounded square |
 | [cards](cards/) | 6,016 | Card |
-| [compliance](compliance/) | 128 | Rounded square |
 | [currencies](currencies/) | 153 | Rounded square |
-| [identifiers](identifiers/) | 4 | Rounded square |
 | [markets](markets/) | 250 | Rounded square |
 | [operators](operators/) | 88 | Rounded square |
 | [payment-methods](payment-methods/) | 1,006 | Rounded square |
-| [psps](psps/) | 50 | Rounded square |
+| [psps](psps/) | 75 | Rounded square |
 | [regulators](regulators/) | 255 | Rounded square |
 | [schemes](schemes/) | 91 | Rounded square |
-| [standards](standards/) | 100 | Rounded square |
 | [systems](systems/) | 19 | Rounded square |
 
 ## Usage

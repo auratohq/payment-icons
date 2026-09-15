@@ -1,5 +1,5 @@
 {
-  "assetCount": 8296,
+  "assetCount": 8089,
   "cardCount": 6016,
   "categories": [
     {
@@ -17,24 +17,10 @@
       "shape": "card"
     },
     {
-      "count": 128,
-      "id": "compliance",
-      "name": "Compliance",
-      "path": "catalog/compliance.json",
-      "shape": "rounded-square"
-    },
-    {
       "count": 153,
       "id": "currencies",
       "name": "Currencies",
       "path": "catalog/currencies.json",
-      "shape": "rounded-square"
-    },
-    {
-      "count": 4,
-      "id": "identifiers",
-      "name": "Identifiers",
-      "path": "catalog/identifiers.json",
       "shape": "rounded-square"
     },
     {
@@ -59,7 +45,7 @@
       "shape": "rounded-square"
     },
     {
-      "count": 50,
+      "count": 75,
       "id": "psps",
       "name": "PSPs",
       "path": "catalog/psps.json",
@@ -80,13 +66,6 @@
       "shape": "rounded-square"
     },
     {
-      "count": 100,
-      "id": "standards",
-      "name": "Standards",
-      "path": "catalog/standards.json",
-      "shape": "rounded-square"
-    },
-    {
       "count": 19,
       "id": "systems",
       "name": "Systems",
@@ -94,7 +73,7 @@
       "shape": "rounded-square"
     }
   ],
-  "primaryIconCount": 2280,
+  "primaryIconCount": 2073,
   "schemaVersion": 2,
   "sourceBaseUrl": "https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/",
   "updatedAt": "2026-09-15",

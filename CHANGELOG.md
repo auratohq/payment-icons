@@ -2,7 +2,9 @@
 
 ## 2026.09.15
 
-- Synchronized the latest approved Aurato snapshot: 8,296 PNG assets across 13 categories.
+- Synchronized the latest approved Aurato snapshot: 8,089 PNG assets across 10 categories.
+- Removed the retired Compliance, Identifiers and Standards categories and made snapshot imports reject missing active categories instead of silently retaining stale folders.
+- Added the latest 25 published PSP icons.
 - Updated 1,485 existing records with current image bytes, added 60 newly published records and retired 48 records no longer in the approved snapshot.
 - Migrated public filenames from internal record keys to descriptive lowercase slugs such as `payment-methods/apple-pay.png`.
 - Added aliases and separate upstream object paths to catalog schema v2, keeping repository paths readable without losing traceability.

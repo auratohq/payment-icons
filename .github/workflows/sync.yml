@@ -41,7 +41,7 @@ jobs:
           python scripts/collection.py validate
       - name: Commit verified assets
         run: |
-          git add -- banks cards compliance currencies identifiers markets operators payment-methods psps regulators schemes standards systems catalog.csv
+          git add -- banks cards currencies markets operators payment-methods psps regulators schemes systems catalog.csv
           if ! git diff --cached --quiet; then
             git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Sync verified PNG assets from approved catalog'
             git push origin HEAD:main

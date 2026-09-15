@@ -23,11 +23,9 @@ from PIL import Image, ImageChops
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = 'https://htmonfohxuipdpmznlcj.supabase.co/storage/v1/object/public/entity-assets/'
-NAMES = {'banks': 'Banks', 'cards': 'Cards', 'compliance': 'Compliance',
-         'currencies': 'Currencies', 'identifiers': 'Identifiers', 'markets': 'Markets',
+NAMES = {'banks': 'Banks', 'cards': 'Cards', 'currencies': 'Currencies', 'markets': 'Markets',
          'operators': 'Operators', 'payment-methods': 'Payment methods', 'psps': 'PSPs',
-         'regulators': 'Regulators', 'schemes': 'Schemes', 'standards': 'Standards', 'systems': 'Systems'}
-PRESERVED_CATEGORIES = {'compliance', 'identifiers', 'standards'}
+         'regulators': 'Regulators', 'schemes': 'Schemes', 'systems': 'Systems'}
 
 
 def check_entry(item):
@@ -342,14 +340,8 @@ def import_snapshot(path):
         entries.append(item)
     present = {item['category'] for item in entries}
     missing = set(NAMES) - present
-    if not missing <= PRESERVED_CATEGORIES:
+    if missing:
         raise ValueError(f'Unexpected missing categories: {sorted(missing)}')
-    for old in old_entries:
-        if old['category'] in missing:
-            preserved = {**old, 'upstreamPath': old.get('upstreamPath', old['path']),
-                         'aliases': clean_aliases(old.get('aliases')), 'seoSlug': None}
-            preserved.pop('path', None)
-            entries.append(preserved)
     assign_paths(entries)
     entries.sort(key=lambda x: x['path'])
     for item in entries:
@@ -358,7 +350,7 @@ def import_snapshot(path):
         raise ValueError('Duplicate asset paths in snapshot')
     counts = Counter(x['category'] for x in entries)
     if set(counts) != set(NAMES):
-        raise ValueError('Snapshot must contain all 13 categories')
+        raise ValueError(f'Snapshot must contain all {len(NAMES)} categories')
     old_paths = {x['path'] for x in old_entries}
     new_paths = {x['path'] for x in entries}
     index, _ = load_catalog()
