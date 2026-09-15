@@ -13,7 +13,7 @@ A searchable, versioned collection of **8,089 payment-related PNG assets** maint
 
 ## What's included
 
-- Actual PNG files checked into Git with lowercase, human-readable filenames based on the full entity/product name.
+- Actual PNG files checked into Git with lowercase, human-readable filenames.
 - Consistent **256 × 256** primary icons: opaque rounded-square base (**43 px corner radius**), transparent outside corners. The shape is in the image itself; no CSS clipping is needed.
 - **406 × 256** card artwork, preserving its card proportions.
 - Searchable gallery with category and source filters, light/dark/transparency previews, and individual downloads.
@@ -95,8 +95,8 @@ https://raw.githubusercontent.com/auratohq/payment-icons/main/payment-methods/pa
 const index = await fetch('/catalog.json').then(r => r.json());
 const category = index.categories.find(c => c.id === 'payment-methods');
 const icons = await fetch('/' + category.path).then(r => r.json());
-const in3 = icons.find(icon => icon.name === 'in3');
-console.log(in3.path, in3.upstreamPath, in3.sha256, in3.source.kind);
+const paypal = icons.find(icon => icon.name === 'paypal');
+console.log(paypal.path, paypal.upstreamPath, paypal.sha256, paypal.source.kind);
 ```
 
 See [the catalog specification](catalog/README.md) for fields and [the asset schema](catalog/asset.schema.json). `catalog.csv` contains the same records in one spreadsheet-friendly file; formula-like text values are prefixed with an apostrophe for spreadsheet safety.
