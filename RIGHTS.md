@@ -20,4 +20,4 @@ Each catalog entry includes `source.kind` and, where recorded, `source.url`. The
 
 ## Corrections and removal
 
-If an asset is incorrect, outdated, misattributed, or should be removed, [open an issue](https://github.com/auratohq/payment-icons/issues/new/choose) or use [Aurato's contact page](https://aurato.io/contact). Include the exact repository path, the relevant brand/entity, and any supporting public source. Please avoid posting personal or confidential information in public issues.
+If an asset is incorrect, outdated, misattributed, or should be removed, [open an issue](https://github.com/auratohq/payment-icons/issues/new/choose) or use [Aurato's contact page](https://aurato.io/about/contact). Include the exact repository path, the relevant brand/entity, and any supporting public source. Please avoid posting personal or confidential information in public issues.
