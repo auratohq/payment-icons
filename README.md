@@ -10,19 +10,6 @@ A searchable, versioned collection of **8,296 payment-related PNG assets** maint
 
 [Download ZIP](https://github.com/auratohq/payment-icons/archive/refs/heads/main.zip) · [JSON catalog](catalog.json) · [CSV catalog](catalog.csv) · [Contribute](CONTRIBUTING.md) · [Artwork rights](RIGHTS.md)
 
-<p>
-  <img src="payment-methods/apple-pay.png" width="52" height="52" alt="Apple Pay icon">&nbsp;
-  <img src="payment-methods/google-pay.png" width="52" height="52" alt="Google Pay icon">&nbsp;
-  <img src="payment-methods/paypal.png" width="52" height="52" alt="PayPal icon">&nbsp;
-  <img src="payment-methods/alipay.png" width="52" height="52" alt="Alipay icon">&nbsp;
-  <img src="payment-methods/ideal.png" width="52" height="52" alt="iDEAL icon">&nbsp;
-  <img src="payment-methods/pix.png" width="52" height="52" alt="Pix icon">&nbsp;
-  <img src="payment-methods/klarna.png" width="52" height="52" alt="Klarna icon">&nbsp;
-  <img src="payment-methods/in3.png" width="52" height="52" alt="in3 icon">
-</p>
-
-Popular payment method icons: [Apple Pay](payment-methods/apple-pay.png) · [Google Pay](payment-methods/google-pay.png) · [PayPal](payment-methods/paypal.png) · [Alipay](payment-methods/alipay.png) · [iDEAL](payment-methods/ideal.png) · [Pix](payment-methods/pix.png) · [Klarna](payment-methods/klarna.png) · [in3](payment-methods/in3.png)
-
 ## What's included
 
 - Actual PNG files checked into Git with lowercase, human-readable, SEO-friendly filenames based on the full entity or product name.
