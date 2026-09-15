@@ -1,8 +1,8 @@
 {
-  "name": "aurato-payment-icons",
+  "name": "aurato-payments-icons",
   "version": "1.0.0",
   "private": true,
-  "description": "Browser tests for the static Aurato payment icon gallery",
+  "description": "Browser tests for Aurato payments icons",
   "scripts": { "test:gallery": "node scripts/test-gallery.cjs" },
   "devDependencies": { "playwright": "1.62.1" }
 }
